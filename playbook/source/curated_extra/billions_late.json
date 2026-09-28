@@ -1,0 +1,688 @@
+{
+ "plays": [
+  {
+   "title": "The Twelve-Hour Exit",
+   "category": "RULE",
+   "secondary": [
+    "ALLY",
+    "NEG"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S04E04",
+    "S04E01"
+   ],
+   "strategist": "Chuck Rhoades and Bobby Axelrod",
+   "target": "Grigor Andolov",
+   "context": "Grigor Andolov, a Russian oligarch, is the main backer of Taylor Mason's new fund and has shown he will use force against Bobby 'Axe' Axelrod: in S04E01 his people drug and hold Axe's number two, Wags, to warn Axe off. Axe cannot beat him with money. Chuck Rhoades, Axe's former prosecutor and now his ally of convenience, has just won the race for New York Attorney General.",
+   "play": "In one of his first acts as Attorney General, Chuck meets Andolov, tells him his assets are frozen and gives him twelve hours to leave the United States or face prosecution. Andolov tries to buy his way out with a personal inducement and Chuck turns it down. Axe then meets Andolov at the airport as the reasonable party and promises that the assets will be unfrozen once Andolov is back in Russia, with each man staying off the other's turf.",
+   "why_it_works": "The two allies split the roles. Chuck supplies a threat backed by the state, and Axe supplies a way out that costs Andolov nothing but his fight with Axe. Faced with prosecution on one side and a dignified exit on the other, leaving quietly becomes Andolov's rational choice.",
+   "outcome": "Andolov leaves the country and his billions leave Taylor's fund, which was Axe's aim all along. Chuck collects on his side of the alliance and establishes himself as an Attorney General who acts fast.",
+   "counter": "Andolov's protection in America rested on money alone. He needed political relationships that did not depend on one office before he picked a public fight with a man who had just helped elect the state's chief law officer.",
+   "principle": "Pair a hard threat with a soft exit, and let a different person offer each.",
+   "in_practice": "When you have to end a difficult partnership or supplier contract, state the consequence plainly and at the same time offer a clean, face-saving way out. If a colleague other than the one who delivered the bad news presents the exit, the other side can take it without feeling beaten.",
+   "strength": 4,
+   "source": "knowledge",
+   "pool_ids": [
+    "bil-0190"
+   ],
+   "show": "billions"
+  },
+  {
+   "title": "Owning the Scandal",
+   "category": "REP",
+   "secondary": [
+    "RISK",
+    "DEF"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S04E04",
+    "S05E08"
+   ],
+   "strategist": "Chuck Rhoades (and, a season later, Mike Prince)",
+   "target": "The voters, and the enemies holding the secret",
+   "context": "On the eve of the election for New York Attorney General, Black Jack Foley, a dying political boss bent on revenge, is ready to expose Chuck Rhoades's private life: Chuck and his wife Wendy practise sadomasochism. Wendy urges him to withdraw. The Overton window, the range of things the public will accept, seems to rule him out.",
+   "play": "Chuck calls a press conference, drops his prepared remarks and tells the public himself that he and Wendy practise BDSM, presenting it as the private business of two consenting adults and as proof that he hides nothing. The weapon Foley was holding is gone before it can be used. In S05E08 Mike Prince makes the same move: when Axe's team believes it has found a scandal in the huge sports bets of Prince's deputy Scooter, Prince walks into Axe Capital and announces that the bets were his own.",
+   "why_it_works": "A secret is leverage only while it stays secret. Whoever tells it first chooses the words, the setting and the moral of the story, and a candid confession reads as courage where an exposure would have read as guilt.",
+   "outcome": "Chuck wins the election. The cost falls on Wendy, who never agreed to the disclosure and pays for it publicly and professionally in the episodes that follow. Prince's disclosure leaves Axe with nothing, though Axe soon finds a deeper weakness elsewhere.",
+   "counter": "Foley should have published instead of threatening, because the delay gave Chuck time to go first. Wendy, the other person inside the secret, needed a veto over its release.",
+   "principle": "Tell your own bad news first and you choose how it is told.",
+   "in_practice": "If a missed deadline, a pricing error or a weak spot in your record is going to come out, tell the client yourself, early, with your explanation and your fix attached. Get the consent of anyone else the disclosure exposes before you make it.",
+   "strength": 5,
+   "source": "knowledge",
+   "pool_ids": [
+    "bil-0188",
+    "bil-0234"
+   ],
+   "show": "billions"
+  },
+  {
+   "title": "Using the Enemy's Hand",
+   "category": "DEC",
+   "secondary": [
+    "WAR",
+    "NEG"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S04E02"
+   ],
+   "strategist": "Taylor Mason",
+   "target": "Grigor Andolov and Bobby Axelrod",
+   "context": "Taylor Mason has left Axe Capital to start a rival fund, and Axe is trying to starve it of credit by cutting sweetheart deals so that struggling banks drop Taylor. Grigor Andolov, Taylor's biggest investor, offers more money from his associates, the Kozlov brothers. Taking it would put dangerous people inside the firm; refusing would insult Andolov. Taylor sees a zugzwang, a position where every move makes you weaker.",
+   "play": "Taylor says yes to Andolov and then makes sure the money never arrives. Axe, hunting for whoever is financing Taylor, is already leaning on Patriot-Trust Bank, which wants his business. Taylor arranges things so that Axe's pressure lands on the Kozlovs, and the bank cuts off their credit. Taylor has kept faith with Andolov, and the Kozlov capital is blocked by Axe's own hand.",
+   "why_it_works": "The trap only existed in a game with two players. Adding a third, the rival who was already spending effort against Taylor, turned his hostility into the tool that solved Taylor's problem. Nobody can blame Taylor for money a bank declined to move.",
+   "outcome": "The Kozlov money never arrives, Andolov has no grievance with Taylor, and Axe has spent his own favors doing Taylor's work for them.",
+   "counter": "Axe needed to ask who benefited from the funding he was blocking before he spent leverage blocking it. An opponent's eagerness to see you act is a reason to look again.",
+   "principle": "When every move loses, change the number of players.",
+   "in_practice": "When an important client pushes a partner or subcontractor you do not want, you rarely need to refuse outright. Let a third party's independent standard, such as the client's own procurement rules or an insurer's requirements, make the decision, so the relationship survives.",
+   "strength": 5,
+   "source": "knowledge",
+   "pool_ids": [
+    "bil-0184"
+   ],
+   "show": "billions"
+  },
+  {
+   "title": "The War Room Rehearsal",
+   "category": "LEAD",
+   "secondary": [
+    "ALLY",
+    "DEF"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S04E10",
+    "S04E11"
+   ],
+   "strategist": "Bobby Axelrod",
+   "target": "Wendy Rhoades's medical board hearing",
+   "context": "Wendy Rhoades, the psychiatrist and performance coach at Axe Capital, faces a licence hearing after using Taylor Mason's confidential therapy file against them. Her marriage to Chuck is failing, and Chuck can spare her only a morning. Axe is on holiday in Fiji with his sons.",
+   "play": "Axe cuts the holiday short, comes back in person on New Year's Day and turns Axe Capital into a war room. His people run a full mock hearing, cross-examining Wendy on her planned defence: that her work with Taylor was performance coaching and Taylor was a client, never a patient. Chuck, dropping by, notices that Axe is there himself.",
+   "why_it_works": "Rehearsal under hostile questioning finds the weak points before the real panel does. Turning up in person, at real cost, on a holiday, tells Wendy exactly where she stands in Axe's priorities, and the contrast with Chuck makes the point louder.",
+   "outcome": "Wendy is bound more tightly to Axe and further from Chuck. The rehearsal also exposes the limit of preparation: in S04E11 Wendy drops the coached defence, admits Taylor was her patient, and her licence is suspended.",
+   "counter": "Chuck could have matched Axe's commitment at the moment it counted. The quality of the defence mattered less to Wendy than who showed up to build it.",
+   "principle": "Loyalty is earned in the moments when showing up is costly.",
+   "in_practice": "Before a major pitch, audit or dispute, run a hostile mock session with colleagues playing the toughest questioners. When someone on your team faces a crisis, be there in person, because they remember who came.",
+   "strength": 3,
+   "source": "knowledge",
+   "pool_ids": [
+    "bil-0203"
+   ],
+   "show": "billions"
+  },
+  {
+   "title": "The Institutional Siege",
+   "category": "TIME",
+   "secondary": [
+    "RULE",
+    "TRAP",
+    "ALLY"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S05E12",
+    "S05E01",
+    "S05E02",
+    "S05E04",
+    "S05E05",
+    "S05E06",
+    "S05E07",
+    "S05E08",
+    "S05E09",
+    "S05E10",
+    "S05E11"
+   ],
+   "strategist": "Chuck Rhoades, with Kate Sacker",
+   "target": "Bobby Axelrod",
+   "context": "Chuck Rhoades, now New York Attorney General, has no clean case against Axe. Axe's big project for the season is a bank, Axe Bank, which he sees as his weapon against a new rival, the billionaire Mike Prince. A bank needs regulators, officials and depositors, and every one of them is a door Chuck can reach.",
+   "play": "Chuck works through institutions and allies, one step at a time. He places his ally Judge DeGiulio as acting Solicitor General, gets a banking official to stall Axe's charter, bluffs the Manhattan DA into handing back an art fraud case, and uses a phantom investigation to drive Treasury Secretary Krakow, Axe's ally on the charter, out of government. When Axe's war with Prince goes too far, Chuck gathers Prince and Taylor Mason into one coalition, uses his divorce from Wendy to demand a look at the books, and waits for Axe Bank's hunger for deposits to deliver the final opening. The plan has setbacks: in S05E08 his kidney-for-sentences scheme collapses, he loses his Yale post, and a misstep of his own helps Axe secure the bank licence.",
+   "why_it_works": "A target who depends on institutions can be besieged through them. Each move looks minor on its own, so Axe keeps treating Prince as his main enemy while Chuck removes allies and adds pressure points. By the time the strike comes, most of Axe's routes out are closed.",
+   "outcome": "Axe is driven out of New York and out of Axe Capital, fleeing to Switzerland, beyond extradition for these charges. He does not go to prison, and Chuck's ally Prince ends up holding the prize.",
+   "counter": "Axe needed to read every regulatory delay and every lost ally as part of one campaign, and to stop handing Chuck openings through his personal war with Prince.",
+   "principle": "Close the routes one by one before you strike.",
+   "in_practice": "Winning a major account or a sector usually comes from a sequence of small, legitimate moves: relationships with the people who influence the decision, credentials, partners. Plan the sequence, track where a competitor's options are narrowing, and keep the whole campaign in view when one step fails.",
+   "strength": 4,
+   "source": "knowledge",
+   "pool_ids": [
+    "bil-0247",
+    "bil-0241",
+    "bil-0227",
+    "bil-0224"
+   ],
+   "steps": [
+    {
+     "ep": "S05E01",
+     "move": "Chuck and Kate Sacker go after a crypto-mining operation tied to Axe Capital that is draining a small town's electricity."
+    },
+    {
+     "ep": "S05E02",
+     "move": "Chuck secretly leaks a torture memo, then defends Judge DeGiulio over it, steering his ally into the acting Solicitor General post."
+    },
+    {
+     "ep": "S05E04",
+     "move": "Chuck urges Prince to bid big for a Yonkers development, hoping Axe will bribe the committee; Axe wins cleanly."
+    },
+    {
+     "ep": "S05E05",
+     "move": "Chuck recovers banking official Leah Calder's heirloom engagement ring, and she stalls Axe's bank charter."
+    },
+    {
+     "ep": "S05E06",
+     "move": "Chuck threatens Manhattan DA Mary Ann Gramm's signature cause until she hands back the art fraud case."
+    },
+    {
+     "ep": "S05E07",
+     "move": "A phantom investigation drives Treasury Secretary Krakow, Axe's ally on the charter, to quit in the middle of a cabinet meeting."
+    },
+    {
+     "ep": "S05E08",
+     "move": "Setbacks: Chuck's kidney-for-sentences plan is blocked, he loses his Yale post, and a misstep of his helps Axe get the bank licence."
+    },
+    {
+     "ep": "S05E09",
+     "move": "Chuck, Prince and Taylor meet under one roof with one goal: bring Axe down."
+    },
+    {
+     "ep": "S05E10",
+     "move": "Chuck offers Wendy a choice: pay a lump-sum divorce settlement or let him examine the Mase Carb and Axe Capital books."
+    },
+    {
+     "ep": "S05E11",
+     "move": "Axe Bank takes the deposits of Fine Young Cannabis just before its founder is to be arrested for drug trafficking."
+    },
+    {
+     "ep": "S05E12",
+     "move": "With arrest close, Axe sells his firm to Prince and flees to Switzerland."
+    }
+   ],
+   "show": "billions"
+  },
+  {
+   "title": "The Kidney Chuck Could Not Get",
+   "category": "ALLY",
+   "secondary": [
+    "LEV",
+    "INT"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S05E09",
+    "S05E10",
+    "S05E11"
+   ],
+   "strategist": "Bobby Axelrod",
+   "target": "Charles Rhoades Sr., and through him Chuck",
+   "context": "Charles Rhoades Sr., Chuck's father and a powerful figure in New York politics, has kidney failure and is dying. Chuck has tried testing his Yale Law students as donors and a scheme to trade prisoners' sentences for kidneys, and every route has failed.",
+   "play": "Axe goes through confidential employee files that Wendy compiled years earlier at Axe Capital and finds a match in Danny Margolis, a long-time associate, who agrees to donate. Chuck learns about it in the hospital corridor as his father is taken into surgery. Axe has done the one thing Chuck could not.",
+   "why_it_works": "Solving a life-or-death problem for the person closest to your rival buys a debt that no pitch could buy, and it humiliates the rival at the same time. Axe's edge came from information he already held.",
+   "outcome": "Charles Sr. becomes Axe's ally. In S05E10 Axe sends him to crash Chuck's dinner with his allies as Axe's eyes and ears, and in S05E11 Axe needs him to vouch for Axe Bank to the Delaware Attorney General, at which point Senior demands a share of the profits. Using confidential staff files for the search is itself a serious breach.",
+   "counter": "Chuck's only defence was to solve his father's problem first. A critical need left unmet inside your own camp is an open invitation to a rival.",
+   "principle": "Solve the problem your rival cannot, for the person your rival most needs.",
+   "in_practice": "If a key person at a client has a pressing problem their current provider has failed to solve, solving it properly earns more loyalty than any presentation. Do it with information you are entitled to use.",
+   "strength": 4,
+   "source": "knowledge",
+   "pool_ids": [
+    "bil-0237"
+   ],
+   "show": "billions"
+  },
+  {
+   "title": "The Cannabis Trap",
+   "category": "TRAP",
+   "secondary": [
+    "DEC",
+    "ALLY"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S05E11",
+    "S05E12"
+   ],
+   "strategist": "Mike Prince and Chuck Rhoades",
+   "target": "Bobby Axelrod and Axe Bank",
+   "context": "Axe Bank needs large deposits to get through its probationary period, and Axe has spent the season trying to beat Mike Prince at everything. Fine Young Cannabis, run by the former music producer Dawn Winslow, is a big potential depositor in exclusive talks with Prince. Prince has quietly joined Chuck's coalition against Axe.",
+   "play": "Prince makes the company look like a prize. The deal is exclusive, and it is built around Prince's own daughters as the faces of the brand. Winslow will not even talk to Axe, which makes Axe want the account more. He poaches it, brings her money into his bank and lights Red Auerbach-style victory cigars. Then Wags tells the floor to put them out: Winslow is about to be arrested for drug trafficking, and Axe's bank has been holding her money.",
+   "why_it_works": "The bait is shaped to Axe's weakness. He grabs the account because Prince seems to want it and because it seems hard to get, and his urgency for deposits crowds out due diligence. Prince's visible investment, down to his own family, makes the prize look real.",
+   "outcome": "Axe is exposed to charges tied to black-market cannabis money and Chuck closes in during S05E12. Prince then breaks from Chuck and buys the cornered Axe's firm. Prince's daughters are shaken to learn they were used as bait, a cost Prince accepted in advance.",
+   "counter": "Axe needed full due diligence on any large depositor, and most of all on one his enemy was conspicuously chasing. A prize that is suddenly hard to get deserves more suspicion.",
+   "principle": "Let your rival steal what you want him to hold.",
+   "in_practice": "Never skip checks on a client, partner or acquisition because a competitor appears to want it. When an opportunity is being dangled in front of you, ask who gains if you take it.",
+   "strength": 4,
+   "source": "knowledge",
+   "pool_ids": [
+    "bil-0243"
+   ],
+   "show": "billions"
+  },
+  {
+   "title": "Threaten What She Loves",
+   "category": "LEV",
+   "secondary": [
+    "RULE",
+    "NEG"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S05E06"
+   ],
+   "strategist": "Chuck Rhoades, with Cat Brant",
+   "target": "Mary Ann Gramm, the Manhattan District Attorney",
+   "context": "Chuck and Kate Sacker have uncovered an old Axe art scheme: replicas held in a tax-free freeport are reported as the genuine works while the originals, including a Van Gogh, hang in Axe's homes. Mary Ann Gramm, the Manhattan DA, takes the case away on jurisdictional grounds.",
+   "play": "Chuck goes after the cause Gramm cares about most, her campaign to decriminalise sex work, and threatens to crack down on it using his own authority as Attorney General. To make the threat sound informed, he enlists Cat Brant, a Yale sociology professor he is seeing whose work is on sex work, promising her it is only a bluff. Gramm weighs one case against her signature initiative.",
+   "why_it_works": "Gramm values her initiative far more than one tax case, so a credible threat to it outweighs the case. Cat's expertise makes the threat sound like a policy Chuck has studied, which makes it believable.",
+   "outcome": "Gramm hands the case back and Chuck does not follow through. The art case still fails to bring Axe down, because Axe changes the facts before Chuck can use them.",
+   "counter": "Gramm could have called the bluff, or made the case too public to surrender. A threat its maker has privately promised never to carry out is weaker than it looks, and she could have tested it.",
+   "principle": "Threaten the thing your opponent values more than the thing you want from them.",
+   "in_practice": "In a stuck negotiation, find out which of the other side's priorities outrank the point in dispute. The ethical lever is to offer support on that priority in exchange for movement; bluffing a threat you will not carry out is a gamble with your credibility.",
+   "strength": 3,
+   "source": "knowledge",
+   "pool_ids": [
+    "bil-0229"
+   ],
+   "show": "billions"
+  },
+  {
+   "title": "Turning the Home into a Museum",
+   "category": "DEF",
+   "secondary": [
+    "REP",
+    "RULE"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S05E06"
+   ],
+   "strategist": "Bobby Axelrod",
+   "target": "Chuck Rhoades's art fraud case",
+   "context": "Chuck has seen Axe's Van Gogh on the wall of the apartment where Wendy is staying, the proof that the painting in the tax-free freeport is a replica. A tax case is coming. Axe is also trying to look like a fit owner for a bank.",
+   "play": "Axe turns his apartment into a public art museum and puts the collection on display. Paintings that were hidden and privately enjoyed are now a public exhibition with a civic purpose. When Chuck visits, he has Axe open a very expensive bottle of red wine and pours it over the Van Gogh.",
+   "why_it_works": "The case depends on a particular set of facts: private use of art declared as stored. Axe changes those facts and wraps the change in good publicity, just as he needs to look respectable to bank regulators.",
+   "outcome": "Chuck wins jurisdiction over the case and still cannot land it on Axe. The wine on the Van Gogh is anger with no strategic effect.",
+   "counter": "Chuck showed his interest before he could act on it. An investigator who reveals what he has seen gives the target time to restructure the evidence.",
+   "principle": "If the facts are the problem, change the facts.",
+   "in_practice": "When you find a compliance problem in your own business, fix the underlying situation quickly and openly instead of defending the past; a corrected position is far easier to stand behind than a hidden one.",
+   "strength": 3,
+   "source": "knowledge",
+   "pool_ids": [
+    "bil-0230"
+   ],
+   "show": "billions"
+  },
+  {
+   "title": "The Grieving Mother",
+   "category": "INT",
+   "secondary": [
+    "REP",
+    "LEV"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S05E08",
+    "S05E09"
+   ],
+   "strategist": "Bobby Axelrod, tipped by Dollar Bill",
+   "target": "Mike Prince",
+   "context": "Mike Prince, a folksy Indiana billionaire who sells himself on social impact, is about to be confirmed as US Ambassador to Denmark. Axe's first attack, through the gambling of Prince's deputy Scooter, has just collapsed when Prince claimed the bets as his own. Axe realises he has been looking in the wrong place.",
+   "play": "Dollar Bill, a veteran Axe Capital trader, points him to the real weak spot: a former partner of Prince's who died in a drunk-driving crash, and whose mother blames Prince for cutting her son out of a big deal. Axe flies her in on his jet. She is bound by a nondisclosure agreement, and after thinking it over she decides to tell her story, which Axe gets into the public eye.",
+   "why_it_works": "Prince's whole brand is being the good billionaire, so a story about how he treated a partner hits the exact asset he trades on. A grieving mother is about the most credible witness there is, and her motive is her own.",
+   "outcome": "Prince's public standing drops and the Denmark ambassadorship is lost. It also convinces Prince that Axe has to be destroyed, and within an episode he has joined Chuck's coalition.",
+   "counter": "Prince's defence lay years back: settling fairly with his partner's family. Old grievances are the first place a determined rival looks.",
+   "principle": "Attack the reputation your rival trades on, through the most credible witness.",
+   "in_practice": "Your firm's reputation is only as strong as the way you have treated former partners, staff and clients, because they are who a competitor or journalist will call. Settle old disputes fairly while you can.",
+   "strength": 3,
+   "source": "knowledge",
+   "pool_ids": [
+    "bil-0235"
+   ],
+   "show": "billions"
+  },
+  {
+   "title": "Dumping the Prince Holdings",
+   "category": "WAR",
+   "secondary": [
+    "RISK",
+    "ALLY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S05E09"
+   ],
+   "strategist": "Bobby Axelrod",
+   "target": "Mike Prince's companies, with Taylor Mason Carbon as collateral",
+   "context": "Prince is reeling from the ambassadorship scandal and Axe wants to finish him. Taylor Mason Carbon, the impact fund Taylor runs with Wendy as a partner, holds positions linked to Prince.",
+   "play": "Axe guilts Mafee, a former Axe Capital trader now at Taylor's fund, into having the fund dump all its Prince-linked holdings at once. The selling hits the companies Prince backs, including decent businesses that have done nothing to Axe.",
+   "why_it_works": "As an attack it works: sudden selling by a known holder signals trouble and piles onto Prince's scandal, and using another fund's book spares Axe's own. As strategy it fails, because it creates enemies faster than it destroys them.",
+   "outcome": "Prince is hurt, and so is the fund Axe used: Mase Carb's standing as an impact investor is wrecked. The episode ends with Prince, Chuck and Taylor meeting under one roof with a single goal, bringing Axe down.",
+   "counter": "Taylor needed firm control of the fund's trading so no outsider could steer the book. Axe needed to count the enemies his collateral damage would recruit.",
+   "principle": "Every bystander you damage on the way to your enemy is a recruit for his side.",
+   "in_practice": "In a competitive fight, avoid tactics that hurt neutral parties such as shared suppliers, mutual clients or a partner's staff. They remember, and they talk to your competitor.",
+   "strength": 3,
+   "source": "knowledge",
+   "pool_ids": [
+    "bil-0238"
+   ],
+   "show": "billions"
+  },
+  {
+   "title": "Holding Out for the Full Pop",
+   "category": "NEG",
+   "secondary": [
+    "LEAD",
+    "PSY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S06E01"
+   ],
+   "strategist": "Wags",
+   "target": "Mike Prince and Scooter",
+   "context": "Mike Prince has bought Axe Capital, and Mike 'Wags' Wagner, Axe's longtime chief operating officer, comes with it. Axe wrote Wags's contract so that Prince owes him $80 million if he fires him, and nothing if Wags quits or is fired for cause. Prince and his deputy Scooter plan to freeze Wags out until he leaves, and Prince then proposes to fire him as an object lesson to the floor.",
+   "play": "Wags removes every pretext for cause, clocking in and out 'like I'm on the factory floor at GM'. When Prince offers to haggle, Wags opens at eighty cents on the dollar; Prince offers ten, Wags seventy, Prince twenty, then a straight $40 million. Wags refuses and says he will hold out for the full amount. He has Scooter summarise the traders, dismisses it as 'weak shit from LinkedIn', and then gives the private motivation of each one: Victor Mateo's vow to his dead father, Ben Kim's sense of being the dumb one in his family, Tuk's teenage humiliation, Bonnie's fear of ending up alone. Then he gathers his old colleagues and tells them to fall in behind their new general.",
+   "why_it_works": "The contract gives Wags a strong fallback, so he never has to bargain from need. He then makes the cost of losing him visible: Prince can buy money and software, and he cannot buy what Wags knows about what moves each trader. Delivering the floor straight afterwards turns his claim into proof.",
+   "outcome": "Prince keeps him. Wags's rally helps bring the floor into line before the investor meeting, and over the season he goes from buyout target to Prince's right hand.",
+   "counter": "Prince revealed that he wanted Wags gone before he knew what Wags was worth. He should have tested Wags's value first and negotiated only if the answer was low.",
+   "principle": "When they want you gone, make your absence more expensive than your presence.",
+   "in_practice": "When a new owner, manager or client reviews your role, skip the argument about fees. Bring the knowledge only you hold (relationships, history, what motivates each person) and show what they would lose without it.",
+   "quote": {
+    "text": "I'm gonna hold out for the full pop.",
+    "speaker": "Wags",
+    "ep": "S06E01"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "bil-0250"
+   ],
+   "show": "billions"
+  },
+  {
+   "title": "The White Paper Threat",
+   "category": "LEAD",
+   "secondary": [
+    "NEG",
+    "INT"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S06E09"
+   ],
+   "strategist": "Taylor Mason, coached by Wags",
+   "target": "Dollar Bill and Mafee of High Plains, and the traders Ben Kim and Tuk",
+   "context": "Taylor Mason now runs trading at Mike Prince Capital. Wags notices Ben and Tuk coming back from lunch with Blue Bottle coffee, the drink of Mafee, who has left with Dollar Bill to start a rival fund, High Plains. He deduces they have interviewed there and tells Taylor that losing them will be on Taylor.",
+   "play": "Taylor invites Dollar Bill and Mafee in, supposedly to discuss assets, and has Ben and Tuk join the meeting. Taylor hands over a white paper on High Plains' $937 million: leverage, creditors, allocations, positions and investors, and promises to target those investors if the poaching goes on, even at a cost to MPC's own returns. When Mafee calls that illegal, Taylor dares him to say it again and reminds them who Taylor trained under. Then Taylor turns to Ben and Tuk, tells them what they mean to the firm, gives Tuk his book back and offers more guidance and less oversight.",
+   "why_it_works": "The threat is credible because it is specific: Taylor shows exact knowledge of where the rival is weak. Doing it in front of the two traders shows them how far Taylor will go for them and how thin the alternative is, and the improved terms answer the grievance that sent them to lunch.",
+   "outcome": "High Plains withdraws its offers as a peace offering and Ben and Tuk stay. Wags approves, warns that Taylor may one day cut him with the knife he is handing over, and declares an old debt between them settled.",
+   "counter": "High Plains should have come through the front door, or at least kept the interviews discreet; as Taylor points out, the coffee cups gave them away.",
+   "principle": "Defend your people with a credible threat to the poacher and a better offer to the poached.",
+   "in_practice": "When a competitor courts your staff, fix the real grievance fast and in person, and show your people you understand the market as well as the recruiter does. Keep the competitive answer lawful: win on clients and service.",
+   "quote": {
+    "text": "I will sacrifice my own returns to hurt yours, to kill yours.",
+    "speaker": "Taylor Mason",
+    "ep": "S06E09"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "bil-0274"
+   ],
+   "show": "billions"
+  },
+  {
+   "title": "The Big Ugly",
+   "category": "ALLY",
+   "secondary": [
+    "LEV",
+    "RULE"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S06E08",
+    "S06E09"
+   ],
+   "strategist": "Chuck Rhoades",
+   "target": "Todd Krakow, Bud Lazzara, Sruthi Reddy and, through them, Mike Prince",
+   "context": "Mike Prince has won New York the 2028 Olympic Games and looks untouchable. Chuck, now Attorney General, sees that Prince did not win alone: his billionaire partners in the bid are the base of his power, and each cares more about their own taxes than about the Olympics.",
+   "play": "On the 'Big Ugly', the last night of the Albany legislative session when a crush of outstanding business is voted through, Chuck dines with Krakow, Lazzara and Reddy. He tells them he has slipped a clause closing the carried interest loophole, a tax break worth a fortune to each of them, into the end-of-session legislation. His price for removing it is a public statement that they were unknowingly drawn into an attempt at high-level bribery.",
+   "why_it_works": "Chuck attacks the coalition at its weakest joint, partners whose commitment is conditional, and threatens something each of them values more than the prize. The chaos of the session makes a buried clause believable.",
+   "outcome": "The partners disown the bid, the Olympic committee strips New York of the Games and moves them to Los Angeles, and Prince, who wanted the Games partly to win back his wife, loses her again. Prince takes the betrayal and Chuck's gloating visit afterwards as a declaration of war, and in S06E09 he removes Chuck from office.",
+   "counter": "Prince needed commitments that made defection costly for his partners, and he needed to watch the Albany calendar, where their exposure lay.",
+   "principle": "To beat a strong leader, peel away the allies whose loyalty is conditional.",
+   "in_practice": "A consortium bid is only as strong as its least committed member. When you lead one, find out what each partner fears most and cover it before a rival does; when you face one, know which partner has the most to lose by staying.",
+   "quote": {
+    "text": "There is an item that I have jammed into a certain bill that will also be passing, closing the carried interest loophole.",
+    "speaker": "Chuck Rhoades",
+    "ep": "S06E08"
+   },
+   "strength": 4,
+   "source": "knowledge",
+   "pool_ids": [
+    "bil-0265"
+   ],
+   "show": "billions"
+  },
+  {
+   "title": "Counting to Forty-Two",
+   "category": "NEG",
+   "secondary": [
+    "LEV",
+    "POW"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S06E09"
+   ],
+   "strategist": "Mike Prince, with Kate Sacker and Scooter",
+   "target": "New York state senators, above all Senator Clay Tharp",
+   "context": "Prince wants Chuck removed as Attorney General, which needs 42 votes in a 63-seat Senate full of entrenched lifers. Kate Sacker, Chuck's former protege and now Prince's counsel, agrees to guide him on condition that only she knows her part. Her method: give each senator a cookie, and appeal to the rest through their political futures.",
+   "play": "Scooter tallies the Senate region by region: seven votes in the Hudson Valley, eight more in the Finger Lakes bought with college endowments. The holdout is Clay Tharp of Oneonta, who brings four more votes with him and is loyal to Chuck because Chuck comforted him at his wife's funeral with the words 'under better circumstances'. Prince has the governor's money for Oneonta's downtown pulled, then goes to Tharp with a choice: announce a Prince Companies partnership on the redevelopment and look like a hero, or face political death. Tharp takes the deal.",
+   "why_it_works": "Prince creates the problem and then sells the solution, so Tharp can present his switch as serving his district. Chuck's hold on Tharp rested on sentiment, and Prince meets a material need Chuck never asked about.",
+   "outcome": "Prince reaches two-thirds and Chuck is removed. Chuck discovers the defection too late: he had not returned Tharp's calls, and when he finally asks for support Tharp answers with Chuck's own words. Chuck's speech to the Senate that night is powerful, and it changes nothing, because the votes were settled in private beforehand.",
+   "counter": "Chuck took Tharp for granted, never asked what his district needed, and spent the critical days on a staged distraction. Loyalty built on a kind gesture needs maintenance once an opponent can offer material help.",
+   "principle": "Take away what they need, then be the one who gives it back.",
+   "in_practice": "In a complex sale, map every decision-maker and what each one's own constituency needs, and never assume a sponsor's goodwill will outlast a competitor who meets that need. The honest version is to meet real needs early; manufacturing the need is the corrupt one.",
+   "quote": {
+    "text": "It would be an easy choice... under better circumstances.",
+    "speaker": "Senator Clay Tharp",
+    "ep": "S06E09"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "bil-0269",
+    "bil-0273"
+   ],
+   "show": "billions"
+  },
+  {
+   "title": "The Net Worth Ticker",
+   "category": "REP",
+   "secondary": [
+    "PSY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S06E11"
+   ],
+   "strategist": "Chuck Rhoades",
+   "target": "Mike Prince",
+   "context": "Removed from office, Chuck has no legal tools left. Prince, who sends Scooter to offer Chuck a job in his empire, is building a public image as a billionaire fighting inequality, including 'Mike Money', a Prince-funded form of basic income.",
+   "play": "Chuck refuses the job. He then parks a large screen outside Prince's home that shows Prince's net worth and how fast it is climbing. He makes no accusation and leaves the public and the press to draw the conclusion.",
+   "why_it_works": "A single number contradicts the inequality message in a way anyone can grasp at a glance. Because it is just a fact, Prince cannot rebut it without drawing more attention to it.",
+   "outcome": "The screen puts pressure on Prince's image just as he is preparing to reveal his real aim, a run for the presidency.",
+   "counter": "Prince could have got ahead of it by publishing his own figures with a commitment attached, turning the ticker into a scoreboard for his pledge.",
+   "principle": "Let a single undeniable fact make your argument for you.",
+   "in_practice": "In a competitive pitch, one accurate comparison set side by side, such as total cost or time to deliver, does more than pages of criticism. Check the fact twice, because its power depends on being true.",
+   "strength": 4,
+   "source": "knowledge",
+   "pool_ids": [
+    "bil-0278"
+   ],
+   "show": "billions"
+  },
+  {
+   "title": "The Downgraded Hurricane",
+   "category": "RISK",
+   "secondary": [
+    "REP"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S07E04"
+   ],
+   "strategist": "Wags",
+   "target": "The hurricane classification process",
+   "context": "Mike Prince is running for President, and his fund, MPC, holds billions in catastrophe bonds tied to Southern Property and Casualty, an insurer in the path of Hurricane Rosie. If the storm is rated Category 5, the bonds are devastated.",
+   "play": "Wags, now Prince's right hand, learns how storms are classified and finds the scientist whose judgment decides the rating. He bribes him with a research grant to call Rosie a Category 4. The bonds come through untouched.",
+   "why_it_works": "Financially it works, because one human judgment sits at the pivot of a huge payout. Strategically it fails, because Wags scores the result for the fund while his boss is now a candidate, and to voters a fortune kept intact through a disaster reads as profiting from it.",
+   "outcome": "MPC saves a fortune and Prince and his campaign manager, Bradford Luke, are furious: thousands have lost their homes, the insurer is drowning in claims, and a candidate whose bonds stayed pristine faces ruin if the fix ever comes out.",
+   "counter": "Prince's team needed to tell the fund where the campaign's red lines were. Wags needed to ask what winning meant for his principal now.",
+   "principle": "A win measured by the wrong scoreboard is a loss.",
+   "in_practice": "Before you celebrate a tactical win, test it against what the organization is trying to become. A profitable contract that damages your reputation in the market you are moving into can cost more than it earns.",
+   "strength": 3,
+   "source": "knowledge",
+   "pool_ids": [
+    "bil-0289"
+   ],
+   "show": "billions"
+  },
+  {
+   "title": "Obeying the Cap",
+   "category": "RULE",
+   "secondary": [
+    "DEC",
+    "POW"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S07E05"
+   ],
+   "strategist": "Taylor Mason",
+   "target": "Mike Prince",
+   "context": "While he campaigns, Prince leaves Taylor Mason and Philip Charyn running MPC with a $500 million cap on the decisions they can make alone. Taylor, together with Wendy and Wags, has secretly concluded that Prince must not become President.",
+   "play": "Dollar Bill brings in a lucrative helium opportunity. Taylor hands it to the analyst Rian to find a better entry point, and the position needed grows past the cap just as Prince and Scooter are away courting an endorsement and cannot be reached. The firm cannot act, and MPC ends up losing more than a billion dollars. Only later, when Wendy, Wags and Taylor meet, does it emerge that Taylor set it up.",
+   "why_it_works": "Following a rule to the letter is the most deniable form of sabotage. The damage lands on the person who made the rule, and the saboteur looks obedient throughout.",
+   "outcome": "Prince takes a large loss, the fight over authority at MPC sharpens, and Taylor's hand stays hidden.",
+   "counter": "Prince needed an escalation path for the times he was unreachable, and a question about why a profitable deal kept drifting above the line.",
+   "principle": "Malicious compliance hides sabotage inside obedience.",
+   "in_practice": "If you set approval limits for your team, pair them with a fast escalation route and a named deputy. Otherwise the limit will cost you money, by accident or on purpose.",
+   "strength": 3,
+   "source": "knowledge",
+   "pool_ids": [
+    "bil-0291"
+   ],
+   "show": "billions"
+  },
+  {
+   "title": "The Staged Arrest",
+   "category": "REP",
+   "secondary": [
+    "LEV",
+    "ALLY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S07E06"
+   ],
+   "strategist": "Chuck Rhoades, with Grigor Andolov",
+   "target": "Todd Krakow, and the watching audiences in America and Russia",
+   "context": "Axe, a fugitive living in London, calls Chuck to a remote airstrip in Iceland and asks a personal favor: safe passage into the US for Grigor Andolov, the oligarch Chuck once expelled. Grigor's estranged wife is suing him for divorce in New York and could win billions by default if he cannot appear, and his help arming Ukraine has made him a traitor at home. Chuck cannot be seen welcoming a Russian oligarch.",
+   "play": "Chuck discovers that Todd Krakow, the disgraced former Treasury Secretary, is bankrolling Mrs Andolov's suit and sleeping with her. He brings Grigor in lawfully as an expert witness in another case and lets Grigor frighten Krakow off the suit. Then he makes a public show of arresting Grigor, while Grigor plays the defiant Russian.",
+   "why_it_works": "Chuck finds a legal door for a favor that looks improper, cuts the lawsuit off at its funding, and gives each audience the story it wants: an American prosecutor looks tough, and Grigor looks loyal to the people watching in Russia.",
+   "outcome": "The divorce threat goes away, Grigor's standing is protected, Chuck looks strong, and Axe owes Chuck a favor that Chuck calls in against Mike Prince in S07E10.",
+   "counter": "Krakow needed to keep his money and his affair apart from the plaintiff he was financing; both were easy to find and together they ended his involvement.",
+   "principle": "Design the event so every audience watching sees a win.",
+   "in_practice": "When a deal has to be announced, write the announcement so each party can present it to its own board, staff or customers as a victory. Deals that let everyone save face close faster and hold longer.",
+   "strength": 3,
+   "source": "knowledge",
+   "pool_ids": [
+    "bil-0293"
+   ],
+   "show": "billions"
+  },
+  {
+   "title": "Patent Sharking the Mentor",
+   "category": "LEAD",
+   "secondary": [
+    "RULE",
+    "ALLY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S07E07",
+    "S07E12"
+   ],
+   "strategist": "Mike Prince",
+   "target": "Professor Ruloff, and without meaning to, Philip Charyn",
+   "context": "Prince wants a business play that strengthens his political platform. Philip Charyn, one of the two people running MPC for him, introduces his old professor, Ruloff, in good faith.",
+   "play": "Prince starts buying up rival patents, including ones only loosely related to the process, which gives him standing to sue for infringement. He uses that position to cannibalize the professor's work.",
+   "why_it_works": "Accumulating adjacent patents turns the legal system into a weapon: ownership creates standing, and standing forces rivals to settle or give up. Prince gets his advantage.",
+   "outcome": "The win costs Prince the loyalty of the man who made the introduction. It starts Philip's turn against him, and in the series finale Philip, with control of MPC's trades, is the inside man who helps bring Prince down.",
+   "counter": "Ruloff needed his own counsel before sharing his work. Prince needed to count what the deal cost him inside his own firm.",
+   "principle": "Win against someone's mentor and you may lose the student.",
+   "in_practice": "When a colleague brings you a contact, a supplier or a former teacher, how you treat that person is also how you treat your colleague. Drive a hard bargain there and the trust you lose inside your team can outlast the deal.",
+   "strength": 3,
+   "source": "knowledge",
+   "pool_ids": [
+    "bil-0296"
+   ],
+   "show": "billions"
+  },
+  {
+   "title": "The Sacrificial Betrayal",
+   "category": "DEC",
+   "secondary": [
+    "ALLY",
+    "TIME"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S07E12",
+    "S07E09"
+   ],
+   "strategist": "Kate Sacker and Philip Charyn, within the coalition against Prince",
+   "target": "Mike Prince",
+   "context": "Wendy Rhoades, Wags and Taylor Mason have joined Chuck and Axe in a plot to strip Mike Prince of his fortune before he reaches the White House. The plot needs people Prince trusts completely, close to his money, on the day it strikes. Kate Sacker is Prince's counsel, and Philip Charyn has final say on MPC's trades.",
+   "play": "Prince is tipped off about the mutiny, including Taylor's secret meeting with Axe, and summons Wendy, Wags, Taylor and Philip to his home. Prince, Scooter, Kate and Philip lay out the 'attempted assassination', and Prince strips the three plotters of power and locks them inside MPC until the election. The finale reveals the other side: Philip had turned weeks earlier, when Wendy found him at the Corner Bistro, and Kate informed on Wendy, Wags and Taylor so that Prince would trust her and Philip.",
+   "why_it_works": "Giving up plotters who were already at risk of exposure buys the informants complete credibility. Once an organization catches its traitors it tends to believe the hunt is over, so the real agents are safest standing beside the boss at the confrontation.",
+   "outcome": "Prince trusts Kate and Philip completely, and on the day he is at Camp David they help carry out the finale's attack from inside his firm.",
+   "counter": "Prince needed to ask what his informant gained from informing, and to keep looking after the first traitors were caught. The person who reports a plot is sometimes part of it.",
+   "principle": "The best cover for an agent is catching someone else.",
+   "in_practice": "When you find the cause of a leak, a fraud or a failure in your organization, keep checking. Finding one culprit feels like closure, and the process that allowed it may still be open.",
+   "strength": 5,
+   "source": "knowledge",
+   "pool_ids": [
+    "bil-0303"
+   ],
+   "show": "billions"
+  },
+  {
+   "title": "Hostage for Hostage",
+   "category": "LEV",
+   "secondary": [
+    "DEC",
+    "PSY"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S07E10",
+    "S07E08",
+    "S07E09"
+   ],
+   "strategist": "Bobby Axelrod",
+   "target": "Mike Prince",
+   "context": "In S07E08 Prince promises his wife Andy, and a kingmaker whose backing he needs, that he will rescue Andy's friend and lover Derek, stranded injured on the Chinese side of a mountain. He secretly tips off the Chinese, so Derek is taken off the mountain without a clash with China and without the rescue succeeding. Then Prince springs a trap on Wendy: she accepts a job leading the mental health company Mental, whose books bill insurers for AI check-ins as human sessions, and she has signed a certification that makes her personally liable. Prince visits Axe in London to warn him that if he interferes, Wendy is ruined.",
+   "play": "Axe returns to the US and confronts Prince at a concert held in Prince's honor, with Derek beside him, the living witness to what Prince did on the mountain. The threat needs no words: Axe can expose the betrayal at the worst possible moment for a presidential candidate. He uses it to force Prince to release Wendy.",
+   "why_it_works": "It trades hostage for hostage. Prince's secret about Derek is worth more to his campaign than his hold over Wendy, so the exchange is rational for him. Delivering it at Prince's own celebration shows Axe can reach him anywhere.",
+   "outcome": "Wendy is freed. Prince keeps up appearances but is rattled enough to order his people to clear every position in his portfolio, and Chuck and Axe, reunited, go to work together.",
+   "counter": "Prince's mistake came earlier: a double-cross that leaves its victim alive creates a witness, and he then provoked the one enemy with the resources to find him.",
+   "principle": "Answer a threat with a bigger one, and deliver it where they feel safest.",
+   "in_practice": "When a counterpart applies pressure, work out what they stand to lose and make it quietly visible; balanced exposure usually ends an escalation. The cleaner lesson is Prince's: a promise kept in letter and broken in spirit leaves someone who will talk.",
+   "strength": 4,
+   "source": "knowledge",
+   "pool_ids": [
+    "bil-0301",
+    "bil-0297"
+   ],
+   "show": "billions"
+  }
+ ]
+}

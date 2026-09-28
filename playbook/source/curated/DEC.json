@@ -1,0 +1,1039 @@
+{
+ "id": "DEC",
+ "name": "Deception & Misdirection",
+ "intro_html": "<p>Deception is the craft of managing what the other side believes. Every play in this chapter works on the same material: the story a target tells himself about what is happening. A bluff changes his estimate of your strength, a cover story changes his explanation of your behavior, a decoy changes where he looks, and a false defector changes whom he trusts. The deceiver rarely has to invent much. The strongest plays here are built from real grievances, real grief and real evidence, arranged so that the target reaches the wrong conclusion on his own.</p><p>It works because people check far less than they think they do. We accept explanations that fit what we already believe, we stop searching once we have found something, and we trust conclusions we reached ourselves more than anything we are told. Ivar shows the Saxons the dying town they expect in <b>The Empty Town</b> (<i>Vikings</i>). A Russian ambassador never tells Claire Underwood anything in <b>The Restroom Confession</b> (<i>House of Cards</i>); he lets her assemble the lie. Dana Scott resists handing over her client's books so that Harvey Specter volunteers his own in <b>The Reluctant Books</b> (<i>Suits</i>). In each case the target does the persuading.</p><p>The five shows light the subject from different sides. <i>Vikings</i> supplies the oldest military forms: the feigned death that opens the gates of Paris in <b>The Coffin Through the Gate</b>, peace talks used to hold an army in place, and an emperor who lets his court think him a fool. <i>Peaky Blinders</i> is about cover built from real events: Tommy Shelby stages an execution, provokes a strike to hide a theft, and bluffs Alfie Solomons with a grenade that may not exist. <i>Billions</i> is the most financial, and <b>The Midlife Crisis Cover</b> shows Bobby Axelrod hiding what he knows behind a story about himself. <i>House of Cards</i> treats deception as statecraft, with a staged brick through a window and a restaged photograph. <i>Suits</i> brings it to the negotiating table and the courtroom, where bluffs live or die on whether the other side can afford to call them.</p><p>Deception also backfires more reliably than most strategies, and the chapter includes the bill. Harvey's fake wire transfer in <b>The Red Cape Memo</b> closes the deal and loses the client once he checks. Simon Lowe's pretend commitment to a second tenant in <b>The Phantom Tenant</b> costs him his lawyer, his deal and eventually his job. Every cover story leaves a paper trail and a circle of people who know the truth, and each of them is a future risk. The deceiver trades a short-term edge for a long-term liability, and the liability tends to come due when trust matters most.</p><p>For a business owner the lesson is mostly defensive, and the ethical line is simple: never fabricate evidence, impersonate anyone or lie about facts a counterparty relies on. The rest of this chapter is still worth studying, because other people will use it on you. Be most suspicious of the evidence that confirms exactly what you hoped, the concession that came too easily, the defector with a convenient grudge and the second opinion chosen by the first. Where there is a legitimate version, it lies in sequencing and framing: knowing what your visible moves signal, letting a buyer reach a conclusion from real facts, and keeping your plans to yourself until they are ready.</p>",
+ "principles": [
+  "The best deceptions are built from true material arranged so the target draws the wrong conclusion himself.",
+  "People trust what they conclude for themselves far more than anything they are told.",
+  "Evidence that confirms exactly what you hoped deserves the hardest check.",
+  "A search stops when the searcher thinks he has found something, so a planted answer can end an inquiry.",
+  "A bluff is only as strong as your record and the other side's cost of calling it.",
+  "Treat an easy concession, a quick yes or a sudden surrender as information about the other side's plan.",
+  "A defector with a known grudge is the most credible agent, and the first one to test.",
+  "Every cover story creates witnesses, and each witness is a future liability.",
+  "Deception wins the moment and taxes the relationship; humiliating the person you fooled makes the bill arrive sooner.",
+  "Verify through a channel your adversary cannot reach."
+ ],
+ "plays": [
+  {
+   "title": "The Coffin Through the Gate",
+   "show": "vikings",
+   "secondary": [
+    "WAR",
+    "INT",
+    "TIME"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S03E10",
+    "S03E05",
+    "S03E06",
+    "S03E07",
+    "S03E08",
+    "S03E09"
+   ],
+   "strategist": "Ragnar Lothbrok (with Bjorn)",
+   "target": "Emperor Charles, Count Odo and the city of Paris",
+   "context": "Ragnar Lothbrok, now king of the Northmen, sets out to raid Paris, a walled island city on the Seine that his Christian adviser Athelstan calls impregnable. His fleet is a quarrelsome coalition: his former wife Lagertha, the usurper Kalf, and the shipbuilder Floki, whom Ragnar suspects of murdering Athelstan.",
+   "play": "Ragnar gathers knowledge before he sails: Athelstan's map of the Seine drawn in the sand, the Seer, and a Frankish-speaking wanderer, Sinric, as guide. He folds Kalf's ships into the expedition instead of fighting him. At Paris he gives Floki command of the assault and lets two direct attacks fail against Count Odo's defense. When the starving Franks offer tribute, he reads the offer as weakness, rejects the first sum and adds a demand to be baptized, letting it be known that he is dying. After the silver is paid, his son Bjorn tells the Franks that his father's last wish is a Christian burial inside the city. Unarmed Northmen carry the coffin into the cathedral, Ragnar rises from it, seizes Princess Gisla and has the gates opened.",
+   "why_it_works": "Walls stop soldiers, but the Franks' own faith opens the doors for a baptized dead man. Each earlier step (the failed assaults, the baptism, the payment) makes the final request look sincere, and Ragnar tells almost no one, so the grief the Franks see among his people is real.",
+   "outcome": "The Northmen enter a city no assault could breach, sack it and sail home rich. The cost is high: many warriors died in the failed assaults, Bjorn is badly wounded, and the secrecy leaves Ragnar's own people asking why he did not trust them. His brother Rollo, left behind at the camp, is bought by the Emperor.",
+   "counter": "Any request that requires opening the gates deserves the same scrutiny as an attack, however sincere the grief looks. The Franks had no fallback once they chose to trust the ritual.",
+   "principle": "When force fails against a wall, find the thing the defenders will open the gate for themselves.",
+   "in_practice": "When a buyer's formal process keeps you out, look for what the organization willingly lets in, such as a paid pilot, a trusted referral or a compliance requirement it must meet, and build an honest approach around it. On defense, notice which of your own rules could be used as a door.",
+   "quote": {
+    "text": "If he dies, he has only asked one thing.",
+    "speaker": "Bjorn",
+    "ep": "S03E10"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "vik-A0714",
+    "vik-0571"
+   ],
+   "steps": [
+    {
+     "ep": "S03E05",
+     "move": "Ragnar announces the Paris raid, questions Athelstan and the Seer, and invites the usurper Kalf and his ships to join rather than fight him."
+    },
+    {
+     "ep": "S03E06",
+     "move": "Athelstan maps the Seine in the sand and calls the city impregnable, and the wanderer Sinric is recruited as a guide who speaks Frankish."
+    },
+    {
+     "ep": "S03E07",
+     "move": "Ragnar gives Floki command of the attack and lets a quarrelsome council agree a two-pronged assault."
+    },
+    {
+     "ep": "S03E08",
+     "move": "The assault fails against Odo's defense under the Oriflamme; Floki blames himself and Ragnar hints the command was a trap."
+    },
+    {
+     "ep": "S03E09",
+     "move": "A second assault fails, but Ragnar reads the Frankish offer as a sign they are starving, rejects the first sum and demands baptism."
+    },
+    {
+     "ep": "S03E10",
+     "move": "After the tribute is paid, Bjorn requests a Christian burial for his 'dead' father; Ragnar rises from the coffin in the cathedral, seizes Gisla and opens the gates."
+    }
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "The Midlife Crisis Cover",
+   "show": "billions",
+   "secondary": [
+    "TIME",
+    "RISK"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S01E04",
+    "S01E05"
+   ],
+   "strategist": "Bobby Axelrod",
+   "target": "The market, his own traders and the US Attorney's office",
+   "context": "Bobby 'Axe' Axelrod runs Axe Capital, a hedge fund under investigation by US Attorney Chuck Rhoades. His old friend Constantine at the telecom company Mundia-Tel tells him its books are fraudulent. If Axe dumps his telecom holdings quickly, the market will read the selling as information and everyone will race for the exit at once.",
+   "play": "Axe tells his lieutenant Wags to sell everything slowly: 5 percent across all positions to start, then sector by sector, beginning with telecom. Wags is to call investors and say the fund is shutting down. Axe stops coming to the office, talks about sailing a yacht to the Galapagos, watches Citizen Kane and tells people he is getting out of the game. The rumor reaches the press and Chuck's office, which reads it as a strategy it cannot decode. When Mundia-Tel collapses and drags the sector down with it, Axe Capital is already out.",
+   "why_it_works": "A personal explanation for the selling stops observers from treating it as a signal. If the market believes the seller has simply lost interest, nobody copies the trade, so he gets out at good prices.",
+   "outcome": "Axe avoids the crash and is ready to buy back in after the correction. He admits to Wags that for a while the crisis was real, and at that moment the FBI walks onto his trading floor to arrest his trader Dollar Bill Stearn.",
+   "counter": "Watch what is actually being sold, and in what order. A man who had simply lost interest would have no reason to start with the one sector about to collapse.",
+   "principle": "When your actions would reveal what you know, give people another story to explain them.",
+   "in_practice": "When you exit a product line, reprice or reorganize on information others do not yet have, think about what each visible move signals to competitors, clients and staff, and control the sequence. Never lie to investors or regulators; the legitimate skill here is managing timing and order.",
+   "quote": {
+    "text": "Couldn't afford to get caught in a race for the exits. As long as the rest of them thought I'd lost it, they wouldn't follow.",
+    "speaker": "Bobby Axelrod",
+    "ep": "S01E05"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "bil-0021"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "Manufacturing the Strike",
+   "show": "peaky-blinders",
+   "secondary": [
+    "WAR",
+    "TIME"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S03E02",
+    "S03E03",
+    "S03E06"
+   ],
+   "strategist": "Tommy Shelby, with Section D and the Russians",
+   "target": "The police, the factory owners and the communist unions",
+   "context": "Tommy Shelby, head of the Birmingham gang the Peaky Blinders, has been pressed by Section D, a secret government faction, into a job for exiled White Russians. Twenty-seven armored cars and crates of ammunition must leave a Birmingham factory by train, reach a London dock and then vanish from the books. Moving them openly is impossible.",
+   "play": "Tommy has five foremen on his payroll start sacking communist workers, two a week, so that anger builds toward a general strike called for the night of June 21st. The protests will turn into riots and tie up every policeman not already in his pocket. Two locomotive drivers join the strike at planned points to halt the goods train where he needs it, and the cargo is moved onto Shelby trucks at a coal yard in St Albans for Poplar Docks. During the riot the factory is firebombed so that a friendly scrap dealer can declare the vehicles destroyed and write them off as salvage.",
+   "why_it_works": "The unions' own anger produces the cover, so the chaos looks organic and nobody looks for a hand behind it. The salvage write-off closes the loop, so the theft is never recorded. Tommy describes the trick himself when he tells a Russian aristocrat about his father, who told fortunes and stole horses: predict an event you are causing and people marvel when it happens.",
+   "outcome": "Section D is delighted to be 'getting the communist unions to help get weapons to the Whites'. In S03E06 the wildcat strike is called and the train is stopped, but Section D forces its own twist onto the plan, a bombing meant to be blamed on the Soviets.",
+   "counter": "The union leaders could have asked why sackings were concentrated on party members and timed against a single date, and refused to strike on a schedule someone else had set.",
+   "principle": "The best cover is an event your opponents create themselves.",
+   "in_practice": "Time a launch or a restructuring to ride something the market is already doing, such as a regulatory change or an industry shift, so your move looks like part of a wider current. Never provoke a real conflict to get it.",
+   "quote": {
+    "text": "Often he would tell a man that his horse would be stolen and they would marvel at his powers when it was.",
+    "speaker": "Tommy Shelby",
+    "ep": "S03E03"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "pea-0377"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "Danny's Staged Execution",
+   "show": "peaky-blinders",
+   "secondary": [
+    "LEAD",
+    "ALLY"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S01E01",
+    "S01E05",
+    "S01E06"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "The Italian gang (and later the police)",
+   "context": "Danny 'Whizz-Bang', a shell-shocked veteran in Tommy Shelby's gang, kills an Italian during a flashback fit. The dead man's brothers want blood. Tommy, who is secretly holding a crate of stolen army guns, can afford neither a war with the Italians nor the police attention one would bring.",
+   "play": "With the Italian brothers present as witnesses, Tommy tells Danny that to stop a war, and to spare him the Italians' cruelty, he will carry out the execution himself. He fires a shell full of sheep brains so Danny drops convincingly, and the body is carried off by boat 'out of the city'. Danny wakes up alive, is told he is a Peaky Blinder now, and is sent to London on a weekly wage to keep his ears open in the Camden pubs. A deep, lead-lined grave is dug in the churchyard for his funeral, and it becomes the hiding place for the guns.",
+   "why_it_works": "The Italians need to see justice done, and a public ritual with witnesses satisfies their honor at no real cost. Sparing Danny turns a liability into a grateful agent, and an empty grave is the last place anyone would search.",
+   "outcome": "The war is averted and Danny later brings Tommy vital intelligence about the IRA. The cover leaks over time: Danny boasts when drunk, Arthur lets slip the postal orders sent to a supposedly dead man, and Grace, the barmaid who is secretly a police informer, works out where the guns are. Inspector Campbell digs them up in S01E05.",
+   "counter": "The Italians could have insisted on seeing the body buried. Tommy's weak point was the number of people who knew and the paper trail of payments to a supposedly dead man.",
+   "principle": "Give the other side the ritual they need, and keep the substance for yourself.",
+   "in_practice": "When a client needs visible accountability after a mistake, a formal, public response can meet that need while you quietly retrain and keep a good person. Keep the circle of people involved small, because every arrangement leaves a trail.",
+   "quote": {
+    "text": "I said I would dispatch you myself.",
+    "speaker": "Tommy Shelby",
+    "ep": "S01E01"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "pea-0322"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "Confess the Smaller Crime",
+   "show": "suits",
+   "secondary": [
+    "PSY",
+    "DEF"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S03E12"
+   ],
+   "strategist": "Mike Ross (with Rachel Zane)",
+   "target": "Louis Litt",
+   "context": "Mike Ross practices law at Pearson Specter without a law degree, a secret shared by his mentor Harvey Specter and a few others. Louis Litt, a senior partner, is now certain Mike never went to Harvard and is waiting for a confession. Denial will only make him dig harder.",
+   "play": "Mike's girlfriend Rachel Zane points out that Louis will not stop until he has a confession, so Mike gives him one, for a lesser offense. He admits that he never took Professor Gerard's class seriously, failed the final and changed his grade on Gerard's unattended computer, while insisting he did attend Harvard. He wraps the story in genuine regret about wishing he could do it over. Rachel then visits Louis, tells him she loves Mike, and reminds him that Mike, like Louis, loves the law.",
+   "why_it_works": "A suspicious person wants to be proved right, and a real confession satisfies that need while protecting the larger secret. The emotional truth in the story (regret, love of the law) makes the false part believable.",
+   "outcome": "Louis forgives Mike but insists he confess to Gerard, which forces the next round of the cover-up. The central secret survives for now.",
+   "counter": "Louis could have checked whether the smaller story explained everything he had found, such as Mike's missing file in the Harvard records room. A partial confession that leaves evidence unexplained is a shield.",
+   "principle": "When you cannot deny everything, admit something true enough to satisfy the hunter.",
+   "in_practice": "Use this defensively. When a supplier or employee under suspicion suddenly confesses to a small lapse, check whether it accounts for all the evidence before you close the matter.",
+   "quote": {
+    "text": "I just changed my grade.",
+    "speaker": "Mike Ross",
+    "ep": "S03E12"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1243"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "Talks as Cover",
+   "show": "vikings",
+   "secondary": [
+    "WAR",
+    "TIME"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S05E15",
+    "S05E14",
+    "S05E16",
+    "S01E07"
+   ],
+   "strategist": "Bjorn and Ubbe (for King Alfred); earlier, King Aelle",
+   "target": "King Harald Finehair; earlier, Ragnar Lothbrok",
+   "context": "Harald Finehair, a Norwegian king allied with Ivar the Boneless, marches a Viking army on Wessex. Ragnar's sons Bjorn and Ubbe are fighting for the young King Alfred, whose smaller army is two days away. Harald expects Northmen to lose heart at the sight of Ragnar's sons against them.",
+   "play": "Ubbe rides into Harald's camp, drinks with him and offers a compromise: name the weight of gold and silver it would take for Harald to leave Wessex. Harald tries to recruit him, and one of Harald's men lets slip a plan to overthrow Ivar. Harald agrees to name his price the next day. While he waits, the Wessex army moves around his flanks to a battlefield already prepared, with scorched ground and catapults copied from the Franks at Paris. When no envoy returns, Harald realizes the talks were a delay. Years earlier, in S01E07, King Aelle of Northumbria tried the same trick on Ragnar and failed: he agreed at once to an enormous ransom, asked for time to collect it, then sent empty chests followed by a cavalry charge that the Northmen beat off.",
+   "why_it_works": "An open negotiation freezes the other side, because marching while a deal is on the table looks foolish. The time bought lets the smaller force choose and prepare the ground. Aelle's version failed because instant agreement to an outrageous price is itself a tell, and the Northmen kept their guard up.",
+   "outcome": "Harald has to turn and fight on ground chosen for him and is beaten; the jarls of York later mock him for being made a fool of by Bjorn Ironside. Wessex wins, though at a heavy cost.",
+   "counter": "Keep scouts on the other army while you talk, and set a short deadline. Treat any offer that asks you to wait as a possible cover, and treat quick agreement to a big number as a warning.",
+   "principle": "An offer to negotiate can buy time; while one side talks, the other can move.",
+   "in_practice": "When a counterparty opens slow talks or accepts your terms instantly but needs time 'to arrange funds', keep watching what they do and secure a deposit and a date. A competitor asking to 'explore a partnership' may simply want you to pause.",
+   "quote": {
+    "text": "They were not really negotiating. While we have been waiting here, they have moved their entire army around our flanks,",
+    "speaker": "King Harald Finehair",
+    "ep": "S05E15"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "vik-0658",
+    "vik-0512"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "Give Him a Mole",
+   "show": "billions",
+   "secondary": [
+    "PSY",
+    "RISK"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S01E08",
+    "S01E09"
+   ],
+   "strategist": "Chuck Rhoades (on his father's advice), executed by Bryan Connerty",
+   "target": "Bobby Axelrod and trader Butch 'the Pouch' Probert",
+   "context": "Axe learns that US Attorney Chuck Rhoades has an informant inside Axe Capital and launches a loud mole hunt. Chuck's wiretap picks it up, and he fears his source, the trader Donnie Caan, will be exposed within days.",
+   "play": "Chuck first buries the SEC file on Donnie's suspicious trade. Over lunch his father, Chuck Sr., tells him that a mole hunter will not stop until he has a mole, so Chuck must supply one. His deputy Bryan Connerty refuses to frame an innocent man, so Chuck steps back theatrically, says maybe this is no longer his game, and tells Connerty to do it his own way. Connerty doctors an old SEC warning letter and backdates files so it looks as if the Pouch, the most straight-laced trader at the firm, received an SEC inquiry and hid it. Axe finds the file and fires him.",
+   "why_it_works": "A hunt ends when the hunter believes he has his quarry, so a decoy with a plausible paper trail stops the search. Chuck gets his subordinate to do the dirty work by refusing to order it and letting Connerty choose it.",
+   "outcome": "It seems to work, but the season reveals that Axe already knew Donnie was feeding the government, so he may have fired the Pouch knowingly to sell Chuck his own trick. The lasting cost falls on Connerty's conscience and his trust in Chuck.",
+   "counter": "Chuck should have asked why Axe's hunt was so public and so quick; a genuine hunter usually hides that he is hunting.",
+   "principle": "A search stops when the searcher thinks he has found something; decide who controls what he finds.",
+   "in_practice": "If a competitor is probing for your plans, a visible, true and non-critical answer, such as a published roadmap item, often ends the search sooner than silence. Never let blame land on an innocent person to protect a secret.",
+   "quote": {
+    "text": "If he's looking for a mole, he's not gonna stop until he's got a mole. So you gotta give him a mole.",
+    "speaker": "Chuck Rhoades Sr.",
+    "ep": "S01E08"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "bil-0034"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "The Brick Through the Window",
+   "show": "house-of-cards",
+   "secondary": [
+    "REP",
+    "PSY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S01E06"
+   ],
+   "strategist": "Frank Underwood, Doug Stamper and Claire Underwood",
+   "target": "Marty Spinella and public opinion on the teachers' strike",
+   "context": "Frank Underwood, the House majority whip, is trying to pass an education bill while Marty Spinella, the teachers' union lobbyist, runs a strike against it. Three weeks in, the public blames Congress and the President, and Frank has a week to end the strike or lose the bill.",
+   "play": "Claire invites the Underwoods' security officer, Meechum, inside for coffee and keeps him talking while Frank's chief of staff Doug Stamper throws a brick through their window. Frank gives the reporter Zoe Barnes the story as background, and his team hunts for a phrase that makes Spinella the villain without attacking teachers. They settle on 'disorganized labor'. Frank uses it on camera and presses it in a televised debate with Spinella: 'What you're saying essentially is that you can't control your own people.'",
+   "why_it_works": "A staged attack wins sympathy for the victim and poses a question the opponent cannot answer, because denying involvement sounds like admitting he has lost control of his own side. A short phrase gives the media something to repeat.",
+   "outcome": "Support for the strike falls and Spinella goes on the defensive. Frank later tells Spinella the truth in private to goad him into punching him, which ends the strike.",
+   "counter": "With no suspect and a conveniently placed victim, the first question is who benefits. Spinella was right to condemn violence but slow to demand evidence and an investigation.",
+   "principle": "A staged attack puts your opponent on the defensive, and a catchy frame keeps them there.",
+   "in_practice": "Never fabricate an incident. The usable lesson is to name an issue in a short phrase your audience can repeat, and to be skeptical when a rival's 'crisis' serves them perfectly.",
+   "quote": {
+    "text": "It's disorganized labor, plain and simple.",
+    "speaker": "Frank Underwood",
+    "ep": "S01E06"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "hou-0744"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "Leak It, Then Rescue Him",
+   "show": "billions",
+   "secondary": [
+    "POW",
+    "ALLY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S05E02"
+   ],
+   "strategist": "Chuck Rhoades",
+   "target": "Judge Adam DeGiulio (and, through him, Axe)",
+   "context": "Chuck Rhoades, now New York Attorney General, wants a federal lever that lets him go around the prosecutors in his way and take cases to the Supreme Court. His ally, Judge Adam DeGiulio, once co-wrote a memo endorsing enhanced interrogation.",
+   "play": "A senator surfaces the torture memo, and DeGiulio's standing collapses. Chuck plays the loyal defender, even agreeing to be waterboarded to test whether it really is torture. Then he brokers an arrangement that installs DeGiulio as acting Solicitor General. Chuck's protegee Kate Sacker works out what the audience learns: Chuck leaked the memo himself, to create the crisis and steer DeGiulio into the post where Chuck needed him.",
+   "why_it_works": "A manufactured crisis creates a need that only the manufacturer is ready to fill. Arriving as the rescuer earns gratitude and places an ally, and gives the victim no reason to suspect him.",
+   "outcome": "DeGiulio becomes acting Solicitor General, which gives Chuck a route around his opponents. The price is a buried betrayal: DeGiulio's Supreme Court hopes are probably finished, and the secret is a liability if he ever learns it.",
+   "counter": "When the person who benefits from your crisis is first to arrive with the solution, ask who released the damaging information, and why now.",
+   "principle": "Whoever creates the problem can arrive first with the solution.",
+   "in_practice": "Watch for this in vendors and internal politics: the person who warns of a crisis and has the fix ready. In your own work, earn trust by solving real problems, because a manufactured one is a betrayal waiting to be found.",
+   "strength": 3,
+   "pool_ids": [
+    "bil-0218"
+   ],
+   "source": "knowledge",
+   "category": "DEC"
+  },
+  {
+   "title": "The Staged Falling-Out",
+   "show": "billions",
+   "secondary": [
+    "TRAP",
+    "ALLY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S01E10",
+    "S01E09"
+   ],
+   "strategist": "Bobby Axelrod and Dollar Bill Stearn",
+   "target": "Channing, Carly and Hlasa of Ionosphere",
+   "context": "Three of Axe's traders have defected with an investor list and set up a rival fund, Ionosphere, raising 200 million dollars. Suing them on their non-compete agreements would draw attention Axe cannot afford while he is under investigation, and the Street reads the defection as talent fleeing Axe Capital.",
+   "play": "When his trader Dollar Bill returns after his criminal case is dismissed, Axe calls him into his office and they stage a screaming argument loud enough for the floor to hear, ending with Bill telling Axe where to go. Axe promises him a huge bonus for playing the part. Bill then 'defects' to Ionosphere. He feeds them a real tip first, which earns them 4 million dollars in their first week, then passes a false tip about a bidding war for Penn Consol. Ionosphere loads up and loses 28 percent of the fund.",
+   "why_it_works": "Defectors trust other defectors, and a public fight is the credential that gets Bill through the door. A small true tip makes the large false one believable. Axe damages the rival without lawsuits or public fingerprints.",
+   "outcome": "Ionosphere is crippled, and Axe sets up a rescue of the fund on his own terms in the same episode.",
+   "counter": "Ionosphere should have verified the tips independently and been wary of a loyal lieutenant who 'defected' right after a very public fight.",
+   "principle": "To get inside a rival camp, send someone the rival believes you have wronged.",
+   "in_practice": "The honest lesson is defensive: be careful with unusually good information from someone who has just fallen out with a competitor, and let the first true tip buy them nothing until you have verified the second.",
+   "quote": {
+    "text": "I want the Street to think that you and I are on the outs!",
+    "speaker": "Bobby Axelrod",
+    "ep": "S01E10"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "bil-0045"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "The Double Agent",
+   "show": "vikings",
+   "secondary": [
+    "TRAP",
+    "TIME",
+    "INT"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S02E10",
+    "S02E07",
+    "S02E08",
+    "S02E09"
+   ],
+   "strategist": "Ragnar and Floki",
+   "target": "King Horik",
+   "context": "King Horik is Ragnar's overlord and ally, and he has decided to destroy Ragnar. Floki's resentment of Ragnar is plain to everyone: he refuses to invite Ragnar to his wedding, says Horik understands the gods better, sails with Horik, and quarrels openly with Ragnar about trust. Horik approaches Floki with a proposition.",
+   "play": "Horik arrives in Kattegat with his family and publicly proposes a deeper alliance through marriages, while privately telling Floki he needs proof of loyalty: kill someone who matters. Floki sends Ragnar's son Ubbe with a secret gift for the warrior Torstein, and Bjorn announces that Torstein has been murdered (Torstein appears alive in Season 3, so the killing seems to have been staged). Satisfied, Horik reveals his full plan to kill Ragnar, Lagertha, Aslaug and all the children, and asks Floki to deal with Bjorn. When Horik's men strike, Ragnar's people are ready and Horik is trapped. Floki tells him he betrayed only Horik and was always true to the gods and to Ragnar.",
+   "why_it_works": "Horik's loyalty test could only be passed with a convincing sacrifice, so Ragnar's side supplied one. Floki's real grievances made the defection believable, and a recruit who has passed a test is trusted with everything. Ragnar's earlier concessions to Horik kept Horik from suspecting he had been seen coming.",
+   "outcome": "Horik is killed, Ragnar takes the Sword of Kings and emerges with no rival in the alliance. Horik's son Erlendur survives and later joins the Lothbroks' enemies.",
+   "counter": "Horik should have verified the killing himself and kept his plan compartmentalized. A test the other side can fake proves nothing.",
+   "principle": "A loyalty test only works if the other side cannot fake the proof.",
+   "in_practice": "When someone defects to you from a rival, verify their claims independently and share only what they need. And if a colleague seems suddenly disaffected, keep the relationship open; it may be your earliest warning.",
+   "quote": {
+    "text": "No, King Horik, I only betrayed you. I was always true to the gods. And Ragnar.",
+    "speaker": "Floki",
+    "ep": "S02E10"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "vik-0546"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "Polly's False Betrayal",
+   "show": "peaky-blinders",
+   "secondary": [
+    "TRAP",
+    "ALLY"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S04E05",
+    "S04E03",
+    "S04E04",
+    "S04E06"
+   ],
+   "strategist": "Tommy Shelby and Polly Gray",
+   "target": "Luca Changretta",
+   "context": "Luca Changretta, a New York mobster, has come to Birmingham to wipe out the Shelbys in a vendetta. He writes to Tommy's aunt Polly Gray offering to spare her son Michael if she gives up Tommy. Polly's long grievance against Tommy is known to the Changrettas; Luca's mother knew Polly as a girl and says she never lets go of a grudge.",
+   "play": "Polly and Tommy agree that she will accept. She meets Luca in a hotel bar, asks him to spare Michael, Finn and Arthur, and offers Tommy in return, citing the time Tommy wanted her dead. She tells Michael, who is not in on it, that she has made a deal to save his life. When Luca phones to remind her that he can reach her son, she has Tommy's secretary find a free Friday in his diary. Knowing Luca wants to pull the trigger himself, Tommy uses the appointment as bait, waits for the Italians in Artillery Square, and kills three of them.",
+   "why_it_works": "The betrayal is believable because the grievance is real and known to the enemy, and because Michael, who believes it, behaves like a genuinely compromised son. Luca's need to do the killing personally draws him to ground Tommy has prepared.",
+   "outcome": "Three of Luca's men die and his force is cut to eight, but Luca escapes when the police break up the fight. The deception also exposes Michael, who knew Tommy was to be shot and did not warn him, and Tommy later sends him to New York.",
+   "counter": "Luca should have asked why a woman who could have killed Tommy many times over needed him to do it, and tested the offer with a low-risk demand before committing his men and himself.",
+   "principle": "The most convincing double agent is one whose grudge the enemy already knows about.",
+   "in_practice": "Rivals believe stories that confirm what they already think about you. Remember this when a competitor's unhappy insider offers you exactly what you hoped for.",
+   "quote": {
+    "text": "Because that was the plan that Polly and I agreed on. I knew that Luca would want to pull the trigger himself, so I used the set-up as bait to bring him here.",
+    "speaker": "Tommy Shelby",
+    "ep": "S04E05"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "pea-0410"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "Talking Without Talking",
+   "show": "suits",
+   "secondary": [
+    "DEF"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S03E16"
+   ],
+   "strategist": "Mike Ross (on Harvey Specter's principle)",
+   "target": "Harold Gunderson (and anyone watching)",
+   "context": "Harold Gunderson, a former associate at the firm, filed a lawsuit against one of Harvey Specter's own clients that Mike Ross helped arrange, and the prosecutor Eric Woodall now calls the arrangement a bribe. Woodall is about to bring Harold in. Harvey warns that talking to Harold directly will look like coordinating a story, while saying nothing risks Harold cracking.",
+   "play": "Harold turns up at the office in a panic. With Louis Litt and others watching, Mike stages an angry public argument with him. He accuses Harold of bringing the suit out of spite after being fired, and says that what Harold did was harsh and vindictive but completely legal because Harold initiated it. He adds that nobody can prove anything else as long as they both remember it that way. The quarrel itself delivers the cover story.",
+   "why_it_works": "A hostile exchange does not look like collusion, so it can carry exactly what the other person needs to say. Witnesses who see a fight become evidence that the two are not working together.",
+   "outcome": "Both men are arrested in the street and Woodall accuses them of covering their tracks, but questioned separately, they tell the same story and it holds.",
+   "counter": "Woodall reads the argument correctly. Had anyone recorded it, the line about both remembering it the same way would have been damning.",
+   "principle": "When you cannot be seen coordinating, coordinate in the open disguised as conflict.",
+   "in_practice": "Read this as a warning: public disputes can be staged to send signals, so pay attention to what an argument actually communicates. In your own dealings, keep honest records so you never need a script.",
+   "quote": {
+    "text": "What you did was harsh and vindictive, but it was completely legal because you initiated it. And nobody can prove anything other than that as long as we both remember it.",
+    "speaker": "Mike Ross",
+    "ep": "S03E16"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1262"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "The Empty Town",
+   "show": "vikings",
+   "secondary": [
+    "WAR",
+    "TRAP"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S05E04",
+    "S05E05"
+   ],
+   "strategist": "Ivar the Boneless",
+   "target": "Prince Aethelwulf, Bishop Heahmund and the Saxon army",
+   "context": "Ivar, Ragnar's crippled son, holds the Roman town of York. The warrior bishop Heahmund has blockaded it to starve the Northmen out, and has had a vision of pagan bodies heaped in the streets. The Northmen really are hungry and sick, and Ivar's brother Hvitserk argues that the Saxons can reinforce while they weaken.",
+   "play": "Ivar has his men make a show of burning their dead, feeding the Saxon belief that the town is dying, and refuses to explain himself to Hvitserk beyond saying that the Romans were very clever. Heahmund sees the smoke as his vision coming true and advises waiting. Then the Saxons find the Northmen and their ships apparently gone. Aethelwulf calls the faithful into the cathedral to celebrate Mass, and the Northmen, hidden in the Roman tunnels beneath the town, emerge and fall on them.",
+   "why_it_works": "Ivar shows the enemy exactly the evidence they expect, which confirms their plan and lowers their guard. A victory celebration is the moment an army is least ready to fight.",
+   "outcome": "The Saxon army is routed, the royal family barely escapes, and Heahmund is captured.",
+   "counter": "Evidence that perfectly confirms your own prediction deserves extra scrutiny. The Saxons should have searched the town before bringing in their king and people.",
+   "principle": "Show opponents what they already believe, and they will stop checking.",
+   "in_practice": "Be most skeptical of data that tells you exactly what you hoped, such as a competitor apparently leaving a market or a rival bidder apparently dropping out. Verify before you celebrate or move resources.",
+   "quote": {
+    "text": "I'm a cripple, not an idiot.",
+    "speaker": "Ivar",
+    "ep": "S05E04"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "vik-0628"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "The Emperor Plays the Fool",
+   "show": "vikings",
+   "secondary": [
+    "TRAP",
+    "POW"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S04E10",
+    "S04E05",
+    "S04E06",
+    "S04E08",
+    "S04E09"
+   ],
+   "strategist": "Emperor Charles",
+   "target": "Count Odo, then Roland and Therese",
+   "context": "Charles, Emperor of the Franks, is widely despised as weak and vacillating: Count Odo, the commander of Paris, calls him an idiot, and his own daughter Gisla says it is impossible to underestimate him. He is surrounded by ambitious courtiers who each think they can use him.",
+   "play": "When the courtier Roland accuses Odo of plotting, Charles reacts with apparent shock and simply asks to hear more. When Odo urges him to arrest Rollo, the Viking chief Charles has made a Frankish duke, Charles says he is grateful and will reflect, then has Odo executed and gives Rollo command. He raises Roland to count and Defender of Paris and politely asks permission to take Roland's sister Therese as his mistress. At a later dinner, with Rollo away fighting, Roland patronizes him and calls him stupid. Charles drops the act, says it has taken him a long time to understand who his real friends are, and has Roland and Therese killed.",
+   "why_it_works": "A ruler thought to be weak hears things a strong one never would, and his enemies drop their guard. Charles lets each faction destroy the other, rewards the survivors enough to make them careless, and strikes when they show contempt.",
+   "outcome": "Charles removes both Odo and Roland and ends the season hailing Rollo as 'Caesar', with one loyal champion in place of a court of schemers.",
+   "counter": "Roland and Therese mistook favor for safety. Anyone who has just helped a ruler destroy a trusted minister should assume the ruler has learned how easily his trust can be abused.",
+   "principle": "Let rivals underestimate you; the underestimated see the most and are feared the least.",
+   "in_practice": "Saying little and letting others talk often reveals who is working an angle. Be careful with a partner or client who seems passive: they may be watching how you behave when you think it does not matter.",
+   "quote": {
+    "text": "I am stupid, after all. And not, as I thought, merely weak.",
+    "speaker": "Emperor Charles",
+    "ep": "S04E10"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "vik-0583"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "Playing Incompetent",
+   "show": "house-of-cards",
+   "secondary": [
+    "NEG",
+    "ALLY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S06E04"
+   ],
+   "strategist": "Claire Underwood",
+   "target": "Mark Usher, the Shepherds and Viktor Petrov",
+   "context": "Claire Underwood is now President, and her Vice President, Mark Usher, is in league with the Shepherds, a wealthy family who want their security contractor, Nexis, sent into Syria. Russian troops are massing near Syria, and Russian President Viktor Petrov arrives in Washington knowing about the Shepherds' plans. Mark believes he now runs the presidency.",
+   "play": "At the funeral of former Secretary of State Cathy Durant, Claire publicly defers ('Mark has this'), lets Mark and her aide Seth Grayson lead the negotiation, and says only 'I concur with the vice president' while Petrov raises his demands and brushes Seth aside. She has secretly invited Petrov to watch how weak her team is. Afterwards she meets him alone and offers him the ports and offshore oil and gas in exchange for 20 percent of the profits and a guarantee that no Shepherd-linked contractor enters Syria.",
+   "why_it_works": "Appearing powerless lowers everyone's guard and lets the rival camp overreach in front of the counterparty. Petrov learns that Mark's promises carry no weight and that the real decision-maker is Claire, which makes her private offer credible.",
+   "outcome": "Petrov accepts. The deal cuts the Shepherds out of Syria, and Mark learns of it only afterwards. The Shepherds' media attack Claire for a '20 percent tax', and her fixer Jane Davis warns that she will be crucified for it.",
+   "counter": "Mark should have asked why the President had become so passive, and checked her contacts with the Russians before assuming she had given up.",
+   "principle": "Let your rivals negotiate badly in front of the counterparty, then offer the deal only you can make.",
+   "in_practice": "In a complex sale with a rival faction inside the client, let the buyer see who can actually commit, then take your offer directly to that person.",
+   "quote": {
+    "text": "Playing incompetent is so exhausting.",
+    "speaker": "Claire Underwood",
+    "ep": "S06E04"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "hou-1006"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "Aiming the Toxicity",
+   "show": "billions",
+   "secondary": [
+    "PSY",
+    "ALLY",
+    "RULE"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S03E04"
+   ],
+   "strategist": "Axe (with Oscar Langstraat, Wags, Sean Ayles and Taylor Mason)",
+   "target": "The World-Aid Consortium board",
+   "context": "Axe has been indicted and is barred from directing his fund's trades, which his protegee Taylor Mason now runs. Oscar Langstraat, a Silicon Valley investor, wants the charity board of the World-Aid Consortium to set up a venture philanthropy fund and buy Rayveon Solar, the maker of its solar tents. The board is risk-averse, suspicious of outsiders, and planning to vote Axe off because the indictment makes him toxic.",
+   "play": "Axe tells Langstraat that his support will only hurt. He has Wags send Sean Ayles from Axe's foundation to pitch Taylor on the solar tents as a charity cause, so the Rayveon idea reaches Taylor without Axe steering it. Taylor spots the play and buys a basket of ten solar stocks to hide the Rayveon position. At the board meeting Axe attacks Langstraat's proposal loudly and calls the board unfit, so members who despise him vote for it to spite him, and then vote him off.",
+   "why_it_works": "Axe turns the board's dislike of him into a lever: by opposing what he wants, he makes voting for it a way to beat him. Routing the idea through a charity pitch, and Taylor hiding it in a basket, keeps the trade clear of his trading ban.",
+   "outcome": "The fund passes, Rayveon rises and Axe Capital profits. Langstraat realizes 'we were dancing' and begins courting Taylor.",
+   "counter": "The board judged the proposal by who opposed it. Asking who gains if it passes would have pointed to Axe's position in the stock.",
+   "principle": "If people will reject whatever you support, argue against the thing you want.",
+   "in_practice": "When a stakeholder distrusts you, do not be the visible champion of your own proposal. Let a respected neutral party put it forward on its merits, and keep your advocacy out of the way.",
+   "quote": {
+    "text": "Well, I couldn't rid myself of my toxicity so I aimed it.",
+    "speaker": "Axe",
+    "ep": "S03E04"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "bil-0138"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "The Restroom Confession",
+   "show": "house-of-cards",
+   "secondary": [
+    "INT",
+    "PSY"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S03E09",
+    "S03E10"
+   ],
+   "strategist": "Viktor Petrov and Ambassador Alexi Moryakov",
+   "target": "Claire Underwood, and through her President Frank Underwood",
+   "context": "Frank Underwood is President and Claire is his UN ambassador. Eight Russian peacekeepers in a joint mission in the Jordan Valley are killed by a roadside bomb, and Russian President Viktor Petrov, who never wanted the mission, blocks all access to the blast site. The Underwoods badly want a way to hold Russia to account.",
+   "play": "The Russian ambassador, Alexi Moryakov, meets Claire in the one room at the UN that neither side monitors, a restroom, and lets her draw the conclusion herself. He says Petrov never wanted the mission, that perhaps the attack was 'the objective', that his brother is in the FSB and has gone silent, and that the FSB has staged attacks before. He refuses to go public, citing his family. Claire believes him. A CIA analyst warns that Russian diplomats receive counter-intelligence training, but Frank orders a rushed SEAL mission into the valley. It goes wrong and a SEAL dies. In S03E10 Petrov tells Frank the whole thing was designed to make Claire believe it.",
+   "why_it_works": "Moryakov never makes the claim. He supplies fragments, a plausible motive and a costly personal stake, so Claire convinces herself and trusts her own inference more than any statement. It works on what the target already wants to believe.",
+   "outcome": "The United States is exposed running a covert operation, the peacekeeping mission collapses, and Petrov gains the leverage he uses to force Claire's resignation as ambassador.",
+   "counter": "The CIA analyst named the risk. Treat a convenient leak from an adversary as a possible provocation, and ask what he gains if you act on it.",
+   "principle": "The most convincing lie is the one your target assembles for themselves from hints.",
+   "in_practice": "When a competitor's employee 'confides' something that conveniently justifies a bold move, verify it independently and ask what the source gains. Slow down when a tip matches exactly what you hoped to hear.",
+   "quote": {
+    "text": "Maybe we did. Maybe we didn't. But we made her believe that we did.",
+    "speaker": "Viktor Petrov",
+    "ep": "S03E10"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "hou-0870"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "The Reluctant Books",
+   "show": "suits",
+   "secondary": [
+    "TRAP",
+    "NEG"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S01E07"
+   ],
+   "strategist": "Dana 'Scottie' Scott",
+   "target": "Harvey Specter",
+   "context": "Harvey Specter, a star New York lawyer, represents the hotelier Jones Debeque, who has agreed on a handshake merger with his rival Daniel Vega. Scottie, his old Harvard rival, represents Vega. Harvey wants to see Vega's private books before anything is signed and is sure he is the smarter negotiator.",
+   "play": "Scottie refuses to open Vega's books without a signed deal, blaming Debeque's history of impulse buying: his client 'might wake up tomorrow and decide that he doesn't wanna do this.' Harvey threatens to kill the deal, and she answers that everyone will know he killed it. Then she points out that Harvey is not rushing to show his own books either. To prove he has nothing to hide, Harvey offers full access to Debeque's books at once, and she accepts. Harvey thinks he has made her cave. Meanwhile Vega's company, now knowing exactly how strong Debeque is, begins buying Debeque stock for a hostile takeover.",
+   "why_it_works": "Resisting her own disclosure makes Harvey's disclosure feel like his idea and his win. People examine what they are made to give up; they rarely examine what they volunteer to break a deadlock.",
+   "outcome": "Vega gets what he needs for a takeover. Harvey works it out only because Scottie seems unusually pleased with herself, and his associate Mike Ross confirms a steady stream of buying. Harvey admits the mistake, a rare event.",
+   "counter": "Ask what the other side gains from what you are about to volunteer, and exchange sensitive information only simultaneously and under contract. A concession that comes too easily is a warning sign.",
+   "principle": "The concession you think you won may be the one they wanted to give.",
+   "in_practice": "If a prospect or partner holds back their data and you offer yours to break the stalemate, check whether your data was their goal all along. Tie any exchange of financials or client lists to mutual, signed terms.",
+   "quote": {
+    "text": "She pretended she didn't wanna hand over their books so I wouldn't notice when she asked for ours.",
+    "speaker": "Harvey Specter",
+    "ep": "S01E07"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "sui-1073"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "The Newspaper Feint",
+   "show": "suits",
+   "secondary": [
+    "TRAP",
+    "RULE"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S07E09",
+    "S07E10"
+   ],
+   "strategist": "Andrew Malik",
+   "target": "Harvey Specter and Mike Ross",
+   "context": "Andrew Malik, a prosecutor with an old grudge against Harvey, is pursuing Harvey's client Janet Stanger. The judge has given him 24 hours to produce real evidence. He does not have the memo that supposedly shows Stanger ordered an illegal sale, only a newspaper story he has had planted about it.",
+   "play": "Malik delivers an early copy of the paper to Harvey and Mike in person, gloating, so they spend the night preparing to block an inadmissible article. In court he holds up the newspaper as if about to submit it, says the word 'document' and lifts a folder in his other hand. Harvey jumps in to object that the article is inadmissible without the memo, which puts the article before the court himself. Malik then 'reluctantly' admits he does not have the memo and argues that its absence proves Harvey buried it, as he did years before. That opens the door to calling Harvey's colleague Donna Paulsen and putting Harvey's history on trial.",
+   "why_it_works": "Malik predicts exactly how Harvey will counterattack and builds the trap around the counterattack. Harvey and Mike are so pleased to have spotted the 'real' play that they never look for a third layer. The judge receives the evidence from the side that wanted it excluded.",
+   "outcome": "The judge adjourns to let Malik prove his claim, Donna is subpoenaed, and in S07E10 the article is admitted. Mike works out the trick only after Donna has been humiliated on the stand.",
+   "counter": "Object only to what has actually been offered, and let the opponent make his own record. When an opponent gives you advance notice of his move, ask what he gains from your knowing it.",
+   "principle": "When your opponent shows you his plan, ask why he wants you to see it.",
+   "in_practice": "A counterpart who 'accidentally' reveals a document or a deadline may be steering your reaction. Before you respond to a signal placed in front of you, work out what response it is designed to provoke.",
+   "quote": {
+    "text": "Harvey, he didn't admit anything. We did, because he baited us into doing it.",
+    "speaker": "Mike Ross",
+    "ep": "S07E10"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "sui-1539"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "Fake the Fake",
+   "show": "house-of-cards",
+   "secondary": [
+    "REP"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S02E09"
+   ],
+   "strategist": "Seth Grayson",
+   "target": "The press and Adam Galloway's credibility",
+   "context": "Adam Galloway, a photographer who once had an affair with Claire Underwood, has been pressured into giving a newspaper a photo he says is Claire. Seth Grayson, the Underwoods' new press man, needs any photo from Adam to look unreliable.",
+   "play": "Seth hires a model, has her cut her hair short to match the picture, and restages the shot within 24 hours. On television he puts the two images side by side, says he knows nothing about photography and is 'just a flack', and suggests that if he can make a convincing fake in a day, an expert photographer could certainly do it. He never accuses Adam directly; he only wonders aloud whether Adam is 'potentially troubled' or doing it for publicity.",
+   "why_it_works": "Seth does not need to prove the photo is fake, only that it could be, which moves the question from evidence to motive. Playing the modest amateur makes the insinuation sound like common sense.",
+   "outcome": "The publicity-stunt framing takes hold and sets up the public statement Adam is later forced to make.",
+   "counter": "Adam needed independent proof of provenance, such as metadata or witnesses from the party. Louder denials cannot answer 'this could be faked'.",
+   "principle": "You do not have to disprove evidence if you can show it could be manufactured.",
+   "in_practice": "Expect critics to attack your data's provenance before your conclusions, and keep an audit trail that answers them before they ask. When you are the skeptic, ask how you know the evidence is real before arguing about what it means.",
+   "quote": {
+    "text": "But I would hate to think that Mr. Galloway was doing this just for publicity.",
+    "speaker": "Seth Grayson",
+    "ep": "S02E09"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "hou-0808"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "The Shoelace Grenade",
+   "show": "peaky-blinders",
+   "secondary": [
+    "NEG",
+    "RISK"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S02E06"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "Alfie Solomons",
+   "context": "Tommy needs Alfie Solomons, the Jewish gang boss of Camden Town, back on his side before the Epsom Derby. By phone they have agreed that Alfie will ship his rum under the Shelby export license for 20 percent. At Alfie's bakery, Alfie instead produces a lawyer's contract for 100 percent of Tommy's business, with his man Ollie ready with a gun.",
+   "play": "Tommy pretends to go along, then explains that on his way in he stopped to tie his shoelace and laid a Mark 15 grenade on a trip wire under one of Alfie's rum barrels. An 'anarchist from Kentish Town' waiting outside will trigger it if Tommy is not out by seven. He cites his wartime tunneling and his own reputation ('I did blow up my own pub for the insurance'), stays calm while Alfie checks the time and quotes odds, and haggles Alfie down from 65 percent to 35.",
+   "why_it_works": "The bluff fits Tommy's known history, and calling it would be catastrophic, so Alfie cannot afford to be wrong. The deadline adds pressure, and the shoelace detail is something Ollie actually saw.",
+   "outcome": "Alfie settles at 35 percent and the alliance is restored in time for Derby Day. The show never reveals whether the grenade was real.",
+   "counter": "Alfie suspects a bluff ('hundred to one... you're lying') but cannot risk his whole stock on the odds. Searching visitors on the way in would have removed the threat before it existed.",
+   "principle": "A bluff is credible when it matches your reputation and calling it would be ruinous.",
+   "in_practice": "When a counterparty tries to rewrite agreed terms at the table, have your own leverage ready and set a firm deadline. A record of following through is what makes a walk-away believable.",
+   "quote": {
+    "text": "Now, when I came in here, Mr Solomons, I stopped to tie my shoelace...",
+    "speaker": "Tommy Shelby",
+    "ep": "S02E06"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "pea-0366"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "The Affidavit He Would Never File",
+   "show": "suits",
+   "secondary": [
+    "LEV",
+    "INT"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S01E09"
+   ],
+   "strategist": "Harvey Specter",
+   "target": "Travis Tanner",
+   "context": "Harvey is defending a company against a class action run by Travis Tanner, an unscrupulous Boston lawyer. Harvey's investigator has illegally tapped phones and recorded Tanner discussing the intimidation of a witness. Without a warrant the recording is inadmissible, and Harvey at first refuses to perjure himself to use it.",
+   "play": "After Tanner refuses a reasonable offer, Harvey takes the tape after all. He plays it for Tanner, shows him a signed affidavit saying the tape 'showed up on my doorstep', and says he will send it to the court and have Tanner jailed unless he accepts 2 million dollars per plaintiff on the spot, using his power of attorney. Tanner accepts. Afterwards Harvey tells his associate Mike Ross he never meant to file it.",
+   "why_it_works": "Harvey reads Tanner's ethics precisely. A man who breaks rules assumes everyone else will too, so the threat seems credible to Tanner even though Harvey would never carry it out.",
+   "outcome": "Each plaintiff gets 2 million dollars and Tanner goes back to Boston. Mike is uneasy, because Harvey came close to a line he claims never to cross.",
+   "counter": "Tanner could have called the bluff by asking Harvey to file the affidavit first, since perjury would have ruined Harvey. He could not imagine Harvey would hesitate.",
+   "principle": "People judge your threats by their own standards; know what your opponent thinks you are capable of.",
+   "in_practice": "A counterpart who cuts corners will assume you do too, and a straight dealer will assume you will not, so each reads your firmness differently. Use that understanding honestly, and never build leverage on illegally obtained material.",
+   "quote": {
+    "text": "Because a man who's willing to break the rules can't imagine someone else wouldn't.",
+    "speaker": "Harvey Specter",
+    "ep": "S01E09"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "sui-1087"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "The Red Cape Memo",
+   "show": "suits",
+   "secondary": [
+    "LEV",
+    "PSY"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S01E01"
+   ],
+   "strategist": "Harvey Specter",
+   "target": "Gerald Tate",
+   "context": "Harvey's client Gerald Tate refuses at the last minute to close an acquisition unless the seller is stripped of an honorary vice president title. The deal already gives Tate everything he wanted, and Harvey sees that the new demand is simply bad faith.",
+   "play": "Harvey names what has changed since he left the room and pins the bad faith on Tate. When Tate threatens to hire another firm, Harvey claims the firm's fee was triggered the moment the seller signed, and waves a document as proof of the wire transfer from escrow. The paper is a memo about a fire drill. Harvey delivers the claim with crude aggression ('your balls are in my fist'), so Tate is too busy reacting to the insult to read the document, and Tate goes back in and closes.",
+   "why_it_works": "A person under emotional attack watches the attack and ignores the evidence. The insult is the red cape and the fake paper is the sword, and making the money seem already gone removes Tate's alternative of taking his business elsewhere.",
+   "outcome": "The deal closes that night, but Tate later realizes he was lied to and fires the firm. The firm's managing partner, Jessica Pearson, tells Harvey that Tate might have forgiven the lie if he had not been humiliated, and Harvey's promotion is put on hold.",
+   "counter": "Tate could simply have asked to read the paper or called escrow. A claim delivered with unusual aggression is a signal to verify.",
+   "principle": "A bluff can win the moment, but humiliating the person you bluffed guarantees they will come back to check.",
+   "in_practice": "When a client reneges on agreed terms, name the change calmly and hold them to the deal with real facts. A win that embarrasses them costs you the relationship once they work it out.",
+   "quote": {
+    "text": "Because a charging bull always looks at the red cape, not at the man with the sword.",
+    "speaker": "Harvey Specter",
+    "ep": "S01E01"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1038"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "The Phantom Tenant",
+   "show": "suits",
+   "secondary": [
+    "NEG",
+    "REP"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S08E15",
+    "S08E16"
+   ],
+   "strategist": "Simon Lowe",
+   "target": "Thomas Kessler, Restoration, and Harvey Specter",
+   "context": "Restoration, a big retailer, has pulled out as anchor tenant of Simon Lowe's Pierpont Malls. Simon tells his lawyer, Harvey Specter, that he wants to replace it with Thomas Kessler Furniture, an up-and-coming company, offering a 50 percent rent reduction for 10 percent of gross. Kessler is about to sign with a competitor.",
+   "play": "Simon uses Harvey to sell the deal and gets Kessler's lawyer on board. At the meeting he admits Kessler is his second choice but says he picked him from 15 options, and offers a press release the next morning to prove his commitment. Kessler walks away from his other offer. Once Restoration comes back to the table, Simon tells Harvey the whole thing was built either to bring Restoration back or to take a chance on an up-and-comer, and invokes privilege to stop Harvey warning anyone, because Restoration must believe the Kessler deal is still alive.",
+   "why_it_works": "A credible second bidder is the strongest lever in a negotiation. Simon's partial candor (admitting Kessler was a backup) made his false commitment easier to believe.",
+   "outcome": "It backfires. Harvey's colleague Donna Paulsen tells Kessler, who pulls out publicly, and Restoration then demands a 30 percent reduction. Simon fires Harvey and sues, and is later removed by his own board.",
+   "counter": "Kessler should have insisted on signed terms before walking away from his existing offer. A handshake and a promised press release commit nobody.",
+   "principle": "A second bidder, even a fake one, moves the first, until someone tells the truth.",
+   "in_practice": "Be wary when a buyer courts you urgently just after another deal of theirs has stalled, and get binding terms before you drop your alternatives. If you use competing offers yourself, keep them real, because exposure costs you both deals and your adviser.",
+   "quote": {
+    "text": "It was designed to either get them back or to take a chance on an up-and-comer. Either way, my malls don't sit empty.",
+    "speaker": "Simon Lowe",
+    "ep": "S08E15"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1631"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "The Roommate Who Never Was",
+   "show": "suits",
+   "secondary": [
+    "TRAP",
+    "PSY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S06E10"
+   ],
+   "strategist": "Jessica Pearson (idea from Mike Ross and Rachel Zane)",
+   "target": "Victor Forrest, father of the murdered girl",
+   "context": "Jessica Pearson, the firm's managing partner, is defending Leonard Bailey, a man on death row for murder. The victim's father, Victor Forrest, gives devastating testimony. Rachel Zane remembers that a month earlier he called the key witness, Maria Gomez, a 'junkie witness', though her drug use was never in the court record, and she and Mike conclude he paid for Maria's rehab to keep her off the stand. They have no proof, and Jessica will not accuse a grieving father of obstruction in open court and lose the jury.",
+   "play": "Mike argues that a man proud of what he did can be led to say it. Jessica recalls Forrest, gets him to agree that 'someone had to pay' for that night, then asks whether that is why he paid for Maria's rehab. She introduces a real rehab admission form for another woman, claims she was Maria's roommate, and says she will testify that Maria felt terrible and that Forrest paid. She keeps pressing ('Why would she lie?') until Forrest, knowing Maria had no roommate, shouts it out, and then admits he paid because Bailey 'did it'.",
+   "why_it_works": "The invented roommate is a claim only the guilty man can refute, and refuting it exposes knowledge he should not have. Jessica first puts him in a righteous frame of mind, so confessing feels to him like vindication.",
+   "outcome": "The prosecution does not object when Jessica moves for exoneration, and Bailey walks free. Jessica calls it the most satisfying moment of her career.",
+   "counter": "Forrest should have answered only what he was asked and said he knew nothing about Maria's living arrangements. A plain 'I don't know' defeats a bluff that depends on the target correcting it.",
+   "principle": "Plant a false detail that only the guilty party knows is false, and let him correct you.",
+   "in_practice": "In a dispute or due diligence, specific questions about details only an insider would know can reveal what the other side knows. Ask them honestly; the lesson is in how people rush to correct an error, and fabricated evidence has no place in business.",
+   "quote": {
+    "text": "Because Maria Gomez didn't have a roommate!",
+    "speaker": "Victor Forrest",
+    "ep": "S06E10"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "sui-1465"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "The Prodigal Father's Pitch",
+   "show": "peaky-blinders",
+   "secondary": [
+    "PSY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S01E05"
+   ],
+   "strategist": "Arthur Shelby Sr.",
+   "target": "Arthur Shelby",
+   "context": "The Shelby brothers' father, who walked out ten years earlier, reappears claiming to be a changed man. Tommy throws him out at once, but his eldest son Arthur is desperate for his father's approval and resents Tommy's authority.",
+   "play": "Over a meal the father lays out a vision from America, a Shelby casino and hotel with his sons beside him as kings, and says the oak needs only an acorn. When Arthur is ready to fund it, the father says it would make his heart beam, but he does not want to cause discord between the brothers, so Arthur should talk to Tommy first. Stung, Arthur insists he is not the only one without a head for business and takes 500 pounds from the family. The father takes Arthur to a boxing ring, knocks him down, then publicly calls him the son he loves and is proud of. Then he leaves for a ship with the money.",
+   "why_it_works": "Suggesting Arthur consult Tommy looks like restraint but is a provocation: it presses Arthur's sorest point, so Arthur pushes the deal through himself. The public show of pride gives Arthur exactly the approval he craves, so he stops asking questions.",
+   "outcome": "Arthur loses 500 pounds of family money, is humiliated and attempts suicide. The father escapes.",
+   "counter": "Tommy's instinct to refuse the meeting was right. The family needed a rule that large sums need two signatures, and a check on the story before any money moved.",
+   "principle": "A con works through the mark's unmet need; the fake reluctance seals it.",
+   "in_practice": "Be wary of any pitch that flatters your status or your independence from colleagues, such as 'you don't need to run this past anyone'. Set approval rules for spending so no one person's pride can be used against the business.",
+   "quote": {
+    "text": "but I don't want to cause any discord between the brothers.",
+    "speaker": "Arthur Shelby Sr.",
+    "ep": "S01E05"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "pea-0337"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "The Friendly Cellmate",
+   "show": "suits",
+   "secondary": [
+    "INT",
+    "PSY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S06E01"
+   ],
+   "strategist": "Frank Gallo",
+   "target": "Mike Ross (and through him, Harvey Specter)",
+   "context": "Mike Ross has been sent to Danbury prison for practicing law without a degree. Frank Gallo, an inmate, has wanted revenge on Harvey Specter ever since Harvey put him away 13 years ago, and he realizes he can hurt Harvey through the young man who went to prison rather than turn on him.",
+   "play": "Gallo pays off a guard and switches into Mike's cell for his first night. He plays the seasoned, generous veteran: he jokes about movies, warns Mike not to trust anyone, shares a moving story about his own downfall and his children, and lends Mike a contraband phone to text his fiancee Rachel. Mike, disarmed, tells him about his fraud, his refusal to turn on the man he owes, and leaving Rachel at the altar. In the morning Gallo reveals the switch, names Harvey, and shows he now has Rachel's number.",
+   "why_it_works": "Warning Mike not to trust anyone makes Gallo seem trustworthy. A personal story offered first invites disclosure in return, and a gift of real value (the phone) creates obligation, all on the loneliest night of Mike's life.",
+   "outcome": "Gallo gets Mike's whole story, a way to reach Rachel, and a hold over Mike and Harvey that drives the season's prison plot.",
+   "counter": "Mike could have asked who had been assigned to his cell, and treated a stranger's unusual generosity on the first day as a warning sign.",
+   "principle": "The person who warns you not to trust anyone may be the one to watch.",
+   "in_practice": "Be alert when a new contact moves quickly from rapport to asking for your story or your contacts. Share sensitive information only after you have verified who you are dealing with.",
+   "quote": {
+    "text": "Only thing I told you tonight that's true is that you shouldn't trust people in here. But you did. Now I know all about you.",
+    "speaker": "Frank Gallo",
+    "ep": "S06E01"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1417"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "The Forged Death",
+   "show": "house-of-cards",
+   "secondary": [
+    "LEV",
+    "NEG"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S03E09",
+    "S03E11",
+    "S03E13"
+   ],
+   "strategist": "Gavin Orsay",
+   "target": "Doug Stamper",
+   "context": "Doug Stamper, Frank Underwood's former chief of staff, is desperate to find Rachel Posner, a witness who could expose the Underwoods. The hacker Gavin Orsay is trapped under an FBI passport lock that Doug can lift, and he senses he is about to be discarded.",
+   "play": "Gavin produces a Jane Doe autopsy report from outside Tucson, explains the false identity Rachel supposedly died under, and seals it with a ten-point fingerprint match against prints from the copy of A Tale of Two Cities that Doug gave him. He demands the lock be lifted 'now'. Once he is free and abroad, he calls Doug in S03E11, admits he forged it all, and offers Rachel's real location in exchange for the same deal for a friend.",
+   "why_it_works": "Gavin delivers proof in the form Doug trusts (forensic data from an object Doug himself supplied) and sells a resolution Doug badly wants. He keeps the true information in reserve as a second bargaining chip for when he is out of reach.",
+   "outcome": "Doug lifts the lock, relapses into drinking, and Gavin escapes to Venezuela. In S03E13 Doug tracks him down in Caracas and takes the location by threat.",
+   "counter": "Doug noticed the gaps ('There's no picture. There's no proof of anything') and should have insisted on verification before paying. Never release your only leverage on evidence supplied by the person who benefits.",
+   "principle": "Deliver the proof your counterpart is predisposed to trust, and keep the real asset for the next trade.",
+   "in_practice": "Before releasing payment or a concession, verify the deliverable yourself, especially when the answer is emotionally convenient. A counterparty who asks for payment 'now' on their own evidence is telling you something.",
+   "quote": {
+    "text": "I forged it all so you'd lift my passport lock.",
+    "speaker": "Gavin Orsay",
+    "ep": "S03E11"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "hou-0871"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "The Abdicated King's Gift",
+   "show": "vikings",
+   "secondary": [
+    "RULE",
+    "NEG",
+    "RISK"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S04E20",
+    "S04E18"
+   ],
+   "strategist": "King Ecbert",
+   "target": "Bjorn and the sons of Ragnar",
+   "context": "King Ecbert of Wessex handed Ragnar Lothbrok over to a rival English king to be killed, and Ragnar's sons have returned with the Great Army to take revenge. Wessex's army is beaten and the Vikings are marching on his villa.",
+   "play": "Ecbert refuses to flee. Instead he renounces all his crowns in favor of his son Aethelwulf in a quick ceremony, sends Aethelwulf, his wife Judith and the boys away to regather their strength, and tells his son 'It's all my plan.' When the Vikings capture him, he offers the brothers what they cannot win by force: legal title to English land. Presenting himself as king of kings, he grants Bjorn a claim to East Anglia that he says no one can question, and refuses to name his price until they agree. Once Bjorn accepts, Ecbert's only demand is to choose the manner of his own death.",
+   "why_it_works": "Ecbert knows the Vikings want land and legitimacy, not just blood, and he gives them a document that looks like title. Because he has already abdicated, the grant has no force, but it buys time for his heir and secures the death he chooses. Holding back his price until they agree prevents any bargaining over it.",
+   "outcome": "Bjorn accepts and Ecbert dies on his own terms. The brothers announce to their army that they have the legal right to farm in England, on the word of a man who was no longer king.",
+   "counter": "Bjorn should have checked that Ecbert still held the authority he was granting, or kept him alive as a hostage while the grant was tested.",
+   "principle": "Always check that the person granting you something still has the authority to grant it.",
+   "in_practice": "Before you sign, confirm that your counterparty is authorized to commit (a departing executive, a restructured entity, a subsidiary) and that the rights on offer are theirs to give.",
+   "quote": {
+    "text": "Because I am king, no one can question that claim.",
+    "speaker": "King Ecbert",
+    "ep": "S04E20"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "vik-0617"
+   ],
+   "category": "DEC"
+  },
+  {
+   "title": "Let His Nature Do the Rest",
+   "show": "peaky-blinders",
+   "secondary": [
+    "PSY",
+    "TRAP"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S06E04",
+    "S06E05",
+    "S06E06"
+   ],
+   "strategist": "Oswald Mosley's circle (through Dr Holford and Dr Rutherford)",
+   "target": "Tommy Shelby",
+   "context": "Tommy Shelby, now a Member of Parliament, has made himself dangerous to the British fascist leader Oswald Mosley: he knows their plans and reports to Winston Churchill. He is very hard to kill directly, and he has just lost his young daughter Ruby to tuberculosis.",
+   "play": "Tommy's own doctor, Holford, tells him that an X-ray shows an inoperable tuberculoma caught from Ruby, and gives him a year, perhaps 18 months. He says three leading surgeons have refused to operate and recommends a second opinion from a colleague, Dr Helen Rutherford at St Thomas', who confirms it. Then the fascists simply wait for Tommy's grief and pride to lead him to take his own life. In S06E06 Tommy learns that both doctors attended Mosley's wedding in Berlin.",
+   "why_it_works": "The lie arrives through the most trusted channel, fits his fresh grief, and is 'confirmed' by a second opinion chosen by the liar. It uses the target's own nature as the weapon, so nobody has to act.",
+   "outcome": "Tommy settles his affairs, pushes his family away and prepares to shoot himself, until a vision of Ruby stops him. He then works out the connection and confronts Holford.",
+   "counter": "A second opinion is only independent if you choose it yourself. Tommy accepted a referral from the man delivering the diagnosis.",
+   "principle": "Check a verdict through a source your adversary cannot reach, especially when it arrives through someone you trust.",
+   "in_practice": "When a crucial recommendation comes from someone with a possible conflict, such as a vendor's 'independent' auditor or a referral from the other side, choose your own reviewer. The more a piece of bad news suits someone else, the harder you should check it.",
+   "quote": {
+    "text": "I'm guessing you people all decided that the only person who could ever kill Tommy Shelby is Tommy Shelby himself.",
+    "speaker": "Tommy Shelby",
+    "ep": "S06E06"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "pea-0471"
+   ],
+   "category": "DEC"
+  }
+ ]
+}

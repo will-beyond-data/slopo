@@ -1,0 +1,1009 @@
+{
+ "id": "TIME",
+ "name": "Patience, Timing & the Long Game",
+ "intro_html": "<p>Timing is the one resource every strategist spends and none can recover. The plays in this chapter are about <i>when</i>: when to wait, when to strike, in what order to move, and how long to keep a plan alive before cashing it in. Some are a single held breath, like Chuck Rhoades refusing to rescue a wobbling informant in <b>The Trap Was Time</b> (Billions). Others run for a season, like Frank Underwood's answer to the President who broke his word in <b>The Passed-Over Whip</b> (House of Cards), a revenge that takes thirteen episodes and never once looks like revenge.</p><p>Patience works because most people act on someone else's clock. A loss seems to demand a response, a rumor a bet, an insult an answer. The patient strategist declines that clock and uses the time the other side wastes. Waiting also changes the opponent. The Saxons in <b>Hold the Ground, Strike at Night</b> (Vikings) stop expecting an attack after a day spent watching the hill, and Earl Kalf, in <b>Lagertha's Road to the Throne</b>, forgets a death threat made to his face. Sequence does the rest. Tommy Shelby's <b>The Magic Horse</b> (Peaky Blinders) needs two wins before the loss that pays, and Taylor Mason's climb <b>From Intern to Usurper</b> (Billions) is a string of small, reasonable requests that only add up on the morning Taylor walks out with the investors.</p><p>The failures are as instructive as the wins, because patience is a bet that the clock is on your side. Inspector Campbell stands his police down to <b>Let Dog Eat Dog</b> (Peaky Blinders) and hands the city to the better-prepared dog. Harvey Specter plays hard to get with a former protégé in <b>Waiting for the Girl to Call</b> (Suits) and loses him to a rival who did not wait. Frank's own misstep in <b>Announce First, Ask Second</b> shows that order matters as much as timing, and Chuck's long climb in <b>Hunting Axe Through His Satellites</b> is a reminder that a slow campaign gives the target time to reach your witnesses first.</p><p>Each show has its own sense of time. Suits is the show of the calendar, full of deadlines, filings and offers left on the table, from <b>Motion to Delay</b> to <b>Robert Zane's Standing Offer</b>. Billions treats timing the way a trader does, as a question of entry and exit. Vikings is about outlasting: Ragnar bowing to a jealous king in <b>Kneel to the King, Outlast Him</b> until the king exposes himself. Peaky Blinders specializes in postponed debts, as in <b>Revenge on a Delay</b>, and House of Cards is the purest study of sequence, a man who eats the whale one bite at a time.</p><p>For anyone running a business, the lessons are practical. Do not decide while you are reeling from a loss, as Jessica Pearson insists in <b>Don't Decide While Reeling</b> (Suits). Find out what deadline the other side is racing. Keep good offers standing, and make the ask in the week their situation changes. And when you do finally move, move once, cleanly, in a way people can see.</p>",
+ "principles": [
+  "Before you act, ask whose clock you are on, and whether you can afford to be on it.",
+  "Once the conditions are set, waiting is a move, and often the strongest one available.",
+  "Patience is a bet that time favors you; check who else is using the same time.",
+  "Let small, visible wins build belief before you ask for anything large.",
+  "Order matters: secure the step you cannot control before you promise the one you can.",
+  "The best day to make an ask is the day after the other side's situation changes.",
+  "Never make a major decision in the hour after a defeat; stay in the room.",
+  "A deadline you know about on the other side is leverage; a deadline of your own is a weakness to hide or clear.",
+  "Keep a grievance private and your value public until the opening comes.",
+  "When you finally move, move in one clean, public stroke."
+ ],
+ "plays": [
+  {
+   "title": "The Passed-Over Whip",
+   "show": "house-of-cards",
+   "category": "TIME",
+   "secondary": [
+    "POW",
+    "DEC",
+    "ALLY"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S01E01",
+    "S01E02",
+    "S01E04",
+    "S01E06",
+    "S01E07",
+    "S01E10",
+    "S01E11",
+    "S01E12",
+    "S01E13",
+    "S02E02"
+   ],
+   "strategist": "Frank Underwood (with Claire Underwood and Doug Stamper)",
+   "target": "President Garrett Walker, his chief of staff Linda Vasquez, Senator Michael Kern and the administration that broke its promise",
+   "context": "Frank Underwood, the House majority whip, delivered the election for Garrett Walker in return for a promise that he would be Secretary of State. On New Year's Day Linda Vasquez, Walker's chief of staff, tells him the promise is off and the job is going to Senator Michael Kern. Frank is a congressman with no claim on the executive branch, and any visible protest would mark him as an enemy while he is still weak.",
+   "play": "In the room Frank accepts at once and even praises the choice of Kern. By the next morning he has a plan, which he gives to his chief of staff Doug Stamper: they now owe no allegiance, and they will take the administration apart in small pieces. He sinks Kern with a planted student editorial, has a reporter float Catherine Durant as the favorite until the White House adopts her, and takes over the education bill so that the President's top priority runs through him. He wins the teachers' strike and cashes the signed bill for weekly access to Walker. He turns Linda from gatekeeper to ally with a favor she never asked for: he quietly gets her son into Stanford through a well-connected alumna and takes the blame for a failed vote to protect her. Finally he engineers a vacancy by sending Vice President Matthews home to run for governor of Pennsylvania, and arranges to be the obvious man to fill it.",
+   "why_it_works": "Frank's revenge takes the form of service. Every step makes him more useful to the people he is working against, so they keep handing him the tools. Breaking one large goal into many small, deniable moves means no single move looks like revenge or reveals the design, and he never asks for the vice presidency directly: he creates the opening and positions himself as the answer to it.",
+   "outcome": "Within a season Kern is gone, Durant owes Frank her job, the education bill carries his name, Linda sponsors his ambitions, and Frank is sworn in as Vice President without a single vote cast for him. The cost is a trail of liabilities (Peter Russo's death, the reporter Zoe Barnes, the witness Rachel Posner) that Season 2 has to clean up.",
+   "counter": "Walker and Linda assumed a loyal operator would stay loyal after being cheated. A broken promise to a capable ally needs real compensation, or it should be treated as the start of a quiet war; and a gatekeeper who accepts a personal favor from an ambitious subordinate has already opened the gate.",
+   "principle": "When you are passed over, keep the grievance private and the value public, and be standing closest when the next seat falls empty.",
+   "in_practice": "If you lose a contract or a promotion you were promised, skip the protest. Become more useful to the decision-makers, build relationships on their side before you need them, and position yourself for the next opening they will have to fill.",
+   "quote": {
+    "text": "That's how you devour a whale, Doug. One bite at a time.",
+    "speaker": "Frank Underwood",
+    "ep": "S01E01"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "hou-A1024",
+    "hou-0725",
+    "hou-0760"
+   ],
+   "steps": [
+    {
+     "ep": "S01E01",
+     "move": "Denied Secretary of State, Frank accepts in the room, then tells Doug they are bound by no allegiances and will take the administration apart one bite at a time, starting with Kern."
+    },
+    {
+     "ep": "S01E02",
+     "move": "He leaks Blythe's draft to take over the education bill, destroys Kern with the Kapeniak editorial, and has Zoe report Durant as the nominee until the White House adopts her."
+    },
+    {
+     "ep": "S01E04",
+     "move": "He talks Walker out of conceding on the bill and stages a fake Rasmussen coup so Birch moves it, keeping the President's top priority in his hands."
+    },
+    {
+     "ep": "S01E06",
+     "move": "He defies a direct order to gut the bill and ends the strike by provoking Spinella into a punch, earning Walker's public thanks and weekly meetings."
+    },
+    {
+     "ep": "S01E07",
+     "move": "He spends the new credit to win the President's backing for Russo's governor campaign by volunteering the worst facts himself."
+    },
+    {
+     "ep": "S01E10",
+     "move": "He secretly gets Linda's son into Stanford through Gillian Cole and takes the blame for the failed watershed vote to protect her."
+    },
+    {
+     "ep": "S01E11",
+     "move": "With Russo destroyed, he whispers in both ears until Matthews agrees to run for governor and Walker agrees to let him, then confesses his ambition to Linda so she sponsors it."
+    },
+    {
+     "ep": "S01E12",
+     "move": "Sent to vet Raymond Tusk, he learns Tusk is vetting him and blocked his original nomination, and is asked for a blank check."
+    },
+    {
+     "ep": "S01E13",
+     "move": "His Sancorp flanking attack fails, so he refuses the blank check, offers loyalty for loyalty, leaks the President's schedule to add pressure, and is offered the vice presidency."
+    },
+    {
+     "ep": "S02E02",
+     "move": "He takes the oath as Vice President, the office he engineered into vacancy without being elected to it."
+    }
+   ]
+  },
+  {
+   "title": "From Intern to Usurper",
+   "show": "billions",
+   "category": "TIME",
+   "secondary": [
+    "POW",
+    "ALLY",
+    "NEG"
+   ],
+   "scope": "series",
+   "episodes": [
+    "S03E12",
+    "S02E02",
+    "S02E10",
+    "S02E11",
+    "S02E12",
+    "S03E02",
+    "S03E08",
+    "S03E09",
+    "S03E10",
+    "S03E11"
+   ],
+   "strategist": "Taylor Mason",
+   "target": "Bobby Axelrod",
+   "context": "Taylor Mason arrives at Axe Capital, the hedge fund run by billionaire Bobby 'Axe' Axelrod, as an intern who studies the firm like an outsider. Axe quickly sees a talent he can use. Taylor wants independence, but walking out empty-handed would mean starting from nothing with Axe as an enemy.",
+   "play": "Taylor builds position one small, reasonable step at a time. They test Axe by routing an idea through another trader, then accept a job only on week-to-week terms. They hold back their signature on a key research report until Axe makes them head of research. When Axe's arrest looms, Taylor builds the plan to keep the fund alive and tells him he must name a chief investment officer; he names Taylor. As CIO they give Axe a $2 billion side fund to keep him away from the trading floor. When Axe breaks his promise of a billion-dollar book, Taylor banks the grievance, quietly restarts their quant team off-site and works their way onto the capital-raising team. At the raise Axe introduces Taylor to every investor as the future of Axe Capital. Taylor pitches the biggest one privately and the next morning launches Mason Capital with $3.5 billion of the commitments.",
+   "why_it_works": "Each concession looks reasonable on its own, so Axe grants it, and each one adds credibility with the very investors Taylor will later take. Axe's broken promises supply the justification, and Taylor times the exit for the moment of greatest borrowed trust: the day Axe has personally vouched for them to his clients.",
+   "outcome": "Axe Capital keeps about $500 million of the $6 billion committed. The victory starts a war: Axe vows total destruction, and much of the next season is Taylor's fight to survive it.",
+   "counter": "Axe could have kept his promises, or read the pattern: a lieutenant asking for structural control, a team that never really stopped working, a request to meet a key investor alone. Presenting a deputy to your clients as 'the future' transfers trust that can walk out of the door.",
+   "principle": "Collect authority in small, reasonable steps, and leave on the day your patron has lent you the most credibility.",
+   "in_practice": "If you plan to go independent one day, build your record and relationships visibly while delivering real value, and ask for structural autonomy (a budget, a team, a book of clients) over one-off rewards. As a leader, keep your promises to talent, because a broken one becomes the reason they leave and the story they tell your clients.",
+   "quote": {
+    "text": "the same reason you leave a house that has a furnace leaking carbon monoxide: It's the only way to survive.",
+    "speaker": "Taylor Mason",
+    "ep": "S03E12"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "bil-A0314"
+   ],
+   "steps": [
+    {
+     "ep": "S02E02",
+     "move": "Taylor feeds the Krakow satellite idea through Mafee to see if Axe can tell who is behind it, then accepts a week-to-week deal on their own terms."
+    },
+    {
+     "ep": "S02E03",
+     "move": "Taylor wins the Alpha Cup for Axe with a ten-high call against Krakow."
+    },
+    {
+     "ep": "S02E10",
+     "move": "Taylor rewrites the Klaxon short thesis and withholds their signature until Axe makes them head of research, and brushes off Connerty's recruitment."
+    },
+    {
+     "ep": "S02E11",
+     "move": "Taylor runs the analyst review, cutting for desire rather than ranking, and accepts $250,000 in cash from Axe."
+    },
+    {
+     "ep": "S02E12",
+     "move": "As Axe's arrest nears, Taylor builds the fire-sale plan and tells him he must name a CIO; Axe names Taylor."
+    },
+    {
+     "ep": "S03E01",
+     "move": "Taylor walks into the elite idea dinner as CIO and the new public face of Axe Capital."
+    },
+    {
+     "ep": "S03E02",
+     "move": "Taylor faces Axe down on the floor and places his $2 billion in outside funds, a sandbox that keeps him away from Taylor's trading."
+    },
+    {
+     "ep": "S03E08",
+     "move": "Axe promises Taylor a billion-dollar book but withholds it, and cuts the quants; the grievance is banked."
+    },
+    {
+     "ep": "S03E09",
+     "move": "Taylor sabotages the first pitch to Grigor with an ESG strategy and secretly restarts the quant team off campus."
+    },
+    {
+     "ep": "S03E10",
+     "move": "Axe uses a dinner he arranged for Taylor to take half of Genometech from under Oscar, and Taylor calls it a sell-out."
+    },
+    {
+     "ep": "S03E11",
+     "move": "Taylor gives Wendy the phrase 'forward momentum', wins $25 million and a seat on the raise team, and asks Grigor's lieutenant for a meeting."
+    },
+    {
+     "ep": "S03E12",
+     "move": "Presented by Axe as the future of the firm, Taylor pitches Grigor privately and launches Mason Capital with $3.5 billion, Mafee and Grigor's money."
+    }
+   ]
+  },
+  {
+   "title": "Kneel to the King, Outlast Him",
+   "show": "vikings",
+   "category": "TIME",
+   "secondary": [
+    "ALLY",
+    "DEC",
+    "INT"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S02E10",
+    "S01E08",
+    "S01E09",
+    "S02E01",
+    "S02E02",
+    "S02E07",
+    "S02E08",
+    "S02E09"
+   ],
+   "strategist": "Ragnar Lothbrok (with Floki as double agent)",
+   "target": "King Horik",
+   "context": "Ragnar Lothbrok, newly Earl of Kattegat, needs more ships and men than his town can supply to raid west in force. King Horik has them, but Horik dislikes 'individual enterprise by my earls' and comes to see Ragnar's fame as a threat. For two seasons Ragnar is the junior partner to a jealous senior one.",
+   "play": "Ragnar pledges fealty to Horik and offers him a share of the western riches. Through Season 2 he concedes the form of every quarrel: he delays an execution because Horik asks ('Because he is the king'), promises to consult next time after Horik rebukes him in public, and defers to Horik's decision to attack the Saxons, afterwards asking only, drily, whether they should have talked first. Meanwhile he lets his friend Floki's visible estrangement become cover. When Horik recruits Floki to help wipe out Ragnar's family, Ragnar learns the plan through him and is ready when Horik moves.",
+   "why_it_works": "By never contesting Horik's rank in public, Ragnar gives him no legitimate grievance and no warning; a king underestimates a subordinate who keeps bowing. Each yielded point costs little, and it lets Horik's own poor decisions erode his authority in front of everyone. Horik's habit of recruiting Ragnar's disaffected friends becomes the channel that exposes him.",
+   "outcome": "Horik's massacre plot fails, Floki reveals that he 'only betrayed' Horik, and Ragnar kills the king and ends the season with no rival in the alliance. Horik's son survives and later joins the Lothbroks' enemies.",
+   "counter": "Horik should have read a string of easy concessions from a proud, capable rival as a warning, and tested his recruits harder: Floki's sudden turn against his oldest friend was a loyalty proof that cost Ragnar nothing to stage.",
+   "principle": "Concede the ceremony to a jealous superior, keep your own counsel, and let his attempts to recruit your people tell you what he plans.",
+   "in_practice": "In a partnership with a larger, insecure firm, let them have the visible credit and the final say on small matters while you keep your client relationships and delivery know-how. If they start courting your team, treat it as intelligence about their intentions.",
+   "quote": {
+    "text": "Because he is the king.",
+    "speaker": "Ragnar Lothbrok",
+    "ep": "S02E07"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "vik-A0712",
+    "vik-0547"
+   ],
+   "steps": [
+    {
+     "ep": "S01E08",
+     "move": "Ragnar flatters Horik, pledges fealty at Uppsala and proposes joint raids west, with Athelstan as proof of Frankia."
+    },
+    {
+     "ep": "S01E09",
+     "move": "Sent as Horik's envoy with no authority to compromise, Ragnar fails with Jarl Borg, who declares war and recruits Rollo."
+    },
+    {
+     "ep": "S02E01",
+     "move": "With the battle a stalemate, Ragnar reframes the land dispute as a waste of young men and gets Horik and Borg to agree to raid west together."
+    },
+    {
+     "ep": "S02E02",
+     "move": "Ragnar accepts Horik's decision to drop Borg and delivers the news himself, which leaves Kattegat exposed to Borg's revenge."
+    },
+    {
+     "ep": "S02E07",
+     "move": "Ragnar yields to Horik's request to delay Borg's execution, explaining only that Horik is the king, while Borg plants the idea that Ragnar wants the crown."
+    },
+    {
+     "ep": "S02E08",
+     "move": "Publicly rebuked for sending Torstein to Ecbert, Ragnar promises to consult next time as Horik courts Lagertha and Floki against him."
+    },
+    {
+     "ep": "S02E09",
+     "move": "Ragnar defers to Horik's decision to attack, the Northmen are routed on Ecbert's ground, and Ragnar only drily asks whether they should have talked first."
+    },
+    {
+     "ep": "S02E10",
+     "move": "Floki's staged loyalty test lets Horik reveal his massacre plan; Ragnar's household is ready, Siggy hides the boys, and Ragnar kills Horik and takes the Sword of Kings."
+    }
+   ]
+  },
+  {
+   "title": "Lagertha's Road to the Throne",
+   "show": "vikings",
+   "category": "TIME",
+   "secondary": [
+    "POW",
+    "DEC",
+    "RISK"
+   ],
+   "scope": "series",
+   "episodes": [
+    "S04E05",
+    "S03E02",
+    "S03E08",
+    "S04E01",
+    "S04E13",
+    "S04E14",
+    "S04E16",
+    "S04E19",
+    "S05E10"
+   ],
+   "strategist": "Lagertha",
+   "target": "Earl Kalf, then Queen Aslaug and the sons of Ragnar",
+   "context": "After divorcing Ragnar, the shield-maiden Lagertha becomes Earl of Hedeby, only for her steward Kalf to have himself acclaimed Earl while she is away. Ragnar will not fight for her. She has warriors and a reputation but no seat, and she cannot win a straight fight.",
+   "play": "Lagertha does not fight Kalf when she cannot win. After he saves her life in Paris she tells him she will be with him, that she will never forgive him, and that one day she will kill him. She accepts co-rule while his archers wipe out Einar's faction, her own strongest enemies. She agrees to marry him and kills him at the wedding, and Hedeby acclaims her. Years later she waits until Ragnar and his older sons have all left Kattegat, has Ubbe and Sigurd lured away and locked up, and walks into the hall. She kills Aslaug as she leaves under safe passage, spares the sons, and rallies the town to fortify against rivals.",
+   "why_it_works": "She moves only when the balance is overwhelming: Kalf off guard at his own wedding, Kattegat emptied of its defenders. Patience lets Kalf do her work for her, consolidating the earldom and removing her enemies before she takes it. Each seizure is a single public act the crowd can acclaim, and her open warning to Kalf, spoken aloud and then apparently forgotten, lets him believe the grudge has lapsed.",
+   "outcome": "She regains Hedeby and becomes Queen of Kattegat without a battle. But the sons of Ragnar she spared keep their grievance, and Ivar returns with Harald to take Kattegat from her in S05E10.",
+   "counter": "Kalf's defense was to take her promise literally. Aslaug's was to demand real guarantees before she walked out of the hall. Ubbe's, which worked, was to bide his time until he had allies.",
+   "principle": "Let your rival clear the board for you, take the seat in one public stroke, and remember that every rival you spare keeps his grievance.",
+   "in_practice": "Move for a leadership role or a contested account when the competing candidates are busy elsewhere, and let others do the consolidating work first. Settle old disputes before you take charge, because an unresolved one will be waiting for your first bad year.",
+   "quote": {
+    "text": "But I will never forgive you for usurping my earldom. And one day, I will kill you.",
+    "speaker": "Lagertha",
+    "ep": "S03E08"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "vik-A0720",
+    "vik-0576"
+   ],
+   "steps": [
+    {
+     "ep": "S03E02",
+     "move": "While Lagertha is in Wessex, Kalf has himself acclaimed Earl of Hedeby."
+    },
+    {
+     "ep": "S03E05",
+     "move": "Ragnar refuses to fight Kalf for her and recruits him for Paris, leaving the earldom between them."
+    },
+    {
+     "ep": "S03E08",
+     "move": "After Kalf saves her life at Paris, she agrees to be with him on condition that she will one day kill him."
+    },
+    {
+     "ep": "S04E01",
+     "move": "She accepts co-rule while Kalf's archers wipe out Einar's faction, her strongest enemies."
+    },
+    {
+     "ep": "S04E05",
+     "move": "She agrees to marry Kalf and kills him at the wedding; Hedeby acclaims her Earl."
+    },
+    {
+     "ep": "S04E13",
+     "move": "With Ragnar's older sons gone, she uses Margrethe to lock up Ubbe and Sigurd and confronts Aslaug in the hall."
+    },
+    {
+     "ep": "S04E14",
+     "move": "She shoots Aslaug as she leaves under a promise of safe passage and spares Ubbe and Sigurd."
+    },
+    {
+     "ep": "S04E16",
+     "move": "She refuses Ivar's challenge to single combat and rallies the town to build ditches and palisades."
+    },
+    {
+     "ep": "S04E19",
+     "move": "Her defenders repel Egil's raid and use his wife to make him confess that Harald paid for it."
+    },
+    {
+     "ep": "S05E04",
+     "move": "She makes a pact with Ubbe: she backs him against Ivar, he backs her against Harald."
+    },
+    {
+     "ep": "S05E06",
+     "move": "She lets Floki's secret emigrants go rather than hold them against their will, which Margrethe reads as weakness."
+    },
+    {
+     "ep": "S05E10",
+     "move": "Ivar and Harald overwhelm her army and she loses Kattegat."
+    }
+   ]
+  },
+  {
+   "title": "Hunting Axe Through His Satellites",
+   "show": "billions",
+   "category": "TIME",
+   "secondary": [
+    "TRAP",
+    "LEV",
+    "INT"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S01E01",
+    "S01E03",
+    "S01E05",
+    "S01E06",
+    "S01E08",
+    "S01E09",
+    "S01E10",
+    "S01E11",
+    "S01E12"
+   ],
+   "strategist": "Chuck Rhoades (with Bryan Connerty and Kate Sacker)",
+   "target": "Bobby Axelrod",
+   "context": "Chuck Rhoades, the US Attorney for the Southern District of New York, is 81 and 0 on financial prosecutions. The SEC brings him a suspicious trade pointing at Bobby 'Axe' Axelrod, a hedge fund billionaire and 9/11 folk hero. Chuck's wife Wendy is Axe's in-house performance coach, so a failed case would cost him both his record and his marriage.",
+   "play": "Chuck refuses to move on the SEC's timetable, saying he will wait until Axe is 'gettable', and tells his deputy the fight will be won through the people around Axe. He climbs one rung at a time: he wins back a trader named Decker by trading away another case, squeezes him through his parents, follows him to Axe's trader Dollar Bill Stearn and arrests Stearn on Axe's trading floor. When Stearn will not flip, Chuck leaks just enough progress to Washington to keep the case in his office and hangs everything on an informant, Donnie Caan. Donnie turns out to be Axe's plant, dying and briefed to collapse. The case is moved to another district, and Chuck retreats into building institutional friends while he takes one last illicit shot through Wendy's session notes.",
+   "why_it_works": "The ladder method is sound in principle: each small target is easier to break than Axe, and each knows something about the next. Waiting lets Chuck choose the moment instead of letting the SEC or the press choose it. The weakness is that every rung is a person Axe can reach first with money, loyalty or a better story.",
+   "outcome": "It fails as a prosecution. Stearn stays silent, Donnie's evidence is built to fall apart, the case is taken away, and the tip from Wendy's files ends Chuck's marriage when she finds out. What survives is an institutional map, above all a friendly judge who takes the Axelrod case in S03E02.",
+   "counter": "Axe shows the defense: reach each rung before it breaks, and feed a hungry prosecutor exactly the witness he wants. Chuck's own safeguard should have been to verify Donnie independently, and to treat the witness who arrives just when he is needed as the most suspect of all.",
+   "principle": "Climb to a protected target through the people around him, but test every rung, because the ones he can reach first will break under you.",
+   "in_practice": "When you need a decision from someone out of reach, build a path through their advisers and partners, and verify each piece of information before you stake a pitch on it. A champion who is suddenly eager to help may be working for the other side.",
+   "quote": {
+    "text": "But a good matador doesn't try to kill a fresh bull. You wait until he's been stuck a few times.",
+    "speaker": "Chuck Rhoades",
+    "ep": "S01E01"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "bil-A0306",
+    "bil-0002",
+    "bil-0042"
+   ],
+   "steps": [
+    {
+     "ep": "S01E01",
+     "move": "Chuck refuses to move on Spyros's timetable, says he will wait until Axe is 'gettable', and with his father baits Axe into buying the $63 million beach house that lands him on the front page."
+    },
+    {
+     "ep": "S01E02",
+     "move": "He spots that the Birch story is Axe's decoy, settles with Birch in days, and brings the office back to Axe."
+    },
+    {
+     "ep": "S01E03",
+     "move": "He trades Lonnie's Statue of Liberty case to the Eastern District to win back Decker, then threatens Decker's parents at a Little League game until Decker agrees to come in."
+    },
+    {
+     "ep": "S01E04",
+     "move": "Decker's proffer gives him Dollar Bill Stearn instead of Axe, and Chuck redirects the climb one rung sideways."
+    },
+    {
+     "ep": "S01E05",
+     "move": "Connerty places Stearn in Iowa through hotel reward points, Chuck extracts the Pepsum researcher's statement, and Stearn is arrested on Axe's trading floor."
+    },
+    {
+     "ep": "S01E06",
+     "move": "Stearn will not flip; the $1.9 billion settlement dies when Chuck adds a lifetime trading ban, and Chuck recuses on paper while telling Connerty to report to him with no paper trail."
+    },
+    {
+     "ep": "S01E07",
+     "move": "Still officially recused, he forces Spyros back into line by confronting him with the woman Spyros assaulted, and talks Connerty out of quitting."
+    },
+    {
+     "ep": "S01E08",
+     "move": "On his father's advice his team fabricates an SEC file on an innocent trader for Axe's mole hunt, and Chuck feeds the 9/11 chapter to Dimonda."
+    },
+    {
+     "ep": "S01E09",
+     "move": "He hangs the case on informant Donnie Caan's Kemlot trade and leaks just enough progress to DeGiulio to keep the case in his office."
+    },
+    {
+     "ep": "S01E10",
+     "move": "Donnie collapses with terminal cancer, Chuck realizes his evidence was planted, the case goes to the Eastern District, and he tells his team they will retreat so they can attack, starting with Judge Wilcox."
+    },
+    {
+     "ep": "S01E11",
+     "move": "He trades DeGiulio a judgeship for the right to choose his successor and swallows his pride to get his father to deliver the Senator."
+    },
+    {
+     "ep": "S01E12",
+     "move": "He launders a tip from Wendy's session notes through Lonnie; it collapses, Wendy throws him out, and he answers by feeding Axe's janitor a fake bugging story."
+    }
+   ]
+  },
+  {
+   "title": "Stratego Over the Knockout",
+   "show": "billions",
+   "category": "TIME",
+   "secondary": [
+    "WAR",
+    "ALLY",
+    "RULE"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S06E06",
+    "S06E01",
+    "S06E02",
+    "S06E05",
+    "S06E08",
+    "S06E09",
+    "S06E10",
+    "S06E12"
+   ],
+   "strategist": "Chuck Rhoades (with Dave Mahar)",
+   "target": "Mike Prince and New York's billionaire class",
+   "context": "Mike Prince, a billionaire who has bought Axe's old firm, is using it to buy legitimacy, first with a bid for the 2028 Olympics and then a run for the presidency. Chuck is now New York Attorney General. After beating a cannon-firing neighbor as a private citizen with a turtle survey and a town petition, he concludes that the state's laws are too weak to beat billionaires head on.",
+   "play": "Chuck stops looking for a single knockout and switches to Stratego, a game of many small encounters that wear the opponent down. He lets third parties with their own reasons carry each fight: doormen against the billionaire Bud Lazzara, the transit union against Prince's gift of driverless subway cars. He hires Dave Mahar, the defense lawyer who beat him, and reaches Governor Sweeney before Prince can, so Prince ends up giving New York $2 billion for almost nothing. On the last night of the legislative session he threatens Prince's partners with a carried-interest clause until they publicly disown the Olympic bid, and the Games go to Los Angeles. Then he overplays it: he visits Prince to offer him 'dignity in defeat'.",
+   "why_it_works": "Attrition through proxies suits a weak legal hand. Unions, legislators and business partners each have their own motives to fight, so every engagement costs Chuck little and costs Prince money and allies without a trial. Reaching the decision-maker first means Prince's fallback is already closed when he reaches for it.",
+   "outcome": "Chuck wins the Olympics round and costs Prince $2 billion, but the victory lap gives Prince a personal motive. Prince stages a distraction for Chuck while he buys the Senate votes that remove him from office in S06E09.",
+   "counter": "Prince's winning counter used Chuck's own reflex: a campaigner known to charge every provocation can be steered by staged ones. Before that, Prince should have consulted the unions and locked in the governor before announcing the gift.",
+   "principle": "Against a stronger opponent, win many small, cheap engagements through people who already have reasons to fight him, and never take the victory lap in person.",
+   "in_practice": "Against a bigger competitor, contest specific accounts and tenders where customers or partners already have reasons to prefer you, and let the losses accumulate on their side. When you win a round, bank it quietly; gloating turns a commercial loss into a personal vendetta.",
+   "quote": {
+    "text": "I certainly can't as the Attorney General of the State of New York with the pathetic laws at my disposal.",
+    "speaker": "Chuck Rhoades",
+    "ep": "S06E01"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "bil-A0318",
+    "bil-0262"
+   ],
+   "steps": [
+    {
+     "ep": "S06E01",
+     "move": "From his farm, Chuck beats his cannon-firing neighbor with a bog turtle survey and a town petition, and concludes he can beat billionaires as a citizen but not with the Attorney General's laws."
+    },
+    {
+     "ep": "S06E02",
+     "move": "He uses a video of Bud Lazzara paying off a union boss to win the doormen a raise, then leaks the story anyway and declares no one is safe."
+    },
+    {
+     "ep": "S06E03",
+     "move": "He disrupts Prince's Olympic launch and starts watching the land bank purchases."
+    },
+    {
+     "ep": "S06E04",
+     "move": "He tells Kate to take Prince's meeting for intelligence, and she takes the job instead."
+    },
+    {
+     "ep": "S06E05",
+     "move": "He recruits Dave Mahar, the defense lawyer who impressed him from the other side of the table."
+    },
+    {
+     "ep": "S06E06",
+     "move": "Switching to Stratego, he sends Dave to read Kate, learns of the subway car gift, backs the transit union and reaches Sweeney first; Prince pays $2 billion for almost nothing."
+    },
+    {
+     "ep": "S06E07",
+     "move": "His team identifies Prince's scholarship arrangement as bribery through Colin Drache, but Drache vanishes as New York wins the Games."
+    },
+    {
+     "ep": "S06E08",
+     "move": "On the last night of the session he threatens Prince's partners with a carried-interest clause until they disown the bid, and the Games go to Los Angeles."
+    },
+    {
+     "ep": "S06E09",
+     "move": "He offers Prince 'dignity in defeat'; Prince answers with a staged park incident that absorbs Chuck while he buys the Senate votes, and Chuck is removed as Attorney General."
+    },
+    {
+     "ep": "S06E10",
+     "move": "On a forced retreat Chuck realizes Prince needed to see him fall, and decides the mask can be made to slip."
+    },
+    {
+     "ep": "S06E11",
+     "move": "He refuses Prince's job offer and parks a screen showing Prince's rising net worth outside his home."
+    },
+    {
+     "ep": "S06E12",
+     "move": "He seizes Prince's crypto drives with a fake warrant; Prince lets them lock and burns $3.5 billion, Chuck is arrested, and Dave's court order frees him."
+    }
+   ]
+  },
+  {
+   "title": "Robert Zane's Standing Offer",
+   "show": "suits",
+   "category": "TIME",
+   "secondary": [
+    "NEG",
+    "POW",
+    "ALLY"
+   ],
+   "scope": "series",
+   "episodes": [
+    "S07E16",
+    "S02E13",
+    "S02E14",
+    "S05E16",
+    "S06E10",
+    "S06E11",
+    "S07E15",
+    "S08E01"
+   ],
+   "strategist": "Robert Zane (and, at the decisive moment, Mike Ross)",
+   "target": "Jessica Pearson's firm, later run by Harvey Specter and Louis Litt",
+   "context": "Robert Zane runs a rival New York firm and is the father of Rachel, who is engaged to Mike Ross, an associate at Jessica Pearson's firm. Zane first appears as opposing counsel in S02E13 and proposes a merger that same week. Over six seasons he is a rival, a reluctant ally and a persistent suitor.",
+   "play": "Zane raises the merger whenever Jessica's firm is weak: in the middle of a class action fight, when Jessica herself later comes to him on the ropes, after she leaves the firm. Each time he is refused, and each time he leaves the offer standing. The yes finally comes from the other side of the table. When Zane's own partners go behind his back to back a takeover of Harvey and Louis's firm, Mike sees that this is the one moment Zane has reason to agree. They offer the rebel partners what they want and ask Zane to bring enough loyal partners over to outvote them. Zane merges in overnight, before the takeover can land, with his name first on the door.",
+   "why_it_works": "A standing offer costs little to maintain and is ready the moment circumstances change. The merger that failed for years goes through only when both sides are weak at once, which makes it a partnership of need for both. Mike's contribution is pure timing: the same request, made the day after Zane's partners betrayed him.",
+   "outcome": "The firm becomes Zane Specter Litt and Zane becomes managing partner after Harvey breaks a promise to stay out of a case. Zane later loses the job when he breaks his own word, and finally takes the blame for Harvey's privilege breach and gives up his license.",
+   "counter": "Jessica's defense was never to merge from weakness and to answer Zane's threats in public. It worked for years; it stopped working only when the firm's own partners were ready to sell it.",
+   "principle": "Keep the offer standing, and make the ask on the day the other side's situation changes.",
+   "in_practice": "If a partnership or acquisition makes sense and the other party refuses, stay in touch and keep terms available. Watch for the setback on their side (a lost partner, a lost client, a reorganization) and make the ask that week.",
+   "quote": {
+    "text": "We've asked him a thousand times. Have we ever asked him right after Rand and Kaldor cut his legs out?",
+    "speaker": "Mike Ross",
+    "ep": "S07E16"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-A1701"
+   ],
+   "borrowed_from": "sui-A1701",
+   "borrowed_category": "NEG",
+   "steps": [
+    {
+     "ep": "S02E13",
+     "move": "Zane reopens a signed settlement, threatens to split 113 plaintiffs into 45 cases, and proposes a merger; Jessica answers with a press release."
+    },
+    {
+     "ep": "S02E14",
+     "move": "He refuses Jessica's merger offer and fast-tracks seven cases, expecting to pick up the pieces for free."
+    },
+    {
+     "ep": "S04E11",
+     "move": "He calls in the favor Harvey owes him with a threat of gossip, making Harvey get Scottie to drop a case."
+    },
+    {
+     "ep": "S05E16",
+     "move": "After Mike's plea he uses Katrina's recording of Louis and the morals clause to free partners from their noncompetes, and hires Soloff."
+    },
+    {
+     "ep": "S06E10",
+     "move": "He tips Harvey that the founding client is shopping around and offers Jessica a merger, which she turns down."
+    },
+    {
+     "ep": "S06E11",
+     "move": "He offers again, predicts the partners will fight over Jessica's chair, and waives his associates' noncompetes when Louis raids them."
+    },
+    {
+     "ep": "S07E15",
+     "move": "Rand and Kaldor secretly back Stanley Gordon's plan to merge the firm into theirs."
+    },
+    {
+     "ep": "S07E16",
+     "move": "Mike asks Zane right after the betrayal; he merges his loyal partners in overnight, before Gordon's group can act, with his name first."
+    },
+    {
+     "ep": "S08E01",
+     "move": "He gets Harvey to promise to stay out of a proxy fight, and when Harvey breaks it, takes the managing partnership."
+    },
+    {
+     "ep": "S08E16",
+     "move": "He takes the blame for Harvey's privilege breach and retires."
+    }
+   ]
+  },
+  {
+   "title": "The Trap Was Time",
+   "show": "billions",
+   "category": "TIME",
+   "secondary": [
+    "TRAP",
+    "INT"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S02E05",
+    "S02E04"
+   ],
+   "strategist": "Chuck Rhoades",
+   "target": "Lawrence Boyd",
+   "context": "Chuck is running a wired informant, the financier Pete McKinnon, against Lawrence Boyd, who is rigging Treasury bids. McKinnon botches a clumsy approach to one of Boyd's associates and quits. Chuck's deputy Kate Sacker wants the office to be more proactive.",
+   "play": "Chuck lets McKinnon walk out and leaves him alone: 'Let it eat at him.' He tells Sacker a story about a boyhood wolf hunt in Canada where tracking, bait and callers all failed. McKinnon comes back on his own with a dinner invitation from Boyd. Chuck coaches him to confide his worry about the associate so that Boyd will reassure him. At dinner McKinnon gets drunk and the FBI wants to pull him, but Chuck holds. McKinnon confronts Boyd, and Boyd says on tape that the bid-rigging restarted because he ordered it. Chuck then finishes the story for Sacker: the old hunter told them to stay in one place all day.",
+   "why_it_works": "A motivated informant returns on his own if nobody chases him, and a man who feels safe explains himself to reassure a nervous ally. Holding steady through the messy moment gives the target the time to make his own mistake.",
+   "outcome": "Boyd incriminates himself on tape and is arrested the next day.",
+   "counter": "Boyd should have ended the conversation the moment a drunk associate raised criminal conduct at a restaurant table. Reassurance offered to a nervous partner is exactly what a wire is waiting for.",
+   "principle": "Once you have set the conditions, waiting is the move.",
+   "in_practice": "Once a proposal is with the client and the relationship is sound, chasing usually costs more than silence. Let the other party come back to you, and stay calm when a meeting gets messy; people reveal the most when they are reassuring someone.",
+   "quote": {
+    "text": "We stayed in the same location all day. The trap was time.",
+    "speaker": "Chuck Rhoades",
+    "ep": "S02E05"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "bil-0080"
+   ]
+  },
+  {
+   "title": "The Magic Horse",
+   "show": "peaky-blinders",
+   "category": "TIME",
+   "secondary": [
+    "DEC",
+    "REP"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S01E01",
+    "S01E02"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "The betting public of Birmingham",
+   "context": "Tommy Shelby runs the Peaky Blinders, a Birmingham gang with an illegal betting business, in 1919. Times are hard and, as he tells his brother Arthur, people need a reason to lay a bet. He wants a large pool of money on a single horse that he controls.",
+   "play": "Tommy has a young Chinese woman perform a 'powder trick' spell over the horse Monaghan Boy in front of washerwomen, telling them to bet but keep it secret. The fixed horse wins and the rumor of a magic horse spreads. He lays out the sequence: a second win to draw in all of Small Heath, then a third run with the whole of Birmingham betting on it, and on that run the horse loses. In the next episode Monaghan Boy finishes last with £3,000 on him, and Tommy pays some of the money back to local people to keep them onside.",
+   "why_it_works": "Each win is proof that recruits the next, larger wave of believers, so the stake grows without Tommy having to sell it. He waits to collect until the crowd is at its largest and most confident, and the story travels as whispered rumor, so the bookmaker looks like a bystander.",
+   "outcome": "The book takes money from across the city. The unusual pattern (two wins, then last with heavy money on it) also brings Billy Kimber, who controls the racecourses, to the Garrison pub, because the fix was run without his permission.",
+   "counter": "Be skeptical of a sure thing whose reputation spreads by whisper instead of evidence. Kimber's accountant spots the scheme from the betting records, which is exactly how an overseer should catch it.",
+   "principle": "Let small, visible wins build belief, and cash in only when belief is at its peak.",
+   "in_practice": "Early, visible proof points build credibility faster than claims: sequence your case studies so each one widens the audience for the next, and save the big ask for when confidence is highest. The same pattern should make you wary of any offer whose appeal rests on a streak.",
+   "quote": {
+    "text": "And that time, when we are ready, the horse will lose.",
+    "speaker": "Tommy Shelby",
+    "ep": "S01E01"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "pea-0320"
+   ]
+  },
+  {
+   "title": "Let Dog Eat Dog",
+   "show": "peaky-blinders",
+   "category": "TIME",
+   "secondary": [
+    "RISK"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S01E06"
+   ],
+   "strategist": "Inspector Chester Campbell",
+   "target": "The Peaky Blinders and Billy Kimber's gang",
+   "context": "Inspector Campbell, sent from Belfast to clean up Birmingham, has recovered a stolen shipment of guns but cannot arrest the Shelbys without a trial his superiors, Churchill among them, do not want. He learns that Billy Kimber's men are heading for Small Heath in force.",
+   "play": "Campbell orders every officer stood down across Small Heath and the neighboring districts and tells his sergeant the vehicles should not be impeded. His plan is to let the two gangs destroy each other and then pick up what is left. When his sergeant reports rifle and machine-gun fire, Campbell calls it the raving of a shell-shocked soldier and refuses to act.",
+   "why_it_works": "In principle, doing nothing at the right moment lets two enemies spend their strength on each other at no cost to the one who waits, with the absence of the law as an alibi.",
+   "outcome": "It backfires. The Shelbys had prepared (allies from the Lee family, a hidden machine gun, a legal business ready to absorb Kimber's pitches), so they win. With no police present, no one witnesses Kimber's death, and the Shelbys emerge as one of the largest legal racetrack operations in the country. Campbell's own sergeant loses faith in him.",
+   "counter": "Campbell needed to know who was better prepared before he chose to wait. The side that has planned for the fight is the one your absence will help.",
+   "principle": "Letting your rivals fight works only if you can predict who will win.",
+   "in_practice": "Standing back while two competitors undercut each other can be sound, but if one of them is likely to consolidate the market, your inaction may create a stronger rival. Work out who is better prepared before you decide to wait.",
+   "quote": {
+    "text": "Let dog eat dog. Let the beasts devour each other. And then we shall pick the bones.",
+    "speaker": "Inspector Campbell",
+    "ep": "S01E06"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "pea-0339"
+   ]
+  },
+  {
+   "title": "Let the Boy Come to Her",
+   "show": "peaky-blinders",
+   "category": "TIME",
+   "secondary": [
+    "PSY",
+    "LEAD"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S02E02",
+    "S02E03",
+    "S02E04"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "His aunt Polly Gray and her son Michael",
+   "context": "Polly Gray, Tommy's aunt and the family's treasurer, is unhappy and drifting from the family. Her son Michael was taken by the parish as a baby and is now 17, living with adoptive parents who have told him lies about his mother.",
+   "play": "Tommy bribes his way through police and council contacts to the adoption records. He visits the adoptive home posing as a council officer, tells Michael his real name and leaves Polly's address on a card. When Polly pulls a gun and demands to know where her son is, Tommy refuses: a confrontation would bring the police and frighten the boy, so she must wait until Michael is old enough to decide for himself.",
+   "why_it_works": "Someone who chooses to come stays far more willingly than someone who is fetched. By giving Michael the information and denying Polly the chance to force the meeting, Tommy lets the reunion happen on the boy's terms, which is the only way it will hold.",
+   "outcome": "Michael turns up on Polly's doorstep asking for Elizabeth Gray. Tommy binds Polly back to the family. The cost is that Michael is drawn into the life Polly wanted to keep him from.",
+   "counter": "Polly, kept in the dark, nearly wrecks the plan with the gun. Had Tommy told her why she had to wait, she could have waited willingly.",
+   "principle": "Give people the means to choose you, then get out of the way.",
+   "in_practice": "When courting a client or a senior hire, make the path to you clear and easy, then resist the urge to chase. A decision they reach freely holds better than one you pressure out of them.",
+   "quote": {
+    "text": "Pulling the gun is why I can't tell you. Pol, I'm sorry, you're going to have to wait till he's 18. Till he's old enough to make his own decision.",
+    "speaker": "Tommy Shelby",
+    "ep": "S02E02"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "pea-0349"
+   ]
+  },
+  {
+   "title": "Revenge on a Delay",
+   "show": "peaky-blinders",
+   "category": "TIME",
+   "secondary": [
+    "DEC",
+    "TRAP"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S06E06",
+    "S06E01",
+    "S06E02",
+    "S06E04"
+   ],
+   "strategist": "Tommy and Arthur Shelby",
+   "target": "Laura McKee's IRA faction and Michael Gray",
+   "context": "The IRA has killed Polly, and her son Michael blames Tommy for her death. Tommy needs both the IRA faction led by Laura McKee and Michael for a smuggling deal with Boston, and cannot strike at either without losing it.",
+   "play": "Tommy tells Michael that revenge on a powerful enemy requires time and choosing your moment. He tells Laura McKee that in the Shelby family business comes before vengeance, and he silences any mention of Polly. He works with her faction, brings her to his home and arranges their guns. When an American rival hires the same faction to kill Arthur, Tommy's false information brings them to the Garrison, where Arthur is waiting. Arthur disarms them, tells their commander Polly's name, and kills her. On the same day Tommy settles with Michael.",
+   "why_it_works": "Apparent forgiveness lowers the enemy's guard and keeps them useful until the business is done. Waiting lets Tommy choose the ground, so the enemies come to a place he has prepared.",
+   "outcome": "Polly's killers and Michael are dead within a single day. Arthur's words at the Garrison make clear the killing was about Polly all along.",
+   "counter": "McKee and Michael both accepted Tommy's claim that business came first. A rival who once had every cause for revenge and now seems indifferent should be treated as still dangerous.",
+   "principle": "Postpone the settling of scores until the deal is done and the ground is yours.",
+   "in_practice": "When a partner or competitor has wronged you, keep working with them while the work serves you, and choose the moment and the venue for any confrontation yourself. Do not let the grievance set the timetable.",
+   "quote": {
+    "text": "Laura McKee, in the Shelby family, business comes before issues of vengeance.",
+    "speaker": "Tommy Shelby",
+    "ep": "S06E02"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "pea-0472"
+   ]
+  },
+  {
+   "title": "Hold the Ground, Strike at Night",
+   "show": "vikings",
+   "category": "TIME",
+   "secondary": [
+    "WAR"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S01E07"
+   ],
+   "strategist": "Ragnar Lothbrok",
+   "target": "Lord Aethelwulf's Saxon army",
+   "context": "Ragnar's three ships have sailed up the Tyne and the Northmen have landed and dug in. A larger Saxon army under Aethelwulf, the king's brother, arrives above them. Ragnar's brother Rollo wants to attack; Aethelwulf's officers want to charge.",
+   "play": "Ragnar refuses to attack uphill: 'We can't afford to lose half our men by being stupid and attacking.' He waits to see what the Saxons will do. Aethelwulf hesitates too, trying to think of a way to draw the Northmen out of their position, and shouts down his own officers. While the Saxons wait and relax, Ragnar's men creep into their camp at night and fall on the sleeping army.",
+   "why_it_works": "The side that has to attack a prepared position usually loses, so Ragnar lets the Saxons spend their time and their edge. Waiting also changes the enemy: an army that has sat watching all day stops expecting an attack, and a night raid turns their numbers into confusion.",
+   "outcome": "The Saxon army is routed and Aethelwulf is captured. The Northmen take better weapons and horses, and Ragnar now holds the king's brother as leverage.",
+   "counter": "Once Aethelwulf chose to wait, he needed to fortify his own camp and post alert sentries; or he could have attacked before the Northmen were dug in, as his officers urged.",
+   "principle": "Let the impatient side attack, and strike at the hour they have stopped expecting you.",
+   "in_practice": "In a competitive deal, do not rush into a price war just because a rival is visible. Hold your position, let them commit, then move where they have stopped paying attention, such as a stakeholder they have ignored.",
+   "quote": {
+    "text": "We wait until the odds are in our favor.",
+    "speaker": "Ragnar Lothbrok",
+    "ep": "S01E07"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "vik-0510"
+   ],
+   "borrowed_from": "vik-0510",
+   "borrowed_category": "WAR"
+  },
+  {
+   "title": "Announce First, Ask Second",
+   "show": "house-of-cards",
+   "category": "TIME",
+   "secondary": [
+    "INT",
+    "LEV"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S03E04"
+   ],
+   "strategist": "Frank Underwood",
+   "target": "Solicitor General Heather Dunbar and Justice Robert Jacobs",
+   "context": "Frank is now President. He learns that his party's leadership is courting his Solicitor General, Heather Dunbar, to challenge him in 2016. His fixer Jackie Sharp reports that Dunbar is clean, so there is nothing to knock her out with.",
+   "play": "Frank praises Dunbar, confides that Supreme Court Justice Jacobs has Alzheimer's, and offers her Jacobs' seat: 'a job for life' that Republicans would not dare block. He demands an answer on the spot, and she accepts. Only then does he go to Jacobs, who has decided not to retire after all. Frank leans on him: if the illness leaks, every opinion he wrote will be questioned. Jacobs is a close friend of Dunbar and tells her about the threat. She resigns and announces her candidacy on the steps of the Supreme Court.",
+   "why_it_works": "The offer itself is sound: a real prize matched to Dunbar's ambitions that removes a rival without an attack. The flaw is the order of operations. The plan depends on a third party, Jacobs, and Frank asks him second, after he has already committed to Dunbar, leaving himself no way to force the seat open without coercion.",
+   "outcome": "It backfires. The pressure on Jacobs gives Dunbar a moral reason to run, and Frank admits to Claire that he should have announced the nomination before he asked anyone. Claire's view is that Dunbar would have run anyway once the leadership had whispered in her ear.",
+   "counter": "Frank did not know Dunbar and Jacobs were close. Mapping the private relationships before leaning on one person to benefit another would have exposed the risk.",
+   "principle": "When a deal has two parts, lock in the part you cannot control before you promise the part you can.",
+   "in_practice": "Before you promise a client a start date or a named expert, secure the resource first. And before you apply pressure inside a client organization, map the informal relationships as well as the org chart, because people you think are separate may compare notes.",
+   "quote": {
+    "text": "It's my own damn fault. Shouldn't have given Jacobs the choice. I should've just announced her nomination before I even asked her.",
+    "speaker": "Frank Underwood",
+    "ep": "S03E04"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "hou-0847"
+   ]
+  },
+  {
+   "title": "The Captive Kept in Reserve",
+   "show": "house-of-cards",
+   "category": "TIME",
+   "secondary": [
+    "REP",
+    "DEC"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S05E01"
+   ],
+   "strategist": "Frank Underwood",
+   "target": "The public and Congress",
+   "context": "The country believes Joshua Masterson, one of the terrorists who killed an American hostage, is still at large, and the manhunt dominates the news in the run-up to the election. Frank wants public fear high and a victory he can release when it suits him.",
+   "play": "Frank lets the country believe Masterson is on the run while he is secretly held and interrogated. FBI teams stage a visible search in the woods on the Virginia border, and Frank insists on being on site. When interrogators say Masterson has nothing more to give, Frank orders him killed, asks for usable footage and wants everything else destroyed. He then announces the death, credits his officials, and uses the moment to urge Congress to speed up a declaration of war.",
+   "why_it_works": "While the suspect is 'at large', public fear works for Frank, and he alone decides when it ends. Releasing the victory at a chosen moment lets him attach a demand to it.",
+   "outcome": "Frank gets the credit and the platform for his war declaration. The widow of the murdered hostage still refuses his call and tells him not to use her husband's name.",
+   "counter": "Reporters could have pressed on the shifting search locations and asked for a timeline of the capture. A secret held in custody is hard to hide from people who check the details.",
+   "principle": "A win whose timing you control is worth more than a win announced the moment it lands.",
+   "in_practice": "Hold good news, such as a major client signing, until it can support a decision you need, provided that holding it misleads no one who is owed the information. Frank's version, which deceives the public and ends in a killing, shows where the line is.",
+   "quote": {
+    "text": "Did you think I didn't already have him?",
+    "speaker": "Frank Underwood",
+    "ep": "S05E01"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "hou-0940"
+   ]
+  },
+  {
+   "title": "Don't Decide While Reeling",
+   "show": "suits",
+   "category": "TIME",
+   "secondary": [
+    "LEAD",
+    "DEF"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S02E10",
+    "S02E12"
+   ],
+   "strategist": "Jessica Pearson",
+   "target": "Harvey Specter (and, indirectly, Daniel Hardman)",
+   "context": "Jessica Pearson has just lost a partners' vote for control of her firm to Daniel Hardman, the co-founder she once forced out. Minutes later her star lawyer Harvey Specter wants to walk out and take a dozen partners and every associate with him. Jessica's own contract carries a one-year non-compete.",
+   "play": "Jessica refuses to leave, dismissing teaching, writing and travel as 'running'. She tells Harvey they will swallow their pride and wait until they can move from strength, predicting that Hardman will make a mistake quickly. She repeats the rule in S02E12 when Harvey demands name partnership, reminding him that on the day of the loss his instinct was to quit.",
+   "why_it_works": "A defeat creates pressure to act at once, and those are the worst conditions for a big decision. Staying inside keeps the access, information and legal standing that walking out would throw away.",
+   "outcome": "Staying lets Harvey uncover Hardman's fraud from inside the firm, and Hardman is ousted within days.",
+   "counter": "Hardman needed to press his advantage hard in the first days, before his opponents recovered; a winner who relaxes gives the loser time to regroup.",
+   "principle": "Never make a major decision in the hour after a defeat; stay in the building and wait for your opponent's mistake.",
+   "in_practice": "After losing a big client or a pitch, set a cooling-off rule before any resignation, restructure or public response. The best counter-moves usually appear once the shock has worn off, and only to people who are still in the room.",
+   "quote": {
+    "text": "We suffered a loss, and you don't make major life decisions when you're reeling from a loss.",
+    "speaker": "Jessica Pearson",
+    "ep": "S02E10"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "sui-1149"
+   ]
+  },
+  {
+   "title": "The Right Claim on the Right Day",
+   "show": "suits",
+   "category": "TIME",
+   "secondary": [
+    "LEV",
+    "NEG"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S03E15"
+   ],
+   "strategist": "James Quelling",
+   "target": "Harvey Specter and his client Marathon Footwear",
+   "context": "Marathon Footwear, Harvey's client, goes public on Friday. James Quelling is a broke plaintiff's lawyer with a weak claim that the company's playground surfaces contain toxins.",
+   "play": "Quelling approaches Harvey days before the IPO and makes the timing of his threat explicit: he will hold off filing until Friday. He has one report of possible toxins and not one sick child. He asks what the stock price will be if the suit is in the Journal the morning the bell rings. When Harvey offers $100,000 with a clause barring him from representing other plaintiffs, he claims 100 more are waiting and raises his price to $1 million.",
+   "why_it_works": "The damage a claim does depends on when it lands, whatever its merits. A weak suit published on IPO morning moves the share price regardless of how it would fare in court months later.",
+   "outcome": "Harvey refuses to pay the inflated price and investigates Quelling himself (his finances and his gambling) instead of the claim. Quelling then finds real leverage and the stakes escalate.",
+   "counter": "Harvey's instinct is the right one against a timing play: examine the person applying the pressure, and clear any disputes well before the date that makes them expensive.",
+   "principle": "A weak claim on the right day can be worth more than a strong one on any other.",
+   "in_practice": "Expect disputes and awkward disclosures to surface just before your biggest moments (a funding round, a launch, a major contract), and clear them in advance so nobody can hold them over the date.",
+   "quote": {
+    "text": "And you have an I.P.O. on Friday, and if this suit appears in the Journal that morning, what do you think the stock price is gonna be when they ring that bell?",
+    "speaker": "James Quelling",
+    "ep": "S03E15"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1255"
+   ]
+  },
+  {
+   "title": "Motion to Delay",
+   "show": "suits",
+   "category": "TIME",
+   "secondary": [
+    "PSY",
+    "RULE"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S08E09"
+   ],
+   "strategist": "Harvey Specter (with Robert Zane)",
+   "target": "Tommy Bratton",
+   "context": "Tommy Bratton, a name partner at the rival firm Bratton Gould, is suing Harvey's firm for $20 million over a recording, accusing it of conspiracy, even though a trial could expose him to prison. Donna Paulsen, the firm's COO, keeps asking why a man would take that risk for revenge. Harvey finds the answer: three months ago Bratton was diagnosed with cancer and given a year to live.",
+   "play": "Harvey confronts Bratton and tells him he knows. He lays out the firm's trial strategy as nothing but motion after motion to delay, so that even a win would come after Bratton is dead. He pairs the threat with an exit: drop the suit and spend the time you have left with your family. When Bratton offers to drop the suit in exchange for nine more months at his firm, Harvey refuses to let him back in the game.",
+   "why_it_works": "Once you know the other side's real deadline, time becomes a weapon: procedure that costs you little can cost them everything. Donna's question about motive is what uncovered the deadline.",
+   "outcome": "It backfires emotionally. Bratton says the firm has given him two more years to live on hate alone and vows to fight on. He dies of a heart attack soon afterwards and the suit is dropped, which leaves Robert Zane shaken more than relieved.",
+   "counter": "Bratton's secret was his weakness. Keeping it hidden, or settling for his nine months before Harvey knew, would have removed the lever.",
+   "principle": "Find out what clock your opponent is racing, then make time your ally.",
+   "in_practice": "In a dispute or a negotiation, ask what deadline the other side faces (a funding round, year-end, a board meeting) and let it shape your timing. Leave them a dignified exit, or a negotiation becomes a grudge.",
+   "quote": {
+    "text": "The wheels of justice turn slowly, Tommy, which means even if you win, you won't be here to see it.",
+    "speaker": "Harvey Specter",
+    "ep": "S08E09"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "sui-1602"
+   ],
+   "borrowed_from": "sui-1602",
+   "borrowed_category": "PSY"
+  },
+  {
+   "title": "Waiting for the Girl to Call",
+   "show": "suits",
+   "category": "TIME",
+   "secondary": [
+    "LEAD",
+    "PSY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S04E01"
+   ],
+   "strategist": "Harvey Specter (and Louis Litt, separately)",
+   "target": "Mike Ross; Jessica Pearson",
+   "context": "Mike Ross, Harvey's former associate, now works in investment banking and has become a client. He asks Harvey to back a friendly bid for a company. Harvey thinks the idea is naive and decides to let Mike come back to him. Louis Litt, who has spotted that the SEC is coming, applies the same logic and waits for Jessica to come to him.",
+   "play": "Harvey tells Donna there is no need to act, because 'you don't beg the girl to go out with you. You wait.' He gives Rachel the day off so Mike will see that Harvey is putting no work into his idea. Donna warns him that this is about control and that he would never treat a real client this way. Mike reads the message, puts the firm in review and starts interviewing other firms. Louis, meanwhile, holds back so the partners will stew and his leverage will grow.",
+   "why_it_works": "It does not work. Playing hard to get only pays when the other side has nowhere else to go and the clock is on your side. Mike was now a paying client with options, and Louis had a competitor he was not watching.",
+   "outcome": "When a rival arrives with the same target, Harvey is conflicted out and has to drop Mike, which starts the season's war between them. Louis loses the SEC work to an outside hire, Jeff Malone, and Donna tells him what went wrong with Harvey's advice: 'He waited, and now it's too late.'",
+   "counter": "Harvey needed to recognize that the relationship had changed and meet Mike as a client. Louis needed to act on his information before someone else could.",
+   "principle": "Waiting is a strategy only when the other side has no alternatives and the clock is yours.",
+   "in_practice": "When a former junior becomes a client, or a competitor is circling the same opportunity, waiting to be asked is a gamble you will usually lose. Engage seriously and pitch first.",
+   "quote": {
+    "text": "He waited, and now it's too late.",
+    "speaker": "Donna Paulsen",
+    "ep": "S04E01"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1268"
+   ],
+   "borrowed_from": "sui-1268",
+   "borrowed_category": "LEAD"
+  }
+ ]
+}

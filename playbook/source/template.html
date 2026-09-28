@@ -1,0 +1,589 @@
+<title>Five Houses Playbook</title>
+<meta name="description" content="A strategy playbook drawn from Billions, Peaky Blinders, Vikings, House of Cards and Suits.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;800;900&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<style>
+:root{
+  --paper:#F3F4F1; --paper-2:#E9EBE6; --paper-3:#FFFFFF; --ink:#1A1E1C; --ink-2:#4F5752; --ink-3:#737B76;
+  --rule:#D2D6CF; --accent:#8A5B12; --accent-ink:#FFFFFF; --accent-soft:#F0E5CF;
+  --billions:#2E6A4E; --peaky-blinders:#7C4A26; --vikings:#2B5A86; --house-of-cards:#9C2A2A; --suits:#3A4A73;
+  --display:"Big Shoulders Display","Arial Narrow","Roboto Condensed",Impact,sans-serif;
+  --serif:"Source Serif 4","Iowan Old Style","Palatino Linotype",Georgia,serif;
+  --mono:"IBM Plex Mono",ui-monospace,"SFMono-Regular",Menlo,Consolas,monospace;
+  --side:288px; --topbar:56px;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    color-scheme:dark;
+    --paper:#121513; --paper-2:#191D1A; --paper-3:#1E2320; --ink:#E6E8E3; --ink-2:#AEB5B0; --ink-3:#848C87;
+    --rule:#2E3531; --accent:#D6A55A; --accent-ink:#1A1408; --accent-soft:#2D2618;
+    --billions:#72C197; --peaky-blinders:#D69063; --vikings:#83B2E0; --house-of-cards:#E58080; --suits:#9DB0E0;
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme:dark;
+  --paper:#121513; --paper-2:#191D1A; --paper-3:#1E2320; --ink:#E6E8E3; --ink-2:#AEB5B0; --ink-3:#848C87;
+  --rule:#2E3531; --accent:#D6A55A; --accent-ink:#1A1408; --accent-soft:#2D2618;
+  --billions:#72C197; --peaky-blinders:#D69063; --vikings:#83B2E0; --house-of-cards:#E58080; --suits:#9DB0E0;
+}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{background:var(--paper);color:var(--ink);font-family:var(--serif);font-size:18px;line-height:1.6;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+a{color:inherit}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:2px}
+h1,h2,h3{text-wrap:balance;margin:0}
+p{margin:0}
+
+/* ---------- top bar ---------- */
+.topbar{position:sticky;top:env(safe-area-inset-top,0px);z-index:30;display:flex;align-items:center;gap:12px;height:var(--topbar);padding-inline:16px;background:var(--paper);border-bottom:1px solid var(--rule)}
+.brand{font-family:var(--display);font-weight:800;font-size:22px;letter-spacing:.06em;text-transform:uppercase;text-decoration:none;white-space:nowrap}
+.brand span{color:var(--accent)}
+.menu-btn{display:none;background:none;border:1px solid var(--rule);border-radius:4px;padding:6px 10px;font-family:var(--mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;cursor:pointer}
+.search{flex:1;max-width:420px;margin-left:auto;position:relative}
+.search input{width:100%;height:36px;border:1px solid var(--rule);background:var(--paper-3);color:var(--ink);border-radius:4px;padding:0 12px;font-family:var(--serif);font-size:15px}
+.search input::placeholder{color:var(--ink-3)}
+.showbar{display:flex;gap:6px;flex-wrap:nowrap}
+.showbar button{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--rule);background:transparent;border-radius:999px;padding:4px 10px;font-family:var(--mono);font-size:11.5px;letter-spacing:.04em;cursor:pointer;white-space:nowrap}
+.showbar button .dot{width:8px;height:8px;border-radius:50%;background:var(--c)}
+.showbar button[aria-pressed="false"]{opacity:.45}
+.showbar button[aria-pressed="false"] .dot{background:transparent;border:1px solid var(--c)}
+
+/* ---------- layout ---------- */
+.layout{display:grid;grid-template-columns:var(--side) minmax(0,1fr);min-height:calc(100% - var(--topbar))}
+.side{position:sticky;top:calc(env(safe-area-inset-top,0px) + var(--topbar));height:calc(100vh - var(--topbar) - env(safe-area-inset-top,0px));overflow-y:auto;border-right:1px solid var(--rule);background:var(--paper-2);padding-block:18px 40px;padding-inline:14px}
+.side h4{font-family:var(--mono);font-weight:500;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3);margin:18px 8px 6px}
+.side a{display:flex;align-items:baseline;gap:10px;text-decoration:none;padding:5px 8px;border-radius:4px;font-size:15.5px;line-height:1.3}
+.side a:hover{background:var(--paper-3)}
+.side a.on{background:var(--accent-soft);color:var(--ink)}
+.side a .n{font-family:var(--mono);font-size:11px;color:var(--ink-3);min-width:1.6em}
+.side a .c{margin-left:auto;font-family:var(--mono);font-size:11px;color:var(--ink-3);font-variant-numeric:tabular-nums}
+.main{min-width:0;padding-inline:clamp(16px,4vw,56px);padding-block:36px 120px}
+.page{max-width:44rem;margin:0 auto}
+.wide{max-width:64rem;margin:0 auto}
+
+/* ---------- common bits ---------- */
+.eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
+.muted{color:var(--ink-2)}
+.chip{display:inline-flex;align-items:center;gap:6px;font-family:var(--mono);font-size:12px;letter-spacing:.02em;border:1px solid var(--rule);border-radius:3px;padding:1px 7px;text-decoration:none;white-space:nowrap;background:var(--paper-3)}
+a.chip:hover{border-color:var(--ink-3)}
+.chip .dot{width:7px;height:7px;border-radius:50%;background:var(--c)}
+.show-tag{display:inline-flex;align-items:center;gap:7px;font-family:var(--mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--c)}
+.show-tag::before{content:"";width:9px;height:9px;border-radius:50%;background:var(--c)}
+.scope{font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;padding:2px 7px;border-radius:3px;border:1px solid currentColor;color:var(--ink-2)}
+.scope.long{color:var(--accent)}
+.src{font-family:var(--mono);font-size:11px;letter-spacing:.06em;color:var(--ink-3);border:1px dashed var(--rule);border-radius:3px;padding:2px 7px}
+.pips{display:inline-flex;gap:3px;vertical-align:middle}
+.pips i{width:7px;height:7px;border-radius:1px;background:var(--rule)}
+.pips i.f{background:var(--accent)}
+.btn{display:inline-flex;align-items:center;gap:8px;border:1px solid var(--ink);background:var(--ink);color:var(--paper);border-radius:4px;padding:10px 16px;font-family:var(--mono);font-size:13px;letter-spacing:.08em;text-transform:uppercase;text-decoration:none;cursor:pointer}
+.btn.ghost{background:transparent;color:var(--ink);border-color:var(--rule)}
+
+/* ---------- cover ---------- */
+.cover-title{font-family:var(--display);font-weight:900;text-transform:uppercase;font-size:clamp(64px,13vw,150px);line-height:.86;letter-spacing:.01em;margin-top:8px}
+.cover-title span{color:var(--accent)}
+.cover-sub{font-size:clamp(19px,2.4vw,23px);line-height:1.45;margin-top:22px;max-width:34rem;color:var(--ink-2)}
+.stats{display:flex;flex-wrap:wrap;gap:28px 40px;margin:34px 0 8px;padding:18px 0;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule)}
+.stat b{display:block;font-family:var(--display);font-weight:800;font-size:40px;line-height:1;font-variant-numeric:tabular-nums}
+.stat span{font-family:var(--mono);font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-3)}
+.houses{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px;margin-top:26px}
+.house{border-top:3px solid var(--c);padding-top:10px}
+.house h3{font-family:var(--display);font-weight:800;font-size:24px;text-transform:uppercase;letter-spacing:.03em}
+.house p{font-size:14.5px;line-height:1.45;color:var(--ink-2);margin-top:4px}
+.house .m{font-family:var(--mono);font-size:11.5px;color:var(--ink-3);margin-top:6px}
+.toc-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:0 28px;margin-top:14px}
+.toc-grid a{display:grid;grid-template-columns:2.2em 1fr auto;gap:8px;align-items:baseline;padding:10px 0;border-bottom:1px solid var(--rule);text-decoration:none}
+.toc-grid a .n{font-family:var(--mono);font-size:12px;color:var(--accent)}
+.toc-grid a .t{font-family:var(--display);font-weight:800;font-size:21px;text-transform:uppercase;letter-spacing:.02em;line-height:1.1}
+.toc-grid a .c{font-family:var(--mono);font-size:12px;color:var(--ink-3)}
+.toc-grid a:hover .t{color:var(--accent)}
+.section-h{font-family:var(--display);font-weight:800;font-size:30px;text-transform:uppercase;letter-spacing:.03em;margin-top:48px}
+
+/* ---------- prose ---------- */
+.prose p+p{margin-top:1em}
+.prose h3{font-family:var(--display);font-weight:800;font-size:24px;text-transform:uppercase;letter-spacing:.03em;margin-top:34px;margin-bottom:8px}
+.prose ul{padding-left:1.1em;margin:.6em 0}
+.prose li+li{margin-top:.4em}
+
+/* ---------- chapter ---------- */
+.ch-num{font-family:var(--display);font-weight:900;font-size:120px;line-height:.8;color:var(--accent);opacity:.9}
+.ch-title{font-family:var(--display);font-weight:900;font-size:clamp(44px,7vw,76px);line-height:.92;text-transform:uppercase;letter-spacing:.01em;margin-top:10px}
+.ch-intro{font-size:19px;margin-top:22px}
+ul.principles{margin:28px 0 0;padding:0;border-top:1px solid var(--rule)}
+.principles li{list-style:none;display:grid;grid-template-columns:2em 1fr;gap:6px;padding:12px 0;border-bottom:1px solid var(--rule);font-size:17px}
+.principles li b{font-family:var(--mono);font-weight:500;font-size:12px;color:var(--accent);padding-top:4px}
+.group-h{display:flex;align-items:baseline;gap:12px;margin-top:44px;padding-bottom:8px;border-bottom:2px solid var(--ink)}
+.group-h h3{font-family:var(--display);font-weight:800;font-size:26px;text-transform:uppercase;letter-spacing:.03em}
+.group-h span{font-family:var(--mono);font-size:12px;color:var(--ink-3)}
+.cards{display:grid;grid-template-columns:1fr;gap:0}
+.card{display:grid;grid-template-columns:1fr auto;gap:4px 16px;padding:16px 4px;border-bottom:1px solid var(--rule);text-decoration:none}
+.card:hover{background:var(--paper-2)}
+.card .t{font-family:var(--display);font-weight:800;font-size:23px;line-height:1.1;text-transform:uppercase;letter-spacing:.02em}
+.card .pr{grid-column:1/-1;font-size:16.5px;color:var(--ink-2);line-height:1.45}
+.card .meta{grid-column:1/-1;display:flex;flex-wrap:wrap;gap:6px 12px;align-items:center;margin-top:4px}
+.card .rd{font-family:var(--mono);font-size:11px;color:var(--ink-3)}
+.card.read .t{color:var(--ink-2)}
+.card .star{color:var(--accent);font-size:14px}
+
+/* ---------- play page ---------- */
+.play-head{padding-bottom:22px;border-bottom:2px solid var(--ink)}
+.play-crumbs{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center}
+.play-crumbs a{text-decoration:none}
+.play-title{font-family:var(--display);font-weight:900;font-size:clamp(42px,6.5vw,68px);line-height:.93;text-transform:uppercase;letter-spacing:.01em;margin-top:14px}
+.play-meta{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;margin-top:16px}
+.who{margin-top:14px;font-size:16px;color:var(--ink-2)}
+.who b{color:var(--ink);font-weight:600}
+.maxim{margin-top:26px;font-size:clamp(22px,3vw,27px);line-height:1.35;font-style:italic}
+.maxim::before{content:"The rule";display:block;font-style:normal;font-family:var(--mono);font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);margin-bottom:6px}
+.sec{display:grid;grid-template-columns:9.5rem 1fr;gap:6px 26px;padding:20px 0;border-bottom:1px solid var(--rule)}
+.sec h3{font-family:var(--mono);font-weight:500;font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3);padding-top:5px}
+.sec.key h3{color:var(--accent)}
+.quote{margin:26px 0 6px;padding:18px 22px;background:var(--paper-2);border-radius:4px}
+.quote p{font-size:20px;line-height:1.45}
+.quote p::before{content:"\201C"}
+.quote p::after{content:"\201D"}
+.quote cite{display:block;margin-top:10px;font-style:normal;font-family:var(--mono);font-size:12px;color:var(--ink-3)}
+.practice{margin-top:22px;padding:18px 22px;border:1px solid var(--accent);border-radius:4px}
+.practice h3{font-family:var(--mono);font-weight:500;font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);margin-bottom:6px}
+.ep-ctx{margin-top:30px}
+.ep-ctx h3{font-family:var(--mono);font-weight:500;font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3);margin-bottom:10px}
+details.ep{border-top:1px solid var(--rule);padding:10px 0}
+details.ep summary{cursor:pointer;display:flex;gap:10px;align-items:baseline;list-style:none}
+details.ep summary::-webkit-details-marker{display:none}
+details.ep summary::before{content:"+";font-family:var(--mono);color:var(--accent);width:1em}
+details.ep[open] summary::before{content:"\2212"}
+details.ep summary .code{font-family:var(--mono);font-size:13px;color:var(--ink-3)}
+details.ep summary .tt{font-weight:600}
+details.ep .body{padding:8px 0 4px 1.9em;font-size:16.5px;color:var(--ink-2)}
+.tools{display:flex;gap:10px;margin-top:18px;flex-wrap:wrap}
+.see-also{margin-top:30px}
+.see-also h3{font-family:var(--mono);font-weight:500;font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3);margin-bottom:4px}
+
+.steps{margin:0;padding:0;list-style:none;position:relative}
+.steps li{display:grid;grid-template-columns:4.6rem 1fr;gap:10px;padding:7px 0;position:relative}
+.steps li .e{font-family:var(--mono);font-size:12px;padding-top:4px}
+.steps li .e a{text-decoration:none;color:var(--accent)}
+.steps li .e a:hover{text-decoration:underline}
+/* ---------- pager ---------- */
+.pager{position:fixed;left:var(--side);right:0;bottom:0;z-index:25;display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:10px;padding:10px clamp(16px,4vw,56px);padding-bottom:calc(10px + env(safe-area-inset-bottom,0px));background:var(--paper);border-top:1px solid var(--rule)}
+.pager a{display:flex;flex-direction:column;text-decoration:none;min-width:0}
+.pager a.next{text-align:right;align-items:flex-end}
+.pager a .l{font-family:var(--mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--accent)}
+.pager a .t{font-family:var(--display);font-weight:800;font-size:17px;text-transform:uppercase;letter-spacing:.02em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}
+.pager .pos{font-family:var(--mono);font-size:12px;color:var(--ink-3);text-align:center;font-variant-numeric:tabular-nums}
+.pager a.off{visibility:hidden}
+
+/* ---------- episode guide ---------- */
+.tabs{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 8px}
+.tabs button{border:1px solid var(--rule);background:transparent;border-radius:3px;padding:6px 12px;font-family:var(--mono);font-size:12.5px;cursor:pointer;display:inline-flex;gap:7px;align-items:center}
+.tabs button .dot{width:8px;height:8px;border-radius:50%;background:var(--c)}
+.tabs button[aria-selected="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.season-h{font-family:var(--display);font-weight:800;font-size:28px;text-transform:uppercase;margin-top:34px;padding-bottom:6px;border-bottom:2px solid var(--c)}
+.epi{display:grid;grid-template-columns:5.2rem 1fr;gap:4px 18px;padding:16px 0;border-bottom:1px solid var(--rule);scroll-margin-top:calc(var(--topbar) + 20px)}
+.epi .code{font-family:var(--mono);font-size:13px;color:var(--ink-3);padding-top:3px}
+.epi h4{margin:0;font-size:18px;font-weight:600}
+.epi p{font-size:16.5px;color:var(--ink-2);margin-top:4px}
+.epi .plays{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.epi .plays a{font-family:var(--mono);font-size:12px;text-decoration:none;border:1px solid var(--rule);border-radius:3px;padding:1px 7px;background:var(--paper-3)}
+.epi .plays a:hover{border-color:var(--accent);color:var(--accent)}
+.epi.hl{background:var(--accent-soft);margin-inline:-12px;padding-inline:12px;border-radius:4px}
+
+/* ---------- index table ---------- */
+.filters{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;margin:16px 0}
+.filters label{font-family:var(--mono);font-size:12px;color:var(--ink-3);display:inline-flex;gap:6px;align-items:center}
+.filters select{font-family:var(--mono);font-size:12.5px;background:var(--paper-3);color:var(--ink);border:1px solid var(--rule);border-radius:3px;padding:4px 6px}
+.tbl-wrap{overflow-x:auto}
+table.idx{width:100%;border-collapse:collapse;font-size:15px}
+table.idx th{text-align:left;font-family:var(--mono);font-weight:500;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-3);padding:8px 10px;border-bottom:2px solid var(--ink);white-space:nowrap}
+table.idx td{padding:9px 10px;border-bottom:1px solid var(--rule);vertical-align:top}
+table.idx td a{text-decoration:none;font-weight:600}
+table.idx td a:hover{color:var(--accent)}
+table.idx td.m{font-family:var(--mono);font-size:12px;white-space:nowrap;color:var(--ink-2)}
+.empty{padding:30px 0;color:var(--ink-3);font-style:italic}
+
+/* ---------- mobile ---------- */
+.scrim{display:none}
+@media (max-width:980px){
+  .showbar{display:none}
+}
+@media (max-width:860px){
+  :root{--side:0px}
+  .layout{grid-template-columns:minmax(0,1fr)}
+  .menu-btn{display:inline-block}
+  .side{position:fixed;top:calc(env(safe-area-inset-top,0px) + var(--topbar));left:0;bottom:0;height:auto;width:min(86vw,320px);z-index:40;transform:translateX(-102%);transition:transform .2s ease;box-shadow:0 0 40px rgba(0,0,0,.25)}
+  body.nav-open .side{transform:none}
+  body.nav-open .scrim{display:block;position:fixed;inset:0;z-index:35;background:rgba(0,0,0,.35)}
+  .sec{grid-template-columns:1fr;gap:4px}
+  .pager{left:0}
+  .brand{font-size:19px}
+  .ch-num{font-size:84px}
+  body{font-size:17px}
+}
+@media (max-width:520px){
+  .search{max-width:none}
+  .pager a .t{font-size:14px}
+  .epi{grid-template-columns:1fr}
+}
+.side-shows{display:none;flex-wrap:wrap;gap:6px;padding:4px 8px}
+@media (max-width:980px){.side-shows{display:flex}}
+.side-shows button{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--rule);background:transparent;border-radius:999px;padding:3px 9px;font-family:var(--mono);font-size:11px;cursor:pointer}
+.side-shows button .dot{width:8px;height:8px;border-radius:50%;background:var(--c)}
+.side-shows button[aria-pressed="false"]{opacity:.45}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+
+<header class="topbar">
+  <button class="menu-btn" id="menuBtn" aria-controls="side" aria-expanded="false">Contents</button>
+  <a class="brand" href="#cover">Five <span>Houses</span></a>
+  <div class="showbar" id="showbar" role="group" aria-label="Filter by show"></div>
+  <div class="search"><input id="q" type="search" placeholder="Search plays, people, episodes" aria-label="Search the playbook" autocomplete="off"></div>
+</header>
+<div class="layout">
+  <nav class="side" id="side" aria-label="Table of contents"></nav>
+  <div class="scrim" id="scrim"></div>
+  <main class="main" id="main" tabindex="-1"></main>
+</div>
+<div class="pager" id="pager" hidden></div>
+
+<script type="application/json" id="data">/*__DATA__*/</script>
+<script>
+(function(){
+const D = JSON.parse(document.getElementById('data').textContent);
+const $ = s => document.querySelector(s);
+const esc = s => String(s==null?'':s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const store = {
+  get(k, d){ try{ const v = localStorage.getItem('fh:'+k); return v==null ? d : JSON.parse(v); }catch(e){ return d; } },
+  set(k, v){ try{ localStorage.setItem('fh:'+k, JSON.stringify(v)); }catch(e){} }
+};
+const SHOWS = D.shows; const SHOW = Object.fromEntries(SHOWS.map(s => [s.id, s]));
+const CATS = D.categories; const CAT = Object.fromEntries(CATS.map(c => [c.id, c]));
+const PLAYS = D.plays; const PLAY = Object.fromEntries(PLAYS.map(p => [p.id, p]));
+const EPS = D.episodes; // key "show:S01E01"
+const LONG = new Set(['arc','season','series']);
+const SCOPE_LABEL = {moment:'Moment', episode:'Episode', arc:'Arc', season:'Season', series:'Series'};
+let showOn = store.get('shows', Object.fromEntries(SHOWS.map(s => [s.id, true])));
+SHOWS.forEach(s => { if(!(s.id in showOn)) showOn[s.id] = true; });
+let readSet = new Set(store.get('read', []));
+let marks = new Set(store.get('marks', []));
+
+// Book order: chapters in order; within each chapter long games first, then single plays; strength desc, then show order, then episode.
+const showOrder = Object.fromEntries(SHOWS.map((s,i) => [s.id, i]));
+function hash(s){ let h = 2166136261; for(let i=0;i<s.length;i++){ h ^= s.charCodeAt(i); h = Math.imul(h, 16777619); } return h >>> 0; }
+function sortPlays(a, b){
+  return (b.strength - a.strength) || (hash(a.title) - hash(b.title));
+}
+function classics(){
+  const used = {}; SHOWS.forEach(s => used[s.id] = 0);
+  return CATS.map(c => {
+    const all = [...byCat[c.id].long, ...byCat[c.id].single];
+    const top = Math.max(...all.map(p => p.strength));
+    const cands = all.filter(p => p.strength === top).sort((a,b) => (used[a.show]-used[b.show]) || sortPlays(a,b));
+    const pick = cands[0]; if(pick) used[pick.show]++;
+    return pick;
+  }).filter(Boolean);
+}
+const byCat = {};
+CATS.forEach(c => {
+  const all = PLAYS.filter(p => p.category === c.id);
+  byCat[c.id] = { long: all.filter(p => LONG.has(p.scope)).sort(sortPlays), single: all.filter(p => !LONG.has(p.scope)).sort(sortPlays) };
+});
+const ORDER = []; CATS.forEach(c => { ORDER.push(...byCat[c.id].long, ...byCat[c.id].single); });
+const visible = p => showOn[p.show];
+const flipList = () => ORDER.filter(visible);
+
+function showColor(id){ return `--c:var(--${id})`; }
+function showTag(id){ return `<span class="show-tag" style="${showColor(id)}">${esc(SHOW[id].name)}</span>`; }
+function epKey(show, ep){ return show + ':' + ep; }
+function epLabel(ep){ const m = /^S(\d+)E(\d+)/.exec(ep); return m ? `S${+m[1]} E${+m[2]}` : ep; }
+function epChip(show, ep){
+  const e = EPS[epKey(show, ep)];
+  const t = e && e.title ? ` title="${esc(e.title)}"` : '';
+  return `<a class="chip" href="#ep-${show}-${ep}"${t}>${epLabel(ep)}</a>`;
+}
+function pips(n){ let h = '<span class="pips" aria-label="Strength '+n+' of 5">'; for(let i=1;i<=5;i++) h += `<i class="${i<=n?'f':''}"></i>`; return h + '</span>'; }
+function scopeTag(s){ return `<span class="scope ${LONG.has(s)?'long':''}">${SCOPE_LABEL[s]||s}</span>`; }
+function chNum(id){ return CATS.findIndex(c => c.id === id) + 1; }
+function pad2(n){ return String(n).padStart(2,'0'); }
+
+// ---------- sidebar ----------
+function renderSide(route){
+  const count = id => PLAYS.filter(p => p.category === id && visible(p)).length;
+  let h = `<a href="#cover" class="${route==='cover'?'on':''}">Cover</a>`;
+  h += `<a href="#how" class="${route==='how'?'on':''}">How to use this book</a>`;
+  h += `<div class="side-shows" role="group" aria-label="Filter by show">${showButtons()}</div>`;
+  h += `<h4>Chapters</h4>`;
+  CATS.forEach((c,i) => { h += `<a href="#ch-${c.id}" class="${route==='ch-'+c.id?'on':''}"><span class="n">${pad2(i+1)}</span><span>${esc(c.name)}</span><span class="c">${count(c.id)}</span></a>`; });
+  h += `<h4>Reference</h4>`;
+  h += `<a href="#index" class="${route==='index'?'on':''}">Index of plays <span class="c">${PLAYS.filter(visible).length}</span></a>`;
+  h += `<a href="#episodes" class="${route.startsWith('ep')?'on':''}">Episode guide</a>`;
+  h += `<a href="#marked" class="${route==='marked'?'on':''}">Marked plays <span class="c">${marks.size||''}</span></a>`;
+  h += `<a href="#method" class="${route==='method'?'on':''}">Sources and method</a>`;
+  $('#side').innerHTML = h;
+}
+function showButtons(){
+  return SHOWS.map(s => `<button type="button" data-show="${s.id}" aria-pressed="${showOn[s.id]}" style="${showColor(s.id)}"><span class="dot"></span>${esc(s.short||s.name)}</button>`).join('');
+}
+function renderShowbar(){ $('#showbar').innerHTML = showButtons(); }
+document.addEventListener('click', e => {
+  const b = e.target.closest('button[data-show]');
+  if(!b) return;
+  const id = b.dataset.show;
+  const onCount = Object.values(showOn).filter(Boolean).length;
+  if(showOn[id] && onCount === 1){ SHOWS.forEach(s => showOn[s.id] = true); }
+  else showOn[id] = !showOn[id];
+  store.set('shows', showOn);
+  renderShowbar(); route();
+});
+
+// ---------- views ----------
+function viewCover(){
+  const n = PLAYS.length, eps = Object.keys(EPS).length;
+  const longN = PLAYS.filter(p => LONG.has(p.scope)).length;
+  let h = `<div class="wide">
+  <div class="eyebrow">A strategy playbook</div>
+  <h1 class="cover-title">Five<br><span>Houses</span></h1>
+  <p class="cover-sub">${esc(D.meta.subtitle)}</p>
+  <div class="stats">
+    <div class="stat"><b>${n}</b><span>Plays</span></div>
+    <div class="stat"><b>${longN}</b><span>Long games</span></div>
+    <div class="stat"><b>${CATS.length}</b><span>Chapters</span></div>
+    <div class="stat"><b>${eps}</b><span>Episodes covered</span></div>
+  </div>
+  <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:22px">
+    <a class="btn" href="#ch-${CATS[0].id}">Start reading</a>
+    <a class="btn ghost" href="#how">How to use this book</a>
+    ${readSet.size ? `<a class="btn ghost" href="#p-${resumeId()}">Resume</a>` : ''}
+  </div>
+  <h2 class="section-h">Start with the classics</h2>
+  <p class="muted" style="margin-top:8px;max-width:40rem">The strongest play from each chapter. Read these fifteen and you have the whole book in miniature.</p>
+  <div class="cards" style="margin-top:10px">${classics().map(card).join('')}</div>
+  <h2 class="section-h">The five houses</h2>
+  <div class="houses">${SHOWS.map(s => `<div class="house" style="${showColor(s.id)}"><h3><a href="#eps-${s.id}" style="text-decoration:none">${esc(s.name)}</a></h3><p>${esc(s.blurb)}</p><div class="m">${esc(s.span)} · ${PLAYS.filter(p=>p.show===s.id).length} plays</div></div>`).join('')}</div>
+  <h2 class="section-h">Contents</h2>
+  <div class="toc-grid">${CATS.map((c,i) => `<a href="#ch-${c.id}"><span class="n">${pad2(i+1)}</span><span class="t">${esc(c.name)}</span><span class="c">${PLAYS.filter(p=>p.category===c.id).length}</span></a>`).join('')}</div>
+  </div>`;
+  return h;
+}
+function resumeId(){ const last = store.get('last', null); return last && PLAY[last] ? last : ORDER[0].id; }
+function viewHow(){
+  return `<div class="page prose"><div class="eyebrow">Front matter</div><h1 class="ch-title">How to use this book</h1>${D.meta.how_html}</div>`;
+}
+function viewMethod(){
+  return `<div class="page prose"><div class="eyebrow">Back matter</div><h1 class="ch-title">Sources and method</h1>${D.meta.method_html}</div>`;
+}
+function card(p){
+  const read = readSet.has(p.id);
+  return `<a class="card ${read?'read':''}" href="#p-${p.id}">
+    <span class="t">${esc(p.title)}</span><span>${marks.has(p.id)?'<span class="star" aria-label="Marked">&#9733;</span> ':''}${pips(p.strength)}</span>
+    <span class="pr">${esc(p.principle)}</span>
+    <span class="meta">${showTag(p.show)} ${scopeTag(p.scope)} <span class="chip">${p.episodes.slice(0,3).map(epLabel).join(', ')}${p.episodes.length>3?' +'+(p.episodes.length-3):''}</span> ${read?'<span class="rd">read</span>':''}</span>
+  </a>`;
+}
+function viewChapter(id){
+  const c = CAT[id]; if(!c) return viewCover();
+  const L = byCat[id].long.filter(visible), S = byCat[id].single.filter(visible);
+  let h = `<div class="page">
+    <div class="ch-num">${pad2(chNum(id))}</div>
+    <div class="eyebrow" style="margin-top:12px">Chapter ${chNum(id)} of ${CATS.length}</div>
+    <h1 class="ch-title">${esc(c.name)}</h1>
+    <div class="prose ch-intro">${c.intro_html||''}</div>`;
+  if(c.principles && c.principles.length){
+    h += `<ul class="principles">${c.principles.map((t,i)=>`<li><b>${pad2(i+1)}</b><span>${esc(t)}</span></li>`).join('')}</ul>`;
+  }
+  if(L.length) h += `<div class="group-h"><h3>Long games</h3><span>${L.length} plays that run across episodes or seasons</span></div><div class="cards">${L.map(card).join('')}</div>`;
+  if(S.length) h += `<div class="group-h"><h3>Single plays</h3><span>${S.length} plays that land in one scene or episode</span></div><div class="cards">${S.map(card).join('')}</div>`;
+  if(!L.length && !S.length) h += `<p class="empty">No plays from the selected shows in this chapter. Turn more shows on in the filter.</p>`;
+  const i = chNum(id)-1;
+  h += `<div class="tools" style="margin-top:34px">${(L[0]||S[0])?`<a class="btn" href="#p-${(L[0]||S[0]).id}">Read the first play</a>`:''}${i+1<CATS.length?`<a class="btn ghost" href="#ch-${CATS[i+1].id}">Next chapter: ${esc(CATS[i+1].name)}</a>`:''}</div></div>`;
+  return h;
+}
+function viewPlay(id){
+  const p = PLAY[id]; if(!p) return viewCover();
+  readSet.add(id); store.set('read', [...readSet]); store.set('last', id);
+  const c = CAT[p.category];
+  const sec = (label, body, key) => body ? `<div class="sec ${key?'key':''}"><h3>${label}</h3><div>${esc(body)}</div></div>` : '';
+  let h = `<article class="page">
+  <div class="play-head">
+    <div class="play-crumbs"><a class="eyebrow" href="#ch-${c.id}">Ch. ${chNum(c.id)} · ${esc(c.name)}</a></div>
+    <h1 class="play-title">${esc(p.title)}</h1>
+    <div class="play-meta">${showTag(p.show)} ${scopeTag(p.scope)} ${p.episodes.slice(0,6).map(e => epChip(p.show, e)).join(' ')}${p.episodes.length>6?` <span class="chip">+${p.episodes.length-6} more</span>`:''} ${pips(p.strength)}${p.source==='knowledge'?' <span class="src" title="No subtitle file was available for this episode. Written from episode knowledge checked against web search.">From episode knowledge</span>':''}</div>
+    ${(p.strategist||p.target)?`<div class="who">${p.strategist?`Played by <b>${esc(p.strategist)}</b>`:''}${p.target?` against <b>${esc(p.target)}</b>`:''}</div>`:''}
+    ${(p.secondary&&p.secondary.length)?`<div class="who">Also filed under ${p.secondary.filter(s=>CAT[s]).map(s=>`<a href="#ch-${s}">${esc(CAT[s].name)}</a>`).join(', ')}</div>`:''}
+    <p class="maxim">${esc(p.principle)}</p>
+  </div>
+  ${sec('The situation', p.context)}
+  ${sec('The play', p.play, true)}
+  ${(p.steps&&p.steps.length)?`<div class="sec key"><h3>How it unfolded</h3><ol class="steps">${p.steps.map(st=>`<li><span class="e">${st.ep?`<a href="#ep-${p.show}-${esc(st.ep)}">${epLabel(st.ep)}</a>`:''}</span><span>${esc(st.move)}</span></li>`).join('')}</ol></div>`:''}
+  ${sec('Why it works', p.why_it_works)}
+  ${sec('What happened', p.outcome)}
+  ${sec('The counter', p.counter)}
+  ${p.quote && p.quote.text ? `<figure class="quote"><p>${esc(p.quote.text)}</p><cite>${esc(p.quote.speaker||'')}${p.quote.ep?` · ${SHOW[p.show].name} ${epLabel(p.quote.ep)}`:''}</cite></figure>` : ''}
+  ${p.in_practice ? `<div class="practice"><h3>In practice</h3><div>${esc(p.in_practice)}</div></div>` : ''}
+  <div class="ep-ctx"><h3>What happened in the episode${p.episodes.length>1?'s':''}</h3>
+    ${p.episodes.map((e,i) => { const E = EPS[epKey(p.show,e)]; return `<details class="ep" ${i===0&&p.episodes.length<=2?'open':''}><summary><span class="code">${epLabel(e)}</span><span class="tt">${esc(E?E.title:'')}</span></summary><div class="body">${esc(E?E.summary:'No summary available.')}<div style="margin-top:6px"><a href="#ep-${p.show}-${e}">Open in the episode guide</a></div></div></details>`; }).join('')}
+  </div>
+  ${related(p)}
+  <div class="tools"><button type="button" class="btn ghost" id="markBtn">${marks.has(id)?'Unmark this play':'Mark this play'}</button></div>
+  </article>`;
+  return h;
+}
+function related(p){
+  const same = PLAYS.filter(q => q.id !== p.id && visible(q) && q.show === p.show && q.episodes.some(e => p.episodes.includes(e))).slice(0,4);
+  const kin = PLAYS.filter(q => q.id !== p.id && visible(q) && q.show !== p.show && q.category === p.category).sort(sortPlays).slice(0,3);
+  if(!same.length && !kin.length) return '';
+  let h = '<div class="see-also">';
+  if(same.length) h += `<h3>Other plays in the same episodes</h3><div class="cards">${same.map(card).join('')}</div>`;
+  if(kin.length) h += `<h3 style="margin-top:22px">The same kind of play in other houses</h3><div class="cards">${kin.map(card).join('')}</div>`;
+  return h + '</div>';
+}
+let epTab = store.get('eptab', SHOWS[0].id);
+function viewEpisodes(focusShow, focusEp){
+  if(focusShow && SHOW[focusShow]) epTab = focusShow;
+  store.set('eptab', epTab);
+  const s = SHOW[epTab];
+  const eps = Object.values(EPS).filter(e => e.show === epTab).sort((a,b) => a.ep.localeCompare(b.ep));
+  const playsBy = {};
+  PLAYS.filter(p => p.show === epTab).forEach(p => p.episodes.forEach(e => (playsBy[e] = playsBy[e] || []).push(p)));
+  let h = `<div class="page"><div class="eyebrow">Reference</div><h1 class="ch-title">Episode guide</h1>
+  <p class="muted" style="margin-top:14px">What happens in every episode, with the plays drawn from it. Use it to get your bearings before reading a play, or to find every move made in an episode you remember.</p>
+  <div class="tabs" role="tablist">${SHOWS.map(x => `<button role="tab" type="button" data-tab="${x.id}" aria-selected="${x.id===epTab}" style="${showColor(x.id)}"><span class="dot"></span>${esc(x.name)}</button>`).join('')}</div>`;
+  let season = null;
+  eps.forEach(e => {
+    const sn = +e.ep.slice(1,3);
+    if(sn !== season){ season = sn; h += `<h2 class="season-h" style="${showColor(epTab)}">Season ${sn}</h2>`; }
+    const ps = (playsBy[e.ep]||[]).sort(sortPlays);
+    h += `<div class="epi ${focusEp===e.ep?'hl':''}" id="ep-${epTab}-${e.ep}"><div class="code">${epLabel(e.ep)}</div><div><h4>${esc(e.title||'')}</h4><p>${esc(e.summary||'')}</p>${ps.length?`<div class="plays">${ps.map(p=>`<a href="#p-${p.id}">${esc(p.title)}</a>`).join('')}</div>`:''}</div></div>`;
+  });
+  return h + '</div>';
+}
+document.addEventListener('click', e => {
+  const t = e.target.closest('button[data-tab]'); if(!t) return;
+  epTab = t.dataset.tab; store.set('eptab', epTab);
+  if(location.hash !== '#episodes') location.hash = '#episodes'; else route();
+});
+let idxState = store.get('idx', {cat:'', scope:'', sort:'book'});
+function viewIndex(query, onlyMarked){
+  const q = (query||'').trim().toLowerCase();
+  let list = (onlyMarked ? ORDER.filter(p => marks.has(p.id)) : ORDER).filter(visible);
+  if(q){
+    const terms = q.split(/\s+/);
+    list = list.filter(p => { const hay = [p.title,p.principle,p.strategist,p.target,p.context,p.play,p.outcome,SHOW[p.show].name,CAT[p.category].name,p.episodes.join(' '),p.episodes.map(epLabel).join(' '),(p.quote&&p.quote.text)||''].join(' ').toLowerCase(); return terms.every(t => hay.includes(t)); });
+  }
+  if(!onlyMarked && !q){
+    if(idxState.cat) list = list.filter(p => p.category === idxState.cat);
+    if(idxState.scope) list = list.filter(p => (idxState.scope==='long') === LONG.has(p.scope));
+    if(idxState.sort==='az') list = [...list].sort((a,b)=>a.title.localeCompare(b.title));
+    if(idxState.sort==='strength') list = [...list].sort(sortPlays);
+    if(idxState.sort==='show') list = [...list].sort((a,b)=>(showOrder[a.show]-showOrder[b.show])||a.episodes[0].localeCompare(b.episodes[0]));
+  }
+  let h = `<div class="wide"><div class="eyebrow">Reference</div><h1 class="ch-title">${onlyMarked?'Marked plays':q?'Search':'Index of plays'}</h1>`;
+  if(q) h += `<p class="muted" style="margin-top:12px">${list.length} play${list.length===1?'':'s'} match “${esc(query)}”.</p>`;
+  if(!onlyMarked && !q){
+    h += `<div class="filters">
+      <label for="fCat">Chapter <select id="fCat"><option value="">All</option>${CATS.map(c=>`<option value="${c.id}" ${idxState.cat===c.id?'selected':''}>${esc(c.name)}</option>`).join('')}</select></label>
+      <label for="fScope">Scope <select id="fScope"><option value="">All</option><option value="long" ${idxState.scope==='long'?'selected':''}>Long games</option><option value="single" ${idxState.scope==='single'?'selected':''}>Single plays</option></select></label>
+      <label for="fSort">Order <select id="fSort"><option value="book" ${idxState.sort==='book'?'selected':''}>Book order</option><option value="strength" ${idxState.sort==='strength'?'selected':''}>Strength</option><option value="show" ${idxState.sort==='show'?'selected':''}>Show and episode</option><option value="az" ${idxState.sort==='az'?'selected':''}>A to Z</option></select></label>
+    </div>`;
+  }
+  if(onlyMarked && !list.length) return h + `<p class="empty">Nothing marked yet. Use “Mark this play” at the foot of any play to keep a shortlist here.</p></div>`;
+  if(!list.length) return h + `<p class="empty">No plays found. Try fewer words, or turn more shows on.</p></div>`;
+  h += `<div class="tbl-wrap"><table class="idx"><thead><tr><th>Play</th><th>Show</th><th>Episodes</th><th>Chapter</th><th>Scope</th><th>Strength</th></tr></thead><tbody>`;
+  list.forEach(p => { h += `<tr><td><a href="#p-${p.id}">${esc(p.title)}</a><div class="muted" style="font-size:14px;margin-top:2px">${esc(p.principle)}</div></td><td>${showTag(p.show)}</td><td class="m">${p.episodes.slice(0,4).map(epLabel).join(', ')}${p.episodes.length>4?' …':''}</td><td class="m"><a href="#ch-${p.category}" style="font-weight:400">${esc(CAT[p.category].name)}</a></td><td>${scopeTag(p.scope)}</td><td>${pips(p.strength)}</td></tr>`; });
+  return h + '</tbody></table></div></div>';
+}
+document.addEventListener('change', e => {
+  if(e.target.id === 'fCat') idxState.cat = e.target.value;
+  else if(e.target.id === 'fScope') idxState.scope = e.target.value;
+  else if(e.target.id === 'fSort') idxState.sort = e.target.value;
+  else return;
+  store.set('idx', idxState); route();
+});
+
+// ---------- pager ----------
+function renderPager(r){
+  const pg = $('#pager');
+  let prev = null, next = null, pos = '';
+  if(r.startsWith('p-')){
+    const L = flipList(); const i = L.findIndex(p => p.id === r.slice(2));
+    if(i > -1){
+      const p = L[i];
+      const inCh = L.filter(q => q.category === p.category); const j = inCh.indexOf(p);
+      pos = `Ch. ${chNum(p.category)} · ${j+1} of ${inCh.length}`;
+      prev = i > 0 ? {href:'#p-'+L[i-1].id, t:L[i-1].title} : null;
+      if(i > 0 && L[i-1].category !== p.category) prev = {href:'#ch-'+p.category, t:'Chapter opening'};
+      next = i < L.length-1 ? {href:'#p-'+L[i+1].id, t:L[i+1].title} : null;
+      if(next && L[i+1].category !== p.category) next = {href:'#ch-'+L[i+1].category, t:'Ch. '+chNum(L[i+1].category)+': '+CAT[L[i+1].category].name};
+    }
+  } else if(r.startsWith('ch-')){
+    const id = r.slice(3); const i = chNum(id)-1;
+    const first = [...byCat[id].long, ...byCat[id].single].filter(visible)[0];
+    prev = i > 0 ? {href:'#ch-'+CATS[i-1].id, t:'Ch. '+i+': '+CATS[i-1].name} : {href:'#cover', t:'Cover'};
+    next = first ? {href:'#p-'+first.id, t:first.title} : (i+1<CATS.length ? {href:'#ch-'+CATS[i+1].id, t:CATS[i+1].name} : null);
+    pos = `Chapter ${i+1} of ${CATS.length}`;
+  } else if(r === 'cover'){
+    next = {href:'#how', t:'How to use this book'};
+  } else if(r === 'how'){
+    prev = {href:'#cover', t:'Cover'}; next = {href:'#ch-'+CATS[0].id, t:'Ch. 1: '+CATS[0].name};
+  }
+  if(!prev && !next){ pg.hidden = true; return; }
+  pg.hidden = false;
+  pg.innerHTML = `<a class="prev ${prev?'':'off'}" href="${prev?prev.href:'#'}" id="pgPrev"><span class="l">&larr; Previous</span><span class="t">${esc(prev?prev.t:'')}</span></a><div class="pos">${pos}</div><a class="next ${next?'':'off'}" href="${next?next.href:'#'}" id="pgNext"><span class="l">Next &rarr;</span><span class="t">${esc(next?next.t:'')}</span></a>`;
+}
+
+// ---------- router ----------
+let lastRoute = '';
+function route(){
+  const raw = decodeURIComponent(location.hash.slice(1)) || 'cover';
+  const q = $('#q').value;
+  let html, r = raw;
+  if(q.trim() && r !== 'search') r = 'search';
+  if(r === 'search') html = viewIndex(q);
+  else if(r === 'cover') html = viewCover();
+  else if(r === 'how') html = viewHow();
+  else if(r === 'method') html = viewMethod();
+  else if(r === 'index') html = viewIndex('');
+  else if(r === 'marked') html = viewIndex('', true);
+  else if(r === 'episodes') html = viewEpisodes();
+  else if(r.startsWith('ep-')){ const m = /^ep-([a-z-]+)-(S\d+E\d+)$/.exec(r); html = m ? viewEpisodes(m[1], m[2]) : viewEpisodes(); }
+  else if(r.startsWith('eps-')) html = viewEpisodes(r.slice(4));
+  else if(r.startsWith('ch-')) html = viewChapter(r.slice(3));
+  else if(r.startsWith('p-')) html = viewPlay(r.slice(2));
+  else { r = 'cover'; html = viewCover(); }
+  $('#main').innerHTML = html;
+  renderSide(r); renderPager(r);
+  document.body.style.paddingBottom = $('#pager').hidden ? '' : '80px';
+  const mb = $('#markBtn');
+  if(mb) mb.addEventListener('click', () => { const id = r.slice(2); if(marks.has(id)) marks.delete(id); else marks.add(id); store.set('marks',[...marks]); route(); });
+  if(r.startsWith('ep-')){ const el = document.getElementById(r); if(el) el.scrollIntoView({block:'start'}); }
+  else if(r !== lastRoute) window.scrollTo(0,0);
+  lastRoute = r;
+  closeNav();
+}
+window.addEventListener('hashchange', () => { if($('#q').value){ $('#q').value=''; } route(); });
+let qTimer; $('#q').addEventListener('input', () => { clearTimeout(qTimer); qTimer = setTimeout(route, 120); });
+$('#q').addEventListener('keydown', e => { if(e.key === 'Escape'){ e.target.value=''; route(); } });
+
+// keyboard + swipe flipping
+document.addEventListener('keydown', e => {
+  if(e.target.closest('input,select,textarea') || e.metaKey || e.ctrlKey || e.altKey) return;
+  if(e.key === 'ArrowRight' || e.key === 'j'){ const n = $('#pgNext'); if(n && !n.classList.contains('off')) location.hash = n.getAttribute('href'); }
+  if(e.key === 'ArrowLeft' || e.key === 'k'){ const p = $('#pgPrev'); if(p && !p.classList.contains('off')) location.hash = p.getAttribute('href'); }
+  if(e.key === '/'){ e.preventDefault(); $('#q').focus(); }
+});
+let tx=null, ty=null;
+$('#main').addEventListener('touchstart', e => { tx = e.touches[0].clientX; ty = e.touches[0].clientY; }, {passive:true});
+$('#main').addEventListener('touchend', e => {
+  if(tx===null) return; const dx = e.changedTouches[0].clientX - tx, dy = e.changedTouches[0].clientY - ty; tx = null;
+  if(Math.abs(dx) > 80 && Math.abs(dx) > Math.abs(dy)*2){ const a = dx < 0 ? $('#pgNext') : $('#pgPrev'); if(a && !a.classList.contains('off')) location.hash = a.getAttribute('href'); }
+}, {passive:true});
+
+// mobile nav
+function closeNav(){ document.body.classList.remove('nav-open'); $('#menuBtn').setAttribute('aria-expanded','false'); }
+$('#menuBtn').addEventListener('click', () => { const o = document.body.classList.toggle('nav-open'); $('#menuBtn').setAttribute('aria-expanded', String(o)); });
+$('#scrim').addEventListener('click', closeNav);
+
+renderShowbar();
+route();
+})();
+</script>

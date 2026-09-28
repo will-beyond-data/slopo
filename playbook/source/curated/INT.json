@@ -1,0 +1,1270 @@
+{
+ "id": "INT",
+ "name": "Intelligence & Reading People",
+ "intro_html": "<p>Every play in this book runs on information, but the plays in this chapter are about getting it: finding out what the other side knows, wants, fears and is hiding, and doing it before they realize you are looking. Most of it is unglamorous. Taylor Mason in <i>Billions</i> catalogues two years of a rival's interviews to find the month his tone changed. Tom Hammerschmidt in <i>House of Cards</i> spends a season collecting witnesses nobody else thought to call. Spies and wiretaps appear in these pages, but the most reliable source in all five shows is ordinary behavior read closely.</p><p>The central skill is noticing the thing that does not fit. A sous-chef who shrugs at a ten pound tip, a timid congressman who suddenly finds courage, a scientist who has never cared about money asking for two hundred million dollars, a settlement offer that arrives too fast: each is a small anomaly, and each tells the reader where the other side's real interest lies. <b>The Offer That Came Too Easy</b> and <b>The Insurance Policy Tells</b> in <i>Suits</i> make the point in commercial terms. People price their offers against what they fear, so the size and speed of an offer is a report on their private estimate of the risk. The discipline is to ask what an action would mean if the person had nothing to hide, and to take seriously the answer that it would mean nothing.</p><p>The second skill is getting people to tell you things. The shows offer a whole grammar of it. Grace in <i>Peaky Blinders</i> claims to know already, and Polly fills the gap. Tom Yates confesses a secret to get one. Mike Ross gives a frightened prison guard cover before asking him to talk. Bobby Axelrod builds an award ceremony so that a man who will not answer his question has to answer it with his feet. The common mechanism is that people disclose when disclosure feels safe, reciprocal or already done, and they clam up when they feel interrogated.</p><p>Intelligence work backfires in predictable ways. Surveillance that is discovered costs more trust than it earned, as Mike Prince learns with his wellness rings and the Shepherds learn with their app. The watcher can also be watched: Raymond Tusk, supposedly the man being vetted, is quietly vetting Frank Underwood, and Frank keeps the spy Tusk's camp planted on his staff so the channel runs both ways. And information is worthless if you spend it carelessly. Louis Litt finds the weakness in a merger and then gives his opponent the one fact that lets him route around it.</p><p>Each show has its own accent. <i>Suits</i> treats intelligence as forensic reading: denials, verbal habits, numbers that do not add up. <i>Billions</i> is about data and markets, where the signal is hidden in satellite images, rental cars and hotel points. <i>House of Cards</i> is the most institutional, with reporters, investigators and double agents working over long timelines. <i>Peaky Blinders</i> runs on local networks, the barmaids, switchboard girls and clerks who see everything in a town the Shelbys own. <i>Vikings</i> strips it back to the oldest questions: who really rules, who is lying about why they came, and what one well-placed secret, like Prince Oleg's knowledge of his brother's hidden marriage, can make an opponent fear about everything else you know.</p>",
+ "principles": [
+  "The most useful intelligence usually comes from behavior that does not fit the story, so learn the baseline before you look for the anomaly.",
+  "The size and speed of an offer reveal what the other side fears; a fast yes is a question to investigate.",
+  "What an opponent volunteers has been curated; what they resist, delay or rush you past is where the value is.",
+  "When the stated motive does not explain the effort, ask who benefits, and look for the person standing behind a sudden change of heart.",
+  "People disclose when it feels safe, reciprocal or already known; they clam up under interrogation.",
+  "Test stories against hard constraints (arithmetic, timelines, physical limits) instead of the teller's confidence.",
+  "A single well-chosen fact about the other side can make them fear everything else you might know.",
+  "Assume you are being assessed whenever you think you are the assessor, and research whoever sent you.",
+  "Surveillance that people discover costs more trust than it ever earned; collect only what you would defend in the open.",
+  "Intelligence is only as good as the discipline with which you spend it."
+ ],
+ "plays": [
+  {
+   "title": "Both Sides of the Barricade",
+   "show": "peaky-blinders",
+   "pool_ids": [
+    "pea-A0481",
+    "pea-0409",
+    "pea-0418",
+    "pea-0428"
+   ],
+   "secondary": [
+    "ALLY",
+    "NEG",
+    "DEC"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S04E05",
+    "S04E01",
+    "S04E02",
+    "S04E03",
+    "S04E04",
+    "S04E06",
+    "S05E01",
+    "S05E03"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "Jessie Eden and the Birmingham Communist movement, and the Crown's intelligence officers who pay him",
+   "context": "Tommy Shelby, head of the Peaky Blinders gang and by now a wealthy factory owner, is locked in a pay dispute with Jessie Eden, the union convenor at his works. Colonel Ben Younger of military intelligence offers him 2 million pounds in army vehicle contracts if he can identify the armed revolutionaries in her circle. Tommy sees a way to profit, and to rise politically, by serving both camps at once.",
+   "play": "Tommy first turns Jessie's demand for equal pay into a weapon by cutting the men's wages to match the women's, then welcomes her strike because disorder suits him during a gang war. When he needs her trust instead, he has his sister Ada offer full parity in exchange for a private dinner, and arranges for Younger to arrest Ada in public so the neighborhood sees the Shelbys as enemies of the state. Before the dinner the two trade dossiers: Jessie knows about his dead first love, and he knows her sweetheart came home shellshocked and killed himself. Over the meal he presents himself as a bookmaker sizing up a long shot, a motive she can believe, and she gives him the name of the cell leader. Instead of simply cashing it in, he tells Younger he can rise through the socialist movement and undermine it from within, wins a seat as a Labour MP, and spends the next season passing names of communist organizers to Younger through Ada, paid in more contracts.",
+   "why_it_works": "Each side needs something only Tommy can supply: the movement wants a powerful ally, the Crown wants a man inside. Because he delivers real value to both, neither can afford to expose him, and a public identity as a socialist opens rooms his secret role then converts into intelligence. A self-interested cover story (he is only hedging his bets) is easier to believe than a sudden conversion.",
+   "outcome": "Tommy wins industrial peace, 2 million pounds in contracts and a seat in Parliament. The costs are Ada's public humiliation, a betrayal of Jessie she never fully sees, and a position so compromised that Younger remarks that if Tommy meant his speeches he would be dangerous. When Tommy turns the same method on Oswald Mosley, the fascist leader, the arrangement ends with Younger dead.",
+   "counter": "Jessie could have asked why a factory owner who had just broken her strike suddenly wanted to discuss revolution over dinner, and vetted him through the party before giving names. Unexplained generosity from someone on the other side of a dispute is the tell.",
+   "principle": "Make yourself useful to both sides of a conflict and you become the one person neither side can afford to lose.",
+   "in_practice": "Being the trusted bridge between two groups, such as a client's IT team and its business owners, gives you information no one else has. It holds only while you are honest with both; secretly serving two masters works until the first time they compare notes.",
+   "quote": {
+    "text": "If I get Jessie Eden's trust... ..she gives me the nose of the instigators... ..I give 'em up to the Crown forces.",
+    "speaker": "Tommy Shelby",
+    "ep": "S04E05"
+   },
+   "strength": 4,
+   "steps": [
+    {
+     "ep": "S04E01",
+     "move": "Tommy answers Jessie's parity demand by raising the women's pay and cutting the men's, setting the members against their convenor."
+    },
+    {
+     "ep": "S04E02",
+     "move": "He refuses to negotiate and invites a strike, because a breakdown of order benefits him during the vendetta."
+    },
+    {
+     "ep": "S04E03",
+     "move": "He breaks the strike with blacklegs guarded by Peaky Blinders wearing special constable badges, and swaps personal research with Jessie."
+    },
+    {
+     "ep": "S04E04",
+     "move": "Ada offers Jessie full parity in exchange for a private dinner with Tommy."
+    },
+    {
+     "ep": "S04E05",
+     "move": "Younger arrests Ada in public for credibility; Tommy reveals the £2 million contracts and wins Jessie's trust over dinner."
+    },
+    {
+     "ep": "S04E06",
+     "move": "Tommy hands Younger the cell leader's name, offers to undermine the movement from within, and is elected MP."
+    },
+    {
+     "ep": "S05E01",
+     "move": "As an MP he informs on communist meetings to Younger through Ada, paid in more military contracts."
+    },
+    {
+     "ep": "S05E03",
+     "move": "He turns the same inside-man method on Mosley, asking Younger to sanction it."
+    }
+   ],
+   "category": "INT"
+  },
+  {
+   "title": "The Story He Can't Fight Off",
+   "show": "house-of-cards",
+   "pool_ids": [
+    "hou-0925"
+   ],
+   "secondary": [
+    "TIME",
+    "ALLY"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S04E08",
+    "S04E10",
+    "S04E11",
+    "S04E12",
+    "S04E13"
+   ],
+   "strategist": "Tom Hammerschmidt",
+   "target": "Frank Underwood",
+   "context": "Tom Hammerschmidt, recently fired as editor of the Washington Herald, is quietly rebuilding the case his reporter Lucas Goodwin could never prove: that President Frank Underwood's rise involved blackmail, a death and a cover-up. Frank has survived every past accusation by discrediting the accuser.",
+   "play": "Hammerschmidt works the edges of the story instead of its center: Zoe Barnes's estranged father, a pizza shop owner who remembers Frank's bodyguard, and travel logs doctored to hide a meeting. He shows the logs to Heather Dunbar, Frank's former rival, and asks her to stay quiet, because an early story would only put Frank on guard; she points him to lobbyist Remy Danton as the weak link. Remy refuses to talk, then confirms the facts without a word by drinking through a round of Never Have I Ever. Hammerschmidt gets his old publisher, Margaret Tilden, to give him a small team that answers only to her, then brings former president Garrett Walker on the record by appealing to his anger at losing the presidency. When he finally interviews Frank, a schedule of calls to colleagues is already set to go out if he does not check in.",
+   "why_it_works": "He builds the story from people with nothing left to lose, which Frank cannot explain away the way he explains away documents. Each witness makes the next easier to recruit, and silence until the corroboration is overwhelming denies Frank the chance to discredit the story before it lands.",
+   "outcome": "The Herald publishes with an ex-president, a senior congresswoman and Frank's former chief of staff on the record, and Frank and Claire conclude they will probably lose the election.",
+   "counter": "Frank's team never tracked who a fired editor was talking to. An early approach to Walker, Remy and Jackie, each of whom had something to lose, might have kept them silent.",
+   "principle": "Stay quiet until the story is stronger than the denial.",
+   "in_practice": "When you are building a case for change inside a client, or challenging a competitor's claims, collect corroborating voices and numbers quietly before you go public. A premature pitch hands the other side time to prepare its rebuttal.",
+   "quote": {
+    "text": "You need to write the story that he can't fight off.",
+    "speaker": "Heather Dunbar",
+    "ep": "S04E10"
+   },
+   "strength": 4,
+   "category": "INT"
+  },
+  {
+   "title": "A Show for the Satellites",
+   "show": "billions",
+   "pool_ids": [
+    "bil-0061"
+   ],
+   "secondary": [
+    "PSY",
+    "WAR"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S02E02"
+   ],
+   "strategist": "Taylor Mason, executed by Bobby Axelrod",
+   "target": "Todd Krakow",
+   "context": "Hedge fund billionaire Bobby 'Axe' Axelrod wants to punish Todd Krakow, a rival fund manager who tried to poach his in-house performance coach. The place to hurt Krakow is his portfolio, and he speaks with great confidence about China. Everyone in the industry buys satellite imagery, so nothing looks unusual on the surface.",
+   "play": "Taylor Mason, a young analyst at Axe Capital, catalogues two years of Krakow's public statements and spots the month when his tone on China turned bullish and all-knowing, which suggests he started buying satellite pictures. Taylor identifies his imagery provider, assumes Krakow is its biggest customer, and pulls the most-viewed images: a microchip factory in the Pearl River Delta. Taylor then connects the factory's sudden burst of truck traffic to a published report that satellites had caught Chinese data discrepancies, and concludes the activity was staged for the cameras. Axe shorts the factory's customer, Anata-Tek, holds while trader Dollar Bill Stearn confirms on the ground that it has no real technology, tweets from his own account so Krakow knows who did it, covers, and shorts again on the rebound.",
+   "why_it_works": "Following what an opponent looks at reveals what he believes, and once you know his model you can hunt for the flaw in it. Taylor asked why the data changed when it did, and the answer was that the watched party had learned it was being watched.",
+   "outcome": "Anata-Tek, the factory's customer, loses half its value, Krakow fires the CEO and has to concede to Axe's face. Axe also recognizes Taylor's quality and moves to keep them.",
+   "counter": "Krakow should have asked why a dormant factory came to life right after the Chinese learned about satellite monitoring, and verified on the ground before leading the crowd into the stock.",
+   "principle": "When the target knows it is being watched, what you see may be staged for you.",
+   "in_practice": "When a supplier's or prospect's metrics improve right after they learn you are measuring them, check the underlying reality before you act. And study which data a competitor relies on: it tells you what they are betting on and where they can be fooled.",
+   "quote": {
+    "text": "And after that, they knew they were being watched, so the trucks started moving",
+    "speaker": "Taylor Mason",
+    "ep": "S02E02"
+   },
+   "strength": 5,
+   "category": "INT"
+  },
+  {
+   "title": "The Offer That Came Too Easy",
+   "show": "suits",
+   "pool_ids": [
+    "sui-1550",
+    "sui-1518",
+    "sui-1627",
+    "sui-1677"
+   ],
+   "secondary": [
+    "NEG",
+    "LEV"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S07E11",
+    "S07E04",
+    "S07E05",
+    "S08E14",
+    "S09E08"
+   ],
+   "strategist": "Mike Ross (and later Samantha Wheeler, Katrina Bennett and Louis Litt)",
+   "target": "Opposing parties who make generous offers",
+   "context": "Suits returns to one read again and again: the size and speed of the other side's offer. In the clearest case, Mike Ross, now a lawyer at the firm, represents Quality Foods in a dispute with its distributor, Arctic, over 15 percent of its dairy spoiling in transit. Arctic blames the weather under an Act of God clause, and when Mike points out that the clause covers only single events, Arctic immediately offers 30 million dollars.",
+   "play": "Mike turns down the 30 million because it came too easily. His fiancee Rachel Zane keeps digging, and Department of Transportation records show Arctic's trucks losing a fifth of their cargo on the way to Ohio, where the client's competitor has its plant: Arctic is dumping the goods, taking a payoff and reselling the space. Mike and Rachel go back and demand 120 million dollars. Mike made the same read earlier on a prison case, when Reform Corp answered a bluff with a settlement too large for one claim, which told him there were other victims. Samantha Wheeler, a senior partner, refuses a compromise from an opponent who has just beaten her in chambers ('You're coming to me with a compromise when you have me?') and her colleague Katrina finds fraudulent accounts behind it. The same instinct fails when Louis Litt finds the weakness behind a 30 percent merger premium, then wastes the lever by revealing his client's private reason for opposing the deal.",
+   "why_it_works": "People price offers against what they fear. A quick, generous number tells you the other side has already estimated the cost of a fight and wants to avoid what a fight would uncover. Asking what the premium is paying for points straight at the hidden problem.",
+   "outcome": "The Quality Foods settlement quadruples, the prison case becomes a class action, and Samantha finds evidence of fraud. Louis's version shows the limit: finding the weakness is worthless if you hand the other side a way around it.",
+   "counter": "A party with something to hide should make its first offer look like a hard-fought concession, arrive at it slowly, and leave no data trail that locates the loss.",
+   "principle": "A fast yes from the other side is a signal; find out what they are afraid of.",
+   "in_practice": "When a client accepts your price without a murmur, or a counterparty offers a settlement well above what the claim seems worth, pause before you sign and ask what they know that you do not. The answer is usually in the numbers they have not shown you.",
+   "quote": {
+    "text": "It's a number you give when you need them to go away.",
+    "speaker": "Mike Ross",
+    "ep": "S07E04"
+   },
+   "strength": 5,
+   "category": "INT"
+  },
+  {
+   "title": "The Insurance Policy Tells",
+   "show": "suits",
+   "pool_ids": [
+    "sui-1566"
+   ],
+   "secondary": [
+    "TRAP",
+    "NEG"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S07E16"
+   ],
+   "strategist": "Mike Ross (with Rachel Zane and Oliver Grady)",
+   "target": "Discharge Power and its executive Mr. Evans",
+   "context": "Mike is suing a power company on behalf of families whose children attend a school near its plant. The soil samples come back clean to ten feet, because an anonymous donor paid to dig up and replant the school grounds as a 'beautification project' six weeks after the suit was filed. Without the soil, the case looks lost.",
+   "play": "Mike reasons that nobody re-landscapes a whole school in six weeks without planning, so the company knew it was liable long before the lawsuit. A company that knows it is liable buys insurance. He notices that the 100,000 dollars per family the company offered almost instantly adds up to exactly 15 million, and Mike's colleague Oliver Grady finds a policy insuring that one plant for five times what the company carries on any other. Mike puts Evans on the stand, reminds him of the penalty for perjury, and asks why one plant is insured for so much more than the rest, pointing out that Evans signed the policy.",
+   "why_it_works": "Organizations price the risks they know about, and the paperwork of that pricing is much harder to hide than soil. The size of the company's own offer revealed what it had already set aside. Under oath, with his signature on the document, Evans can only admit it or commit perjury.",
+   "outcome": "Evans admits the company knew the plant was toxic. Mike demands a million dollars per family and gets it on the spot.",
+   "counter": "The company should never have offered the exact insured amount, and so quickly; the precision of the offer showed it had budgeted for this.",
+   "principle": "Look at what they paid to protect themselves; it shows what they knew.",
+   "in_practice": "In a dispute with a vendor or partner, look at the protections they built in: insurance, reserves, carve-outs in the contract. Each one records a risk they saw coming.",
+   "quote": {
+    "text": "why is one plant insured for so much more than all the others?",
+    "speaker": "Mike Ross",
+    "ep": "S07E16"
+   },
+   "strength": 4,
+   "category": "INT"
+  },
+  {
+   "title": "The Number That Gave It Away",
+   "show": "suits",
+   "pool_ids": [
+    "sui-1484"
+   ],
+   "secondary": [
+    "DEF",
+    "LEV"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S06E14"
+   ],
+   "strategist": "James Palmer",
+   "target": "Harvey Specter",
+   "context": "Harvey Specter, the firm's star closer, needs a favor from Craig Seidel, a member of the bar committee deciding whether Mike Ross can practice law. Seidel wants the lawsuit against James Palmer's company, Velocity, to hurt Velocity's stock. Palmer, knowing Harvey as a settler, goes over Mike's head and asks Harvey what it will take to make the case go away.",
+   "play": "Harvey demands 500 million dollars. Palmer offers 200, then 350, and Harvey will not move off 500. Palmer stops negotiating and asks himself what the number does. He works out that 500 million is exactly the figure that would sink Velocity's stock, asks who benefits, and names Seidel. He adds that a lawsuit traded for a favor from Seidel's committee is a crime, so the lawsuit is over.",
+   "why_it_works": "A negotiator who will not budge from an odd figure is telling you the money is serving some other purpose. Palmer asks what the number achieves rather than whether it is fair, connects it to a beneficiary, and turns Harvey's hidden motive into his own leverage.",
+   "outcome": "Harvey loses his settlement leverage, and Palmer later threatens collusion charges unless the suit is dropped. Palmer's parting hint, that Seidel's reason for keeping quiet has nothing to do with his marriage, leads Harvey to Seidel's real secret.",
+   "counter": "Harvey should have anchored on a figure he could defend on the merits and shown some movement to disguise his aim; rigidity at a strange number is itself information.",
+   "principle": "When they won't move off a strange number, ask what the number does.",
+   "in_practice": "If a client insists on a figure or deadline that makes no commercial sense, ask what event, bonus or metric it is tied to. The answer is usually the real decision driver, and you can often meet it more cheaply.",
+   "quote": {
+    "text": "You picked the exact number to make my stock take a nosedive and we both know who benefits from that.",
+    "speaker": "James Palmer",
+    "ep": "S06E14"
+   },
+   "strength": 4,
+   "category": "INT"
+  },
+  {
+   "title": "Downside Protection",
+   "show": "billions",
+   "pool_ids": [
+    "bil-0140"
+   ],
+   "secondary": [
+    "PSY",
+    "LEV"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S03E05"
+   ],
+   "strategist": "Bobby Axelrod (with Hall's counter-intelligence team)",
+   "target": "Dr. Gilbert",
+   "context": "Dr. Gilbert, a scientist, once advised Axe on a trade and was asked to destroy a laboratory slide that carries Axe's fingerprints. Federal investigators have just interviewed him, and Axe needs to know whether the slide is gone and whether Gilbert has already flipped.",
+   "play": "Axe first meets Gilbert warmly and asks what he wants, and gets nothing. Within a day Gilbert's grant is under review, his lab lease is in doubt and his home feels searched, which Axe calls giving a diagnostician all the data. Axe makes Gilbert walk through the slide's disposal step by step (the bag, the biohazard bin, the kiln, the assistant he nodded to), listening for any detail that does not fit. Meanwhile Hall, Axe's fixer, checks Gilbert's finances and finds that every dollar Axe donated went to research and that Gilbert lives frugally. When Gilbert then asks for 200 million dollars for himself, Axe knows the request is a stall.",
+   "why_it_works": "Axe tests the demand against the man's character. A person who has never cared about money does not suddenly ask for a fortune unless he is buying time, which means he has already made a deal with someone else.",
+   "outcome": "Axe reads it correctly: Gilbert still has the slide and hands it to the prosecutors. The pressure Axe applied first is part of what drove Gilbert to the other side.",
+   "counter": "Gilbert gave himself away with a request that did not fit him. A demand consistent with his known character would have bought more time.",
+   "principle": "When someone asks for something that does not fit who they are, suspect a stall.",
+   "in_practice": "If a long-standing client suddenly makes an out-of-character demand, such as a steep discount or unusual contract terms, ask what has changed before you answer. They may be talking to a competitor and buying time.",
+   "quote": {
+    "text": "It's called downside protection.",
+    "speaker": "Bobby Axelrod",
+    "ep": "S03E05"
+   },
+   "strength": 4,
+   "category": "INT"
+  },
+  {
+   "title": "The Unimpressed Sous-Chef",
+   "show": "peaky-blinders",
+   "pool_ids": [
+    "pea-0398"
+   ],
+   "secondary": [
+    "PSY",
+    "DEF"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S04E01"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "Max the chef and Antonio, the assassin posing as his assistant",
+   "context": "Tommy has just received the black hand, the New York Mafia's death threat. His housekeeper keeps pressing him, on the new Italian chef's behalf, to say exactly when the Christmas guests will arrive and whether before or after the King's speech. The chef has brought an unannounced assistant.",
+   "play": "Tommy notices the repeated question about when he will be alone and goes to the kitchen. He tips the assistant ten pounds for working late and watches: the money means nothing to him. Tommy has already checked the chef's references and knows one of his old restaurants belongs to Darby Sabini, a London gang boss. He lays the pieces out aloud as if he knows everything: the assistant was sent from New York, Sabini passed him on, and the chef was threatened into bringing him in. The frightened chef confirms it, and Tommy deals with the assassin before he can act.",
+   "why_it_works": "Small anomalies are the tells an infiltrator cannot hide, because they come from his real incentives: a poorly paid kitchen hand should be delighted with ten pounds. Presenting a guess as established fact makes the frightened insider confirm it instead of denying it.",
+   "outcome": "The assassination planned for Christmas Day fails and Tommy learns that Sabini has sided with the Americans. The same morning, though, the Mafia's men hit two members of his family at their homes.",
+   "counter": "An infiltrator must behave exactly like the role he plays, and a go-between should never keep asking about the target's movements.",
+   "principle": "Test people with a small, unexpected reward; someone paid by another master does not react.",
+   "in_practice": "In hiring and due diligence, watch for reactions that do not fit the stated situation, such as indifference to terms that should matter a great deal to someone in that position. Then ask who else is paying.",
+   "quote": {
+    "text": "I just gave him £10. Didn't mean a fucking thing to him. Maybe it isn't you that pays him.",
+    "speaker": "Tommy Shelby",
+    "ep": "S04E01"
+   },
+   "strength": 4,
+   "category": "INT"
+  },
+  {
+   "title": "Nobody Does Anything as a Courtesy",
+   "show": "suits",
+   "pool_ids": [
+    "sui-1042",
+    "sui-1068"
+   ],
+   "secondary": [
+    "RULE",
+    "DEC"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S01E01",
+    "S01E06"
+   ],
+   "strategist": "Harvey Specter and Mike Ross",
+   "target": "Devlin McGreggor and its CEO Charles Hunt; Burt Kimball of Morello Securities",
+   "context": "In the first episode Mike Ross, a brilliant college dropout Harvey Specter has just hired without a law degree, takes a pro bono case for a woman who says her CEO fired her for refusing to sleep with him. The company's internal investigation found nothing, and defense counsel sends over its files 'as a courtesy'. Five episodes later, a securities firm whose trades Harvey wants to examine first refuses, then its boss arrives in person with folders of 'every trade' and warm thanks.",
+   "play": "Harvey tells Mike to ignore the courtesy files: the other side sent them because that is where it wants him to look. Mike subpoenas the personnel records of every woman who left during the CEO's tenure instead. When the company fights the subpoena, Harvey treats the resistance as confirmation, and Mike finds a dismissal with the employee file missing. In the second case Harvey reads the boss's sudden friendliness the same way ('This guy's not that friendly to his own mother'), assumes the records are doctored, and sends Mike to the brokers' bar, where the firm's traders boast about their biggest wins and hand over the real list.",
+   "why_it_works": "What an opponent volunteers has been curated; what he fights to keep, or goes out of his way to show you, marks where his interest lies. Resistance and unusual courtesy are both information about what matters to the other side.",
+   "outcome": "The missing file leads to an earlier victim who agrees to testify, and the case survives. The traders' boasts show the profitable trades all came from stocks the firm never officially recommended.",
+   "counter": "Both opponents would have done better to hand over material through ordinary channels without fuss. Overt resistance and conspicuous helpfulness each pointed straight at the problem.",
+   "principle": "Nobody hands you the good information; look where they push back, and where they are suddenly helpful.",
+   "in_practice": "In due diligence or a vendor dispute, treat the documents offered freely as the other side's version of events. Spend your time on what they delay, redact or refuse, and on the numbers they are unusually eager to walk you through.",
+   "quote": {
+    "text": "Nobody does anything as a courtesy. They sent those files because that's where they want you to look.",
+    "speaker": "Harvey Specter",
+    "ep": "S01E01"
+   },
+   "strength": 4,
+   "category": "INT"
+  },
+  {
+   "title": "Something Rather Sweet",
+   "show": "house-of-cards",
+   "pool_ids": [
+    "hou-0957",
+    "hou-0963"
+   ],
+   "secondary": [
+    "PSY",
+    "DEF"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S05E06",
+    "S05E07"
+   ],
+   "strategist": "Frank and Claire Underwood",
+   "target": "Congressman David Rasmussen; General Braegher and DNI Vanessa Morrison",
+   "context": "President Frank Underwood's contested election has gone to a House vote. David Rasmussen, a congressman who has avoided confrontation for twenty years, suddenly switches sides and deadlocks his state's delegation. The next day, during a terror scare, a general who argued for caution that morning now pushes for evacuating the capital days before the revote, which would make the Underwoods look as if they had lost control.",
+   "play": "Frank tries committee assignments, the threat of a primary challenger, then flattery, and Rasmussen names each tactic before Frank can land it. Frank reads the pattern: a man with a jellied spine does not find courage on his own, so someone must be backing him, and his preparedness shows he has been briefed. The next day he applies the same read to General Braegher's reversal, asks when Braegher got his fourth star, and learns he was promoted alongside Brockhart, the rival ticket's running mate. Frank orders the bunker opened, accuses the Director of National Intelligence of standing by during an attempted coup, and makes her clean up her own house.",
+   "why_it_works": "Behavior that breaks a long pattern usually has an outside cause. Asking what changed around the person, rather than arguing with their new position, finds the sponsor you are really fighting.",
+   "outcome": "Rasmussen holds, and Claire later confirms that Mark Usher, the rival campaign's strategist, had reached him first. Braegher is forced to resign, and Frank decides to go after Usher directly.",
+   "counter": "Rasmussen gave himself away by pre-empting every standard move. Braegher's inconsistency within a single day invited the question about his network.",
+   "principle": "When a timid person suddenly turns bold, look for who is standing behind them.",
+   "in_practice": "When a normally cautious client suddenly takes a hard line, or an adviser's recommendation flips without new facts, find out who else has joined the conversation (a new consultant, a board member, a competitor's offer) before you adjust your price.",
+   "quote": {
+    "text": "So someone must have offered you something rather sweet.",
+    "speaker": "Frank Underwood",
+    "ep": "S05E06"
+   },
+   "strength": 3,
+   "category": "INT"
+  },
+  {
+   "title": "The Empty Chair",
+   "show": "peaky-blinders",
+   "pool_ids": [
+    "pea-0430"
+   ],
+   "secondary": [
+    "POW"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S05E02",
+    "S05E03"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "Rivals inside and outside the family",
+   "context": "After the 1929 crash, rumors spread that Tommy is spent, drugged and distracted by politics. A Glasgow gang, the Billy Boys, has told his cousin Michael that now is a good time to move in.",
+   "play": "Tommy reads the pattern across a single day: a call from the IRA, hints from Oswald Mosley about Irish whiskey and Belfast, the Billy Boys' approach to Michael. He tells Ada that when people think the king is falling they start circling the throne, and lists who is circling: his brother Arthur's wife, an ally, people in the north, Michael himself. Then he turns the feeling into a task: he sends Ada home to call everyone the company dealt with in Boston and ask whom Michael met there, especially anyone from Glasgow or Belfast.",
+   "why_it_works": "Perceived weakness changes behavior before anyone moves openly, so watching for changes in behavior gives early warning. Tommy does not act on the hunch; he converts it into a specific question that can be checked.",
+   "outcome": "He identifies the Billy Boys and their Belfast backer as the real threat within the episode, and the list proves accurate: Michael makes his own bid for control by the end of the season.",
+   "counter": "Anyone preparing to challenge a leader should hide the preparations, because an embattled leader is the person most alert to changes in tone.",
+   "principle": "When people think you are weak, they change how they act around you; watch for it.",
+   "in_practice": "After a setback such as a lost major account, notice which clients, partners and staff suddenly change their tone or start asking new questions. That is the earliest warning of churn, poaching or an internal challenge.",
+   "quote": {
+    "text": "People thinking I'm going to fall, they start behaving in a different way around you.",
+    "speaker": "Tommy Shelby",
+    "ep": "S05E02"
+   },
+   "strength": 3,
+   "category": "INT"
+  },
+  {
+   "title": "Traders Who Do Not Buy",
+   "show": "vikings",
+   "pool_ids": [
+    "vik-0610"
+   ],
+   "secondary": [
+    "LEV",
+    "DEF"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S04E19",
+    "S04E17"
+   ],
+   "strategist": "Lagertha (with Astrid and Torvi)",
+   "target": "Egil the Bastard and his backer",
+   "context": "Lagertha, the shield-maiden who has seized the town of Kattegat, has been warned to tighten her security. The walls are going up, and strangers arrive every day for trade and for the Great Army.",
+   "play": "Kattegat's people notice a man who came in with traders but looks at everything and buys nothing, and ask why he sailed so far if he is not interested in buying. When his raiders attack, the defenders fight them off, and Lagertha stops her people killing the leader, Egil ('Let him live'), so he can be questioned. Egil says they will burn him whatever he says, so they bring out his wife and promise the two can live together if he names who paid for the fleet. He denies knowing her, but when she begs him to tell, he names King Harald Finehair.",
+   "why_it_works": "Behavior that contradicts a cover story, such as traders who never trade, is a reliable signal. Taking the leader alive turns a won fight into intelligence, and appealing to what the prisoner loves works where threats to his own life do not.",
+   "outcome": "Kattegat holds and Lagertha learns that Harald, a rival king, is behind the attack.",
+   "counter": "Egil's scout should have bought goods to keep his cover, and Egil should have left his wife out of reach of the fight.",
+   "principle": "Watch for behavior that contradicts the cover story, and when you win, capture the leader so you learn who sent him.",
+   "in_practice": "If a supposed prospect keeps asking detailed questions about your methods but never moves toward buying, consider that they may be scoping you for a competitor. After you win a dispute, find out who funded or encouraged it.",
+   "quote": {
+    "text": "I was paid by King Harald Finehair.",
+    "speaker": "Egil",
+    "ep": "S04E19"
+   },
+   "strength": 3,
+   "category": "INT"
+  },
+  {
+   "title": "Find What He Really Wants",
+   "show": "suits",
+   "pool_ids": [
+    "sui-1250"
+   ],
+   "secondary": [
+    "NEG",
+    "DEF"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S03E13"
+   ],
+   "strategist": "Mike Ross and Harvey Specter (with advice from Jessica Pearson)",
+   "target": "A. Eliot Stemple",
+   "context": "Eliot Stemple, opposing counsel in a patent fight, has outmaneuvered Harvey at every turn, and his countersuit has Harvey's client, AYZ, on the back foot. Harvey admits to managing partner Jessica Pearson that Stemple has his number.",
+   "play": "Jessica tells Harvey that if Stemple has his number, then whatever Harvey wants to do is what Stemple wants him to do, so Harvey decides to settle. Mike accepts the logic but draws a different conclusion: Stemple was on the case long before Harvey, so his real goal has nothing to do with Harvey. The countersuit would give Stemple's client, Janus, access in discovery to AYZ's proprietary technology, which Janus has wanted for a year. Harvey returns, raises the settlement demand tenfold, threatens to ask the analyst Janus hired why he was hired, which would expose corporate espionage, and gives Stemple thirty seconds to take a dignified way out.",
+   "why_it_works": "An opponent's personal rivalry can be a decoy for his client's commercial goal. Once the real goal is named, the trap becomes a liability for the person who set it.",
+   "outcome": "Janus drops the suit, admits wrongdoing publicly and pays.",
+   "counter": "Stemple should have kept his personal taunts separate from his client's objective; the intensity of the personal show is what made Mike look elsewhere.",
+   "principle": "When an opponent seems to be playing a personal game, look for the client interest underneath.",
+   "in_practice": "When a counterparty's behavior seems driven by ego or grudge, ask what their company stands to gain from the fight itself. The real negotiation is usually about that, and naming it changes the terms.",
+   "quote": {
+    "text": "If he's got your number, then what you want to do is what he wants you to do.",
+    "speaker": "Jessica Pearson",
+    "ep": "S03E13"
+   },
+   "strength": 4,
+   "category": "INT"
+  },
+  {
+   "title": "Follow the Beneficiary",
+   "show": "house-of-cards",
+   "pool_ids": [
+    "hou-0771"
+   ],
+   "secondary": [
+    "TIME"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S01E13",
+    "S01E12"
+   ],
+   "strategist": "Janine Skorsky, Zoe Barnes and Lucas Goodwin",
+   "target": "Frank Underwood",
+   "context": "Three reporters know that Congressman Peter Russo was arrested with a call girl, that the arrest record vanished, and that Frank Underwood's chief of staff, Doug Stamper, was involved. They cannot see why Frank, then House majority whip, would go to such lengths for a junior congressman who later died.",
+   "play": "They reason it through step by step. They reject a small motive, a governor's mansion, because Underwood thinks bigger than that. They list what Frank controls and whom he influences, rule out revenge on the President as his sole aim, and then test the inverse of the obvious assumption: Frank wanted Russo to self-destruct in the governor's race, forcing the Vice President to leave office to run for governor and opening the vice presidency. Meanwhile they chase every physical trail: police contacts, the call girl's arrest record, her school counselor, the restaurant where she now works.",
+   "why_it_works": "Asking who ends up better off, rather than what the person claimed to want, cuts through the cover story. Inverting the obvious assumption is what makes all the facts fit at once.",
+   "outcome": "They correctly deduce Frank's plan at almost the moment he is offered the vice presidency, though they lack proof, and a coercive approach to the call girl fails.",
+   "counter": "Frank's defense would have been fewer visible links; routing every leak through the same reporter created the pattern that exposed him.",
+   "principle": "When the stated motive does not explain the effort, ask who benefits from the outcome, and test the opposite of the obvious assumption.",
+   "in_practice": "When a competitor or partner does something that seems irrational, map what they gain if it fails as well as if it succeeds. In your own work, avoid routing every sensitive move through a single visible channel.",
+   "quote": {
+    "text": "Maybe he wanted Russo to self-destruct.",
+    "speaker": "Zoe Barnes",
+    "ep": "S01E13"
+   },
+   "strength": 4,
+   "category": "INT"
+  },
+  {
+   "title": "Find the Real Ruler",
+   "show": "vikings",
+   "pool_ids": [
+    "vik-0626"
+   ],
+   "secondary": [
+    "NEG",
+    "ALLY"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S05E04",
+    "S05E05"
+   ],
+   "strategist": "Sindric and Bjorn Ironside",
+   "target": "Commander Euphemius and Emir Ziyadat Allah",
+   "context": "Bjorn Ironside, Ragnar Lothbrok's eldest son, has sailed to the Mediterranean and hired on as bodyguard to Euphemius, the apparent ruler of Sicily. Sindric, the widely traveled guide Bjorn has brought along, keeps watching and asking questions.",
+   "play": "Sindric discovers that Euphemius holds Sicily only because the Emir Ziyadat Allah invaded on his behalf in return for tribute, which makes Euphemius a client ruler with no real power. Bjorn concludes that the Emir is the man who matters and insists on meeting him. The Emir, who grants favors to Arabs and Christians alike because each favor extends his influence, makes a trade deal with Bjorn. At the feast he reveals that he caught Euphemius trying to double-cross him, and that Euphemius has been served to the guests.",
+   "why_it_works": "Titles and power often diverge, and time spent with a figurehead is wasted at best; at worst it ties you to someone about to fall. Bjorn follows the money and the army to the person who actually decides.",
+   "outcome": "Bjorn's party escapes being tied to the doomed Euphemius and leaves with a deal with the strongest ruler in the region.",
+   "counter": "Euphemius should have known his position depended on his patron and never tried to switch sides while within the patron's reach.",
+   "principle": "Find out who actually decides, and deal with them.",
+   "in_practice": "In a sale, the person with the impressive title is not always the one who signs. Map who holds the budget and who the sponsor answers to, and get in front of that person before you spend months with a champion who cannot close.",
+   "quote": {
+    "text": "Commander Euphemius isn't really the commander here after all.",
+    "speaker": "Sindric",
+    "ep": "S05E04"
+   },
+   "strength": 3,
+   "category": "INT"
+  },
+  {
+   "title": "Man of the Year",
+   "show": "billions",
+   "pool_ids": [
+    "bil-0097",
+    "bil-0090"
+   ],
+   "secondary": [
+    "TRAP",
+    "PSY"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S02E08",
+    "S02E07"
+   ],
+   "strategist": "Bobby Axelrod",
+   "target": "State Senator Joe Scolari and power broker Jack Foley",
+   "context": "A casino license Axe was counting on went to a rival at the last minute. He needs to know whether someone hit him on purpose, which would mean a lasting enemy, or whether he was collateral damage in someone else's fight. The people who made the call will not tell him.",
+   "play": "Axe drives upstate to meet Joe Scolari, the state senator who switched the license, and asks for the reason three different ways. Every time Scolari answers with the identical sentence about benefiting the greatest number of people. Axe stops pushing and reads the repetition as the answer: a man reciting a script did not write it. He follows the chain up to Jack Foley, the party boss who will not see him. So Axe joins the board of an obscure wolf conservancy with a large donation, on one condition: Foley is named its man of the year and Axe presents the award. Foley invites him in and lays out the logic himself: if this were only a quarrel between the two of them, they would shake hands. Axe asks whether they are shaking hands, and Foley declines.",
+   "why_it_works": "A scripted answer protects the speaker, but its rigidity leaks the existence of a scriptwriter. The award then forces a binary choice whose answer is behavior: Foley cannot accept without being seen as Axe's friend, so his refusal reveals that he did the deed as a favor for someone else.",
+   "outcome": "Axe learns he is carrying someone else's grudge, and Foley, while warning him off, admires his fluidity of tactics. The unanswered question leads Axe toward Chuck Rhoades, the US Attorney pursuing him.",
+   "counter": "Scolari could have given a plausible specific reason instead of a slogan. Foley could have accepted the award and shaken hands, hiding his loyalties behind a gracious gesture, at the cost of offending whoever he had helped.",
+   "principle": "If someone won't tell you where their loyalties lie, give them a public choice that forces them to show it.",
+   "in_practice": "When a procurement contact gives the same canned answer to every question, find out who wrote it. When a partner is vague about exclusivity, propose something public together, such as a joint case study or a shared stage; how they respond tells you more than any conversation.",
+   "quote": {
+    "text": "Someone asked you a favor, and you wouldn't want that same person to see us cozy together on the dais.",
+    "speaker": "Bobby Axelrod",
+    "ep": "S02E08"
+   },
+   "strength": 5,
+   "category": "INT"
+  },
+  {
+   "title": "The Cheaper Venue Test",
+   "show": "suits",
+   "pool_ids": [
+    "sui-1593",
+    "sui-1558"
+   ],
+   "secondary": [
+    "LEV",
+    "TRAP"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S08E06",
+    "S07E14"
+   ],
+   "strategist": "Samantha Wheeler (with Donna Paulsen)",
+   "target": "James Davenport, CEO of a charity for at-risk girls",
+   "context": "Samantha Wheeler, a senior partner trying to make peace with Donna Paulsen, the firm's COO, lines up a five million dollar donation for Donna's favorite charity. Going through the books, she notices fundraising costs have run at 5.3 percent for five years where 5 is normal.",
+   "play": "Samantha calls the CEO and offers a venue for the next gala at a fraction of the current cost. He declines, which tells her he is getting a kickback from the overpriced venue. After a falling out over how she handled it, she and Donna go to the CEO together and lay out the refusal, the 0.3 percent skim, and the fact that he fired an innocent employee when a donor started asking questions. They demand his resignation. The firm used the same logic a season earlier, when opponents trying to remove a judge were offered a full recusal from their future cases; their refusal showed the complaint was really about her past rulings.",
+   "why_it_works": "An honest, better offer is a clean test of motive. Someone acting in the organization's interest takes it, so a refusal exposes a hidden incentive, and it does so without accusing anyone first.",
+   "outcome": "The CEO resigns and Peggy, the employee he fired, takes over the charity. Donna and Samantha begin to trust each other, though Samantha's unilateral move first cost the employee her job.",
+   "counter": "The CEO should simply have taken the cheaper venue. Samantha could have run the test without cutting off the donation, and kept her word to Donna while she did.",
+   "principle": "Offer a better deal; if they refuse it, find out who benefits from the worse one.",
+   "in_practice": "When a supplier's costs look slightly high year after year, bring in a genuine competing quote and see whether the person managing the relationship will switch. When a counterparty raises an objection, offer a fix that fully meets it; if they reject it, the objection was cover for something else.",
+   "quote": {
+    "text": "Which means you cut a deal with your current venue where you overpay and they kick back a percentage to you.",
+    "speaker": "Samantha Wheeler",
+    "ep": "S08E06"
+   },
+   "strength": 4,
+   "category": "INT"
+  },
+  {
+   "title": "The Invented Company",
+   "show": "billions",
+   "pool_ids": [
+    "bil-0035"
+   ],
+   "secondary": [
+    "PSY"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S01E08"
+   ],
+   "strategist": "Bobby Axelrod",
+   "target": "Three traders suspected of informing",
+   "context": "Axe's hunt for a government informant inside his firm has narrowed to three traders who overwrote their hard drives. He calls surprise one-on-one interviews and wants his in-house psychiatrist, Wendy Rhoades, in the room as a human lie detector.",
+   "play": "Axe gives the traders no warning, so they cannot prepare. He mixes innocuous questions (what they ate at lunch, a courier package) with traps. He asks one trader about 'Morien Sciences', and when the man calls it a solid company that could be a monster, Axe tells him it does not exist. Wendy refuses to lend her credibility to the exercise and walks out.",
+   "why_it_works": "People trying to look competent will agree with a confident false premise, which shows whether they are telling the truth or telling the boss what he wants to hear. Surprise removes rehearsal.",
+   "outcome": "The interviews produce a show of rigor. Axe already suspects who the informant is, so they mainly serve as theater for the listening government, and they strain his relationship with Wendy.",
+   "counter": "When asked about something you do not recognize, say so; bluffing familiarity is exactly what the test catches.",
+   "principle": "A made-up fact is a cheap and reliable test of whether someone is bluffing.",
+   "in_practice": "In interviews or vendor evaluations, ask about a plausible but nonexistent standard or tool. The candidate who says 'I haven't heard of it' is showing you the honesty you want to hire.",
+   "quote": {
+    "text": "There is no Morien Sciences. I made it up.",
+    "speaker": "Bobby Axelrod",
+    "ep": "S01E08"
+   },
+   "strength": 3,
+   "category": "INT"
+  },
+  {
+   "title": "Count the Queens",
+   "show": "suits",
+   "pool_ids": [
+    "sui-1316"
+   ],
+   "secondary": [
+    "DEF"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S04E12"
+   ],
+   "strategist": "Mike Ross, then Harvey Specter",
+   "target": "Henry Gerard",
+   "context": "Henry Gerard, a professor, claims the 12,000 dollars in his account came from a poker win, and his sealed testimony depends on describing the hand convincingly. Mike is preparing him.",
+   "play": "Mike asks Gerard to go over the hand repeatedly. Gerard says he won with a queen-high flush against two pair, queens over sixes, after the player beside him folded two queens, which puts too many queens in one deck. When Mike points it out, Gerard changes his account. Harvey, doubtful, tests him further by describing a hand he won six weeks ago card for card, and tells Gerard that anyone who won that pot would remember it the same way.",
+   "why_it_works": "Invented stories do not survive being retold from different angles, while real memories of high-stakes moments are vivid. Checking the story against a physical limit, four queens in a deck, makes the inconsistency objective instead of a matter of impression.",
+   "outcome": "Gerard admits a student paid him to change a grade. Harvey refuses to put him on the stand to lie and cancels the hearing, avoiding a disaster in court.",
+   "counter": "A client who wants help should tell his own lawyers the truth at the start; lying to your own side only means being caught later, at a worse moment.",
+   "principle": "Test a story against hard constraints; confidence proves nothing.",
+   "in_practice": "When a prospect or supplier gives you figures, check whether they add up: capacity against headcount, growth against cash. Confident presentation proves nothing, and arithmetic is hard to argue with.",
+   "quote": {
+    "text": "because where I come from, there are only four queens in a deck.",
+    "speaker": "Mike Ross",
+    "ep": "S04E12"
+   },
+   "strength": 3,
+   "category": "INT"
+  },
+  {
+   "title": "What the Denial Gives Away",
+   "show": "suits",
+   "pool_ids": [
+    "sui-1303",
+    "sui-1381"
+   ],
+   "secondary": [
+    "RULE",
+    "NEG"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S04E09",
+    "S05E09"
+   ],
+   "strategist": "Sean Cahill; Jessica Pearson",
+   "target": "Harvey Specter and Mike Ross; Jack Soloff",
+   "context": "Twice in successive seasons, someone learns more from a denial than from an answer. Sean Cahill, an SEC investigator, is deposing Harvey and Mike on his theory that they colluded on a corporate takeover. A season later Jessica Pearson suspects that Jack Soloff, a partner, is being blackmailed by her rival Daniel Hardman.",
+   "play": "Cahill presses Harvey and Mike until both angrily insist that neither of them got a nickel. He accepts it and flips it: if neither of them got paid, someone else did, and he thanks them for showing him where to point his investigators. Jessica lures Soloff to her office and demands to know what Hardman has on him. Soloff says he will never even acknowledge the premise of the question. Jessica points out that he just did, and since leverage that strong means she cannot trust him, she offers to waive his noncompete if he resigns that night.",
+   "why_it_works": "An emphatic denial of one thing narrows the search for another, and a refusal built around the questioner's premise confirms the premise. Both investigators get confirmation without having to find the evidence first.",
+   "outcome": "Cahill homes in on the hidden payment, which pushes a partner to confess. Jessica confirms Soloff is compromised, but her ultimatum turns him into an open enemy who calls a no-confidence vote against her.",
+   "counter": "Answer only what is asked, and avoid emphatic absolutes and indignant non-answers; a flat, unqualified 'no', or silence, gives away far less.",
+   "principle": "Listen to what a denial rules out; it often tells you where to look next.",
+   "in_practice": "When a counterparty insists a cost increase is not coming from one source, ask where it is coming from. When someone answers your question by arguing with it, treat the argument as a partial yes.",
+   "quote": {
+    "text": "I'm never even going to acknowledge its premise. And you just did.",
+    "speaker": "Jack Soloff, then Jessica Pearson",
+    "ep": "S05E09"
+   },
+   "strength": 3,
+   "category": "INT"
+  },
+  {
+   "title": "Signed in Her Own Phrase",
+   "show": "suits",
+   "pool_ids": [
+    "sui-1394"
+   ],
+   "secondary": [
+    "REP"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S05E13"
+   ],
+   "strategist": "Harvey Specter",
+   "target": "Anita Gibbs",
+   "context": "Anita Gibbs, the federal prosecutor pursuing Mike Ross for practicing law without a degree, is squeezing the firm. An op-ed in the Wall Street Journal, supposedly by a partner at a rival firm, claims there is no way 'on God's green Earth' that a name partner did not know about Mike, and clients are starting to leave.",
+   "play": "Harvey serves Gibbs with a motion over her approach to a witness. Denying witness tampering, she says 'why on God's green Earth would I do that.' Harvey seizes on it: that is the op-ed's exact phrase, and few people under 80 still use it. He accuses her of planting the editorial.",
+   "why_it_works": "People carry their verbal habits into everything they write, and an unusual phrase that appears in two places points to one author.",
+   "outcome": "Gibbs does not deny it. She says he has no proof and that she will take the firm apart brick by brick, and Harvey now knows the prosecution is running a campaign against the firm's reputation as well as a case.",
+   "counter": "Anyone planting anonymous material should have it written in someone else's voice.",
+   "principle": "People sign their anonymous work with their habits of speech.",
+   "in_practice": "When an anonymous complaint or leak appears, compare its wording with how the people involved talk and write. Watch your own pet phrases, too, when you brief others on background.",
+   "quote": {
+    "text": "No, you said, \"on God's green Earth,\" which is exactly what that editorial said.",
+    "speaker": "Harvey Specter",
+    "ep": "S05E13"
+   },
+   "strength": 3,
+   "category": "INT"
+  },
+  {
+   "title": "The Pretext Call",
+   "show": "house-of-cards",
+   "pool_ids": [
+    "hou-0814"
+   ],
+   "secondary": [
+    "DEC"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S02E10"
+   ],
+   "strategist": "Ayla Sayyad",
+   "target": "Daniel Lanagin and Raymond Tusk",
+   "context": "Ayla Sayyad, a Wall Street Telegraph reporter, suspects that money from a Chinese businessman reached a casino run by Daniel Lanagin and from there flowed into political campaigns. She has no proof that Chinese visitors ever gambled there, and her editors fear a libel suit from billionaire Raymond Tusk's lawyers.",
+   "play": "Ayla phones local limousine companies pretending to be from the casino's travel department. The first has no account, so she apologizes and hangs up. The second assumes she is covering for the regular booker and confirms that about twenty Chinese visitors usually arrive by luxury bus. She adds aviation records of the businessman's plane flying to Kansas City, then puts it all to Lanagin, who threatens to sue. Within half an hour Tusk calls her editor, and she reads that as proof that Lanagin's first call was to Tusk.",
+   "why_it_works": "Front-line service staff confirm details for anyone who sounds as if they belong. Putting the evidence directly to the subject and then watching who reacts reveals the network behind him, even while he denies everything.",
+   "outcome": "She has enough to publish a careful story about the money that sets off a full investigation.",
+   "counter": "Lanagin's mistake was calling Tusk at once, which confirmed the link. When you are probed, the calls you make next are information too.",
+   "principle": "Ask a question, then watch who calls whom.",
+   "in_practice": "The reaction to a question often reveals more than the answer: who escalates, how fast and to whom. Getting information by lying about who you are is unethical and often illegal; the lesson here is to watch reactions to honest questions and to use public records.",
+   "quote": {
+    "text": "That means that Tusk was the first call Lanagin made.",
+    "speaker": "Ayla Sayyad",
+    "ep": "S02E10"
+   },
+   "strength": 3,
+   "category": "INT"
+  },
+  {
+   "title": "The Prophet's Informants",
+   "show": "vikings",
+   "pool_ids": [
+    "vik-0670"
+   ],
+   "secondary": [
+    "PSY",
+    "REP"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S06E02"
+   ],
+   "strategist": "Prince Oleg of Novgorod",
+   "target": "Prince Dir",
+   "context": "Oleg, the ruler of Kievan Rus known as 'the Prophet', is traveling far from Kiev with the exiled Viking Ivar and the young heir Igor. His brother Dir arrives with armed men to arrest him. Oleg is outnumbered and in the wrong place, and an arrest would end his regency.",
+   "play": "Oleg neither argues nor fights. He produces Dir's secret wife, Anna, and recounts private details of their secret wedding as if he had foreseen them. Dir, suddenly exposed and unable to tell what else his brother knows, lets the party go. Oleg later tells the story behind his title, a dream that saved him from poisoned wine, but the reality is an extensive network of informants. Once safely back in Kiev, he has Dir seized and imprisoned.",
+   "why_it_works": "A secret revealed at the right moment does two jobs: it gives leverage over the person, and it signals that you know more than you have said. Dir cannot price the rest of Oleg's knowledge, so he retreats. The prophet legend turns ordinary intelligence work into an aura that makes resistance feel pointless.",
+   "outcome": "Oleg escapes arrest without a fight, then removes Dir in his own city. His reputation for foresight keeps others, Ivar included, wary of plotting against him.",
+   "counter": "Dir should have made the arrest at once without parley, or secured Anna before confronting a brother famous for his informants.",
+   "principle": "Knowing one thing your opponent thinks is hidden makes him fear everything else you might know.",
+   "in_practice": "In a negotiation, one specific, well-researched fact about the other side's situation (their budget cycle, a competing bid, a looming deadline) changes the tone more than any argument. A reputation for preparation then does part of the work before you arrive.",
+   "source": "knowledge",
+   "strength": 5,
+   "category": "INT"
+  },
+  {
+   "title": "Know Their Children's Names",
+   "show": "peaky-blinders",
+   "pool_ids": [
+    "pea-0343"
+   ],
+   "secondary": [
+    "LEV",
+    "PSY"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S02E01"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "Irene O'Donnell and her republican cell",
+   "context": "The Shelbys' pub has just been blown up, and Tommy walks alone into another pub to face the Irish republicans who did it. They hold the guns and tell him he is one decision away from death.",
+   "play": "Tommy needles them about the split over the Anglo-Irish treaty and keeps smiling. When they threaten him, he recites their leader's name, Irene O'Donnell, her son's school, the irons on the boy's legs and the fact that he comes last in every race. Then he asks what he has been chosen for, forcing them to explain themselves.",
+   "why_it_works": "Specific knowledge about a person's family tells them the threat runs both ways and that the man in front of them has reach outside the room. It resets a meeting in which he was supposed to be taking orders.",
+   "outcome": "The hothead who wants to shoot him is overruled, and Irene concedes that he researches his enemies and that this is why he was chosen. Tommy still has to take the job, but he enters it as a respected operator.",
+   "counter": "Irene could have assumed Tommy would research her before she exposed herself in person, or sent an intermediary with nothing to lose.",
+   "principle": "Walk into a hostile meeting already knowing more about them than they know about you.",
+   "in_practice": "Before a tough negotiation, research the counterpart's pressures, history and priorities in detail. Showing informed awareness of their world (never threats) moves you from supplicant to peer.",
+   "quote": {
+    "text": "Your name is Irene O'Donnell. You have a son at the Cherry Wood Road School in Harborne.",
+    "speaker": "Tommy Shelby",
+    "ep": "S02E01"
+   },
+   "strength": 4,
+   "category": "INT"
+  },
+  {
+   "title": "Refuse, Then Prove You See More",
+   "show": "peaky-blinders",
+   "pool_ids": [
+    "pea-0358"
+   ],
+   "secondary": [
+    "NEG",
+    "PSY"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S02E04"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "Major Campbell and the pro-treaty Irish",
+   "context": "Tommy learns that Major Campbell, the intelligence officer who has been coercing him, is working with the same Irish faction that bombed his pub, and that together they want him to kill for them, with immunity afterward but no help during. Everyone in the room assumes he has no choice.",
+   "play": "Tommy mocks the alliance and then says no. When Campbell reminds him of his deal with Winston Churchill, Tommy reveals that Donal Henry, the loudest man at the table, is a spy for the anti-treaty side who meets them twice a week at a pub in Saltley. When Campbell insists his department vetted both men, Tommy answers that his men go where Campbell's cannot, and sets his price: proof the spy is dead, and then there is a deal.",
+   "why_it_works": "A refusal followed by a valuable gift recasts Tommy as a partner who is protecting the operation. Showing better intelligence than the secret service undermines Campbell's claim to be in control.",
+   "outcome": "The Irish accept they must deal with the spy, and Tommy's terms become part of the arrangement. He enters the mission as a contractor setting conditions.",
+   "counter": "Campbell could have kept the Irish partnership hidden from Tommy; revealing it at a meeting gave Tommy both a grievance and a chance to split his opponents.",
+   "principle": "Say no, then show them something they missed; you return to the table as an equal.",
+   "in_practice": "When a client or partner presents a deal entirely on their terms, bringing a risk or insight they overlooked earns you the standing to renegotiate the conditions.",
+   "quote": {
+    "text": "I have men in places your men can't go.",
+    "speaker": "Tommy Shelby",
+    "ep": "S02E04"
+   },
+   "strength": 3,
+   "category": "INT"
+  },
+  {
+   "title": "Dutch Passports in Milwaukee",
+   "show": "billions",
+   "pool_ids": [
+    "bil-0169"
+   ],
+   "secondary": [
+    "LEAD"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S03E10"
+   ],
+   "strategist": "Ben Kim, coached by Mike 'Wags' Wagner",
+   "target": "The market (Holland Inter-Bev and Beer National)",
+   "context": "Ben Kim, a quiet analyst at Axe Capital, has an idea but cannot bring himself to pitch it. Wags, the firm's chief operating officer, tells him he has to do something big, public and out of character to break through.",
+   "play": "For years Ben has tracked rental car activity in business cities and built relationships with branch managers. Airport managers in Milwaukee tell him an unusual number of Dutch passports are being used to rent cars, and GPS data shows the cars shuttling from a Courtyard Marriott to Beer National's headquarters seven miles away. He concludes that Holland Inter-Bev is about to bid for Beer National and pitches Axe to take positions in both. His 'bold act' is taking his shirt off in a pension fund meeting, which loses that client.",
+   "why_it_works": "Deal teams leave physical traces before any announcement: travel, cars, hotels. Relationships with the people who see those traces every day give an edge that no public filing can.",
+   "outcome": "Axe approves the trade with rare praise, while the stunt costs the firm a pension mandate. The pitch sets Ben up for promotion to portfolio manager.",
+   "counter": "Companies in sensitive deals should vary their logistics and avoid clustering visitors in one visible place.",
+   "principle": "Before a deal is announced, it shows up in travel, logistics and traffic; watch the physical world.",
+   "in_practice": "Public signals such as job postings, supplier activity, office moves and conference travel often reveal a prospect's plans before they say anything. Build relationships with the people who see those signals every day.",
+   "quote": {
+    "text": "Managers of the main airport locations have confirmed that there are lots of Dutch passports being presented for car rentals.",
+    "speaker": "Ben Kim",
+    "ep": "S03E10"
+   },
+   "strength": 3,
+   "category": "INT"
+  },
+  {
+   "title": "The Telephone Exchange Girls",
+   "show": "peaky-blinders",
+   "pool_ids": [
+    "pea-0446"
+   ],
+   "secondary": [
+    "DEF",
+    "LEAD"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S05E06",
+    "S05E03",
+    "S05E05"
+   ],
+   "strategist": "Tommy Shelby and Arthur Shelby",
+   "target": "Micky, the barman at the Garrison",
+   "context": "A rival gang knew exactly when and where the Shelbys' opium pick-up would happen, and the bomb that killed Colonel Younger was set off by a man with loyalist paramilitary ties. Someone close to the family is selling information.",
+   "play": "Tommy draws on a network of loyal staff built over years, including the girls at the Digbeth telephone exchange. He asks them which calls were made around the time of the bomb and learns that someone rang the bomber, Paddy Rose, thirty minutes before. Tommy and his brother Arthur get Rose to confess. Then they sit Micky, the barman at their own pub, down with a drink and lay out the evidence in sequence, ending with the fact that the call came from Micky's number, and accuse him of selling what he overheard behind the bar.",
+   "why_it_works": "Switchboard operators see traffic patterns no one thinks to hide, and people who handle communications, treated well, provide a quiet stream of intelligence. Laying out the evidence step by step leaves the traitor no room to deny it.",
+   "outcome": "Micky breaks down and confesses. One leak is closed, but Tommy's plan against Mosley is betrayed anyway, a reminder that finding one informer does not mean you have found them all.",
+   "counter": "Micky should have assumed the phone lines in a Shelby town were watched.",
+   "principle": "The people who handle your communications know more than anyone else in the building.",
+   "in_practice": "Admin, support and operations staff see patterns leadership misses; treat them well and listen to them. Protect sensitive communications accordingly, since anyone who routes them can read them.",
+   "quote": {
+    "text": "The girls at the exchange gave me the number of the man that called, Micky, before the explosion. That was your number.",
+    "speaker": "Tommy Shelby",
+    "ep": "S05E06"
+   },
+   "strength": 3,
+   "category": "INT"
+  },
+  {
+   "title": "The Mistress as Informant",
+   "show": "vikings",
+   "pool_ids": [
+    "vik-0582"
+   ],
+   "secondary": [
+    "ALLY",
+    "TRAP"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S04E05",
+    "S04E02",
+    "S04E06",
+    "S04E08"
+   ],
+   "strategist": "Roland and Therese",
+   "target": "Count Odo",
+   "context": "Count Odo is the Frankish Emperor's most trusted servant, yet privately despises him as a coward and plans to seize the throne. Roland, Odo's subordinate, and Roland's sister Therese, who is Odo's mistress, want to replace him.",
+   "play": "Therese submits to Odo's violent private sessions and reports his contempt for the Emperor to Roland, who tells her to find anything that will discredit him. Roland requests a private audience with the Emperor, professes reluctance to speak against his superior, and cites the word of Odo's mistress, observing that a man tells the truth to his mistress before his wife. Only then does he reveal she is his sister. The Emperor tells them to stay close and report. When Odo later confides his plan for a coup to Therese, and then urges the Emperor to arrest Rollo, naming Roland as his witness, he walks straight into the trap.",
+   "why_it_works": "The people closest to a powerful man in private see what he hides in public. Roland times his disclosure so that Odo's own later moves confirm what the Emperor has already been told.",
+   "outcome": "Odo is executed for treason and Roland is made Count. The victory is short-lived: the Emperor later has Roland and Therese killed as well.",
+   "counter": "Odo confided treason to a lover whose brother served under him and never asked what either stood to gain.",
+   "principle": "Guard your words most carefully with those who have the most private access to you.",
+   "in_practice": "Assume that anything said to a contractor, assistant or confidant can reach your client or rival. Before you criticize a partner in private, imagine hearing it quoted back to them.",
+   "quote": {
+    "text": "And, as your Highness knows, a man will always divulge the truth first to his mistress, and only afterwards, if at all, to his wife.",
+    "speaker": "Roland",
+    "ep": "S04E05"
+   },
+   "strength": 3,
+   "category": "INT"
+  },
+  {
+   "title": "Claiming to Know Already",
+   "show": "peaky-blinders",
+   "pool_ids": [
+    "pea-0372"
+   ],
+   "secondary": [
+    "DEC"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S03E01"
+   ],
+   "strategist": "Grace Shelby",
+   "target": "Polly Gray",
+   "context": "On her wedding day, Grace knows her new husband Tommy is hiding business from her. Tommy's aunt Polly, who runs the family's books, has always doubted Grace, who was once a government agent.",
+   "play": "Grace tells Polly that Tommy told her 'everything' in bed and recites what she has pieced together: royalist Russians, weapons, Churchill as go-between, all against government policy. Polly, assuming Grace is already inside, adds the one fact Grace did not know: they started the business tonight. Grace then admits she did not know and thanks Polly for telling her.",
+   "why_it_works": "People guard secrets from outsiders but talk freely to someone they think is already informed. Presenting partial knowledge as complete makes the disclosure feel like confirmation instead of a leak.",
+   "outcome": "Grace learns the deal is live and goes straight to Tommy to extract a promise to get out of it. Polly concedes that only Tommy has forgotten what Grace used to be.",
+   "counter": "Polly could have answered with a question ('What did he tell you about tonight?') instead of adding a fact.",
+   "principle": "Act as if you already know, and people will fill in the gaps.",
+   "in_practice": "In discovery calls, summarizing what you already understand often prompts a buyer to correct or extend it with the detail you actually need. When you suspect someone is fishing, answer with a question and add nothing.",
+   "quote": {
+    "text": "No. I didn't. But you just told me, so thank you.",
+    "speaker": "Grace Shelby",
+    "ep": "S03E01"
+   },
+   "strength": 3,
+   "category": "INT"
+  },
+  {
+   "title": "Confess to Get a Confession",
+   "show": "house-of-cards",
+   "pool_ids": [
+    "hou-0864",
+    "hou-0876"
+   ],
+   "secondary": [
+    "PSY"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S03E07",
+    "S03E10",
+    "S03E11",
+    "S03E12"
+   ],
+   "strategist": "Tom Yates",
+   "target": "Frank Underwood and Claire Underwood",
+   "context": "Tom Yates, a novelist, has been hired to write a book about the President's jobs program, but Frank keeps giving him scripted answers, and Claire guards herself even more carefully.",
+   "play": "On a trip to Frank's hometown, Yates names the evasion ('You tell me what you want me to write') and offers Frank a choice: trust him or find another writer. When Frank talks about secrets, Yates hands over one of his own: his dead friend wrote the first half of his celebrated first novel. Frank responds by admitting he was always ashamed that Claire married him. Later Yates confesses a teenage past as an escort, and Frank opens up again. With Claire, Yates says the book has a gap, 'You', and tells her what Frank said about her, which makes her want to add her side.",
+   "why_it_works": "Offering a costly personal secret creates pressure to reciprocate and makes the listener feel understood rather than interviewed. Telling someone what another person said about them draws out their own version.",
+   "outcome": "Yates gets the raw material for a chapter about the marriage so revealing that Frank kills the book and threatens him. The technique works too well for the subject's comfort.",
+   "counter": "Frank noticed the dynamic and asked what was in it for Yates, then kept talking anyway. A source should decide in advance what is off limits, whatever is offered in exchange.",
+   "principle": "To get candor, take the first risk yourself.",
+   "in_practice": "In client discovery or a team retrospective, sharing a real mistake or doubt of your own first often unlocks honest answers that direct questions never reach. Recognize the same technique when a vendor or recruiter uses it on you.",
+   "quote": {
+    "text": "You don't have a monopoly on secrets.",
+    "speaker": "Tom Yates",
+    "ep": "S03E07"
+   },
+   "strength": 3,
+   "category": "INT"
+  },
+  {
+   "title": "Giving the Guard Cover",
+   "show": "suits",
+   "pool_ids": [
+    "sui-1511"
+   ],
+   "secondary": [
+    "PSY",
+    "LEV"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S07E03"
+   ],
+   "strategist": "Mike Ross",
+   "target": "Drew, a prison guard on duty the night an inmate died",
+   "context": "Mike is investigating the death of Chris Reyes in a private prison. The company refuses to share its incident report or guard names. Mike gets the names, but no guard will be seen talking to a lawyer.",
+   "play": "Mike approaches the guards together in public, and the lead guard tells him to get lost in front of his colleagues. Mike then catches him alone. He points out that the guard is first on the duty list, so he will be the company's scapegoat, and that his friends have just watched him refuse to cooperate, so nobody will suspect him of talking. Mike offers to keep him out of it if he talks, and warns that otherwise the company will protect itself and Mike will have to come after him.",
+   "why_it_works": "The public refusal gives the source cover among his peers, which removes his main reason to stay silent. Mike then sets out two paths, being the scapegoat or being left out, and makes the second clearly the better one.",
+   "outcome": "The guard admits the prison ran with too few staff to protect its bottom line, which gives Mike enough to file suit.",
+   "counter": "The prison could have supported its guards so they had no reason to fear being blamed.",
+   "principle": "Before asking someone to take a risk for you, give them cover and show them the cost of staying quiet.",
+   "in_practice": "When you need candid information from someone inside a client or partner, make it safe to talk (private, unattributed) and be honest about how the problem will land on them if it stays hidden.",
+   "quote": {
+    "text": "Except you just told me to go to hell in front of all your buddies, and they saw you meant it.",
+    "speaker": "Mike Ross",
+    "ep": "S07E03"
+   },
+   "strength": 4,
+   "category": "INT"
+  },
+  {
+   "title": "Send the Scout Up Front",
+   "show": "billions",
+   "pool_ids": [
+    "bil-0069"
+   ],
+   "secondary": [
+    "ALLY",
+    "TIME"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S02E03",
+    "S02E04",
+    "S02E05",
+    "S02E06"
+   ],
+   "strategist": "Bobby Axelrod",
+   "target": "Chuck Rhoades (using Lawrence Boyd)",
+   "context": "Lawrence Boyd, a fellow billionaire who kept his distance when Axe was in trouble, is now under attack from US Attorney Chuck Rhoades, Axe's nemesis, and asks Axe for help. Axe has no obvious reason to help a man who snubbed him.",
+   "play": "Axe agrees. He finds Boyd a killer lawyer and introduces him to Hall, his fixer, as a man to trust like Axe himself. Privately he explains his reasoning to his wife Lara: Chuck's attack on Boyd is loud and public, so if Chuck wins he gets stronger, if he loses he is defanged, and either way Axe will be inside the fight, learning what works against Chuck and what does not. Boyd is a scout: he either brings back intelligence or becomes cannon fodder, which is its own intelligence. Over the next episodes Axe keeps using Boyd, first as an on-air endorser and then as a vehicle for Hall to flip a cooperating witness back.",
+   "why_it_works": "Helping an ally fight your enemy lets you study the enemy's methods at someone else's risk. The goodwill is a bonus; the information is the point.",
+   "outcome": "Axe sees Chuck's full playbook against a powerful target, from leaks to wires, and keeps his own name out of it. Boyd ends up pleading guilty.",
+   "counter": "Boyd could have asked why Axe was being so generous and kept Axe's people at arm's length.",
+   "principle": "Let an ally test the enemy's defenses before you commit your own forces.",
+   "in_practice": "When a peer firm is dealing with a regulator, a demanding customer or a new competitor you expect to face later, stay close, help where you honestly can, and learn from their experience before you are in the same position.",
+   "quote": {
+    "text": "He's a scout. He brings back intel, or he becomes cannon fodder, and that brings a different kind of intel about where we can step and where we can't.",
+    "speaker": "Bobby Axelrod",
+    "ep": "S02E03"
+   },
+   "strength": 3,
+   "category": "INT"
+  },
+  {
+   "title": "The Undefended Minster",
+   "show": "vikings",
+   "pool_ids": [
+    "vik-0524"
+   ],
+   "secondary": [
+    "RISK",
+    "TIME"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S02E03",
+    "S02E04"
+   ],
+   "strategist": "King Ecbert of Wessex",
+   "target": "The Viking raiders, and his own court",
+   "context": "Northmen have landed in Wessex. King Ecbert knows from his years at Charlemagne's court that they strike fast, avoid pitched battle and stay near their ships. His court later demands to know why he did nothing to protect Winchester, a major pilgrimage site, where the bishop was killed.",
+   "play": "Ecbert sends spies to observe the raiders' numbers and intentions and orders his son to raise an army, but leaves Winchester to its fate. When challenged, he admits it plainly: his kingdom has too many important sites to defend them all, and he wanted to discover where the pagans would strike, because now he knows where they are. He then sends the bishop who questioned him as his envoy to the raiders.",
+   "why_it_works": "Against a mobile enemy, knowing where they are and what they want is worth more than one defended site. Ecbert trades a loss he could not prevent for information and time, and sending his critic as envoy quiets dissent at court.",
+   "outcome": "Ecbert learns where the Northmen are and what they want, buys time to raise an army, and later exploits the split in their forces.",
+   "counter": "The raiders could have denied him information by striking and leaving at once, as Northmen usually did, instead of lingering and advertising their wish to talk.",
+   "principle": "When you cannot defend everything, let the opponent reveal himself and spend the loss on information.",
+   "in_practice": "In a new market you cannot protect every account from a well-funded competitor. Watch where they attack first, learn their playbook from the accounts you lose, and concentrate your defense where it counts.",
+   "quote": {
+    "text": "Did I want to discover where the pagans would strike? Yes. For now I know where they are.",
+    "speaker": "King Ecbert",
+    "ep": "S02E03"
+   },
+   "strength": 4,
+   "category": "INT"
+  },
+  {
+   "title": "The Vetter Is Vetted",
+   "show": "house-of-cards",
+   "pool_ids": [
+    "hou-0766"
+   ],
+   "secondary": [
+    "DEC",
+    "NEG"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S01E12",
+    "S01E13"
+   ],
+   "strategist": "Raymond Tusk and President Walker",
+   "target": "Frank Underwood",
+   "context": "President Garrett Walker surprises Frank Underwood, his House majority whip, by naming billionaire Raymond Tusk as his choice for vice president and claiming he barely knows him. Frank, who secretly wants the job himself, volunteers to fly to St. Louis to persuade the reluctant Tusk, hoping to steer the outcome.",
+   "play": "Tusk keeps Frank off balance: he receives him at 2 a.m. in his kitchen, runs a string of business calls demanding yes-or-no answers, cuts off Frank's speculation, and keeps asking what Frank himself thinks. Meanwhile Frank has an investigator dig into Tusk and learns that he and Walker attended many of the same events and that Tusk once owned a third of Walker's old airline. When Frank confronts him, Tusk confirms it: he was never being vetted; he was sent to vet Frank. He admits he blocked Frank's nomination as Secretary of State, and says his recommendation will cost one unspecified favor.",
+   "why_it_works": "Walker sends the candidate to the kingmaker under a false pretext, so Frank reveals himself naturally while believing he is the one assessing. Tusk's refusal to allow speculation forces Frank to either commit or visibly dodge. Frank's own background research is what stops him walking into the arrangement blind.",
+   "outcome": "Frank realizes he is being played, refuses to commit on the spot, and leaves to plan a counter. In the season finale Walker confesses the arrangement and offers Frank the vice presidency.",
+   "counter": "Frank's counter is the right one: independent research on anyone you are sent to meet. The warning sign came earlier, when a President claimed to barely know the man he wanted as his running mate.",
+   "principle": "When you are sent to evaluate someone powerful, assume you are the one being evaluated, and do your own research first.",
+   "in_practice": "Before a meeting with a potential investor, partner or large client, research their links to the people who sent you. In pitches and interviews, assume every informal moment, from the airport pickup to the dinner, is part of the assessment.",
+   "quote": {
+    "text": "Speculation is a poor form of investment and an equally poor form of politics.",
+    "speaker": "Raymond Tusk",
+    "ep": "S01E12"
+   },
+   "strength": 5,
+   "category": "INT"
+  },
+  {
+   "title": "The Double Agent Kept in Place",
+   "show": "house-of-cards",
+   "pool_ids": [
+    "hou-0801"
+   ],
+   "secondary": [
+    "ALLY",
+    "DEC"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S02E07",
+    "S02E05"
+   ],
+   "strategist": "Seth Grayson and Frank Underwood",
+   "target": "Remy Danton and Raymond Tusk",
+   "context": "Lobbyist Remy Danton, working for Raymond Tusk, has hired political operative Seth Grayson to find damaging material on the Underwoods. Seth has also joined the Underwoods' staff, where the current press secretary, Connor Ellis, stands between him and the Vice President.",
+   "play": "Seth tells Remy that Claire's story checks out and asks for a favor: a well-paid private job for Connor, so Seth can get closer to the Underwoods. Remy arranges it and Connor leaves. Frank then calls Seth in, praises his powers of observation, reminds him that information is power, and says he needs more. Seth confesses that Remy hired him, claims he has given Remy nothing, and says he would rather work for the real power. Frank neither fires him nor tells him to cut contact with Remy. He tells him to find the blind spots.",
+   "why_it_works": "Seth gets his original employer to pay for his own advancement, since Remy's favor clears Connor out of his way. Frank's approach, showing he knows and then offering a bigger role, makes confession Seth's safest option, and a discovered spy kept in place becomes a window into the other camp and a channel for feeding it.",
+   "outcome": "Seth becomes the Underwoods' communications director and Frank gains a line into Tusk's operation. Seth also turns away a reporter's questions about Tusk's money.",
+   "counter": "Remy should have been suspicious when the agent he had placed asked for a favor that mainly improved that agent's standing with the target.",
+   "principle": "When you catch someone spying on you, don't fire them; turn them and keep them where they are.",
+   "in_practice": "If a contractor or partner turns out to be talking to a competitor, have a frank conversation, set clear terms, and decide deliberately whether the relationship is still useful, instead of ending it in anger. Be wary when someone you have placed asks for a favor that mainly benefits them.",
+   "quote": {
+    "text": "No. I want you to find the blind spots.",
+    "speaker": "Frank Underwood",
+    "ep": "S02E07"
+   },
+   "strength": 4,
+   "category": "INT"
+  },
+  {
+   "title": "Water in the Wine Cup",
+   "show": "vikings",
+   "pool_ids": [
+    "vik-0613"
+   ],
+   "secondary": [
+    "LEAD"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S04E17"
+   ],
+   "strategist": "King Ecbert",
+   "target": "Alfred (as a lesson)",
+   "context": "King Ecbert is preparing his young grandson Alfred for kingship, talking with him about books and the burdens of rule.",
+   "play": "Ecbert talks about Gregory the Great and the duties of kings while repeatedly pressing Alfred to drink more wine, overriding his refusals. He tells Alfred that kings must know how to be bored without showing it. Then he reveals that he has been drinking water all along while Alfred drank wine. He draws the lesson: never let yourself be influenced by other people, especially people like him, and always think your own thoughts.",
+   "why_it_works": "A demonstration beats a lecture: Alfred feels for himself how easily a friendly authority figure can dull his judgment. The trick is a classic information asymmetry, staying clear-headed while the other party lowers his guard.",
+   "outcome": "Alfred learns to distrust even well-meaning influence, a habit that serves him when he becomes king.",
+   "counter": "Alfred could have held to his refusal, or simply checked what his host was drinking.",
+   "principle": "Keep your judgment clear, and watch whether the other side is doing what they are asking you to do.",
+   "in_practice": "At client dinners and late-night deal sessions, pace yourself and notice who is actually drinking. Make commitments the next morning.",
+   "quote": {
+    "text": "I've just been drinking water, while you were drinking the wine.",
+    "speaker": "King Ecbert",
+    "ep": "S04E17"
+   },
+   "strength": 3,
+   "category": "INT"
+  },
+  {
+   "title": "The Ring on Every Finger",
+   "show": "billions",
+   "pool_ids": [
+    "bil-0252"
+   ],
+   "secondary": [
+    "LEAD"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S06E01"
+   ],
+   "strategist": "Mike Prince and Scooter",
+   "target": "The trading floor at Mike Prince Capital",
+   "context": "Mike Prince, the billionaire who has taken over Axe's firm, needs to understand a team whose culture he distrusts. He gives every employee a Nimbus ring, a friend's startup product that tracks sleep, heart rate and other vital signs, presented as a wellness perk.",
+   "play": "Staff accept the app's terms without reading them, so Prince's side can see their data. When Wags's readings show a heart attack, Prince and his lieutenant Scooter must choose between saving him and keeping the monitoring secret; they call the paramedics, and Wags works out he was being watched. The floor erupts, and some staff reveal they had already beaten the system by putting their rings on a dog or a marathon runner. At the investor meeting Prince defuses the anger by announcing that ring data will now be visible only to each wearer.",
+   "why_it_works": "Consent buried in a terms screen gives legal cover and early information, and handing the data back later turns an exposed intrusion into a gesture of trust.",
+   "outcome": "Prince gains some insight and a life is saved, but he spends trust he needed and has to repair the damage publicly. The data was also partly fake all along.",
+   "counter": "Staff who read the terms, or fed the device false data, denied the watcher reliable information. A leader should assume covert monitoring will come out and weigh the cost in trust first.",
+   "principle": "Surveillance that people discover costs more trust than it earns in information.",
+   "in_practice": "If you collect data on your team or your clients, say so plainly up front and give them control of it. Hidden collection that surfaces later poisons the very relationship the data was meant to improve.",
+   "quote": {
+    "text": "We can't have invaded your privacy. You invited us in.",
+    "speaker": "Mike Prince",
+    "ep": "S06E01"
+   },
+   "strength": 3,
+   "category": "INT"
+  },
+  {
+   "title": "Crisis as Data Harvest",
+   "show": "house-of-cards",
+   "pool_ids": [
+    "hou-0997"
+   ],
+   "secondary": [
+    "REP",
+    "TIME"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S06E02",
+    "S06E03",
+    "S06E05",
+    "S06E06"
+   ],
+   "strategist": "Duncan Shepherd, Seth Grayson and the Shepherd Freedom Foundation",
+   "target": "Voters, starting with the residents of Bellport; later President Claire Underwood",
+   "context": "The Shepherds, a wealthy family who fund conservative causes, want to shape the midterm elections and control what the public sees. A disaster at a plant in Bellport leaves thousands of frightened people looking for someone to trust.",
+   "play": "Foundation volunteers sign residents up to an app that promises to tell them what will happen before it happens, while Seth tells Bill Shepherd that it lets them decide what people see and when. Nearly 50,000 phones in the area sign up, including those of the plant's workers. Duncan Shepherd wants to use it to get into the President's phone and a journalist's, and the family plans to save the app for the midterms.",
+   "why_it_works": "People in a crisis will trade privacy for reassurance, and a tool framed as help is adopted quickly. Access to phones gives the operator both surveillance and a channel to steer opinion.",
+   "outcome": "It backfires. A source warns the journalist that 'they were following my phone', and Claire turns the app into her main weapon against the Shepherds, calling it treason; Duncan is arrested.",
+   "counter": "An operation that depends on nobody noticing is only as safe as its most frightened user. The family had been warned it must not be exposed, and used it anyway.",
+   "principle": "Covert tools become evidence against you the moment they are exposed; judge them by how they will look in the open.",
+   "in_practice": "Build data practices you would be comfortable explaining on the front page. Access that customers later feel tricked into giving destroys the business that relied on it.",
+   "quote": {
+    "text": "You get to decide what people see and when.",
+    "speaker": "Seth Grayson",
+    "ep": "S06E02"
+   },
+   "strength": 3,
+   "category": "INT"
+  }
+ ]
+}

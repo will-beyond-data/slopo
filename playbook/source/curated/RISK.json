@@ -1,0 +1,709 @@
+{
+ "id": "RISK",
+ "name": "Gambits, Sacrifices & Calculated Risk",
+ "intro_html": "<p>Every play in this chapter puts something real at risk: money, a company, a career, a life. That is what separates a gambit from a bluff. A bluff asks the other side to believe you will pay a price; a gambit pays it, or stands visibly ready to. The logic is old and simple. People discount words and respect costs, so the fastest way to change what others believe about you is to give up something they assumed you could never give up.</p><p>The first family of plays here is sacrifice as persuasion. Rollo slaughters his own warband in <i>Vikings</i> (<b>Burning the Way Back</b>) because a defector is believed only when he cannot go home. Scottie in <i>Suits</i> hands over the file that kills her own name partnership (<b>The Costly Signal</b>) because Harvey no longer trusts anything she says. Robert Zane gives up his license to end an inquiry that would have finished Harvey (<b>The Willing Fall Guy</b>). The second family is the threat to destroy the prize. Harvey wins a patent fight and a poker debt by showing he would rather make the asset worthless than lose it (<b>The Bomb Strapped to the Chest</b>), and in <i>Billions</i> Mike Prince lets $3.5 billion in cryptocurrency lock forever sooner than hand Chuck Rhoades his evidence (<b>Burn the Billions</b>). In each case the weaker side becomes stronger the moment it shows it is willing to lose.</p><p>The long games take this to its limit. Ragnar, with nothing left but his own death, designs it so carefully that it raises an army for his sons (<b>Ragnar Designs His Own Death</b>). Chuck Rhoades, about to be fired, picks a fight so large that firing him would look like a cover-up (<b>Making Himself Unfireable</b>). Frank Underwood engineers his own fall from the presidency so he can choose the timing and the successor (<b>The Controlled Fall</b>), and then learns what an unwritten promise from that successor is worth.</p><p>Gambits backfire in predictable ways, and the failures here are as useful as the wins. Axe loses $430 million holding a position to prove he is the difference maker. Tommy Shelby's assassination plan in <i>Peaky Blinders</i> needs a dozen people to keep a secret, and one of them does not (<b>The Lone Gunman</b>). Frank launches an attack on Raymond Tusk that depends on an ally he has not secured (<b>An Invader Without an Army</b>). And the <i>Suits</i> plays <b>Then Sue Me</b> and <b>The No-Downside Blind Eye</b> are reminders to look at the bet from the other chair: a counterparty with nothing left to lose will take any risk, and a partner who quietly lets you gamble may have arranged to keep only the upside.</p><p>The shows differ in temperament. <i>Vikings</i> treats sacrifice as sacred and literal. <i>Peaky Blinders</i> gives us Tommy, who bets the family on single decisive moments and wins as often by timing (<b>Advance When Others Retreat</b>) as by nerve. <i>House of Cards</i> is about who gets sacrificed, and how often it is someone other than the strategist. <i>Billions</i> prices every risk in dollars and then shows how often ego distorts the price. <i>Suits</i> keeps asking the question every business owner should ask before a bold move: who agreed to carry this risk, and did they know.</p>",
+ "principles": [
+  "People discount words and believe costs, so a real sacrifice persuades where promises cannot.",
+  "The side willing to destroy the prize holds power over the side that needs it intact.",
+  "A change of direction is believed only when the way back is visibly closed.",
+  "When you cannot win, choose the terms of your loss and who it serves.",
+  "If you engineer your own exit, get your terms in writing before you give up control.",
+  "Size every bet on the evidence; a position held to prove you are right is a gamble.",
+  "Every extra person who knows a risky plan is another way it can fail.",
+  "Leave a counterparty something to lose, because a party with no downside will take any risk.",
+  "Before you take a risk, find out who carries the downside and whether they agreed to it.",
+  "Hold cash for the downturn, because in a crisis liquidity sets the terms."
+ ],
+ "plays": [
+  {
+   "title": "Ragnar Designs His Own Death",
+   "show": "vikings",
+   "secondary": [
+    "DEC",
+    "PSY",
+    "TIME"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S04E14",
+    "S04E10",
+    "S04E11",
+    "S04E12",
+    "S04E13",
+    "S04E15",
+    "S04E18",
+    "S04E20"
+   ],
+   "strategist": "Ragnar Lothbrok",
+   "target": "King Ecbert of Wessex and King Aelle of Northumbria, with his own sons as the instrument",
+   "context": "Ragnar Lothbrok, the farmer who rose to be king of the Vikings, comes home to Kattegat after years away. He is broken, addicted and discredited: the farming settlement he founded in Wessex was massacred and he never avenged it. No one will follow him to England and his sons are divided. He cannot win a war, so the only open question is how he loses.",
+   "play": "He first confronts the succession head on, daring any son to kill him and take the crown, then digs up his own burial hoard to pay men to sail. When a storm wrecks the fleet he takes only his youngest son Ivar inland, kills the other survivors so there is no raiding party to be captured, and walks up to King Ecbert's villa claiming friendship. Over several nights he tells Ecbert the world demands his death and offers a bargain: send Ivar home, hand Ragnar to King Aelle, and Ivar will tell his brothers that Ecbert did everything he could to save him. Privately he tells Ivar to take revenge on Ecbert and to use the fact that everyone underestimates him. In Aelle's snake pit he spends his last words on his sons.",
+   "why_it_works": "Ragnar turns the one asset he has left, his own death, into a message and a cause. Ecbert accepts because the deal appears to keep his hands clean, while the one thing Ragnar still controls, the story Ivar carries home, reverses its meaning. A father's public martyrdom unites sons whom nothing else could unite.",
+   "outcome": "The sons raise the Great Army, kill Aelle by the blood eagle on the spot where Ragnar died (S04E18) and defeat Wessex, and Ecbert dies (S04E20). The unity lasts exactly as long as the revenge: at the victory feast Ivar kills his brother Sigurd and the army begins to split.",
+   "counter": "Ecbert weighed only whether the deal kept him clean, never what Ivar would actually say at home. Releasing the one witness who knows the real terms is the flaw in any plan to shift blame.",
+   "principle": "When you cannot win, choose the terms of your loss and make them pay out for the people who come after you.",
+   "in_practice": "When a project, a client relationship or your own tenure is ending badly, spend your remaining authority on setting up your successors and the story they will carry. A last stand for your own position buys nothing; a well-designed handover can decide the next five years.",
+   "quote": {
+    "text": "I will tell my son Ivar to tell his brothers that you did everything you could to save me.",
+    "speaker": "Ragnar Lothbrok",
+    "ep": "S04E14"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "vik-A0716"
+   ],
+   "steps": [
+    {
+     "ep": "S04E10",
+     "move": "Ragnar returns after years away and dares anyone to kill him and take the crown; no one does (repeated at the start of S04E11)."
+    },
+    {
+     "ep": "S04E12",
+     "move": "Shamed in the market over the hidden massacre, he digs up his burial hoard and pays men to sail."
+    },
+    {
+     "ep": "S04E13",
+     "move": "After the storm wrecks his fleet, he takes only Ivar inland, teaches him that his legs are a strength, and tells him to act like a cripple at Ecbert's gate."
+    },
+    {
+     "ep": "S04E14",
+     "move": "At the villa he hears Ecbert admit the massacre and proposes the bargain: Ivar goes home, Ragnar goes to Aelle, and Aelle alone gets the blame."
+    },
+    {
+     "ep": "S04E15",
+     "move": "He secretly tells Ivar to take revenge on Ecbert, then dies in Aelle's snake pit with a speech aimed at his sons."
+    },
+    {
+     "ep": "S04E18",
+     "move": "The sons use his words as their rallying cry and blood-eagle Aelle on the spot where he died."
+    },
+    {
+     "ep": "S04E20",
+     "move": "The Great Army defeats Wessex and Ecbert dies, completing Ragnar's design; the brothers split the same night."
+    }
+   ],
+   "category": "RISK"
+  },
+  {
+   "title": "Making Himself Unfireable",
+   "show": "billions",
+   "secondary": [
+    "RULE",
+    "TRAP",
+    "TIME"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S02E02",
+    "S02E01",
+    "S02E03",
+    "S02E04",
+    "S02E05",
+    "S02E06"
+   ],
+   "strategist": "Chuck Rhoades, the US Attorney for the Southern District of New York (with Bryan Connerty, Kate Sacker and Lonnie Watley)",
+   "target": "The Attorney General and OPR investigator Oliver Dake, with Lawrence Boyd of the bank Spartan-Ives as the vehicle",
+   "context": "Chuck Rhoades's case against the hedge fund billionaire Bobby Axelrod has collapsed. Oliver Dake of the Office of Professional Responsibility arrives to examine Chuck's conduct, and the Attorney General summons him to Washington to be fired. Chuck has days to make removing him cost the administration more than keeping him.",
+   "play": "He secures his own office first, telling his prosecutors through a chess parable that the top job will go to whoever stays loyal while Dake asks questions. When the A.G. waves away his first trophy case, he reverses and lets it leak that he is investigating Spartan-Ives, whose chief Lawrence Boyd is her friend, so that firing him would look like protecting Boyd. Then he has to make the case real. His team frightens a flight attendant into wearing a wire, he turns a cuckolded banker into an informant, and he meets Boyd on Boyd's own ground to ask a small favour, which convinces Boyd he is safe and restarts the bid rigging. Once Boyd confesses on tape, Chuck refuses his plea offer until the A.G. herself calls to ask for it, and accepts only in exchange for her promise never to meddle in his office.",
+   "why_it_works": "An official is safest when his removal would itself look like a scandal. Chuck converts a personal crisis into a public fight with a powerful target, then sells his superior the quiet ending she wants (her friend spared a trial) in return for his own freedom.",
+   "outcome": "Boyd pleads guilty, Chuck is celebrated, and Dake's investigation is shut down in the middle of an interview. The price is that Chuck's survival now rests on a verbal promise, his deputy Connerty's loyalty is visibly fraying, and Dake leaves warning him not to get comfortable.",
+   "counter": "The A.G. could have fired Chuck before the leak, or moved the Spartan-Ives matter to another office. Boyd's error was trusting a show of weakness: a sudden small request from an adversary is a reason for more caution.",
+   "principle": "When you are about to be removed, pick a fight that makes your removal look like a cover-up.",
+   "in_practice": "If your contract or role is under threat, attach yourself visibly to the initiative your client or boss cannot afford to see fail, and make sure you can deliver it. When you do, trade the win for autonomy and terms rather than praise.",
+   "quote": {
+    "text": "A man facing a firing squad has only two choices accept it or push against his restraints. And I don't accept anything.",
+    "speaker": "Chuck Rhoades",
+    "ep": "S02E02"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "bil-A0309",
+    "bil-0062"
+   ],
+   "steps": [
+    {
+     "ep": "S02E01",
+     "move": "Dake arrives; Chuck's chess parable tells the office that Head of Crim is the reward for staying loyal, and the Attorney General summons him to be fired."
+    },
+    {
+     "ep": "S02E02",
+     "move": "The A.G. rejects the GoodStop case, so Chuck lets it leak that he is investigating Spartan-Ives, making his firing look like obstruction; she tells him all he has bought is time."
+    },
+    {
+     "ep": "S02E03",
+     "move": "His team scares a flight attendant into recording Boyd, catching him with Tom McKinnon's wife, and Chuck turns McKinnon's rage into cooperation on Treasury bid-rigging."
+    },
+    {
+     "ep": "S02E04",
+     "move": "After a weak search warrant, Chuck meets Boyd at his club and asks for an internal investigation he can sign off on; Boyd sacrifices a few staff and restarts the rigging."
+    },
+    {
+     "ep": "S02E05",
+     "move": "Chuck lets McKinnon stew, then holds the FBI back at the Ai Fiori dinner until Boyd admits on tape that he ordered the rigging restarted; Boyd is arrested."
+    },
+    {
+     "ep": "S02E06",
+     "move": "Hall buys back the cooperating witness, so Connerty uses jury selection to show Boyd what a jury thinks of banker bonuses, and Boyd offers to plead."
+    },
+    {
+     "ep": "S02E06",
+     "move": "Chuck refuses the plea until the A.G. calls, then accepts in exchange for her promise never to meddle, which ends Dake's investigation mid-interview."
+    }
+   ],
+   "category": "RISK"
+  },
+  {
+   "title": "The Controlled Fall",
+   "show": "house-of-cards",
+   "secondary": [
+    "TIME",
+    "POW",
+    "DEC"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S05E13",
+    "S05E08",
+    "S05E10",
+    "S05E11",
+    "S05E12",
+    "S06E08"
+   ],
+   "strategist": "Frank Underwood, President of the United States",
+   "target": "Congress, the press, the Judiciary Committee and, in the end, Claire Underwood",
+   "context": "Frank Underwood has finally won an election, but he faces damaging testimony, a hostile House committee, the threat of impeachment and a reporter, Tom Hammerschmidt, digging into the death of the journalist Zoe Barnes. At a secret donors' retreat he concludes that real power sits with the money outside government, and he designs a way to leave office on his own terms.",
+   "play": "Frank secretly becomes the source of the leaks feeding Hammerschmidt, so the collapse arrives on his schedule. He uses a leak hunt to scapegoat his Secretary of State, Cathy Durant. When the Zoe Barnes story threatens him directly, he and his wife Claire invite his loyal chief of staff Doug Stamper to dinner and ask him to confess to her death, and Doug lets the story spread through staff and pointed silences before telling the US attorney 'I did it.' Frank then tells the Judiciary Committee he is guilty and so are they, announces his resignation, silences the committee chairman with a scandal of his own, and refuses to sign his resignation letter until Claire, now to be President, promises him a pardon.",
+   "why_it_works": "Bringing yourself down before someone else can lets you choose the timing, the story and the successor. A loyal subordinate who absorbs the worst suspicion keeps it away from the principal. The design holds only as long as everyone Frank has used accepts the outcome, and as long as Claire keeps an unwritten promise.",
+   "outcome": "The committee dies, Doug takes the blame and Claire is sworn in. She then sends Frank away, leaves the pardon out of her first address and stops taking his calls. In Season 6 Frank is dead, and Doug confesses that he killed him.",
+   "counter": "The whole plan rests on one verbal promise from the person with most to gain by breaking it. Frank, who never kept a promise that had stopped being useful to him, should have known that a pardon is worth nothing once the pardoner holds the office.",
+   "principle": "If you engineer your own exit, get your terms in writing before you hand over the keys.",
+   "in_practice": "A planned sale of your business or a succession to a partner can protect your legacy, but only if your future role, earn-out and protections are contractually fixed before control changes hands. A successor's goodwill is not an asset you can bank.",
+   "quote": {
+    "text": "Claire, when you bring yourself down before someone else can, you control the way it happens.",
+    "speaker": "Frank Underwood",
+    "ep": "S05E13"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "hou-A1034",
+    "hou-0984"
+   ],
+   "steps": [
+    {
+     "ep": "S05E08",
+     "move": "At Elysian Fields Frank shows restraint, sells the donors a tangible tomorrow, and later says this is where he saw where real power lies."
+    },
+    {
+     "ep": "S05E10",
+     "move": "Frank visits Walker before his testimony, and Walker names him as an architect of the Chinese money scheme."
+    },
+    {
+     "ep": "S05E11",
+     "move": "Frank turns on White House surveillance, orders Cathy to fabricate a Kalabi paper trail, and then names her as the leak."
+    },
+    {
+     "ep": "S05E12",
+     "move": "The Underwoods ask Doug to confess to Zoe's death, Frank scripts Seth's testimony about Doug, and Cathy falls down the stairs."
+    },
+    {
+     "ep": "S05E12",
+     "move": "Frank asks Jane Davis to make him an offer, tells the Judiciary Committee he is guilty and so are they, and announces his resignation."
+    },
+    {
+     "ep": "S05E13",
+     "move": "He reveals to Claire that he was the leak, silences Romero with the Rochelle story, and holds back his signed letter until she promises a pardon."
+    },
+    {
+     "ep": "S05E13",
+     "move": "Claire is sworn in, sends Frank out of the White House, omits the pardon, and ignores his calls."
+    },
+    {
+     "ep": "S06E08",
+     "move": "Doug confesses that he killed Frank to stop him hurting Claire, ending the plan with its author dead."
+    }
+   ],
+   "category": "RISK"
+  },
+  {
+   "title": "The Bomb Strapped to the Chest",
+   "show": "suits",
+   "secondary": [
+    "NEG",
+    "LEV",
+    "PSY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S02E06",
+    "S01E02"
+   ],
+   "strategist": "Harvey Specter, senior partner at Pearson Hardman (on ideas from his associate Mike Ross)",
+   "target": "Velocity Data Solutions (S01E02); the investor Tommy Walsh (S02E06)",
+   "context": "Twice Harvey Specter, the firm's star closer, faces an opponent who has already won the asset. In S01E02 Velocity filed a patent on his client Wyatt's satellite phone a day before Wyatt did and offers a settlement it calls final. In S02E06 his client Keith Hoyt, drunk, put up his $30 million clean energy company on a cocktail napkin in a poker game, lost, and Tommy Walsh wins interim control in court.",
+   "play": "Against Velocity, Harvey has Wyatt reject a $20 million offer, blames the hard line on his client, then shows a ready-made website holding every design and calculation for the phone: in 48 hours Wyatt will publish it all and there will be knock-offs before Velocity is back at its office. Against Walsh, Harvey takes Keith's power of attorney and has Keith, the wind farm's designer, support the local homeowners' claims against it, so the company Walsh is winning becomes worthless. He then offers Walsh three doors: keep suing and both lose, take his money back plus $500,000, or play one more hand of poker for it. Walsh chooses poker, and Harvey, who has learned from Walsh's ex-wife exactly where his insecurity lies, plays the man and busts him.",
+   "why_it_works": "Both opponents priced their position on the assumption that the prize kept its value whoever held it. Once Harvey shows he is willing to destroy it, the weaker side becomes the stronger: his client has little left to lose and the other side has everything. The threat is credible because the mechanism (a publish button, a power of attorney) is already in place.",
+   "outcome": "Velocity settles for $400 million, twenty times its 'final' offer. Walsh loses the company back at the table. Jessica Pearson, the managing partner, warns Harvey that gambling a client's company on a card game was reckless, however well he knew his man.",
+   "counter": "Velocity could have asked whether publishing really served Wyatt, who had two years and his savings in the product, and called the bluff with a short deadline. Walsh held a winning legal position and should have taken the cash instead of a contest on the terms of a man who had researched him.",
+   "principle": "If you cannot win the prize, make it worthless to whoever does.",
+   "in_practice": "When a bigger firm tries to capture something you built (a method, a data asset, a client relationship), show how much of its value depends on your continued cooperation, or be ready to open-source or license it widely. Only threaten what you have actually prepared to do.",
+   "quote": {
+    "text": "I now have power of attorney, and I'd rather see this company worth nothing than let you have it.",
+    "speaker": "Harvey Specter",
+    "ep": "S02E06"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "sui-1130",
+    "sui-1047"
+   ],
+   "category": "RISK"
+  },
+  {
+   "title": "Burn the Billions",
+   "show": "billions",
+   "secondary": [
+    "DEF",
+    "DEC"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S06E12"
+   ],
+   "strategist": "Mike Prince, the billionaire who took over Axe Capital and is now running for President",
+   "target": "Chuck Rhoades and US Attorney Dave Mahar",
+   "context": "Chuck Rhoades, now a private citizen, works out that Prince is moving hard drives full of untaxed cryptocurrency to fund his political rise. Using a fake warrant and posing as a prosecutor, Chuck seizes one of Prince's storage boxes. Under questioning by Dave Mahar, the US Attorney, Prince faces a trap with two jaws: if he opens the drives and they hold crypto, he goes to prison for tax evasion; if they are empty, Chuck goes to prison for the seizure.",
+   "play": "Prince says he does not have the passwords and lets the technician try to open the drives. He sits with a straight face while all ten permitted attempts fail and the drives lock permanently, destroying about $3.5 billion in cryptocurrency.",
+   "why_it_works": "Prince values his freedom and his political future above any sum of money, so he makes the sacrifice his opponents assumed no billionaire would make. With the evidence gone, the only proven wrongdoing in the room is Chuck's illegal seizure.",
+   "outcome": "Prince walks free and Chuck is arrested for false pretenses, released only when Dave later obtains a court order that legitimizes the raid. Dave, having watched Prince's face, knows he lied, and understands for the first time why Chuck has fought him so hard.",
+   "counter": "Chuck's shortcut staked his own freedom on Prince's cooperation. Investigators who expect a sacrifice preserve the evidence first (forensic copies, exchange records) before any attempt to open it.",
+   "principle": "The side willing to destroy what the other assumes it must protect holds the power.",
+   "in_practice": "Before a hard negotiation, decide which assets you would genuinely walk away from, a flagship client or a signature product, to protect what matters most. Opponents build their pressure around what they assume you cannot lose.",
+   "source": "knowledge",
+   "strength": 4,
+   "pool_ids": [
+    "bil-0282",
+    "bil-0281"
+   ],
+   "category": "RISK"
+  },
+  {
+   "title": "Burning the Way Back",
+   "show": "vikings",
+   "secondary": [
+    "ALLY",
+    "POW"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S04E01",
+    "S04E04"
+   ],
+   "strategist": "Rollo, Ragnar's brother",
+   "target": "His own Viking warband, and the Frankish court watching him",
+   "context": "Rollo has accepted the Frankish Emperor's offer of land, a title and marriage to Princess Gisla in return for defending Paris against his brother Ragnar. His Viking warriors are camped nearby, and his friend Eirik warns him that about half of them will never fight for the Franks or against Ragnar.",
+   "play": "Rollo thanks Eirik and sends him back to the camp with a reassuring message that he will come and put their minds at ease. He arrives with Frankish soldiers, and when the gates open they massacre the warriors. Later, when Gisla asks whether his Viking soul matters more to him than their marriage, he answers by pointing to what he has done.",
+   "why_it_works": "A defector is trusted only once return is impossible. By destroying the force that could have carried him back to Ragnar, Rollo removes a mutiny and gives his new masters costly, visible proof of commitment that no oath could supply.",
+   "outcome": "The Franks come to rely on him to design the defense of Paris. Gisla notes that killing his own men is 'a very Viking thing to do', so the act proves his ruthlessness as much as his conversion, and the Frankish nobles keep doubting him.",
+   "counter": "Eirik's men should never have opened the gates to a leader whose loyalty had already moved. A divided force should negotiate from a defensible position or leave.",
+   "principle": "A change of sides is believed only when the way back is closed.",
+   "in_practice": "When you reposition the business, a new market, a new partner, a new service line, visible and irreversible commitments (retiring the old offer, ending the old reseller deal) earn more trust from the new side than any announcement. Close the old door deliberately, and treat the people behind it fairly.",
+   "quote": {
+    "text": "Did I not kill all my own warriors?",
+    "speaker": "Rollo",
+    "ep": "S04E04"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "vik-0575"
+   ],
+   "category": "RISK"
+  },
+  {
+   "title": "The Only Plan Left",
+   "show": "peaky-blinders",
+   "secondary": [
+    "DEF",
+    "WAR"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S02E05",
+    "S02E06"
+   ],
+   "strategist": "Tommy Shelby, leader of the Birmingham gang the Peaky Blinders",
+   "target": "Major Campbell, the intelligence officer blackmailing him (and Field Marshal Russell)",
+   "context": "Major Campbell is forcing Tommy to assassinate Field Marshal Russell. Campbell's plan has Tommy break into Russell's house in Belgravia and shoot him in bed, with police stationed front and back. Tommy is sure the plan ends with his own body in the Thames.",
+   "play": "Tommy has six cans of petrol loaded into his car, and Russell's house is burned out with an incendiary through the letterbox, so Russell must live elsewhere for months. When Campbell arrives, furious, Tommy says he will keep his side of the bargain, at a place of his choosing: Epsom racecourse on Derby Day, where Tommy owns a horse, has every reason to be seen, and cannot quietly be shot afterwards.",
+   "why_it_works": "Destroying the operational premise of the other side's plan leaves them with only one workable option, which is yours. A crowded public venue where Tommy has allies and a legitimate reason to be present removes the trap built into Campbell's version.",
+   "outcome": "Campbell has no alternative and agrees to Epsom. Russell dies on Derby Day, and the same crowd gives Tommy cover to seize his rival Sabini's racecourse pitches, although Campbell still tries to have him killed.",
+   "counter": "Campbell should have held a fallback plan and kept control of Russell's security himself. A plan that depends on a single location is easy for an unwilling partner to wreck.",
+   "principle": "If the other side's plan traps you, make it impossible and offer the only plan left: yours.",
+   "in_practice": "When a deal is structured against you (their venue, their timeline, their contract template), change a fact on the ground so their version no longer works, then propose the structure that does. Most counterparties will take the only workable plan on the table.",
+   "quote": {
+    "text": "I won't. He'll come to me.",
+    "speaker": "Tommy Shelby",
+    "ep": "S02E05"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "pea-0364"
+   ],
+   "category": "RISK"
+  },
+  {
+   "title": "The Cost of Not Having Her",
+   "show": "house-of-cards",
+   "secondary": [
+    "NEG",
+    "PSY",
+    "POW"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S04E03",
+    "S04E04",
+    "S04E06"
+   ],
+   "strategist": "Claire Underwood, the First Lady (with her strategist LeAnn Harvey)",
+   "target": "Frank Underwood, her husband and the President",
+   "context": "Frank has quietly killed Claire's run for Congress. She decides the only route to real power is to be his running mate, and she knows he will never consider it unless he feels he needs her.",
+   "play": "Claire visits Frank in his home town of Gaffney, South Carolina, and acts reconciled. Meanwhile LeAnn uses an analytics firm to measure Frank's weak points and passes a local enemy an old photo of Frank's father beside a Klansman, which appears on a billboard on primary morning. Frank loses South Carolina. Claire then admits what she has done, lists the weaknesses of his campaign, points out that her approval ratings are higher than his, and proposes herself as his running mate.",
+   "why_it_works": "Frank is deaf to argument and moved by demonstrated power, so Claire shows him what she can do by using it on him. Once she has proved she can hurt him, her offer to help him is believable.",
+   "outcome": "Frank refuses and the fight escalates to her threat of divorce in S04E04. After he is shot and nearly dies, he concedes in S04E06 that he needs her more than she needs him, which opens her way onto the ticket.",
+   "counter": "Frank should have treated Claire as a rival from the day he ended her race. He trusted the warmth of the visit home and never asked who benefited from his loss.",
+   "principle": "If they will not believe what you are worth, let them feel the cost of not having you.",
+   "in_practice": "A client or partner who takes you for granted often learns your value only when you stop supplying it. Pausing a contribution openly (declining the renewal on old terms, withdrawing from an unpaid role) is fair leverage; sabotage is not, and it poisons the partnership you are trying to win.",
+   "quote": {
+    "text": "I can be a part of your campaign, or I can end it.",
+    "speaker": "Claire Underwood",
+    "ep": "S04E03"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "hou-0896"
+   ],
+   "category": "RISK"
+  },
+  {
+   "title": "The Costly Signal",
+   "show": "suits",
+   "secondary": [
+    "PSY",
+    "ALLY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S02E16"
+   ],
+   "strategist": "Donna Paulsen, Harvey's assistant (advising Dana 'Scottie' Scott)",
+   "target": "Harvey Specter",
+   "context": "Scottie, a senior lawyer at the rival firm Darby International and Harvey's on-and-off partner, has lied to him repeatedly about a planned merger between their firms, in which her name would go on the door. Harvey no longer believes anything she says.",
+   "play": "Donna tells Scottie that words will not reach him; she has to make a sacrifice with no guarantee it will work. Scottie gives Mike a file that could win Harvey's case and kill the merger, giving up her own name partnership, and suggests Mike say he found it himself. When Harvey still refuses to trust anything that comes from her, Donna confronts him for never fighting for the people he cares about.",
+   "why_it_works": "When words have lost their value, only an act that costs the sender what she most wants can carry a message. The cost is the proof.",
+   "outcome": "Harvey uses the file, but Jessica forces Mike to bury it, Darby learns of the leak and fires Scottie, and she leaves despite Harvey asking Darby to take her back. The sacrifice was real and it was believed, but it came too late to save her position.",
+   "counter": "A sacrifice routed through intermediaries can be blocked or discounted by them. Scottie needed to hand the file to Harvey herself and own the cost in plain sight.",
+   "principle": "When your words are no longer trusted, only a sacrifice will convince.",
+   "in_practice": "After you have broken a client's trust, apologies rarely land. A concrete concession that costs you, waiving a fee, reworking a deliverable at your own expense, giving up a claim, is what rebuilds credibility.",
+   "quote": {
+    "text": "If you want him to hear you, you're going to have to make a sacrifice.",
+    "speaker": "Donna Paulsen",
+    "ep": "S02E16"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1187"
+   ],
+   "category": "RISK"
+  },
+  {
+   "title": "The Willing Fall Guy",
+   "show": "suits",
+   "secondary": [
+    "DEC",
+    "ALLY",
+    "LEAD"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S08E16",
+    "S08E15"
+   ],
+   "strategist": "Robert Zane, managing partner of the firm (with the partner Alex Williams)",
+   "target": "Daniel Hardman and the bar's ethics board",
+   "context": "Daniel Hardman, a disgraced former partner, has Harvey cornered before the ethics board over a real breach of client confidentiality. Robert Zane's attempt to buy Hardman off has failed. Robert is carrying an old guilt of his own and is looking for a way to pay it back.",
+   "play": "Robert asks Alex, who has his own guilt to settle, to help him. At the hearing Alex testifies that Robert, not Harvey, told him about the confidential plan, and supplies a motive: resentment at losing the managing partnership. Robert first denies it loudly, then an email in his name is produced and he admits it under oath, saying he did what he thought was right at the time and regrets it now.",
+   "why_it_works": "An inquiry ends when it has a culprit. A confession from a senior, unlikely source, with a plausible motive and a document behind it, satisfies the board, and the staged denial makes the admission more convincing.",
+   "outcome": "Robert gives up his license and retires. Harvey keeps his, and Donna is protected. Robert tells his partner Samantha Wheeler it is his redemption, and the firm pays for it later in client losses and resentment.",
+   "counter": "Hardman could have pressed on the evidence that pointed to Harvey, but the board stopped looking once someone confessed.",
+   "principle": "A willing sacrifice by the right piece can end a game no one else can win.",
+   "in_practice": "Sometimes a senior person taking public responsibility for a failure is the only thing that ends a crisis that would otherwise wreck a younger colleague. Leaders should know when their own standing is the right thing to spend, and must never ask a junior to be the piece.",
+   "quote": {
+    "text": "No. I knew because Robert Zane told me.",
+    "speaker": "Alex Williams",
+    "ep": "S08E16"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1638"
+   ],
+   "category": "RISK"
+  },
+  {
+   "title": "The Difference Maker Trap",
+   "show": "billions",
+   "secondary": [
+    "LEAD",
+    "PSY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S01E11"
+   ],
+   "strategist": "Bobby Axelrod, founder of the hedge fund Axe Capital",
+   "target": "Himself (a huge position in the drug company BioLance)",
+   "context": "Axe holds a massive position in BioLance ahead of an FDA decision that every analyst calls a coin flip. He has said that anyone who raises it will be fired. Nine minutes before the announcement, the analyst Mafee proposes trimming the position to lock in a 10 percent gain.",
+   "play": "Axe hears Mafee out, says Axe Capital is no benchmark fund and that he is the difference maker, and fires Mafee for asking. The FDA rejects the drug, the stock halts with no bids, and Axe loses about $430 million. The team later finds that a warning about similar drugs was in the file all along. Axe goes to Wendy Rhoades, the firm's in-house performance coach, and works out that he held the position to prove something to himself.",
+   "why_it_works": "As a failure it is precise. Once everyone disagreed, Axe's need to be the exception overrode the evidence, and a culture in which raising risk gets you fired blinded him to exactly the information he pays people to find.",
+   "outcome": "A huge loss and his first visible miss in years. Axe does a proper review, admits the error came from his own head, and rehires Mafee on the spot.",
+   "counter": "Separate identity from the position before the decision point: a rule that unanimous dissent triggers a cut, whatever the leader's conviction, would have saved hundreds of millions.",
+   "principle": "When you hold a position mainly to prove you are right, you have stopped investing and started gambling.",
+   "in_practice": "When your whole team disagrees with you on a pricing, hiring or client decision, treat that as data. Make it safe to challenge you, and cut your exposure when the only remaining reason is that you want to be the one who was right.",
+   "quote": {
+    "text": "had to prove that I was the difference maker.",
+    "speaker": "Bobby Axelrod",
+    "ep": "S01E11"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "bil-0049"
+   ],
+   "category": "RISK"
+  },
+  {
+   "title": "The Favor You Must Refuse",
+   "show": "billions",
+   "secondary": [
+    "ALLY",
+    "LEV"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S03E12"
+   ],
+   "strategist": "Bobby Axelrod, advised by his fixer Hall",
+   "target": "Grigor Andolov, a Russian oligarch and investor",
+   "context": "Axe is at war with Taylor Mason, his former protege, who has left to run a rival fund. Grigor, a dangerous investor, offers to make Taylor 'disappear' for Axe, but only if Axe asks him out loud. Refusing a man like Grigor is also a risk.",
+   "play": "Axe does not answer on the spot and asks for a day. He talks it through with Hall, who lays out the consequences: Grigor would do it cleanly and then own Axe forever, first asking for free management and later for payment for his silence. Axe decides that what he actually wants is Taylor's business destroyed, which needs Taylor alive. He puts quiet extra security on his family, then declines. When Grigor threatens to move his money to Taylor, Axe holds firm.",
+   "why_it_works": "Axe prices the cost of yes and the cost of no before acting on anger. Accepting a favor from someone more ruthless than you creates a debt that can never be fully repaid, and preparing for the refusal (the security) makes the refusal survivable.",
+   "outcome": "Grigor pulls his money and gives it to Taylor, with a warning that they will meet again if Axe's campaign costs him. Axe keeps his independence.",
+   "counter": "Grigor's offer was itself a lever: once heard, it could be used against Axe either way. His best move was to make the refusal expensive, which Axe's preparation partly blunted.",
+   "principle": "Never accept a favor that gives the giver a permanent hold over you.",
+   "in_practice": "Be wary when a powerful client or investor offers to 'take care of' a problem for you outside normal channels. Weigh what a no will cost and prepare for it, then decline and solve the problem within your own means.",
+   "quote": {
+    "text": "Well, once a guy like that puts it on the table, you have to think about what happens if you say no as much as if you say yes.",
+    "speaker": "Bobby Axelrod",
+    "ep": "S03E12"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "bil-0177"
+   ],
+   "category": "RISK"
+  },
+  {
+   "title": "The Lone Gunman",
+   "show": "peaky-blinders",
+   "secondary": [
+    "DEC",
+    "TRAP",
+    "POW"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S05E06",
+    "S05E05"
+   ],
+   "strategist": "Tommy Shelby, now a Member of Parliament",
+   "target": "Oswald Mosley, leader of the British fascists, and his ally the Glasgow gang leader Jimmy McCavern",
+   "context": "Tommy's attempts to bring Mosley down through intelligence channels have failed, and his ally Michael Younger, who was helping him, is dead. Mosley will speak at a rally in Bingley Hall, Birmingham, with McCavern running his security.",
+   "play": "Tommy breaks Barney Thomason, an old army sniper certified as criminally insane, out of an asylum, reasoning that a known madman will be accepted as a lone gunman. He organizes an anti-fascist demonstration as cover, hires Alfie Solomons's fighters so the riot looks natural, and plans to stand beside Mosley on stage, ready to cradle his head and claim the leadership. Aberama Gold will kill McCavern in the wings, and while every policeman is at the hall an opium boat will be moved for cash. He keeps the plan from Churchill and warns the union organizer Jessie Eden to go home before the arrests.",
+   "why_it_works": "On paper every piece has a cover story, a scapegoat and a payoff, and the chaos hides the shot. Standing beside the victim would make Tommy the grieving heir instead of a suspect.",
+   "outcome": "It fails completely. Barney and Aberama are killed before the shot is fired, and Tommy cannot tell who betrayed him: the Chinese, the Italians, Special Branch, intelligence, McCavern or Mosley. He ends the season holding a gun to his own head.",
+   "counter": "The plan needed a dozen people to keep a secret in an organization that had just found a paid informer behind its own bar. Each extra accomplice multiplied the number of ways it could be sold.",
+   "principle": "Every extra person who knows the plan is another place it can leak.",
+   "in_practice": "The more ambitious the bet, the fewer people should hold the whole picture, and every dependency needs testing before launch day. A clever plan with many hands is fragile; simplify it before you scale it.",
+   "quote": {
+    "text": "No-one will question that the assassination was carried out by a single gunman acting alone.",
+    "speaker": "Tommy Shelby",
+    "ep": "S05E06"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "pea-0444"
+   ],
+   "category": "RISK"
+  },
+  {
+   "title": "An Invader Without an Army",
+   "show": "house-of-cards",
+   "secondary": [
+    "WAR",
+    "ALLY"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S01E13",
+    "S01E12"
+   ],
+   "strategist": "Frank Underwood, House Majority Whip",
+   "target": "Raymond Tusk, the billionaire adviser to the President (through the energy company Sancorp)",
+   "context": "Frank is being vetted for the vice presidency, and Tusk wants a blank check from him in return. Frank decides to make Tusk come to him by threatening his nuclear business, about a third of his fortune. Frank has no army of his own; he needs Sancorp, a rival energy company represented by the lobbyist Remy Danton.",
+   "play": "Frank asks Remy to have Sancorp launch 'a few token salvos' against the firms that refine and ship Tusk's uranium. When Remy says the board will not meet for three weeks and Sancorp's officers never meet politicians, Frank flies to Atlanta and ambushes the CEO in his car. The CEO refuses to hear him, warns him about insider trading and grand juries, and throws him out. Remy is furious at being bypassed.",
+   "why_it_works": "The idea is sound: attack what the opponent values most, using an ally's resources when you lack your own. It fails because Frank's hold on the ally is weak, and going over Remy's head both insults the middleman and scares the CEO.",
+   "outcome": "Tusk sees it coming and buys into Sancorp himself, enough to neutralize it, and Remy goes to work for Tusk. Frank is left facing Tusk with no leverage at all.",
+   "counter": "Tusk shows the counter: buy into the attacker's weapon and hire its handler. Frank could have avoided it by securing Remy's interests first instead of treating him as a disposable channel.",
+   "principle": "Never launch an attack that depends on an ally whose interests you have not locked in.",
+   "in_practice": "If a pitch or bid depends on a partner's resources, align their incentives before you promise anything, and respect the gatekeeper who brought you in. Going over a contact's head to their boss usually loses you both.",
+   "quote": {
+    "text": "If he doesn't deliver, I'm an invader without an army.",
+    "speaker": "Frank Underwood",
+    "ep": "S01E13"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "hou-0767"
+   ],
+   "category": "RISK"
+  },
+  {
+   "title": "Then Sue Me",
+   "show": "suits",
+   "secondary": [
+    "NEG",
+    "DEF"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S03E09",
+    "S03E10"
+   ],
+   "strategist": "Dana 'Scottie' Scott, now a partner in the merged firm",
+   "target": "Harvey Specter",
+   "context": "The merger has gone through and Harvey is dissolving it. Scottie has staked her career on the combined firm, and Harvey's moves to capture revenue are about to leave her side, and her, with nothing.",
+   "play": "She first asks for mercy: leave one large payment out of the split, and bank an IOU backed by her word. Harvey agrees. Then a major client fires the firm and Harvey accuses her of arranging it. She refuses to justify herself and changes posture completely: she will not sign the dissolution. She spells out her downside (nothing, since he is crushing her anyway) and his (a name partner unable to practice in the United States, a damaged reputation, and years of profits tied up in litigation).",
+   "why_it_works": "A counterparty with nothing left to lose has the most credible threat in the room. By showing that she has no downside and he has a large one, Scottie makes breaching a signed agreement a rational move.",
+   "outcome": "The standoff is overtaken when a malpractice suit lands on everyone. In S03E10 Harvey apologizes, and the two end up fighting the suit together.",
+   "counter": "Harvey should have checked his facts before accusing her. The accusation gave her both the moral high ground and a reason to dig in.",
+   "principle": "Never push a counterparty to the point where refusing costs them nothing.",
+   "in_practice": "In a tough negotiation or partnership exit, always leave the other side something to lose. A partner facing ruin will burn the deal down, and a signed contract gives little protection against someone who has decided litigation is cheaper than surrender.",
+   "quote": {
+    "text": "Then sue me. You're gonna totally shaft me anyway. What's my downside?",
+    "speaker": "Dana Scott",
+    "ep": "S03E09"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1232"
+   ],
+   "category": "RISK"
+  },
+  {
+   "title": "The No-Downside Blind Eye",
+   "show": "suits",
+   "secondary": [
+    "TIME",
+    "INT"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S07E05"
+   ],
+   "strategist": "Nathan, head of the legal clinic",
+   "target": "Mike Ross and Harvey Specter",
+   "context": "Mike Ross, now working at a legal aid clinic, signed a conflict waiver promising to stay off a prison case. He and a clinic colleague, Oliver, are working it in secret while pretending Mike is on a housing matter.",
+   "play": "Nathan lets it happen, then catches Mike and tells him he knew from the moment Mike signed that he would break it. He stayed quiet because either Mike wins and the clinic takes the credit, or Mike is caught and the clinic drops the case. He even staged anger at Oliver to keep up appearances.",
+   "why_it_works": "Nathan arranges the bet so that the risk falls entirely on Mike and Harvey while the clinic keeps the upside. His silence keeps his hands clean and every option open.",
+   "outcome": "Mike carries on with Nathan's blessing. When Mike is later exposed, the clinic loses nothing but the case.",
+   "counter": "Mike should have noticed that Nathan's silence protected the clinic and gave Mike no cover at all.",
+   "principle": "Before you take a risk someone else is quietly allowing, ask who carries the downside.",
+   "in_practice": "When a partner encourages you to take on a stretch project or bend a process, check who carries the loss if it goes wrong. Structure joint work so that risk and reward are shared, and be wary of partners who have arranged to have none of the risk.",
+   "quote": {
+    "text": "I have no downside.",
+    "speaker": "Nathan",
+    "ep": "S07E05"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1523"
+   ],
+   "category": "RISK"
+  },
+  {
+   "title": "Advance When Others Retreat",
+   "show": "peaky-blinders",
+   "secondary": [
+    "TIME",
+    "NEG"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S05E01",
+    "S05E02",
+    "S05E04"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "The market, and his own family board",
+   "context": "The 1929 crash reduces the Shelby company's New York holdings to ten cents on the dollar and its bank deposits to five. Tommy's brother Arthur tells the board they are finished.",
+   "play": "Tommy separates the family meeting from the company board and says the legitimate business will be rebuilt slowly while the cash business carries on, because until the market recovers cash is king and they have cash. His sister Ada relays his rule: when others retreat, you advance, and you can wave cash in the faces of desperate men. In practice this means using the family's liquid money to buy influence, cut new deals and take on an opium deal worth far more than his cousin Michael lost in the crash.",
+   "why_it_works": "A crash makes liquid money scarce, so whoever holds it gains bargaining power over everyone who needs it. Tommy treats the shock as a buying opportunity while his rivals freeze.",
+   "outcome": "The cash funds the company and draws in new partners, but it also pulls the family deeper into crime, which Tommy's wife Lizzie and Arthur's wife Linda warn cannot last.",
+   "counter": "Rivals can expect a cash-rich player to go hunting after a crash and protect whatever he is likely to target, which is what McCavern does by moving on the racecourses at the same time.",
+   "principle": "In a downturn, the one who holds cash sets the terms.",
+   "in_practice": "Keep a real cash reserve so that when your market contracts you can hire the people competitors are letting go, buy tools or small firms cheaply, and say yes to clients while others cut back. Liquidity is a strategic weapon as well as a safety net.",
+   "quote": {
+    "text": "He says, \"When others retreat, you advance.\"",
+    "speaker": "Ada Thorne",
+    "ep": "S05E01"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "pea-0425"
+   ],
+   "category": "RISK"
+  },
+  {
+   "title": "Spare the Sons, Refuse the Duel",
+   "show": "vikings",
+   "secondary": [
+    "DEF",
+    "ALLY",
+    "POW"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S04E14",
+    "S04E16",
+    "S04E17"
+   ],
+   "strategist": "Lagertha, Ragnar's first wife, who has seized Kattegat",
+   "target": "Aslaug's sons Ubbe, Sigurd and Ivar",
+   "context": "Lagertha has taken Kattegat by killing Queen Aslaug, Ragnar's second wife. Aslaug's sons are alive and resentful. Killing them would mean war with every son of Ragnar, including the brothers of her own son Bjorn.",
+   "play": "Lagertha tells Ubbe and Sigurd that their mother's death has nothing to do with them. When Ubbe says it was a mistake not to kill them, she answers that it is a chance she was prepared to take. When Ivar publicly demands justice and challenges her to single combat, she refuses outright, saying she does not want to kill him, and lets him walk away swearing to kill her one day.",
+   "why_it_works": "A purge would unite all of Ragnar's heirs and much of the north against her, while mercy divides them: Ubbe and Sigurd have mixed feelings about their mother, and Bjorn is her son. Refusing the duel denies Ivar a legitimate public route to revenge and spares her from becoming the killer of a crippled son of Ragnar.",
+   "outcome": "Ubbe and Sigurd decide to bide their time and Hvitserk argues against killing her. When Ivar later moves against her, Bjorn stops him. The seer tells her she will die at the hands of a son of Ragnar, so the risk she accepted stays open.",
+   "counter": "The sons could have used her restraint to build quiet support among the jealous rulers arriving for the Great Army, which Ubbe hints at.",
+   "principle": "After a hostile takeover, mercy divides the survivors and a purge unites them.",
+   "in_practice": "After winning a contested role or acquiring a business, keep the previous team's key people where you can and accept the residual risk. When a disgruntled party demands a public showdown, decline the format and deal with the grievance on your own ground.",
+   "quote": {
+    "text": "That's a chance I was prepared to take.",
+    "speaker": "Lagertha",
+    "ep": "S04E14"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "vik-0602"
+   ],
+   "category": "RISK"
+  }
+ ]
+}

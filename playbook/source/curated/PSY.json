@@ -1,0 +1,1259 @@
+{
+ "id": "PSY",
+ "name": "Psychological Warfare & Persuasion",
+ "intro_html": "<p>Leverage works on what a person owns and negotiation on what a person wants. The plays in this chapter work on something closer in: how people see themselves and the situation they think they are in. The levers are old and few. Fear, pride, shame, the wish to stay consistent, the need to save face. The best strategists in these five shows rarely invent a new one. They find out which lever this particular person is wired to, and they pull it at the moment it will move.</p><p>It works because people decide with the story they are telling about themselves. In <b>The Wind and the Sun</b> (Suits), Jessica Pearson wins over the prosecutor who holds a veto over Mike Ross by reminding her of the time she once showed mercy, so that a yes vote becomes an act of consistency. Donna Paulsen sells a trader his own reputation in <b>Gunslingers Don't Follow</b>. In <b>The Slave's Reframe</b> (Vikings), Margrethe has nothing to bargain with and a knife at her throat, so she changes what killing her would mean to Ivar. Frank Underwood goes a step further in <b>Failing to Persuade on Purpose</b> (House of Cards): once the President has stopped trusting him, Frank argues against what he wants and lets the distrust carry the decision.</p><p>The pressure plays aim at composure. In <b>Mikado's Unopened Letters</b> (Suits), Nigel Nesbitt finds the one subject Louis Litt cannot be rational about and has a precise demand ready for the second Louis explodes. Senator Mendoza needles Claire Underwood until her temper becomes the evidence against her. Across a whole season of Billions, Mike Prince provokes Bobby Axelrod until every reaction is predictable, then waits as the only buyer in <b>Taking Axe's Chair</b>. Tommy Shelby's <b>The Nearer Threat</b> (Peaky Blinders) shows how cheaply fear becomes decisive once it is specific: a minute on the clock beats a danger somewhere in the future. Peaky Blinders also supplies the chapter's finest persuasion, when Ada Thorne walks between two firing lines with her baby and asks each man who will wear black for him.</p><p>Psychology is the easiest kind of strategy to overplay, because it works on the relationship that remains afterwards. Chuck Rhoades in <b>Here Endeth the Lesson</b> and Frank Underwood in <b>Two Seats and No Line</b> each humiliate a man to make a point, and each trains the enemy who later strikes back. Freydis rises from slave to queen by telling Ivar he is a god in <b>Worship as a Ladder</b>, and falls on the day the facts contradict the story. Frank's whole kit fails on Donald Blythe, who has already decided Frank is a liar, in <b>Every Key Fails on Blythe</b>. Even kindness is a psychological act: Harvey Specter and Louis Litt learn in <b>Help Nobody Asked For</b> that a rescue can read as contempt.</p><p>Each show has its own accent. Suits treats persuasion as a working lawyer's craft, reading the witness and the client. Billions stages it as combat between outsized egos. House of Cards shows it at its coldest, with Frank and Claire using sympathy, confession and fear as tools. Vikings plays it in front of a watching hall, where shame and honor decide more than numbers, as in Ragnar's <b>Kill Me and You Are King</b>. Peaky Blinders makes fear precise and then, now and again, puts it down for something better. For a business owner most of the value is diagnostic: know which lever is being pulled on you, and when you pull one yourself, pull a true one.</p>",
+ "principles": [
+  "Find out which lever a person is wired to (pride, fear, shame, consistency) before you choose a tactic.",
+  "People defend the story they tell about themselves, so make your request the next chapter of that story.",
+  "A vague threat unsettles; a specific, near one decides.",
+  "An angry opponent will agree to things a calm one would refuse, so have your ask ready and never commit in the middle of your own outburst.",
+  "Admit what the other side already suspects and they will believe what you say next.",
+  "When someone has stopped trusting you, argument backfires; set things up so they reach the conclusion themselves.",
+  "Humiliation buys one moment of submission and years of a motivated enemy.",
+  "Influence built on a flattering story lasts only until the facts contradict it.",
+  "The best defense against psychological pressure is to name it and delay any decision until your head is clear."
+ ],
+ "plays": [
+  {
+   "title": "Taking Axe's Chair",
+   "category": "PSY",
+   "secondary": [
+    "POW",
+    "ALLY",
+    "TRAP"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S05E12",
+    "S05E01",
+    "S05E02",
+    "S05E03",
+    "S05E04",
+    "S05E07",
+    "S05E08",
+    "S05E09",
+    "S05E11"
+   ],
+   "strategist": "Mike Prince",
+   "target": "Bobby Axelrod",
+   "context": "Mike Prince is a folksy Indiana billionaire who sells himself on social impact. Bobby 'Axe' Axelrod, founder of the hedge fund Axe Capital, has just crossed $10 billion and needs to be the biggest man in every room. Prince rarely attacks Axe head on. He provokes him and lets him come.",
+   "play": "Prince provokes and lets Axe overreact. He takes the Vanity Fair cover alone and casts Axe's model as a relic, steals Axe's shaman at his own conference, and after losing the Yonkers casino bid phones Axe to tell him he never really left Yonkers. He partners with Taylor Mason (Axe's former protege, now a rival) and Wendy Rhoades (Axe's in-house coach) to fix a tin-sourcing problem at Mase Carb, which Axe treats as an act of war, and he defuses Axe's first attack by openly owning the sports bets Axe thought belonged to his lieutenant Scooter. When Axe sinks Prince's ambassadorship, Prince joins Chuck Rhoades, the New York Attorney General, and Taylor in a coalition against Axe. He then makes the cannabis start-up Fine Young Cannabis look like a prize, keeping the deal exclusive and using his own daughters as its faces, so Axe poaches its deposits into Axe Bank just before its founder is arrested for trafficking. As Chuck closes in, Prince breaks from the coalition and offers the cornered Axe the only exit: sell him Axe Capital, the bank and Taylor Mason Carbon.",
+   "why_it_works": "Axe's need to win every exchange is predictable, so each provocation moves him, and by the end Prince only has to appear to want something for Axe to grab it. Joining the prosecutor's coalition gives Prince the pressure; being the only buyer at the moment of maximum pressure gives him the price.",
+   "outcome": "Axe escapes to Switzerland, beyond extradition, having lost his firm, and Prince ends the season in Axe's chair. Chuck, who did the prosecuting, loses his target and vows to take Prince down next. Axe wins several battles on the way (Yonkers, the ambassadorship, the kidney for Chuck Sr.), and Prince's daughters learn they were used as bait.",
+   "counter": "Axe needed to ask why a rival who professed to despise his methods kept dangling prizes in front of him, and why an exclusive, glamorous depositor was suddenly within reach. Chuck's counter would have been to fix terms with his ally before the endgame rather than trusting a billionaire to hand over the prize.",
+   "principle": "Provoke a proud rival until his moves are predictable, then be the only buyer when he has to sell.",
+   "in_practice": "A competitor who must answer every move can be drawn into bad deals, so never let a rival's apparent interest define what you want. When a counterparty is under pressure, whoever has a clean offer ready at the critical moment usually sets the price.",
+   "strength": 5,
+   "show": "billions",
+   "steps": [
+    {
+     "ep": "S05E01",
+     "move": "Prince manoeuvres the Vanity Fair 'new decas' shoot into a solo cover and uses the interview to paint Axe as outdated."
+    },
+    {
+     "ep": "S05E02",
+     "move": "At his own conference Prince introduces Axe's shaman as his health partner, pulling the center out of Axe's ayahuasca deal."
+    },
+    {
+     "ep": "S05E03",
+     "move": "Prince buys Nico Tanner's Implosion Series before Axe can."
+    },
+    {
+     "ep": "S05E04",
+     "move": "Chuck quietly urges Prince to bid big for Yonkers to bait Axe into bribery; Axe wins cleanly, and Prince phones to tell him Yonkers is where he belongs."
+    },
+    {
+     "ep": "S05E07",
+     "move": "Prince helps Taylor and Wendy leak and fix a tin-sourcing problem, which Axe reads as an act of war."
+    },
+    {
+     "ep": "S05E08",
+     "move": "Prince walks into Axe Capital and claims Scooter's bets as his own, but Axe's dead-partner story still costs him the Denmark ambassadorship."
+    },
+    {
+     "ep": "S05E09",
+     "move": "Axe makes Mase Carb dump Prince holdings, and Prince, Chuck and Taylor meet with one goal: bring Axe down."
+    },
+    {
+     "ep": "S05E11",
+     "move": "Prince keeps Fine Young Cannabis exclusive with his daughters as its faces; Axe steals the deposits, and the founder is about to be arrested for trafficking."
+    },
+    {
+     "ep": "S05E12",
+     "move": "With Chuck closing in, Prince breaks from the coalition and buys Axe Capital, the bank and Taylor Mason Carbon as Axe leaves for Switzerland."
+    }
+   ],
+   "pool_ids": [
+    "bil-A0317"
+   ],
+   "source": "knowledge"
+  },
+  {
+   "title": "The Phantom Investigation",
+   "category": "PSY",
+   "secondary": [
+    "DEC",
+    "INT"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S05E07"
+   ],
+   "strategist": "Chuck Rhoades and Kate Sacker",
+   "target": "Treasury Secretary Todd Krakow (and Axe's bank charter)",
+   "context": "Todd Krakow, now Treasury Secretary, is Axe's ally in Washington and his route around the obstacles Chuck Rhoades, the New York Attorney General, has put in front of Axe's bank charter. Chuck brings in Yale Law students to dig for dirt on Krakow, and they find nothing.",
+   "play": "With no real case, Chuck and his deputy Kate Sacker decide that making Krakow believe he is under investigation is almost as good as evidence. They borrow the trick from the film Wag the Dog, where denying something that does not exist makes it seem real, and feed Krakow hints of an inquiry reaching the highest levels of government. Krakow's paranoia builds until he resigns.",
+   "why_it_works": "People in power usually have something to hide, and fear fills in whatever details are missing. Krakow's own imagination does the work that evidence could not.",
+   "outcome": "Krakow is gone and Axe loses his Treasury ally for the charter, without Chuck ever bringing a case.",
+   "counter": "Krakow needed to verify with counsel whether any investigation existed before acting; the right response to rumors is to check facts through proper channels.",
+   "principle": "The threat of an investigation can do what the investigation itself cannot.",
+   "in_practice": "When a counterpart creates urgency through vague warnings, ask for specifics before you react. For your own conduct, clean records make you immune to this kind of pressure.",
+   "strength": 4,
+   "show": "billions",
+   "source": "knowledge",
+   "pool_ids": [
+    "bil-0232"
+   ]
+  },
+  {
+   "title": "The Honest Man's Honor",
+   "category": "PSY",
+   "secondary": [
+    "INT",
+    "LEV"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S03E07",
+    "S03E08"
+   ],
+   "strategist": "Wendy Rhoades, with Axe",
+   "target": "Mafee",
+   "context": "Wendy Rhoades is the in-house performance coach at Axe Capital and the wife of Chuck Rhoades, the US Attorney. The trader Mafee executed her short of Ice Juice, and prosecutor Bryan Connerty plans to use the trade and phone records to paint Wendy and Chuck as co-conspirators. Mafee refuses to lie under oath, and money or threats of firing would probably backfire.",
+   "play": "Axe first asks Taylor Mason what drives Mafee and learns he has an old-fashioned sense of honor and would only lie to protect a friend or someone he loved. Wendy, who knows Mafee likes her, visits his apartment alone. She calmly insists he told her 'Axe never gets a position of this size wrong', presents herself as the innocent target of a coming conspiracy smear, tells him all he can say is that she called him because that is 'your truth', and calls him by his first name. Asked how bad it could get for her, she says 'Really, really bad' and leaves. Mafee then tells investigators he initiated the call because he has feelings for her.",
+   "why_it_works": "Wendy never asks Mafee to lie. She supplies a version of events and a person to protect, and his own code does the rest. People who will not be bought can often be moved by a noble reason.",
+   "outcome": "Connerty's conspiracy theory collapses in open court, and the SEC fines Mafee $181,000, which Axe covers along with a $1 million crypto bonus. In S03E08 Wendy admits she 'set him up really good' and feels less pure for it.",
+   "counter": "Mafee could have written down his own recollection before anyone discussed the trade with him, and asked why a senior person was visiting him privately about testimony.",
+   "principle": "People who cannot be bought can still be moved: give them someone to protect.",
+   "in_practice": "With a principled colleague or partner, connect your request honestly to what they value (fairness, loyalty, craft). Steer a person of integrity toward a false story and you lose them the day they see it.",
+   "quote": {
+    "text": "His unwillingness to lie... His sense of honor... His great, big, sweet heart. All these things that seem like impediments. We can use them. I can use them.",
+    "speaker": "Wendy Rhoades",
+    "ep": "S03E07"
+   },
+   "strength": 4,
+   "show": "billions",
+   "pool_ids": [
+    "bil-0153"
+   ]
+  },
+  {
+   "title": "Defusing the Humiliated Trader",
+   "category": "PSY",
+   "secondary": [
+    "LEV",
+    "LEAD"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S01E02"
+   ],
+   "strategist": "Wendy Rhoades",
+   "target": "Victor, the fired trader",
+   "context": "Victor, a trader at Axe Capital, has been fired in front of the whole floor. He knows the firm's trading methods, once bribed an oil company CFO on Axe's behalf, and is angry enough to talk to the government.",
+   "play": "Wendy Rhoades, the firm's in-house performance coach, visits him as a concerned friend and names the real issue: public humiliation is his trigger, because he was mocked for dyslexia as a child. She reminds him that when he sent his old tormentors photos of his first million-dollar bonus, it felt good for a day and then he hated himself. She tells him the story of Warren Jaffin, an analyst who bad-mouthed Axe and was blackballed across the industry until he ended up writing a blog. She finishes with the offer: if Axe is sure Victor will act like a gentleman, he will take care of him.",
+   "why_it_works": "Wendy acknowledges the feeling first, which lowers his defenses, then shows him revenge will not give him what he wants, then makes the cost concrete with a real example, and finally offers a way out with money and dignity. The threat arrives as a story, which is harder to resent than a demand.",
+   "outcome": "Victor stands down and gets paid. Wendy uses the success to set her own terms with Axe: if he cuts her out again, she leaves.",
+   "counter": "Victor could have talked to a lawyer before meeting anyone from the firm, since anything he revealed about bribery was not privileged.",
+   "principle": "Name the wound, show where revenge leads, then offer a dignified exit.",
+   "in_practice": "When a departing employee or client is angry, acknowledge the grievance first, be candid about what a public fight would cost both sides, and offer a fair package that lets them leave with dignity.",
+   "quote": {
+    "text": "When you can win, yes. The only way you can win now is by letting it go.",
+    "speaker": "Wendy Rhoades",
+    "ep": "S01E02"
+   },
+   "strength": 4,
+   "show": "billions",
+   "pool_ids": [
+    "bil-0009"
+   ]
+  },
+  {
+   "title": "Go Where Eagles Dare",
+   "category": "PSY",
+   "secondary": [
+    "NEG",
+    "ALLY"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S01E02",
+    "S01E04",
+    "S01E06"
+   ],
+   "strategist": "Bobby Axelrod (with Wags)",
+   "target": "Garth Sykes, Flagship pension fund",
+   "context": "Garth Sykes manages a Kentucky teachers' pension fund with $1.5 billion invested at Axe Capital. Bad headlines about Bobby Axelrod make him nervous, and Ken Malverne, a rival fund manager at Vista Verde, is courting him.",
+   "play": "When Axe finds Garth dining with Malverne, he calls Malverne a poacher, points out that fund managers only ask 'How you doing?' when they think the other man is running badly, contrasts his 32% return with Malverne's caution, and asks Garth to see himself as part of the firmament. Later, when Garth calls in a panic about new exposure, Axe goes on the offensive: he tells Garth he can buy T-bills if he wants quiet 4% returns, reminds him that his grandfather's bourbon fortune survived Prohibition, and tells him to stay or pull out by morning.",
+   "why_it_works": "Taking the offer away reverses the pressure: the investor has to decide whether he wants to give up the returns. Naming the rival's tell shows Garth he is being worked and makes Axe look like the straight talker.",
+   "outcome": "Garth emails that he is 'ready to soar'. Two episodes later, after a senior figure connected to the firm is arrested, he moves his money to Vista Verde. The take-away close handles performance anxiety; it fails once the legal risk is real.",
+   "counter": "Garth could have set objective risk limits in advance and not relied on how confident Axe sounded on a given call.",
+   "principle": "The take-away close holds a nervous client only while the risk lives in his head and not yet in the headlines.",
+   "in_practice": "With a wavering client, be confident about the value and clear about the trade-offs of switching, then let them choose. Bravado that papers over real, material risk wins the call and loses the account.",
+   "quote": {
+    "text": "If you want to stay, stay. You want to pull, then tell me in the morning, but either way, get off my dick.",
+    "speaker": "Bobby Axelrod",
+    "ep": "S01E04"
+   },
+   "strength": 3,
+   "show": "billions",
+   "pool_ids": [
+    "bil-0013"
+   ]
+  },
+  {
+   "title": "Name It After Him",
+   "category": "PSY",
+   "secondary": [
+    "NEG",
+    "INT"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S06E05"
+   ],
+   "strategist": "Mike Prince",
+   "target": "Governor Sweeney",
+   "context": "Mike Prince, a billionaire leading New York's Olympic bid, needs Governor 'Buffalo Bob' Sweeney. Prince's daughter Gail berates Sweeney publicly at a Knicks game, and Sweeney pulls back. Prince spends the episode trying to get Gail to apologize, without success.",
+   "play": "Prince realizes the problem is Sweeney's wounded ego: a middle-aged man stung by young people mocking him. He drops the apology route, takes Sweeney to the site of the planned Olympic stadium, and tells him it will bear his name.",
+   "why_it_works": "The gift addresses the actual injury, which is status, and offers a permanent public monument that outweighs one humiliating night. It also ties the governor's legacy to the project's success.",
+   "outcome": "Sweeney comes back on board. His vanity becomes a lever both Chuck and Prince pull for the rest of the season.",
+   "counter": "Sweeney could have separated the honor from the policy decision, or asked what else he was being asked to back in return.",
+   "principle": "Diagnose the injury before choosing the remedy; a wounded ego is healed with status.",
+   "in_practice": "When a stakeholder cools on a deal after a slight, work out what they lost in face and restore it in public: credit, visibility, a named role. Keep it genuine and proportionate.",
+   "strength": 3,
+   "show": "billions",
+   "source": "knowledge",
+   "pool_ids": [
+    "bil-0259"
+   ]
+  },
+  {
+   "title": "Here Endeth the Lesson",
+   "category": "PSY",
+   "secondary": [
+    "TIME",
+    "POW"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S03E08",
+    "S03E12"
+   ],
+   "strategist": "Chuck Rhoades",
+   "target": "Bryan Connerty",
+   "context": "Bryan Connerty, an ambitious federal prosecutor, spent months pursuing Axe and along the way investigated his own boss, US Attorney Chuck Rhoades, and threatened Chuck's wife Wendy. The Attorney General has sent him back to Chuck's office, and he fears being exiled to a dead-end post.",
+   "play": "Chuck welcomes Connerty warmly, walks him toward a better office, and praises him: he investigated fully, followed the case where it led and refused to be cowed by power, which Chuck calls heroic. Connerty relaxes and thanks him. Chuck then says he learned every lesson except the one that matters most: he did not win. He reminds Connerty that he threatened Chuck's wife, and fires him on the spot.",
+   "why_it_works": "Lulling a target before the blow maximizes its force and shows everyone watching what it costs to cross Chuck. The problem is what it leaves behind: a capable man with a personal score to settle.",
+   "outcome": "Connerty is out, but the humiliation creates a motivated enemy. Four episodes later Connerty returns as interim US Attorney and fires Chuck with the same words.",
+   "counter": "Connerty should have treated sudden warmth from someone he had wronged as a warning, and lined up his exit before walking in.",
+   "principle": "Humiliate a man on his way out and you have told him exactly how to come back.",
+   "in_practice": "When you let someone go or end a partnership, do it cleanly and with respect. Theatrical exits make enemies who remember every word.",
+   "quote": {
+    "text": "You learned every lesson I had to teach. Except the one that matters most. You didn't win.",
+    "speaker": "Chuck Rhoades",
+    "ep": "S03E08"
+   },
+   "strength": 3,
+   "show": "billions",
+   "pool_ids": [
+    "bil-0159"
+   ]
+  },
+  {
+   "title": "Winning Through Fear",
+   "category": "PSY",
+   "secondary": [
+    "RULE",
+    "REP",
+    "POW"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S04E13",
+    "S05E01",
+    "S05E02",
+    "S05E04",
+    "S05E05",
+    "S05E06",
+    "S05E08",
+    "S05E09"
+   ],
+   "strategist": "Frank and Claire Underwood (with Doug Stamper, LeAnn Harvey and Aidan Macallan)",
+   "target": "Will Conway, the electorate and the machinery of the 2016 election",
+   "context": "Frank Underwood is President and running for election with his wife Claire as his running mate. They trail Will Conway, a young Republican governor, the Washington Herald has just published a story exposing Frank's crimes, and a hostage crisis involving the terror group ICO has made Conway look heroic. Frank and Claire conclude they cannot win hearts and decide to win through fear.",
+   "play": "They first keep ICO alive as a threat, aborting a strike to protect a court request for domestic surveillance data, then answer the on-camera execution of an American hostage with total war. Frank demands a declaration of war on the House floor, has the captured ICO suspect Masterson killed on camera, and Claire's ads ask citizens to report anything suspicious. Frank pushes guarded 'voting centers' on five swing-state governors, has the data expert Aidan Macallan stage a telecom blackout blamed on ICO, raids the wrong suspect on election day so Tennessee's governor suspends voting, and has his fixer Doug Stamper use fabricated NSA chatter to close Ohio's Republican counties. When Pennsylvania falls, Frank concedes to Conway privately and never publicly, so states refuse to certify and the election goes to Congress, where he needs only one more vote than the other man. Claire wins the Senate's vote for vice president and trades a revote in Ohio and Tennessee to Mark Usher, Conway's strategist; Frank then recruits Usher and releases damaging tape of Conway piece by piece until Conway concedes.",
+   "why_it_works": "Fear moves the decision from voters, who cannot be controlled, to governors, judges and legislators, who can be seduced, pressured or blackmailed. Each manufactured incident justified the next procedural step, and the private concession turned protocol against Conway.",
+   "outcome": "Frank is declared the winner and Conway concedes. But the fear suppresses Frank's own voters too, his approval falls to 19 percent, and the tools he used (Aidan, the wrong suspect, the surveillance program) become the leaks and witnesses of the impeachment that follows. Aidan ends up dead and Claire ends up holding the power.",
+   "counter": "Conway's camp could have forced a public concession timeline and challenged the voting-center plan in court early; the press eventually broke the Kalabi arrest, which showed the incidents were fragile once examined.",
+   "principle": "If you cannot win the room, change who is in the room.",
+   "in_practice": "When a broad audience is lost, some leaders move the decision to a smaller group they can influence. Recognize the move when a rival does it, and in your own work win the audience honestly, because manufactured urgency tends to backfire on its author.",
+   "quote": {
+    "text": "We don't submit to terror. We make the terror.",
+    "speaker": "Frank Underwood",
+    "ep": "S04E13"
+   },
+   "strength": 4,
+   "show": "house-of-cards",
+   "steps": [
+    {
+     "ep": "S04E07",
+     "move": "Frank asks the FISA court for domestic surveillance on the grounds that ICO is a threat, while refusing and then aborting a strike to keep that threat alive."
+    },
+    {
+     "ep": "S04E13",
+     "move": "Facing defeat and the Herald story, Frank and Claire declare total war on ICO and let the Miller execution video play."
+    },
+    {
+     "ep": "S05E01",
+     "move": "Frank takes over the House floor to demand a declaration of war, has the captured Masterson killed on camera, and Claire's ad asks citizens to report the suspicious."
+    },
+    {
+     "ep": "S05E02",
+     "move": "He pushes guarded voting centers on five swing-state governors and lets Aidan stage a DC telecom blackout blamed on ICO."
+    },
+    {
+     "ep": "S05E03",
+     "move": "The fear depresses turnout on both sides, including Frank's own Philadelphia base, and Pennsylvania slips."
+    },
+    {
+     "ep": "S05E04",
+     "move": "The wrong Kalabi is raided so Tennessee suspends voting, Doug uses fabricated NSA chatter to close Ohio counties, and Frank concedes privately but never publicly."
+    },
+    {
+     "ep": "S05E05",
+     "move": "With states refusing to certify, the House deadlocks, Conway falls short of 26 states, and the Senate elects Claire."
+    },
+    {
+     "ep": "S05E06",
+     "move": "Claire trades Usher a revote in Tennessee and Ohio in return for her stepping down afterwards and his Supreme Court pick."
+    },
+    {
+     "ep": "S05E08",
+     "move": "At Elysian Fields Frank receives Conway's pilot tape and turns Usher, who advises releasing the damage slowly."
+    },
+    {
+     "ep": "S05E09",
+     "move": "Republicans stay silent, Conway concedes, and Frank offers him Transportation Secretary as a final insult."
+    }
+   ],
+   "pool_ids": [
+    "hou-A1033"
+   ]
+  },
+  {
+   "title": "Failing to Persuade on Purpose",
+   "category": "PSY",
+   "secondary": [
+    "DEC"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S02E10"
+   ],
+   "strategist": "Frank Underwood",
+   "target": "President Walker",
+   "context": "Frank Underwood is Vice President and wants President Garrett Walker's job. A newspaper story links illegal casino money to Walker's old friend and adviser, the billionaire Raymond Tusk, and to the White House. Walker is furious that Frank kept him in the dark and says he is no longer inclined to follow Frank's suggestions.",
+   "play": "Frank raises the idea of a special prosecutor, calls it a terrible idea himself, and argues for dragging things out until the public loses interest. Walker, overloaded by a crisis with China, says he cannot live with this until the midterms. Frank says 'maybe you're right then', and when Walker says he did not say that, Frank backs off again and urges him not to appoint one. Walker chooses the special prosecutor, and picks Heather Dunbar over his own counsel's objections.",
+   "why_it_works": "A leader who has just said he distrusts your advice will want to go against it. Frank puts the idea on the table and then argues against it, so Walker feels he has overruled Frank and owns the decision.",
+   "outcome": "Walker appoints a special prosecutor, the investigation that will eventually bring him down. Frank has no fingerprints on the decision.",
+   "counter": "Walker could have asked why Frank raised the option at all if he thought it was terrible. When someone you distrust argues too easily against their own suggestion, look at who benefits.",
+   "principle": "When someone has stopped trusting you, argue against what you want.",
+   "in_practice": "People commit harder to decisions they feel they made themselves. In a sale, laying out the options and naming the real risks of the one you favor can build more commitment than pushing it, provided the risks you name are true.",
+   "quote": {
+    "text": "The only thing more satisfying than convincing someone to do what I want, is failing to persuade them on purpose.",
+    "speaker": "Frank Underwood",
+    "ep": "S02E10"
+   },
+   "strength": 5,
+   "show": "house-of-cards",
+   "pool_ids": [
+    "hou-0812"
+   ]
+  },
+  {
+   "title": "The Typewriter Letter",
+   "category": "PSY",
+   "secondary": [
+    "TRAP",
+    "RISK"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S02E13"
+   ],
+   "strategist": "Frank Underwood (pushed by Claire)",
+   "target": "President Walker",
+   "context": "Vice President Frank Underwood is under suspicion. Raymond Tusk, the billionaire at the center of a money scandal, is deciding whether to name Frank to investigators in exchange for a pardon from President Walker, who now sees Frank as an enemy. Frank says he cannot make a man who thinks he is an enemy call him a friend. His wife Claire tells him to cut out his heart and put it in Walker's hands.",
+   "play": "Frank types a letter on his father's Underwood typewriter. He admits he does want the presidency, which Walker already suspects, so the rest seems credible. He tells the story of his father asking him to pull the trigger and of regretting that he did not, and encloses a signed false confession to the crimes Walker is accused of, saying he is pulling the trigger himself. When Walker calls, unsure, Frank admits to being a liar and says that is only the image he presents. Walker demands proof in the form of votes, and Frank says he will sing for his supper.",
+   "why_it_works": "A confession of the one thing the target already believes makes everything else believable. The signed confession is a costly signal Walker cannot ignore, and it also buys Frank enough trust that Walker drops the plan that would have destroyed him.",
+   "outcome": "Walker calls Linda and orders her to tell Tusk the deal is off. Without the pardon, Tusk testifies against Walker. At Camp David, Walker gives the letter back without having used it.",
+   "counter": "Walker could have seen that a letter he was unlikely to use was worth more to Frank than to him, and kept the Tusk deal alive whatever Frank said.",
+   "principle": "Admit what they already suspect and they will believe what you say next.",
+   "in_practice": "Openly acknowledging a known weakness or interest (a commission, a bias, a limitation) makes the rest of your message more credible. This only builds lasting trust if what follows is true.",
+   "quote": {
+    "text": "They're false words, but my signature will make them true.",
+    "speaker": "Frank Underwood",
+    "ep": "S02E13"
+   },
+   "strength": 4,
+   "show": "house-of-cards",
+   "pool_ids": [
+    "hou-0830"
+   ]
+  },
+  {
+   "title": "The Home Visit",
+   "category": "PSY",
+   "secondary": [
+    "INT"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S01E10",
+    "S01E11"
+   ],
+   "strategist": "Claire Underwood",
+   "target": "Zoe Barnes",
+   "context": "Zoe Barnes is a young reporter who has been both Frank Underwood's anonymous channel to the press and his secret lover. She has just threatened Frank with a story about his wife Claire sabotaging a bill, and she believes the affair gives her a hold over the Underwoods.",
+   "play": "Claire lets herself into Zoe's building without buzzing, walks around the apartment, and looks through Zoe's things. She tells Zoe she has known everything from the beginning because she and Frank tell each other everything, and that she has not come to punish her or to tell her to stop, only to 'open those big bright eyes'. She leaves after a few minutes, noting that a lesser woman would not have opened the door.",
+   "why_it_works": "The visit reverses the power of the secret: something Zoe thought was hers alone turns out to be known and tolerated, which makes her feel small and watched. By refusing to demand anything, Claire leaves Zoe with nothing to push back against.",
+   "outcome": "Zoe is badly rattled, questions Frank about it, and flees her apartment because it feels like a trap. In S01E11 she retaliates by coming to Frank's house and wearing Claire's dress ('She came into my bedroom. She should know I came into hers.'), after which Frank and Zoe agree to 'simplify' to a professional arrangement.",
+   "counter": "Zoe could have treated the visit as a sign of the Underwoods' vulnerability (Claire had just walked out on Frank), rather than proof of their unity.",
+   "principle": "A secret loses its power the moment its owner learns you already know it.",
+   "in_practice": "When someone thinks they hold private information over you, calmly letting them know you already know it, with no demand attached, often ends the game. Keep it factual and brief.",
+   "quote": {
+    "text": "I've known everything from the beginning, Zoe. My husband and I tell each other everything.",
+    "speaker": "Claire Underwood",
+    "ep": "S01E10"
+   },
+   "strength": 4,
+   "show": "house-of-cards",
+   "pool_ids": [
+    "hou-0762"
+   ]
+  },
+  {
+   "title": "Rile Them, Then Judge the Temper",
+   "category": "PSY",
+   "secondary": [
+    "TRAP",
+    "REP"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S03E02"
+   ],
+   "strategist": "Senator Hector Mendoza",
+   "target": "Claire Underwood",
+   "context": "Claire Underwood, now First Lady, has been nominated as UN ambassador. Senator Hector Mendoza, the Senate majority leader with presidential ambitions of his own, promised not to actively block her. Beating the President's wife still serves him. The vote was always going to be close.",
+   "play": "In the hearing Mendoza cuts Claire off mid-sentence and seizes the fragment 'The US military is irrelevant' as a verbatim quote. He keeps interrupting while scolding her for interrupting, until she snaps that he is 'grandstanding.' He then pivots from the words to her demeanor, asking whether America wants a 'hothead' as ambassador. When she calls to apologize, he admits he took her out of context on purpose.",
+   "why_it_works": "The clipped quote is only bait; the real evidence is her reaction, which looks like temperament and plays on television. The job requires 'calm, cool diplomacy', so losing composure proves his case for him.",
+   "outcome": "Several senators flip, and the nomination fails 52 to 48. Claire later gets the post anyway by recess appointment.",
+   "counter": "Claire could have stayed calm, finished her sentence on the record, and let the transcript expose the misquote later.",
+   "principle": "When the job demands composure, provoke the loss of it and let it testify.",
+   "in_practice": "In negotiations and interviews, expect provocations designed to make you look defensive; slow down, restate your point once, and let the other side's overreach show. Don't use this tactic yourself to misrepresent someone.",
+   "quote": {
+    "text": "Of course I was. I was trying to rile you up.",
+    "speaker": "Hector Mendoza",
+    "ep": "S03E02"
+   },
+   "strength": 4,
+   "show": "house-of-cards",
+   "pool_ids": [
+    "hou-0838"
+   ]
+  },
+  {
+   "title": "Humility Is Their Pride",
+   "category": "PSY",
+   "secondary": [
+    "REP",
+    "DEF"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S01E03"
+   ],
+   "strategist": "Frank Underwood",
+   "target": "Dean and Leanne Masters, grieving parents of Jessica Masters",
+   "context": "Frank Underwood, the House Majority Whip, once fought to keep the Peachoid, a peach-shaped water tower in his South Carolina district. A teenager, Jessica Masters, dies in a crash while texting about it. Orrin Chase, a local rival, is pushing her parents to sue, which could drag Frank into depositions and sink the education bill he is steering in Washington. The parents refuse his condolences in public.",
+   "play": "Frank asks the reverend for a favor and gives the Sunday sermon himself, speaking about hating God after his own father's death and ending on trusting God without understanding. He has the town put up safety billboards, stop lighting the tower, and plan guard rails and a settlement. At the family's home he looks at Jessica's photos, offers a Furman scholarship in her name, and then asks, 'Would you like me to resign, Mr. Masters?' He frames his help as the reverend's lesson about making meaning from pain.",
+   "why_it_works": "Frank reads the community's values accurately: humble yourself before them and they will return the respect. The public sermon and concrete remedies give the parents something meaningful to accept, and the resignation offer is safe because rejecting it lets them keep their dignity.",
+   "outcome": "The parents ask to hear more about the scholarship, removing the lawsuit threat and taking the moral high ground away from Orrin.",
+   "counter": "The parents could have kept everything in legal hands and refused private meetings. Orrin needed a relationship with the family deeper than a legal strategy.",
+   "principle": "Meet a grievance on the other side's own values, with humility they can see and remedies they can touch.",
+   "in_practice": "When a client is angry about a failure, show up in person, own it, and bring specific fixes; offering to step back from the account often restores enough trust that they keep you.",
+   "quote": {
+    "text": "Humility is their form of pride.",
+    "speaker": "Frank Underwood",
+    "ep": "S01E03"
+   },
+   "strength": 3,
+   "show": "house-of-cards",
+   "pool_ids": [
+    "hou-0731"
+   ]
+  },
+  {
+   "title": "Bruises, Then Bandages",
+   "category": "PSY",
+   "secondary": [
+    "LEAD"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S01E09"
+   ],
+   "strategist": "Frank Underwood",
+   "target": "Congressmen Abrams and Vanderburgh",
+   "context": "Frank Underwood, the House Majority Whip, is short of votes for a watershed bill. Two liberal holdouts, Congressmen Abrams and Vanderburgh, say it does not go far enough on environmental protection and are leaning no. His wife Claire runs a clean-water charity the two men admire.",
+   "play": "Frank tells Claire he will meet them first and 'deliver the bruises', then she will meet them later and 'patch them up', since they respect her environmental work. In his office he lays out objects on his desk to show them standing alone on the far edge of the caucus, then reminds them that between those two ends of the desk sits him. He gives them his rule for every member, 'Vote your district. Vote your conscience. Don't surprise me', stresses the last part, orders them to meet his wife, and dismisses them. To camera he explains that bleeding hearts fear their own blood, and once frightened they respond to a caring hand.",
+   "why_it_works": "Pairing a threat with a sympathetic follow-up makes the second person feel like relief, so the target moves toward them. The desk demonstration makes isolation visible, and 'don't surprise me' tolerates dissent as long as the whip hears about it first.",
+   "outcome": "The structure works as designed but fails because the second half of the pair has her own agenda: Claire uses the soft meeting to tell them a no vote is acceptable, and the bill is defeated.",
+   "counter": "Targets can recognize the pattern and hold their position with the second person as firmly as with the first. For the strategist, the risk is handing the decisive meeting to someone whose interests you have not checked.",
+   "principle": "Hard and soft in sequence moves people, but only if you control both halves.",
+   "in_practice": "Escalation and relief can work in a negotiation (a firm commercial position followed by a relationship-focused colleague), but only when the second person is fully briefed and aligned. And 'don't surprise me' is a fair rule to give a team: disagree openly, but tell me before it matters.",
+   "quote": {
+    "text": "Vote your district. Vote your conscience. Don't surprise me.",
+    "speaker": "Frank Underwood",
+    "ep": "S01E09"
+   },
+   "strength": 3,
+   "show": "house-of-cards",
+   "pool_ids": [
+    "hou-0755"
+   ]
+  },
+  {
+   "title": "Two Seats and No Line",
+   "category": "PSY",
+   "secondary": [
+    "POW",
+    "NEG"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S05E09",
+    "S05E10"
+   ],
+   "strategist": "Frank Underwood (against Alex Romero's ask)",
+   "target": "Congressman Alex Romero and anyone watching",
+   "context": "Frank Underwood has just won a contested election and is about to be inaugurated. Alex Romero, an ambitious young Democratic congressman, has dug up damaging spending records and is building a bloc. He refuses the usual favors and asks for something specific and visible: two seats on the inaugural dais and one line in the speech promising a Medicare increase.",
+   "play": "Mark Usher, Frank's new strategist, advises giving Romero what he wants, since he can cause enormous grief. Frank appears to agree, and the seats are provided (Usher gives up his own so Romero sits in the President's line of sight). Then, in the inaugural address, Frank says the opposite of what Romero asked for, promising to fix Medicare before spending 'one more dime' on it, with Romero watching. Afterwards Frank says the message was aimed at everyone, not just Romero.",
+   "why_it_works": "A public humiliation of someone who asked for a favor sends a loyalty signal to the whole party. Seating Romero in plain view makes the snub impossible to miss.",
+   "outcome": "It backfires. Romero immediately pushes to restart the congressional committee investigating Frank's conduct, which leads to hostile testimony and, in time, impeachment. Romero could have been bought cheaply.",
+   "counter": "Frank could have granted a small, deniable version of the line and banked Romero's loyalty. Romero, for his part, made his price public and specific, which forced Frank to refuse in public or pay in public.",
+   "principle": "Humiliate a rising rival to make an example and you may be training the man who brings you down.",
+   "in_practice": "If an up-and-coming partner or employee asks for a visible, low-cost gesture, weigh the cost of refusing against the cost of a grudge. Small public recognition is usually cheap insurance.",
+   "quote": {
+    "text": "We give no quarter to those that are disloyal. The message sent today wasn't just for him.",
+    "speaker": "Frank Underwood",
+    "ep": "S05E09"
+   },
+   "strength": 3,
+   "show": "house-of-cards",
+   "pool_ids": [
+    "hou-0972"
+   ]
+  },
+  {
+   "title": "Every Key Fails on Blythe",
+   "category": "PSY",
+   "secondary": [
+    "NEG"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S02E04"
+   ],
+   "strategist": "Frank Underwood",
+   "target": "Donald Blythe",
+   "context": "Congressman Donald Blythe, an earnest progressive, controls 28 votes, and Vice President Frank Underwood needs about half of them for an entitlement reform bill. Frank betrayed Blythe on an education bill the year before, and Blythe says he does not negotiate with people who are 'fundamentally deceptive'. A white-powder scare shuts them in a room together for hours.",
+   "play": "Frank tries one approach after another. He offers hospitality, then an apology, then accuses Blythe of stubbornness like the Tea Party, then offers to redistribute appropriations and a separate education bill. When he overhears Blythe's call about his wife's Alzheimer's, he tells the audience 'Appeal to the heart, not the brain.' He flatters Blythe's convictions, drinks with him, shares his fear of losing Claire, and asks for the details of Blythe's stalled Alzheimer's bill. Blythe sees what he is doing and calls him disgusting for 'using my wife'.",
+   "why_it_works": "It fails, which is the lesson. Frank has already spent his credibility with Blythe, so every approach reads as manipulation. Tying the offer to his wife's illness insults a man whose identity rests on principle, and he refuses harder.",
+   "outcome": "Blythe refuses to budge. Frank promises the funding anyway and Blythe still votes no, although the two end on a moment of mutual respect ('You have a brave wife, Frank'). The votes have to be found elsewhere.",
+   "counter": "Blythe's defense works well: he names the tactic out loud ('I see where this is going'), which takes away its force.",
+   "principle": "Once a person believes you are deceptive, any gift you offer looks like a manipulation.",
+   "in_practice": "If you have broken a client's trust, better terms and personal gestures will read as tactics. Repair the relationship first, or find a route through people they still trust.",
+   "quote": {
+    "text": "When you've been in the wasteland as long as I have, you become immune to flattery.",
+    "speaker": "Donald Blythe",
+    "ep": "S02E04"
+   },
+   "strength": 3,
+   "show": "house-of-cards",
+   "pool_ids": [
+    "hou-0787"
+   ]
+  },
+  {
+   "title": "Who Will Wear Black for You",
+   "category": "PSY",
+   "secondary": [
+    "LEAD",
+    "DEF"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S01E06"
+   ],
+   "strategist": "Ada Thorne",
+   "target": "Kimber's men and the Peaky Blinders",
+   "context": "Birmingham, 1919. Tommy Shelby's gang, the Peaky Blinders, face the men of Billy Kimber, a rival racecourse boss, across Garrison Lane with rifles raised and a machine gun ready. Most of the men on both sides are veterans of France. A massacre is seconds away.",
+   "play": "Ada Thorne, Tommy's sister, dressed in black and carrying her baby, walks into the gap between the lines. She tells the men that most of them were in France and know what happens next; she has brothers and a husband there, but they all have someone waiting. She says she is wearing black in preparation and asks each man who will be wearing black for him, telling them to think about those people now, and says she and the baby are not moving. A voice agrees that only the men who caused this should die, and Tommy settles it with Kimber one on one.",
+   "why_it_works": "She shifts each man's attention from the group fight to his own family, and her physical presence makes firing the first shot unthinkable. It gives both sides a reason to stand down without losing face.",
+   "outcome": "The general battle does not happen; the fight collapses to Tommy and Kimber, and Tommy tells the men to go home to their families.",
+   "counter": "Kimber's side had no leader ready to reassert the fight; a commander who anticipated a de-escalation attempt would have had to stop it before she spoke.",
+   "principle": "To stop a crowd, make each man count what he personally stands to lose.",
+   "in_practice": "When a dispute between teams or companies is escalating, speak to the individuals about their own stakes (their careers, their clients, their families' weekends) rather than to the group's pride; it gives everyone a dignified reason to step back.",
+   "quote": {
+    "text": "Who'll be wearing black for you?",
+    "speaker": "Ada Thorne",
+    "ep": "S01E06"
+   },
+   "strength": 5,
+   "show": "peaky-blinders",
+   "pool_ids": [
+    "pea-0342"
+   ]
+  },
+  {
+   "title": "The Nearer Threat",
+   "category": "PSY",
+   "secondary": [
+    "INT"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S03E03"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "James Monkland, a Lloyd's underwriter passing information to the Soviet embassy",
+   "context": "Tommy Shelby is doing a dangerous job for Section D, a secret group of British loyalists, and suspects one of them is leaking to the Soviets. His sister Ada's communist contacts point to James Monkland, a Lloyd's underwriter who has been passing information to the Soviet embassy. Monkland knows the name Tommy wants and is terrified of Section D.",
+   "play": "Tommy confronts Monkland in his office, tells him exactly what he has been doing, and asks for the informant's name. When Monkland warns that Section D are very dangerous people, Tommy agrees and says the Shelbys are too. He then frames the choice as immediate against distant: the Peaky Blinders now, at an exact minute, or Section D at some point in the future.",
+   "why_it_works": "People discount distant risks against present ones. By making his own threat concrete and immediate and leaving Section D's vague, Tommy makes cooperation the rational choice in the moment.",
+   "outcome": "Tommy gets the name: the source is Father John Hughes, his own Section D handler. It tells him exactly how far his employers can be trusted, and he uses it against them.",
+   "counter": "Monkland's only defense was never to be exposed, or to have protection from the more distant power before the nearer one arrived.",
+   "principle": "When someone is caught between two pressures, the nearer and more specific one usually wins.",
+   "in_practice": "When a prospect is weighing your proposal against a vague future option, make your offer specific and time-bound (a start date, a price valid until Friday), so it competes as a concrete choice rather than an abstraction.",
+   "quote": {
+    "text": "You have to choose who you're more afraid of. The Peaky Blinders at exactly 11.43, or Section D at some point in the future.",
+    "speaker": "Tommy Shelby",
+    "ep": "S03E03"
+   },
+   "strength": 4,
+   "show": "peaky-blinders",
+   "pool_ids": [
+    "pea-0380"
+   ]
+  },
+  {
+   "title": "Ada Holds the Room",
+   "category": "PSY",
+   "secondary": [
+    "NEG",
+    "INT"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S06E03"
+   ],
+   "strategist": "Ada Thorne",
+   "target": "Diana Mitford, Oswald Mosley, Jack Nelson",
+   "context": "Tommy Shelby is away chasing a cure for his sick daughter Ruby, so his sister Ada must represent the family at a lunch hosted by Diana Mitford, a society beauty and ally of the fascist leader Oswald Mosley. The guest who matters is Jack Nelson, a powerful Boston businessman. Diana has had the butler note the label on Ada's coat and treats her as a curiosity: 'the sister'.",
+   "play": "Ada matches Diana's research with her own and answers class insults with sharper ones (the coat is Chanel but Diana's perfume is cheap). When Mosley and Diana start to talk over her, she tells them the Shelbys hold the power because they hold the information and incentives Nelson needs, and that they should keep quiet while she speaks. She reveals she knows Nelson lost a brother and sister to consumption and uses Ruby's illness to win his sympathy for Tommy's absence. She holds back the invitation until the end, then offers a meeting at Tommy's home 'where the real business will be done'.",
+   "why_it_works": "She sets the frame (who holds the power) before anyone else can, and personal research turns an absence that looked weak into a bond with the key decision-maker. Holding back the invitation keeps the room curious.",
+   "outcome": "Nelson says that in Tommy's shoes he would do the same, and everyone accepts the invitation to the S06E04 meeting.",
+   "counter": "Diana's snobbery gave Ada easy openings; an opponent who underrates a stand-in gives them the chance to take the room.",
+   "principle": "Say who holds the power in the room before anyone else does, and back it with something only you know.",
+   "in_practice": "When you stand in for a senior colleague, open by stating what your side brings and why it matters. Prepare one personal, relevant fact about the key decision-maker so you can connect with them directly.",
+   "quote": {
+    "text": "And please remember, in this moment, in this room, it is the Shelby family that holds the power, because we have the information and the incentives that will make Mr Nelson do what you require him to do.",
+    "speaker": "Ada Thorne",
+    "ep": "S06E03"
+   },
+   "strength": 4,
+   "show": "peaky-blinders",
+   "pool_ids": [
+    "pea-0458"
+   ]
+  },
+  {
+   "title": "The Man You Can Be",
+   "category": "PSY",
+   "secondary": [
+    "DEF",
+    "ALLY"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S06E03",
+    "S06E05"
+   ],
+   "strategist": "Haydn Stagg (then Tommy Shelby)",
+   "target": "Arthur Shelby",
+   "context": "Arthur Shelby, Tommy's elder brother, is fighting an opium addiction. He and Isiah, a young Shelby soldier, arrive at the Liverpool docks to beat Haydn Stagg, a dock boss who has been selling stolen Shelby opium. Stagg knows Arthur's reputation and his addiction.",
+   "play": "Instead of pleading, Stagg names the marks on Arthur's arm and admits he was hooked on morphine after France. He describes Arthur's cravings exactly, says Jesus, his wife and kids cannot help him, and offers practical advice: do not count the days, walk as if on a flat plain. Then he invites the beating: 'If you're going to do it, do it. But look at me as the man you can be.' Arthur calls off Isiah. In S06E05 Tommy visits Stagg, says the beating is still owed, and turns him into the man who will unload and store the Boston guns, with the promise of wealth if Liverpool becomes his main port.",
+   "why_it_works": "Stagg shifts the scene from punishment to recognition: the executioner sees himself in the victim and cannot go on. Tommy then turns the debt into employment, keeping a capable, grateful man instead of making an enemy.",
+   "outcome": "Stagg escapes the beating and becomes part of Tommy's supply chain. Tommy credits him with helping bring Arthur back.",
+   "counter": "Isiah saw it happening and pushed Arthur to act; a punishment detail should not be led by someone the target can reach emotionally.",
+   "principle": "When someone comes to punish you, speak to what shames him and show him the man he could be.",
+   "in_practice": "In a tense dispute, acknowledging the other person's pressures and offering a practical way forward can defuse a confrontation. When a supplier or employee has wronged you but shown real ability, consider whether their debt is worth more as loyalty.",
+   "quote": {
+    "text": "If you're going to do it, do it. But look at me as the man you can be.",
+    "speaker": "Haydn Stagg",
+    "ep": "S06E03"
+   },
+   "strength": 3,
+   "show": "peaky-blinders",
+   "pool_ids": [
+    "pea-0460"
+   ]
+  },
+  {
+   "title": "Show Them You Know Everything",
+   "category": "PSY",
+   "secondary": [
+    "INT",
+    "LEV"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S05E02",
+    "S05E03"
+   ],
+   "strategist": "Oswald Mosley",
+   "target": "Tommy Shelby, Arthur and Michael",
+   "context": "Oswald Mosley, a rising politician about to found a fascist party, wants the working-class following of Tommy Shelby, now a Labour MP for Birmingham. Tommy has warned his brother Arthur and his cousin Michael that the man they are meeting is the devil.",
+   "play": "In the Commons bar Mosley flatters Tommy ('you sing like a songbird in the House'), shows he knows about Tommy's horse through a mutual acquaintance, and dangles a junior ministry. At the next meeting he opens by listing each man's secret: Michael lost the family's money in America; Arthur's wife has been seen with another man. Arthur and Michael react within seconds. Mosley then says he does not care about turf wars, reveals he has made a police investigation into the Shelbys go away, and leaves a letter inviting Tommy to be his deputy.",
+   "why_it_works": "Displaying detailed knowledge of private shame unsettles people and suggests reach and surveillance. Following it with an unrequested favor creates obligation and shows what the alliance could offer.",
+   "outcome": "Arthur and Michael lose their composure, and Tommy immediately warns them not to let these people get into their heads. Tommy decides to accept the offer, but as a means to undermine Mosley.",
+   "counter": "Tommy's answer is to prepare his people for the display in advance and to recognize the favor as a hook; he also brings Ada as 'political adviser' to the first meeting so he is never alone with Mosley.",
+   "principle": "Show people you know their secrets, then do them a favor, and you have their attention and their debt.",
+   "in_practice": "Expect sophisticated counterparts to open with a show of knowledge or a gift. Brief your team beforehand so they stay calm, and treat an unasked-for favor as the first move of a negotiation.",
+   "quote": {
+    "text": "Do not let them get inside your head. That's exactly how these people work.",
+    "speaker": "Tommy Shelby",
+    "ep": "S05E03"
+   },
+   "strength": 3,
+   "show": "peaky-blinders",
+   "pool_ids": [
+    "pea-0434"
+   ]
+  },
+  {
+   "title": "Kill Me and You Are King",
+   "category": "PSY",
+   "secondary": [
+    "POW",
+    "LEAD"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S04E10",
+    "S04E11"
+   ],
+   "strategist": "Ragnar Lothbrok",
+   "target": "His sons (Ubbe, Sigurd, Hvitserk, Ivar) and the people of Kattegat",
+   "context": "Ragnar Lothbrok, King of Kattegat, returns after years of absence following his defeat in Paris. Word has spread that the farming settlement he promised in England was destroyed, his grown sons have said they would kill him, and the hall is hostile.",
+   "play": "Ragnar does not defend himself. He names his own failings aloud (what kind of king abandons his people, what kind of father abandons his sons) and reminds the hall of the rule: if you want to be king, you must kill me. He holds out the weapon and goes from son to son, naming Sigurd, then Ubbe, telling him to kill him and be king and taunting him to be a man. Nobody moves. Only after the challenge has gone unanswered does he turn to his reasons for coming back.",
+   "why_it_works": "By conceding every accusation first, Ragnar leaves his critics nothing to add, and by making the challenge concrete he turns vague resentment into a personal decision nobody is willing to own. A refused challenge is a public vote of submission.",
+   "outcome": "No one steps forward, and Ragnar, broken as he looks, is still the man nobody dares confront. It does not win him followers for a new raid on England, which he has to buy in the next episode.",
+   "counter": "A son could have refused the frame altogether, declining to treat the question as a duel and moving the conversation to what Ragnar owed the town.",
+   "principle": "Name your critics' charges before they do, then ask who will take the job from you.",
+   "in_practice": "When a team or board is restless, owning the failures openly and asking who wants to lead instead converts complaint into a real choice. Most critics prefer complaining to taking the job, and their silence becomes endorsement.",
+   "quote": {
+    "text": "If you want to be king, you must kill me.",
+    "speaker": "Ragnar",
+    "ep": "S04E10"
+   },
+   "strength": 4,
+   "show": "vikings",
+   "pool_ids": [
+    "vik-0589",
+    "vik-0596"
+   ]
+  },
+  {
+   "title": "The Slave's Reframe",
+   "category": "PSY",
+   "secondary": [
+    "DEF",
+    "NEG"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S04E11",
+    "S04E12"
+   ],
+   "strategist": "Margrethe",
+   "target": "Ivar",
+   "context": "Ivar, Ragnar's youngest son, was born with crippled legs. His brothers push Margrethe, a slave, into his bed as a joke. When he cannot perform, he decides to kill her so she cannot tell them. She is a slave and, as Ivar says, no one would blame him.",
+   "play": "Margrethe first pleads and promises to lie for him, which fails. She then shifts the audience: nobody will blame him, only the gods, who know the truth and will laugh at him for being a coward. Having named the real humiliation, she reframes his weakness: lots of men can have sex and children, those things are easy, but being a son of Ragnar Lothbrok and finding greatness is hard. Ivar lowers the knife and she becomes his 'special servant'.",
+   "why_it_works": "Promises from a powerless person are worthless, so she stops bargaining and changes what the act means to him. She moves the judge from people he can silence to gods he cannot, and then offers him an identity that makes his secret irrelevant, which removes the motive for killing her.",
+   "outcome": "She survives the night and Ivar begins treating her as his. The secret still leaks: she tells Sigurd in the next episode, and Sigurd later uses it to mock Ivar in public, with fatal results (S04E20).",
+   "counter": "Ivar could have recognized that her new framing served her survival, although in this case the reframe also happened to be true for him.",
+   "principle": "When you cannot outbid a threat, change what the act means to the person holding the knife.",
+   "in_practice": "In a tense negotiation where you hold no leverage, stop offering concessions and instead reframe the other side's goal so the damaging action no longer serves it.",
+   "quote": {
+    "text": "To be a son of Ragnar Lothbrok, and to find greatness... That is hard!",
+    "speaker": "Margrethe",
+    "ep": "S04E11"
+   },
+   "strength": 4,
+   "show": "vikings",
+   "pool_ids": [
+    "vik-0597"
+   ]
+  },
+  {
+   "title": "What Do You Really Want?",
+   "category": "PSY",
+   "secondary": [
+    "ALLY",
+    "NEG"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S04E02",
+    "S04E03",
+    "S04E08"
+   ],
+   "strategist": "King Ecbert",
+   "target": "Judith, his son's wife",
+   "context": "King Ecbert of Wessex has had an affair with Judith, the wife of his son Aethelwulf. With Aethelwulf away on a dangerous mission, Judith tells Ecbert he cannot assume things will go on as before and that she will not be forced into his bed. She has spent her life as a princess and wife with no choice of her own.",
+   "play": "Ecbert says force is only for enemies and that he wants her to be free. He names her situation (\"a gilded cage\") and asks what she would do if she could choose. When she says she wants to be a painter like Athelstan, he immediately hires the Frankish priest Prudentius to teach her illumination and, in front of Bishop Edmund, argues down the objection that women may not work on sacred texts. Judith then sets her own terms: she will only be his mistress again if he swears on Athelstan's life to respect her as an equal, and he swears.",
+   "why_it_works": "Most people have never been asked what they want. Ecbert gains Judith's loyalty by delivering the one thing no one else would, at visible cost to himself, rather than demanding anything. Judith in turn secures a stated commitment before giving what he wants.",
+   "outcome": "Judith becomes Ecbert's lover and confidante, openly defying her father and husband. Later, after he tricks Kwenthrith, Ecbert confesses to Judith that he cannot lie to her, showing the bond has become his own vulnerability.",
+   "counter": "Judith's counter is the right one: extract a specific, sworn commitment before granting anything, and keep the right to judge him.",
+   "principle": "Ask what someone truly wants, then be the one who gives it.",
+   "in_practice": "In sales and partnerships, the question \"what would you do if the constraints were gone?\" often reveals the real goal, and delivering on it builds loyalty that price never will. Use it honestly: the goodwill lasts only if the offer is real.",
+   "quote": {
+    "text": "Let me ask you something, Judith. What do you really want?",
+    "speaker": "Ecbert",
+    "ep": "S04E02"
+   },
+   "strength": 3,
+   "show": "vikings",
+   "pool_ids": [
+    "vik-0577"
+   ]
+  },
+  {
+   "title": "Worship as a Ladder",
+   "category": "PSY",
+   "secondary": [
+    "POW",
+    "ALLY"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S05E11",
+    "S05E12",
+    "S05E13",
+    "S05E17",
+    "S05E18",
+    "S05E19",
+    "S05E20"
+   ],
+   "strategist": "Freydis",
+   "target": "Ivar",
+   "context": "Ivar now rules Kattegat as a tyrant. All his life he has been told he is a cripple who cannot father children, and his hold on power depends on producing an heir. Freydis is a former slave he once freed.",
+   "play": "Freydis tells Ivar the gods have marked him out and that she would give her life for him. She seduces him with the story that he is a god, that gods can father children with mortals, and that she will bear his divine son. She tells him his deformity is a sign of divine favor, a reframe he adopts as his public creed. As queen she steers him, arguing that a merciful god is more popular than a vengeful one, so Hvitserk is sent away instead of killed.",
+   "why_it_works": "She offers Ivar the one thing he has never had: an interpretation of his disability as a blessing. Flattery aimed at someone's deepest wound gives almost unlimited influence, and his need for the story makes him defend it for her.",
+   "outcome": "She rises from slave to queen. But Baldur is born deformed, Ivar abandons him, doubts the child was his and accuses her of lying about everything. She then betrays Ivar to Bjorn through his secret passage, and Ivar kills her.",
+   "counter": "Ivar could have asked what Freydis gained from each claim. Freydis could have seen that influence built on a story collapses the moment reality contradicts the story.",
+   "principle": "Tell someone the story they need about themselves and you hold them, until the facts contradict it.",
+   "in_practice": "Winning a client by telling them only what they want to hear gets you in the door, but the first result that contradicts the pitch ends the relationship. Be wary of any advisor whose advice always confirms your favorite view of yourself.",
+   "quote": {
+    "text": "To me you are a god. Above all men.",
+    "speaker": "Freydis",
+    "ep": "S05E12"
+   },
+   "strength": 3,
+   "show": "vikings",
+   "pool_ids": [
+    "vik-0654"
+   ]
+  },
+  {
+   "title": "The Dead King Rides",
+   "category": "PSY",
+   "secondary": [
+    "REP",
+    "WAR"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S06E11",
+    "S06E10"
+   ],
+   "strategist": "Bjorn Ironside",
+   "target": "Oleg and the Rus army",
+   "context": "Bjorn Ironside, Ragnar's eldest son and King of Kattegat, is defending Norway against an invasion by Prince Oleg of Kiev, whose army includes Bjorn's brother Ivar. Ivar has run Bjorn through on the beach, and the Rus believe the Norse king is dead. Bjorn is alive but dying and cannot fight.",
+   "play": "Bjorn has himself put on his horse and rides out alone in front of the Norse lines, in full view of the Rus who think they killed him. Rus archers hit him with several arrows and he still stays in the saddle and raises his sword. The sight of a man who has been 'killed' twice and will not fall spreads panic through Oleg's ranks. At the same moment the Norwegian kings and jarls he had rallied, King Hakon and Jarl Hrolf among them, arrive with their armies, and Oleg orders a retreat.",
+   "why_it_works": "Armies run on belief as much as numbers. Bjorn uses his own body as a signal that contradicts the enemy's single most important piece of good news, and he times it so that the arrival of fresh troops appears to confirm that the gods are against the Rus.",
+   "outcome": "The Rus flee Norway and the invasion ends. Bjorn dies soon after, but he is remembered as having won even in death, and Oleg returns to Kiev humiliated by 'a dead man'.",
+   "counter": "Oleg could have confirmed the kill before announcing victory and prepared his men for rumors of Bjorn surviving, so a single rider would not look like a miracle. Tracking the approach of the Norwegian reinforcements would have shown the real threat.",
+   "principle": "The most powerful thing you can show an opponent is the thing they were sure had ended.",
+   "in_practice": "When a competitor is telling the market you are finished (lost a key client, lost a founder), a visible, well-timed proof of life, such as a flagship delivery or a new partner announced together, does more than any rebuttal.",
+   "strength": 3,
+   "show": "vikings",
+   "source": "knowledge",
+   "pool_ids": [
+    "vik-0690"
+   ]
+  },
+  {
+   "title": "Mikado's Unopened Letters",
+   "category": "PSY",
+   "secondary": [
+    "NEG",
+    "INT"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S03E09",
+    "S03E13"
+   ],
+   "strategist": "Nigel Nesbitt (assigned by Scottie)",
+   "target": "Louis Litt",
+   "context": "Louis Litt, a brilliant but thin-skinned senior partner, arrives at the talks to dissolve his firm's merger with a British firm promising he is 'un-rattleable'. He has one job: keep the client allocations open, which Harvey Specter needs for a deal. Across the table is Nigel Nesbitt, Louis's old British rival from a custody fight over a cat.",
+   "play": "Nigel first needles Louis about his suit and Katrina, which Louis shrugs off. Then he produces the letters Louis wrote to his former cat, Mikado, unopened, revealing he never read them to her, and follows up with a portrait Louis sent. Louis explodes, declares war and shouts that everything is on the table. Nigel immediately asks whether that includes the existing client list allocations, and Louis agrees in his rage. Weeks later it emerges that Scottie, a senior partner and Harvey's old rival, was the one who assigned Nigel to him.",
+   "why_it_works": "Surface insults do nothing to a prepared opponent, so Nigel goes for the one thing Louis cares about beyond reason. An enraged negotiator makes sweeping statements, and a calm one is waiting to turn the sweeping statement into a specific concession.",
+   "outcome": "Louis signs an agreement locking the allocations without remembering doing it, which wrecks Harvey's Samsung plan. It also becomes Scottie's first win over Louis.",
+   "counter": "Louis should have walked out to cool off before responding, and should never agree to terms in the same breath as an outburst.",
+   "principle": "Find what your opponent cannot be rational about, and have your specific ask ready for the moment he loses his temper.",
+   "in_practice": "Know your own emotional triggers before a negotiation and set a rule that you call a break, rather than commit to anything, whenever one is hit.",
+   "quote": {
+    "text": "Everything's on the goddamn table! Including the existing client list allocations?",
+    "speaker": "Louis Litt, then Nigel Nesbitt",
+    "ep": "S03E09"
+   },
+   "strength": 5,
+   "show": "suits",
+   "pool_ids": [
+    "sui-1228"
+   ]
+  },
+  {
+   "title": "The Wind and the Sun",
+   "category": "PSY",
+   "secondary": [
+    "RISK",
+    "LEV"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S06E16"
+   ],
+   "strategist": "Jessica Pearson (called in by Harvey Specter)",
+   "target": "Anita Gibbs",
+   "context": "Mike Ross practiced law for years without a degree, went to prison for it, and is now applying to the New York bar. Anita Gibbs, the prosecutor who put him away, sits on the committee with a veto, and she asks the question her trap was built on: did anyone at his old firm know he was a fraud? His mentor Harvey Specter has found no leverage and has quietly called Jessica Pearson, the firm's former managing partner, now practicing in Chicago.",
+   "play": "Before Mike can answer, Jessica walks in and says she knew, offering her own scalp, and points out the hearing is about whether Mike should be a lawyer, not about her old firm. Then she tells a story: fifteen years ago a medical student in chronic pain stole prescription pads, facing a mandatory seven years, and the prosecutor showed mercy, reduced it to a misdemeanor and sealed the records. Gibbs recognizes herself. Jessica doesn't threaten to reveal who the student was; she says the student is now an ER doctor who saves lives, and the world is better because Gibbs saved hers. Afterwards she explains Aesop's fable of the wind and the sun to Harvey and Louis: to get a man to take off his coat, warm him.",
+   "why_it_works": "Jessica removes Gibbs's leverage by volunteering the admission herself, from a position where it costs her little (she now practices in Chicago). The story reminds Gibbs that she believes in second chances, so voting yes becomes consistent with her own best self, while the unspoken link to Samson's godson sits in the background without being used as a threat.",
+   "outcome": "The committee admits Mike. Jessica risks disbarment in New York and shrugs that nobody in Chicago will care.",
+   "counter": "Gibbs could have dismissed the story as irrelevant, but the chair wanted to hear it, and once her own act of mercy was in the room, voting no would have looked inconsistent.",
+   "principle": "To change someone's mind, remind them of the time they made the choice you want.",
+   "in_practice": "When a stakeholder opposes your proposal, find an occasion when they backed something similar and bring it up respectfully; people prefer acting consistently with their own past decisions to being argued with.",
+   "quote": {
+    "text": "And the world's a better place because you saved hers.",
+    "speaker": "Jessica Pearson",
+    "ep": "S06E16"
+   },
+   "strength": 5,
+   "show": "suits",
+   "pool_ids": [
+    "sui-1497"
+   ]
+  },
+  {
+   "title": "Woodall's Squeeze",
+   "category": "PSY",
+   "secondary": [
+    "RULE",
+    "ALLY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S03E16"
+   ],
+   "strategist": "Eric Woodall (US Attorney)",
+   "target": "Mike Ross, Harold Gunderson and Harvey Specter",
+   "context": "Eric Woodall, a federal prosecutor, has learned that Harvey Specter's firm settled with witnesses in an earlier case. He has no hard evidence and wants Harvey, whom he regards as a dirty lawyer. His way in is Mike Ross, Harvey's associate, and Harold Gunderson, a nervous former associate.",
+   "play": "He gets Mike to come in 'voluntarily', names Harvey as the real target, and offers a deal on the spot. He then arrests Mike and Harold, invokes the Patriot Act on unsupported terrorism allegations about the witnesses to deny Mike a phone call, and holds them for hours in separate rooms. He lists the charges for Mike (seven years for conspiracy, two for perjury, twenty for wire fraud) and tells Harold a false story about caged mice eating the weakest one, then tells Mike that Harold believed it and is ready to talk.",
+   "why_it_works": "Isolation and uncertainty wear people down, and the prisoner's dilemma rewards whoever talks first. Stacking the penalties and telling each prisoner the other is breaking makes rolling over seem rational.",
+   "outcome": "Harold nearly flips, until Louis gets to him. Harvey threatens a malicious prosecution claim over the missing phone log and the fabricated terrorism basis, and Woodall has to let them go, though he vows to keep Harvey on his radar.",
+   "counter": "Mike should never have gone in without a lawyer. The defense against a squeeze is to get counsel in fast and document every procedural shortcut for later use.",
+   "principle": "Separate them, frighten them, and tell each one the other is about to talk.",
+   "in_practice": "When a regulator, auditor or investigator asks for an informal chat about a dispute, take a lawyer; and within a team, agree in advance that nobody speaks for anyone else under pressure.",
+   "quote": {
+    "text": "I don't want the dealer. I want the supplier.",
+    "speaker": "Eric Woodall",
+    "ep": "S03E16"
+   },
+   "strength": 4,
+   "show": "suits",
+   "pool_ids": [
+    "sui-1261"
+   ]
+  },
+  {
+   "title": "The Apology Is the Settlement",
+   "category": "PSY",
+   "secondary": [
+    "NEG",
+    "DEF"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S07E06"
+   ],
+   "strategist": "Katrina Bennett, then Louis Litt (advised by Brian Altman)",
+   "target": "Stephanie Patel",
+   "context": "Stephanie Patel, a junior associate, sues Louis Litt, now a name partner, for sexual harassment over his remarks about her private life. Louis refuses to admit anything, because he was once sued before (falsely, he says) and fears it will look like a pattern.",
+   "play": "Katrina Bennett, Louis's protege, finds Stephanie's real motive: people are saying she was fired because she could not cope. She negotiates a settlement that requires Louis to admit wrongdoing. Louis refuses and goes to Stephanie himself, which makes things worse and leads to subpoenas for his colleagues. Brian Altman, an associate, suggests that if he were suing, an apology is what he would want. Louis goes back, explains that his fiancee had just left him and that he took it out on her, offers to sign anything including an admission, and offers her job back. Stephanie tells him what the words actually meant to her, and drops the suit.",
+   "why_it_works": "The lawsuit was about being hurt and being seen as weak; money and legal positioning could not settle that. A real explanation and apology addressed what she cared about, and offering the admission freely removed the fight.",
+   "outcome": "Stephanie drops the lawsuit, Louis thanks Donna for pushing him to face the breakup, and Donna returns the associates to him.",
+   "counter": "Louis could have avoided the suit entirely by apologizing when the incident happened, weeks earlier.",
+   "principle": "When the grievance is personal, a sincere apology can settle what money cannot.",
+   "in_practice": "When a client or employee dispute escalates, find out what they actually feel was done to them; acknowledging it directly often resolves more than a revised offer.",
+   "quote": {
+    "text": "it is admitting guilt, and it is taking a chance, but if I were thinking of suing you for the horrible things you said to me... that's what I'd want to hear.",
+    "speaker": "Brian Altman",
+    "ep": "S07E06"
+   },
+   "strength": 4,
+   "show": "suits",
+   "pool_ids": [
+    "sui-1526"
+   ]
+  },
+  {
+   "title": "Admit Everything, Ask for Nothing",
+   "category": "PSY",
+   "secondary": [
+    "ALLY"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S02E09"
+   ],
+   "strategist": "Daniel Hardman",
+   "target": "Louis Litt",
+   "context": "Daniel Hardman, the firm's disgraced co-founder, is back and running against Jessica Pearson for managing partner. Harvey Specter has shown Louis Litt proof that Hardman once planned to make Louis the fall guy for his embezzlement. Louis confronts Hardman, expecting a denial.",
+   "play": "Hardman makes no denial ('I wouldn't insult your intelligence'). He admits he chose Louis as 'plan B' because his financial expertise made him plausible, and admits he did not care. He then separates his past self from his present one: 'The man I was five years ago shouldn't be managing partner.' When Louis asks whether the partnership depends on his vote, Hardman says he is 'disappointed' Louis thinks so little of himself, praises how Louis 'dominated' Jessica at trial, and asks only that he vote his conscience.",
+   "why_it_works": "A full confession removes the leverage of the accusation and makes him look honest. Calling the gift unconditional makes Louis feel respected, and a person who feels respected wants to repay the favor.",
+   "outcome": "Louis votes for Hardman the next day, even though Hardman had once set him up.",
+   "counter": "Judge people on what they did, not on how open they are about it now. Louis should have asked what Hardman did when the stakes were real, not what he says when he needs a vote.",
+   "principle": "Caught out, own all of it and ask for nothing; the confession disarms and the restraint obliges.",
+   "in_practice": "When a client confronts you with a past mistake, full ownership and a clear account of what has changed usually rebuild trust faster than minimizing. Be wary when a counterpart uses the same move on you.",
+   "quote": {
+    "text": "I offered you what I thought you deserved, no more, no less. I ask for nothing in return but that you vote your conscience.",
+    "speaker": "Daniel Hardman",
+    "ep": "S02E09"
+   },
+   "strength": 4,
+   "show": "suits",
+   "pool_ids": [
+    "sui-1147"
+   ]
+  },
+  {
+   "title": "Gunslingers Don't Follow",
+   "category": "PSY",
+   "secondary": [
+    "ALLY",
+    "RISK"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S07E13"
+   ],
+   "strategist": "Donna Paulsen",
+   "target": "Stu Buzzini",
+   "context": "Kurt Baxter wants $500 million for a company that Harvey Specter's client Teddy Doyle once sold for $200 million. Donna Paulsen, the firm's chief operating officer, proposes getting Stu Buzzini, a star trader she knows well, to short the stock and push the price down. That is a civil securities violation Stu has every reason to refuse. Harvey wanted legal arguments; Donna says this is a personal appeal.",
+   "play": "Donna flatters Stu, pitches the short as a way to make a fortune and help a good man, and when he refuses to risk his license she doesn't argue about the law. She points to the young traders around him and says they are all looking to take him down. Traders are gunslingers, she tells him, and gunslingers don't follow a man who never draws. She is honest that he might lose his license, and says that if he stops taking risks he won't be king anymore.",
+   "why_it_works": "Stu's real motive is his status, not the money, so Donna argues about his identity instead of the risk. Being honest about the downside makes the pitch more believable. She knows Stu well enough to know that argument will work.",
+   "outcome": "Stu shorts the stock, and Harvey later tips him to get out before it turns. Stu is impressed enough to offer Donna a job (partly at Harvey's request) and asks Harvey to tell her 'the gunslinger's back'.",
+   "counter": "Stu could have asked what the scheme needed from him and who carried the risk. A pitch aimed at your pride deserves the same scrutiny as a pitch aimed at your wallet.",
+   "principle": "Sell a proud person on who he wants to be, and the risk becomes part of the price of being him.",
+   "in_practice": "When a prospective partner or client is hesitating over a bold step, ask what reputation they care about (innovator, market leader, the person who backs winners) and show how the step supports it. Be honest about the downside.",
+   "quote": {
+    "text": "Traders are gunslingers, Stu, and gunslingers don't follow people who never sling a gun.",
+    "speaker": "Donna Paulsen",
+    "ep": "S07E13"
+   },
+   "strength": 3,
+   "show": "suits",
+   "pool_ids": [
+    "sui-1554"
+   ]
+  },
+  {
+   "title": "You Haven't Slept Since",
+   "category": "PSY",
+   "secondary": [
+    "INT"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S06E14"
+   ],
+   "strategist": "Mike Ross",
+   "target": "Mr. Stamos, former mining supervisor",
+   "context": "Mike Ross, now working at a legal clinic, wants to represent miners made sick on the job. They are bound by nondisclosure agreements, and if any one of them breaks his, all their payouts are void. Mr. Stamos, a former supervisor who is dying himself, negotiated those agreements for his men.",
+   "play": "Mike finds Stamos at the diner where he works and deflects the 'ambulance chaser' label by pointing to the clinic's $50,000 fee cap. He says the NDAs can be broken because they were signed under duress. When Stamos reveals he was responsible for the men who got sick and got them the NDA money, Mike reads the guilt behind his refusal: ever since he signed them, he hasn't had a good night's sleep, and if Mike is wrong, he will leave right now.",
+   "why_it_works": "Naming the private feeling behind the objection shows understanding instead of pressure, and offers a way to relieve it. Offering to leave hands Stamos control, so agreeing feels like his own choice.",
+   "outcome": "Stamos asks what he has to do and becomes the way into 150 miners.",
+   "counter": "Not adversarial. An emotional read works only if it is accurate, and the offer to leave is what protects the speaker if it is not.",
+   "principle": "Name the feeling behind the objection, and offer to leave if you are wrong.",
+   "in_practice": "When a prospect's resistance is really about a past decision they feel responsible for, acknowledge it openly and show how acting now helps fix it, instead of arguing the objection on its face.",
+   "quote": {
+    "text": "And let me guess: ever since you signed them, you haven't had a good night's sleep. Tell me I'm wrong, I'll leave right now.",
+    "speaker": "Mike Ross",
+    "ep": "S06E14"
+   },
+   "strength": 3,
+   "show": "suits",
+   "pool_ids": [
+    "sui-1482"
+   ]
+  },
+  {
+   "title": "The Straw Man Proposal",
+   "category": "PSY",
+   "secondary": [
+    "DEC"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S05E09"
+   ],
+   "strategist": "Mike Ross",
+   "target": "Harvey Specter",
+   "context": "Daniel Hardman, an old enemy of the firm, has launched a hostile takeover of McKernon Motors, a client. Mike Ross, Harvey Specter's longtime protege, needs Harvey to back a defense quickly.",
+   "play": "Mike first proposes merging McKernon with Fletcher Engines, which he knows Harvey will reject because it would put Dominic out and hand power to the other side. Harvey rejects it. Mike then offers the real plan, taking McKernon private, and Harvey likes it at once. When Harvey asks why he did not lead with it, Mike admits he set up a straw man because Harvey always rejects the first idea, and has done so since the Peabody case.",
+   "why_it_works": "Someone who reflexively rejects the first option feels he has used his judgment when he accepts the second, and the contrast makes the second look better. Mike uses Harvey's habit instead of arguing against it.",
+   "outcome": "Harvey adopts the going-private plan. It works once, but it teaches Harvey to suspect Mike's first ideas, since he immediately asks whether the next one is another straw man.",
+   "counter": "Ask for every option at once and judge them side by side, or notice when someone's 'backup' is always the plan they wanted.",
+   "principle": "If your audience always rejects the first proposal, lead with one you can afford to lose.",
+   "in_practice": "With a critical client or boss, put your preferred option beside a weaker real alternative so the comparison does some of the persuading. Make sure every option you present is one you would actually do.",
+   "quote": {
+    "text": "Because I knew you'd shit on whatever my first idea was and that you'd be open to the backup.",
+    "speaker": "Mike Ross",
+    "ep": "S05E09"
+   },
+   "strength": 3,
+   "show": "suits",
+   "pool_ids": [
+    "sui-1377"
+   ]
+  },
+  {
+   "title": "Ring, Ring, Counselor",
+   "category": "PSY",
+   "secondary": [
+    "LEV"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S06E02"
+   ],
+   "strategist": "Frank Gallo",
+   "target": "Harvey Specter",
+   "context": "Mike Ross is serving time at Danbury prison, where Frank Gallo, a man Harvey Specter put away years ago, torments him because of Harvey. Harvey visits the prison after learning this, having promised Mike he would not go to the warden or interfere.",
+   "play": "Gallo arranges to be standing by the exit as Harvey leaves and tells him he pulled a string and Harvey came. When Harvey asks what he wants, Gallo says he already has it: the knowledge that every phone call might be the one telling Harvey that Mike is never coming out. Harvey responds with threats of a bounty and murder, and Gallo simply taunts him with 'Ring, ring, counselor.'",
+   "why_it_works": "Gallo asks for nothing, so there is nothing to negotiate and nothing to deny him. His power is ongoing anxiety, and by provoking Harvey's threats he also makes Harvey break his promise to Mike.",
+   "outcome": "Harvey's outburst costs him Mike's trust, and Gallo later tells Mike that Harvey's threats will not save him when they are alone.",
+   "counter": "Harvey should have kept his promise and said nothing; the only answer to an opponent who wants your reaction is to withhold it.",
+   "principle": "An opponent who wants only your reaction wins every time you give one.",
+   "in_practice": "When a disgruntled party is clearly trying to get under your skin, do not escalate in person; route the issue through a process where your emotion cannot be used.",
+   "quote": {
+    "text": "Which is knowing that every time your phone rings, you're gonna ask yourself is this the call where you find out that the guy who's in here for you is never coming out.",
+    "speaker": "Frank Gallo",
+    "ep": "S06E02"
+   },
+   "strength": 3,
+   "show": "suits",
+   "pool_ids": [
+    "sui-1422"
+   ]
+  },
+  {
+   "title": "Help Nobody Asked For",
+   "category": "PSY",
+   "secondary": [
+    "NEG",
+    "ALLY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S09E04",
+    "S09E05"
+   ],
+   "strategist": "Harvey Specter, then Louis Litt",
+   "target": "James Paulsen (Donna's father), then Sheila Sazs (Louis's fiancee)",
+   "context": "In consecutive episodes, two partners at the same firm try to rescue someone whose good opinion they want. Harvey Specter wants the approval of James Paulsen, the father of Donna, the woman he loves, who thinks Harvey is selfish and once saw him threaten to shut down his deal. Louis Litt's pregnant fiancee Sheila has lost a major donor's gift at work after calling him by the wrong name, and she has asked Louis to leave it alone.",
+   "play": "Harvey arranges financing for James's struggling deal without asking. Louis has a $50,000 donation routed through a tax-sheltered proxy so it looks anonymous and replaces the lost gift. Both rescues are rejected at once: James says Harvey is buying his approval and calling him a bad businessman, and Sheila sees through the 'anonymous' gift and says it shows Louis thinks she cannot do her job. Harvey then tries again: he invites James to his home, apologizes for mistaking help for respect, admits he does not always see what is in front of him, and praises what James has built. James apologizes for overreacting and asks Harvey to help with the deal.",
+   "why_it_works": "Unasked help from a stronger party signals that the other person is weak, so it lands as an insult. Once respect is shown and the stronger party admits a flaw, the other side can ask for help without losing face, and the same help becomes welcome.",
+   "outcome": "James accepts Harvey, and Harvey proposes to Donna that night. Louis is out $50,000, but couples therapy surfaces Sheila's real fear, that the gift made her feel trapped in a job she is no longer sure she wants, and Louis promises to back whatever she chooses.",
+   "counter": "Both men had the answer in advance: Donna and Louis's friend Alex each told them to listen and ask what was needed before acting.",
+   "principle": "Help that nobody asked for says you think they cannot help themselves.",
+   "in_practice": "Do not quietly fix a client's or partner's problem to win them over. Acknowledge what they have achieved, admit your own blind spot, and let them ask for the help.",
+   "quote": {
+    "text": "No, you're just giving me a bunch of money and asking me to like you.",
+    "speaker": "James Paulsen",
+    "ep": "S09E04"
+   },
+   "strength": 3,
+   "show": "suits",
+   "pool_ids": [
+    "sui-1661",
+    "sui-1666"
+   ]
+  },
+  {
+   "title": "Force the Invitation",
+   "category": "PSY",
+   "secondary": [
+    "POW"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S08E04"
+   ],
+   "strategist": "Samantha Wheeler",
+   "target": "Louis Litt",
+   "context": "Robert Zane, the firm's new managing partner, has taken Louis Litt's oldest client, McKinley Outfitters, and given it to Samantha Wheeler, a combative partner who came over with Zane, to punish Louis for missing a meeting. Louis wants the client back and would never agree to work with her.",
+   "play": "Samantha files a motion to dismiss for the next day on a case Louis has just taken over, knowing he has not had time to prepare. If he delays, he looks unprepared; if he complains to Zane, he looks weak. Then she offers the third option: let her help, and they both look strong.",
+   "why_it_works": "She builds a situation in which the only good exit is the one she wants, and presents it as a favor. By leaving Louis a dignified option, she makes accepting her feel like his choice.",
+   "outcome": "Louis admits she is a badass and they work together. He devises a strong venue strategy, although the case goes wrong when he freezes in court, still shaken by a recent mugging.",
+   "counter": "Louis could have gone straight to Zane with a proposal to split the case, pre-empting her framing.",
+   "principle": "Close every door but the one you want them to walk through, and make that door look like their idea.",
+   "in_practice": "When you need to join a project someone else controls, create a timeline or opportunity that makes collaboration the obvious smart choice, and frame it as shared credit.",
+   "quote": {
+    "text": "But if you let me help you, we both look strong.",
+    "speaker": "Samantha Wheeler",
+    "ep": "S08E04"
+   },
+   "strength": 3,
+   "show": "suits",
+   "pool_ids": [
+    "sui-1586"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,933 @@
+{
+ "id": "REP",
+ "name": "Narrative, Image & Public Opinion",
+ "intro_html": "<p>Every play in this chapter is aimed at an audience. The target may be a rival, but the people who decide the outcome are watching: voters, investors, a hall of jarls, a room of partners with ballots. Reputation is the one asset you own that other people hold for you, and narrative strategy is the craft of deciding what an event means before someone else does. Tommy Shelby spends six seasons of <i>Peaky Blinders</i> climbing <b>The Legitimacy Ladder</b> because he understands that a title, once granted, argues on his behalf in rooms he cannot enter.</p><p>It works because people judge by story, and the first coherent story tends to stick. Signals that look costly get believed, which is why Charles Rhoades Sr. arranges for his son to throw him out of a meeting in <b>The Refusal as Publicity</b>, and why Mike Prince wins his trading floor by turning money away in <b>The Prince List</b>. Third-party voices carry weight your own cannot: Frank Underwood never says a word against Senator Kern in public, he simply lets a reporter ask the question in <b>Everything Is a Story</b>. And meaning is negotiable where facts are not. Lagertha cannot prove who fathered a farmer's son, so she tells the village it was a god in <b>It Was the God Heimdal</b>, and Tommy turns a bonfire of royal portraits into an act of loyalty that makes Winston Churchill call off his own policeman.</p><p>The spine of the chapter is the art of telling your own bad news. Axe walks into a room of grieving firefighters and confesses more than the newspapers found (<b>Own the Worst Version</b>); a campaign vetter in <i>Billions</i> insists on doing <b>Oppo Before Oppo</b>; Harvey Specter pairs an apology with a pay cut he makes unconditional; Mike Ross hands his colleagues the clippings of his own fraud. The <i>House of Cards</i> versions are darker and more instructive for it. Claire Underwood's <b>Live Confession</b> turns a scandal into a crusade, but it rests on a lie about dates, and a lie about dates is a debt someone will eventually collect. Disclosure buys you the frame; only the truth lets you keep it.</p><p>Image strategy backfires when the story outruns the substance or the audience can check it. Ivar parades <b>The False Lagertha</b> before people who know her face. Axe's Astroturf ads cast his bondholders as victims while he seizes a town hall, and hand his enemy a campaign. Jessica Pearson tries to look fierce while the market is still wondering whether her firm will survive, and Claire discovers that <b>The Borrowed Voice</b> of a victim belongs to a person who can be broken. The recurring lesson is that a frame is a loan against the facts underneath it.</p><p>Each show lights a different corner. <i>Vikings</i> treats legitimacy as sacred story: gods, banners and a dying king who scripts his own death in a faith he no longer holds. <i>Peaky Blinders</i> is about climbing into an establishment that will take your money and never let you in. <i>Billions</i> is set in markets where perception is price, so a single endorsement can move a currency. <i>House of Cards</i> treats the press as an instrument to be played, and <i>Suits</i> shrinks the public down to the partners of one firm, which is the scale at which most of us actually live. For a consultant, that last one is the most useful: your reputation is decided by a small room of people who talk to each other, and they remember how you handled the bad day.</p>",
+ "principles": [
+  "Every event has two lives, what happened and what people agree it meant, and the second is the one you can still shape.",
+  "The first coherent account becomes the frame that every later account has to argue against.",
+  "Signals that look costly are believed; signals that cost nothing are discounted.",
+  "A respected third party saying it for you is worth more than anything you say about yourself, and that voice belongs to a person you must protect.",
+  "Tell your own bad news first, in full, with the fix attached.",
+  "A frame lasts only as long as the facts underneath it; image built on a lie is a debt with a date on it.",
+  "Know which audience is really judging, and speak to it in the language it already believes.",
+  "Scarcity and restraint signal status more convincingly than display.",
+  "Never fake a proof in front of people who can check it."
+ ],
+ "plays": [
+  {
+   "title": "The Legitimacy Ladder",
+   "show": "peaky-blinders",
+   "category": "REP",
+   "secondary": [
+    "RULE",
+    "TIME",
+    "POW"
+   ],
+   "scope": "series",
+   "episodes": [
+    "S01E03",
+    "S01E06",
+    "S02E02",
+    "S03E06",
+    "S04E01",
+    "S04E06",
+    "S05E01",
+    "S06E05",
+    "S06E06"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "The British establishment: licensing bodies, city councils, the honors system and Parliament",
+   "context": "Tommy Shelby runs the Peaky Blinders, a razor gang in 1920s Birmingham, and says from the first season that he means to become a legitimate businessman. Each rung of respectability protects the criminal business below it, but the establishment keeps reminding him where he came from.",
+   "play": "Tommy converts every criminal gain into a piece of legal standing. Racetrack violence buys legal pitches and a limited company (S01). A letter to Winston Churchill buys an Empire export license (S02). The Shelby Foundation brings the city council to dinner, and after his wife Grace's death the council names a school the Grace Shelby Institute, where Tommy poses for the gazette photographer holding his son (S03). A stolen royal letter buys his family's lives and an OBE (S04E01), and a double game between the unions and the Crown makes him Labour MP for Birmingham South (S04E06). As an MP he plays the man of the people (S05), then uses his office and the council's demolition powers to drive opium dealers out of Small Heath and clear land for housing (S06).",
+   "why_it_works": "Each title makes the next one easier to win and makes any attack on him look like an attack on a respectable man. Office also hands him legal tools (licenses, planning powers, parliamentary privilege) that do the work his gang once did with razors.",
+   "outcome": "By the final season Tommy is an MP, an OBE and a housing reformer whose legal powers do more than his gang ever did. He learns early, though, that the establishment will take his donations and votes while keeping him out of the rooms that matter, and the deadliest attacks on him come from inside it.",
+   "counter": "The establishment's defense is to accept what he offers and never admit him, which is exactly what Section D, Mosley and the others do. Every public platform Tommy builds, from the Foundation to his seat, also gives his enemies a door in.",
+   "principle": "Turn every win into a title, license or office; standing that is written down outlasts standing that is feared.",
+   "in_practice": "For a small firm, accreditations, published work, public-sector panels and board seats compound: each makes the next easier to win and makes the firm harder to dismiss. Plan them as a sequence over years, and set clear rules about who can speak for anything that carries your name.",
+   "quote": {
+    "text": "and they will never admit us to their palaces, no matter how legitimate we become...",
+    "speaker": "Tommy Shelby",
+    "ep": "S03E06"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "pea-A0485",
+    "pea-0371"
+   ],
+   "steps": [
+    {
+     "ep": "S01E03",
+     "move": "At Cheltenham Tommy says he has decided to move up in the world and become a legitimate businessman, and he buys Arthur a pub to launder the family's money."
+    },
+    {
+     "ep": "S01E06",
+     "move": "Shelby Brothers Limited becomes the third largest legal racetrack operation in the country."
+    },
+    {
+     "ep": "S02E02",
+     "move": "Churchill grants an Empire export license, which covers whisky smuggling to Canada from S02E04."
+    },
+    {
+     "ep": "S03E06",
+     "move": "The council names the Grace Shelby Institute, but Tommy concludes the establishment will never admit them no matter how legitimate they become."
+    },
+    {
+     "ep": "S04E01",
+     "move": "Tommy trades a stolen royal letter for his family's lives and an OBE."
+    },
+    {
+     "ep": "S04E06",
+     "move": "He is elected Labour MP for Birmingham South."
+    },
+    {
+     "ep": "S05E01",
+     "move": "He attacks the stock market in the Commons and plays the man of the people in his pub, while Arthur fronts the illegal side as chairman."
+    },
+    {
+     "ep": "S06E05",
+     "move": "As MP he uses the council's demolition powers to shut opium dealing out of Montague Street."
+    },
+    {
+     "ep": "S06E06",
+     "move": "He blows up Arrow House to make way for housing and holds a list of land-owning families facing foreclosure."
+    }
+   ]
+  },
+  {
+   "title": "The Refusal as Publicity",
+   "show": "billions",
+   "category": "REP",
+   "secondary": [
+    "PSY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S01E01"
+   ],
+   "strategist": "Charles Rhoades Sr.",
+   "target": "Wall Street and the press, for his son's benefit",
+   "context": "Chuck Rhoades, the US Attorney for the Southern District of New York, faces press questions about whether he is soft on financial crime, since his wife Wendy works at Axe Capital, the hedge fund he is investigating. Skip Wolkowska, an old friend of Chuck's father, has been convicted and wants to pay $10 million for house arrest instead of prison.",
+   "play": "Chuck's father, Charles Sr., turns up at the leniency conference alongside Skip's lawyers, apparently to lean on his son. He expects Chuck to refuse him with contempt, and expects Skip's lawyers to spread the story. Chuck does exactly that, threatening his own father with handcuffs, and at his next press conference he names Skip as proof that influential friends get no favors. Afterwards Charles Sr. tells him he was 90 percent sure how Chuck would react, and that now they will all fear him.",
+   "why_it_works": "A public refusal of your own father is a stronger signal of independence than any statement could be. Charles Sr. designs a situation in which his son's natural reaction produces the reputation he needs, and it works whether or not Chuck is in on it.",
+   "outcome": "Chuck is seen as tough on Wall Street and uses the case to answer the conflict-of-interest questions. Skip kills himself the next morning, a reminder of what it costs to turn a sentencing into a publicity moment.",
+   "counter": "Chuck could have noticed that his father never helps without an angle, and asked what the visit was for before reacting in front of witnesses.",
+   "principle": "The most believable proof that you cannot be bought is refusing someone close to you in public.",
+   "in_practice": "If you need clients to believe a policy is firm (on pricing, scope or conflicts), the proof is holding it, politely and openly, with a long-standing friendly client. Be clear about who benefits from staging that moment and what it costs the person on the other side.",
+   "quote": {
+    "text": "But I was 90% sure you'd react the way you did. It's a win any way you look at it.",
+    "speaker": "Charles Rhoades Sr.",
+    "ep": "S01E01"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "bil-0003"
+   ]
+  },
+  {
+   "title": "The Prince List",
+   "show": "billions",
+   "category": "REP",
+   "secondary": [
+    "PSY",
+    "LEAD"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S06E01"
+   ],
+   "strategist": "Mike Prince",
+   "target": "The fund's inherited investors, his own trading floor and the wider billionaire market",
+   "context": "Mike Prince, a billionaire who sells himself as a socially responsible capitalist, has taken over Axe Capital and renamed it MPC. The firm carries a regulatory black eye and six months of SEC probation, the staff do not trust him, investors are threatening to pull their money, and he needs to look spotless for bigger ambitions.",
+   "play": "Prince calls every investor into one room and opens as though he is about to purge his compromised staff, asking aloud whether he should fire them all. With the traders braced, he turns it round: he is firing the investors, with redemption checks and wire confirmations already prepared. He cuts every one except the New York firefighters' pension fund, including Chuck Rhoades's father and the billionaire Melville Revere, and announces that future clients will have to qualify to invest. He tells his team the SEC has approved it and that billionaires will now compete to get back in.",
+   "why_it_works": "Turning money away makes admission a status symbol, and wealthy buyers chase exclusion harder than any pitch. The feint of a staff purge makes the real announcement land as a reprieve and a shared cause, which wins the floor in one meeting.",
+   "outcome": "The floor, openly mutinous when the meeting began, cheers. Prince sheds the Axe-era capital and its conflicts, rebuilds the firm's story around ethics, and lays the foundation of the reputation he later trades on for the Olympic bid and politics.",
+   "counter": "Investors who suspected the show could have redeemed early on their own terms and denied Prince the moment. Rivals could have mocked the list as a marketing gimmick before it gained status.",
+   "principle": "Make access scarce and people will compete to be let in.",
+   "in_practice": "A consultancy that publishes clear criteria for the clients it takes, and visibly turns some away, raises its price and attracts better buyers. Only do it when you can afford the short-term revenue gap.",
+   "quote": {
+    "text": "So sit back and watch how badly people want to get on the Prince List.",
+    "speaker": "Mike Prince",
+    "ep": "S06E01"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "bil-0249"
+   ]
+  },
+  {
+   "title": "Songbirds and Silk Gloves",
+   "show": "peaky-blinders",
+   "category": "REP",
+   "secondary": [
+    "PSY",
+    "INT"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S05E04",
+    "S05E01",
+    "S05E02"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "Working-class voters in Birmingham and the Labour benches",
+   "context": "After the 1929 crash, Tommy, now Labour MP for Birmingham South, needs to be seen as the champion of working people. That standing is also what makes him valuable to the fascist leader Oswald Mosley and to the intelligence services.",
+   "play": "In the Commons, Tommy answers a Tory call for union restraint by casting the stock market as a casino for gamblers in silk gloves who lose their bets and send the bill to the shoe-shine, and tells them to shine their own shoes and pay their own bills. In his pub he hands out free pints and brandy for anyone who served in France. At his constituency surgery, Mrs Connors brings him the bodies of three goldfinches her drunk, newly unemployed husband has strangled; the beatings go unmentioned; the birds are what she came about. Tommy sends his brother Arthur to buy three new birds at the Bull Ring that day, and Mrs Connors names them Thomas, Arthur and Finn, which she says will make her husband think twice. Tommy tells Arthur that the thing that brings her to her MP is songbirds, and that is politics.",
+   "why_it_works": "The speech names a villain his voters already resent, and the favors are small, specific and visible, so people repeat them. Answering the problem Mrs Connors actually brought, and naming the birds after Shelbys, turns a cheap gift into protection the whole street understands.",
+   "outcome": "The Labour benches roar, the working-class vote is his, and Mosley seeks him out precisely because of that following. His aunt Polly and the intelligence officer Colonel Younger both notice the gap between the man of the people and the fortune behind him.",
+   "counter": "Opponents could expose the distance between the populist speeches and the businesses behind them, which is what a Times journalist tries to do.",
+   "principle": "Big speeches win attention; small favors people can see win loyalty.",
+   "in_practice": "Frame your pitch around the pain your buyer already feels, then deliver a quick, concrete fix to the exact thing they raised, even if it looks minor beside the larger problem. The small fix delivered this week earns the right to tackle the rest.",
+   "quote": {
+    "text": "And yet, the thing that brings her to see her Member of Parliament is songbirds. Now, that's politics, Arthur.",
+    "speaker": "Tommy Shelby",
+    "ep": "S05E04"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "pea-0427",
+    "pea-0441"
+   ]
+  },
+  {
+   "title": "Raising the Oriflamme",
+   "show": "vikings",
+   "category": "REP",
+   "secondary": [
+    "LEAD",
+    "WAR"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S03E08",
+    "S03E07",
+    "S03E09"
+   ],
+   "strategist": "Count Odo",
+   "target": "The soldiers and citizens of Paris",
+   "context": "Count Odo commands the defense of Paris against Ragnar's Viking army. The city is provisioned for a siege, but its people are terrified of the pagans, and as the attackers reach the gates, morale is the weakest point in the walls.",
+   "play": "Odo orders his men to hold their crossbow bolts until the attackers are close and to keep the gates at any cost. He takes the Oriflamme, the sacred banner of Saint-Denis said to be dipped in the martyr's blood, and forces a hesitant bishop to bless it on the spot if he cares for Paris. He then raises it on the walls, declares the defenders soldiers of Christ and orders that no quarter be given wherever the banner flies.",
+   "why_it_works": "A sacred symbol turns a desperate defense into a holy cause and gives every defender something visible to rally to. Making the bishop bless it on the spot puts the Church's authority behind it at the moment it is needed.",
+   "outcome": "The walls hold, the siege towers and ladders are cut down and the attack is repulsed. The Emperor, who did nothing, is hailed for the victory, and Odo's hope of winning Princess Gisla through his reputation goes unrewarded.",
+   "counter": "The attackers could have struck at night or at points far from the banner, or gone after the city's supplies instead of its fired-up walls.",
+   "principle": "In a crisis, give people a symbol to fight for, and make the institution bless it.",
+   "in_practice": "When a team is under pressure, a clear shared purpose that leadership visibly stands behind (a customer promise, a line you will not cross) steadies people more than instructions do. Expect that credit may still flow upward, and decide in advance whether you can live with that.",
+   "quote": {
+    "text": "Behold, soldiers of Christ. That wherever the Oriflamme is, no quarter is to be given to our enemies.",
+    "speaker": "Count Odo",
+    "ep": "S03E08"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "vik-0568"
+   ]
+  },
+  {
+   "title": "The Healing Waters of Lourdes",
+   "show": "billions",
+   "category": "REP",
+   "secondary": [
+    "ALLY",
+    "DEC"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S02E05",
+    "S01E06"
+   ],
+   "strategist": "Bobby Axelrod, with Mike 'Wags' Wagner",
+   "target": "Lawrence Boyd of the bank Spartan-Ives, and the market",
+   "context": "Lawrence Boyd runs Spartan-Ives, the prime broker whose approval the Street reads as a clean bill of health. Twice Axe needs that approval: first when a federal investigation threatens to trigger mass redemptions from his fund, and later when he needs the market to believe Nigeria's currency will collapse.",
+   "play": "In the first season, Axe's right-hand man Wags tries a dog whistle instead of a statement: he bribes a maitre d' to report when Boyd dines, sends over a rare Bordeaux and wins Axe an invitation to Boyd's box at a basketball game, which Axe says will tell the Street his stock is about to rally. In the second season Axe asks Boyd to follow him on a financial TV show and endorse his view on Nigeria. Minutes before air, Axe learns a judge has signed Boyd's arrest warrant, tells him nothing, makes his case, and lets Boyd confirm it on camera.",
+   "why_it_works": "Markets move on who says a thing as much as on what is said, and a respected second voice turns one fund's bet into consensus. Being seen with a trusted institution transfers some of its credit to you, which is why the lender holds the power.",
+   "outcome": "The first attempt collapses publicly: Boyd never shows, and the box is full of junior staff on mailroom night, a snub the whole Street can read. The second works: the market moves, Axe's quarter is saved, and Boyd is arrested on set, works out that Axe knew, and grudgingly calls it smart.",
+   "counter": "An endorsement you have to trick someone into giving can be withdrawn just as publicly. Boyd, for his part, could have asked why Axe's manner changed just before they went on air.",
+   "principle": "Borrowed credibility belongs to the lender, and it can be recalled in public.",
+   "in_practice": "A respected client, analyst or partner saying it for you is worth more than any claim of your own, but earn it honestly and disclose the relationship. Build your own track record too, because a partner will step away from you in public the moment you look risky.",
+   "quote": {
+    "text": "Boyd's touch is the healing waters of Lourdes.",
+    "speaker": "Mike 'Wags' Wagner",
+    "ep": "S01E06"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "bil-0028",
+    "bil-0079"
+   ]
+  },
+  {
+   "title": "Shoulder to Shoulder",
+   "show": "peaky-blinders",
+   "category": "REP",
+   "secondary": [
+    "PSY",
+    "POW"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S05E05"
+   ],
+   "strategist": "Oswald Mosley",
+   "target": "Tommy Shelby and his party guests",
+   "context": "Tommy has been courting Oswald Mosley, the rising fascist politician, while secretly working to destroy him, and has made no public commitment. Tommy's ballet party is full of Birmingham's comfortable classes, many of whom lost money in the crash.",
+   "play": "Mosley takes the stage uninvited, thanks the dancers, flatters Tommy as a man of the moment and announces the founding of the British Union of Fascists, declaring that Mr Shelby will be with him shoulder to shoulder. He blames bankers and Jews for the crash and warns the guests that the press will misreport him, so they should pass his words on directly. Only afterwards, in private, does he set his terms: Tommy's Jewish company lawyer must go, and Tommy will control the Midlands.",
+   "why_it_works": "Announcing the alliance in front of the target's own guests commits him before he has agreed, and backing out would mean a public humiliation at his own party. Warning the audience about hostile coverage in advance inoculates them against it.",
+   "outcome": "The speech is reported warmly in several national papers as a spontaneous outpouring, and Tommy is bound to Mosley in public. That deepens his cover and his exposure in equal measure.",
+   "counter": "Tommy controlled the venue and could have controlled the stage. Never give a prospective partner an open platform before the terms are agreed.",
+   "principle": "Announce the partnership in public and the other side must go along or be seen to break it.",
+   "in_practice": "Watch for partners who announce a deal, on a stage or on LinkedIn, before it is signed; agree in writing what each side will say and when. And never let anyone speak for you on your own platform before you have agreed the words.",
+   "quote": {
+    "text": "And Mr Shelby will be with me, shoulder to shoulder.",
+    "speaker": "Oswald Mosley",
+    "ep": "S05E05"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "pea-0442"
+   ]
+  },
+  {
+   "title": "The Reluctant Draft",
+   "show": "house-of-cards",
+   "category": "REP",
+   "secondary": [
+    "DEC",
+    "TIME"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S04E09",
+    "S04E10"
+   ],
+   "strategist": "Frank and Claire Underwood",
+   "target": "Convention delegates, the press and Secretary of State Cathy Durant",
+   "context": "Frank, now President, goes into an open party convention intending to make his wife Claire his running mate. A First Lady asking for the job would look like nepotism, so her candidacy has to appear to rise from the floor. The front-runner is Cathy Durant, his Secretary of State.",
+   "play": "On the first day a single senator casts a vote for Claire, and Frank quietly gets him the prime-time speaking slot he wanted. Then the Texas delegation, led by Celia Jones, whose run for her mother's vacant seat Frank endorsed in the State of the Union, casts all 237 of its votes for Claire. A story spreads that Claire, not Cathy, closed a major foreign deal, and the White House deliberately leaves press calls about it unanswered. In public Claire calls the votes flattering and tells everyone to vote for Cathy, and privately assures Cathy she is sticking to their agreement. As momentum builds, Claire leaves for her dying mother's bedside in Texas, so she cannot be seen campaigning.",
+   "why_it_works": "Support that looks spontaneous persuades more than any endorsement, and public reluctance protects the candidate from charges of ambition. Silence lets a rumor do what a denial would kill and a confirmation would make look crude.",
+   "outcome": "Claire climbs from fifth place to a real contender within a ballot, and pundits call her the dark horse. Cathy is not fooled and turns on Frank, which forces a harder confrontation.",
+   "counter": "Cathy spots the pattern and confronts Claire about the leak, but she needed to go public with her suspicion at once, while it could not yet be dismissed as a smear.",
+   "principle": "Let others ask for what you want; your job is to look surprised.",
+   "in_practice": "A bid for a bigger role or a new service lands best when clients or colleagues are already asking for it. Earn that demand honestly through results and satisfied customers who say so, then let them speak before you do.",
+   "quote": {
+    "text": "Ignoring, which is the same as confirming.",
+    "speaker": "Seth Grayson",
+    "ep": "S04E09"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "hou-0918"
+   ]
+  },
+  {
+   "title": "Burning the King's Portraits",
+   "show": "peaky-blinders",
+   "category": "REP",
+   "secondary": [
+    "PSY",
+    "RULE"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S01E02"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "Inspector Campbell, via Winston Churchill",
+   "context": "Inspector Chester Campbell, a Belfast policeman sent to Birmingham by Winston Churchill to recover stolen guns, has had his men raid Small Heath and smash up the pubs under Peaky Blinders protection. Campbell wants a meeting, but Tommy refuses to sit down while he is the one under pressure.",
+   "play": "Tommy has his young brother Finn pay local children two bob for every picture of the King they can find, and piles them on a bonfire in Watery Lane. He then phones a reporter at the Birmingham Evening Despatch and, presenting himself as an ordinary veteran with medals from the Somme, explains that the loyal people of Small Heath are taking down the King's pictures so the King will not have to see what Belfast police are doing to his soldiers in their homes. The editor, as a matter of routine, wires the Home Office, and Churchill telephones Campbell at midnight forbidding any arrests, because a trial would only spread the story.",
+   "why_it_works": "The protest is framed as loyalty, so nobody can call it sedition without repeating it. It moves the fight from the streets, where Campbell is strong, to the newspapers and Whitehall, where Campbell's master fears embarrassment above everything.",
+   "outcome": "Campbell is rebuked, cannot touch anyone, and learns from Churchill that Tommy is a decorated war hero. Tommy walks into their meeting at the Lickey Tea Rooms with the upper hand and tells Campbell the fire was just a taster.",
+   "counter": "Campbell handed Tommy the story by raiding veterans' homes. He could have avoided such a soft target, or briefed the press with his own account first.",
+   "principle": "Before you sit down to negotiate, make your opponent's boss afraid of the headlines.",
+   "in_practice": "If a larger counterparty is squeezing you, find the stakeholder they answer to and what that stakeholder fears (delay, publicity, a regulator's attention), then put your issue in those terms before the meeting. Keep it truthful and framed around the public interest, or it becomes blackmail.",
+   "quote": {
+    "text": "You see, we don't want our beloved King looking down and seeing the things that are being done to us. So we are taking down his pictures.",
+    "speaker": "Tommy Shelby",
+    "ep": "S01E02"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "pea-0325"
+   ]
+  },
+  {
+   "title": "It Was the God Heimdal",
+   "show": "vikings",
+   "category": "REP",
+   "secondary": [
+    "LEAD",
+    "PSY"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S01E07"
+   ],
+   "strategist": "Lagertha",
+   "target": "A farmer, his wife and the watching villagers",
+   "context": "While her husband Ragnar raids England, Lagertha rules Kattegat and sits in judgment. A farmer accuses his wife of adultery: after years without children she bore a son nine months after a young stranger named Rig stayed in their house. The woman and the child are in danger.",
+   "play": "Lagertha asks whether they knew who Rig was, then tells them the old stories say Rig is another name for the god Heimdal. When the husband says that is just a story, she answers that all their lives are just stories. She shames him for doubting a wife whose household a god chose to bless, orders him to rejoice, drink with her and sacrifice to Heimdal, and warns him that if he harms the woman or the child he will answer to her.",
+   "why_it_works": "Paternity cannot be proven either way, so Lagertha changes what the event means: from disgrace to divine favor, using a story the whole community already believes. The husband gets a way out that saves his face, and the threat makes sure he takes it.",
+   "outcome": "The dispute ends without punishment, the woman and child are protected, and the village sees that Lagertha can rule in Ragnar's absence.",
+   "counter": "The husband has no real answer: to argue with the story he would have to argue with the gods in front of everyone.",
+   "principle": "When facts cannot settle a dispute, offer everyone a story they can live with, and stand behind it.",
+   "in_practice": "In a client or partner dispute where blame cannot be proven, frame the resolution so the embarrassed party keeps their dignity (a shared lesson, an unclear spec), then state plainly what happens if the issue is reopened.",
+   "quote": {
+    "text": "Our whole lives are just stories.",
+    "speaker": "Lagertha",
+    "ep": "S01E07"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "vik-0509"
+   ]
+  },
+  {
+   "title": "Magnanimous Confiscation",
+   "show": "vikings",
+   "category": "REP",
+   "secondary": [
+    "POW"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S01E03"
+   ],
+   "strategist": "Earl Haraldson, supported by his wife Siggy",
+   "target": "Ragnar's crew and the watching crowd",
+   "context": "Ragnar has defied Earl Haraldson, the ruler of Kattegat, by sailing west and coming back with treasure from an English monastery. The crowd is chanting, and Ragnar is on his way to becoming more popular than the Earl who called the west a fantasy.",
+   "play": "Haraldson neither denies the achievement nor punishes the disobedience outright. He belittles it (they took the treasure as easily as from babies), claims all of it as his by right, and then lets each man keep one object, telling them they are still richer than before and that all the world can now see how generous their lord is. Siggy later tells him he stripped Ragnar of everything with a few words.",
+   "why_it_works": "Taking everything would look like theft and make martyrs. Handing back a token turns the seizure into a display of generosity and reminds everyone that rewards flow from the Earl.",
+   "outcome": "Haraldson keeps the treasure and his standing in the hall. The deeper problem remains: the crew now know the west is real and that Ragnar found it.",
+   "counter": "The crew could have agreed the division of spoils before sailing, or publicly tied their loyalty to fair shares, so that confiscation carried a cost for the Earl.",
+   "principle": "When you take, hand a token back and call it generosity.",
+   "in_practice": "Recognize the pattern when a larger partner absorbs the value of your work and presents a small concession as a favor. Agree revenue splits, credit and IP ownership before the work starts.",
+   "quote": {
+    "text": "Now, all the world can see how magnanimous and generous is your lord, especially since you disobeyed me.",
+    "speaker": "Earl Haraldson",
+    "ep": "S01E03"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "vik-0497"
+   ]
+  },
+  {
+   "title": "Everything Is a Story",
+   "show": "house-of-cards",
+   "category": "REP",
+   "secondary": [
+    "DEC",
+    "PSY",
+    "TIME"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S01E02",
+    "S01E01",
+    "S01E06"
+   ],
+   "strategist": "Frank Underwood, with the reporter Zoe Barnes",
+   "target": "Senator Michael Kern, Chief of Staff Linda Vasquez and President Walker",
+   "context": "Frank Underwood, the House majority whip, was promised Secretary of State by the new President and passed over. He wants the President's nominee, Senator Michael Kern, gone, and his own choice, Senator Catherine Durant, in the job. Kern has no scandals; all Frank has is a 1978 college editorial calling Israel's presence in Gaza and the West Bank an illegal occupation, printed while Kern was editor. Kern did not write it.",
+   "play": "Frank gives the editorial to Zoe Barnes, an ambitious young reporter, and tells her to run it as an open question: Kern was the editor, so let him deny it. Kern flounders on a Sunday show, Frank calls the Anti-Defamation League, and his allies persuade the real author to say on record that Kern wrote every word. Kern then blames the author and makes a clumsy remark about Israel and Palestine that starts a second backlash. With Kern gone, Frank tells Zoe to report, citing a source close to the President, that Durant will be the nominee; asked if it is true, he says it will be after she writes it. Pundits and a poll pick up the name, and when Linda Vasquez mentions the Durant rumor, Frank offers only mild approval: it is not the worst idea in the world.",
+   "why_it_works": "A vague accusation cannot be disproved, and every denial repeats it. A prediction in print works the same way in reverse: once the press calls an outcome likely, decision-makers have to explain why they would not do it. In both cases Frank's name appears nowhere, and his light private endorsement looks like agreement with the consensus.",
+   "outcome": "Kern withdraws and Durant is nominated. Zoe gets her first national stories and owes Frank more, and Durant owes him the job, a debt he collects within weeks.",
+   "counter": "Kern should have given one short factual answer and stopped. Linda should have traced the leak before acting on the momentum it created; when a consensus forms suddenly around one name, ask who benefits.",
+   "principle": "Whoever puts the question or the prediction into print sets the terms everyone else must answer.",
+   "in_practice": "Before a decision meeting, make sure the key people have already heard your option discussed favorably by others, through honest channels such as a client reference or an analyst note. And when you face an unfair insinuation, answer it once, clearly, and stop; long defenses keep the story alive.",
+   "quote": {
+    "text": "It will be after you write it.",
+    "speaker": "Frank Underwood",
+    "ep": "S01E02"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "hou-0728",
+    "hou-0729"
+   ]
+  },
+  {
+   "title": "The Old Boar's Last Speech",
+   "show": "vikings",
+   "category": "REP",
+   "secondary": [
+    "PSY",
+    "TIME"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S04E15",
+    "S04E16",
+    "S04E18"
+   ],
+   "strategist": "Ragnar Lothbrok",
+   "target": "His sons, his people and the watching Saxon crowd",
+   "context": "Ragnar, the aging Viking king, has handed himself over to his enemies and knows King Aelle of Northumbria will make his death a public spectacle. In private he has told King Ecbert of Wessex that he no longer believes in the gods.",
+   "play": "Ragnar asks Ecbert whether he will be allowed to speak at his execution and says he will talk about the gods and his joy at entering Valhalla. Ecbert points out that he does not believe it; Ragnar replies that his people do. At Aelle's court he endures torture and then, hung over a pit of snakes, delivers a defiant speech about Odin's feast and the Valkyries and about waiting in Valhalla for his sons. He adds one line aimed squarely at them: the little piggies will grunt when they hear how the old boar suffered.",
+   "why_it_works": "Ragnar knows the story of his death will travel further than he ever could, so he scripts it in the terms his audience holds sacred, whatever he privately thinks. A fearless, faithful death and a vivid, repeatable line about his sons turn an execution into a call to arms.",
+   "outcome": "The story reaches Kattegat and the little piggies line becomes his sons' rallying cry. They raise the Great Army and repeat the line as they take their revenge on Aelle in the same pit (S04E18).",
+   "counter": "Aelle could have denied Ragnar the stage altogether and killed him quietly, leaving no story to carry.",
+   "principle": "Speak to the audience that will act on your words, in the language they believe.",
+   "in_practice": "When you leave a role or lose a deal, the way you go becomes the story people repeat. Frame your exit in terms your team and clients value, with one clear line that points them at what comes next.",
+   "quote": {
+    "text": "How the little piggies will grunt when they hear how the old boar suffered.",
+    "speaker": "Ragnar Lothbrok",
+    "ep": "S04E15"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "vik-0606"
+   ]
+  },
+  {
+   "title": "The Real Jury Is the Partners",
+   "show": "suits",
+   "category": "REP",
+   "secondary": [
+    "PSY",
+    "POW"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S02E07"
+   ],
+   "strategist": "Jessica Pearson, with the jury consultant Zoe Lawford",
+   "target": "The partners of Pearson Hardman",
+   "context": "Harvey is accused of burying a memo in an old case, and the firm stages a mock trial, supposedly to prepare him. Many partners do not know whether he did it, and if they doubt Harvey they doubt Jessica, which matters because her rival Daniel Hardman may call a leadership vote. Jessica brings in Zoe Lawford, a jury consultant who can read the room.",
+   "play": "Zoe tells Harvey people see him as arrogant, and no jury protects a defendant it does not care about. Jessica then calls Harvey as a hostile witness and tells a story he never shared: as a mailroom clerk he secretly threatened to report the firm to the DA over a backdated filing, so an old woman would not lose her pension. Harvey refuses to say why he did it and invites a contempt ruling, which makes the story look even more genuine. Jessica then calls Louis Litt, Harvey's rival, and gets him to admit that whatever he feels about Harvey, Harvey deserves to be senior partner and did not commit the fraud.",
+   "why_it_works": "The partners are the audience that will decide the coming vote, so the mock trial is really staged for them. Harvey's reluctance makes the story believable, and testimony to his integrity from a known rival carries weight no friend's could.",
+   "outcome": "The partners come round to Harvey. Louis points out in closing that there is no proof of the mailroom story, and Mike notes that both sides cheated, since the real jury would face the opposing lawyer, not Louis.",
+   "counter": "Hardman, presiding, could have limited the character evidence, but he lets it run because he is busy positioning himself to take credit for a settlement.",
+   "principle": "Know which audience a public contest is really being staged for.",
+   "in_practice": "In a board, partner or client dispute, remember that the people watching (other partners, investors, staff) decide the result. Show them something true and human about the person under attack, and let a credible skeptic vouch for them.",
+   "quote": {
+    "text": "Harvey, when you're a defendant, you need the jury to protect you. There's no way they're ever gonna protect you if they don't care about you.",
+    "speaker": "Zoe Lawford",
+    "ep": "S02E07"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1137"
+   ]
+  },
+  {
+   "title": "Own the Worst Version",
+   "show": "billions",
+   "category": "REP",
+   "secondary": [
+    "DEF",
+    "PSY"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S01E09",
+    "S01E08"
+   ],
+   "strategist": "Bobby Axelrod",
+   "target": "His staff, the firefighters of New York and the public",
+   "context": "Bobby Axelrod (Axe) has built his public image on 9/11: the sole surviving partner of his firm, benefactor of the families of firefighters and police. A newspaper has just revealed that he shorted airline and other stocks as the towers fell. His staff have denials drafted, a Forbes interview lined up and a defamation suit recommended, and the firehouses, including his wife Lara's family, are turning on him.",
+   "play": "Axe throws out the denials and the lawsuit, telling his team the story is true and he never lied about it. He then walks into a room of hostile firefighters, says they have every right to their anger, and goes further than the press did: he kept trading after the South Tower was hit, and that is when he stepped on the gas. He explains that the families of his dead colleagues were going to be his responsibility, admits it was cold and maybe wrong, and thanks them for hearing him out.",
+   "why_it_works": "Denying a documented fact only extends the story and makes every defender look complicit. Volunteering something worse than the accusation takes away the reporter's power to reveal more and shows he has nothing left to hide. Facing the most hurt audience in person earns a hearing that no statement can.",
+   "outcome": "The firefighters are not won over in the room, but the story cannot grow through fresh revelations because Axe has already told the worst, and the protest outside Axe Capital fades by the end of the episode.",
+   "counter": "Opponents who rely on a drip of revelations should expect a confession designed to end the drip, and have their next story ready before it comes.",
+   "principle": "If the damaging fact is true, confess it first and confess more than they found.",
+   "in_practice": "When a project goes wrong and the client finds out, give them the whole account in person, including what they have not discovered yet. A partial admission topped up later destroys more trust than the original mistake.",
+   "quote": {
+    "text": "What the papers didn't say is that I kept trading after the South Tower was hit, too. In fact, that's when I stepped on the gas.",
+    "speaker": "Bobby Axelrod",
+    "ep": "S01E09"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "bil-0037"
+   ]
+  },
+  {
+   "title": "Oppo Before Oppo",
+   "show": "billions",
+   "category": "REP",
+   "secondary": [
+    "DEF",
+    "INT"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S02E10"
+   ],
+   "strategist": "George Minchak, a campaign vetter",
+   "target": "Chuck Rhoades, and his future opponents",
+   "context": "Chuck Rhoades wants to run for governor, and the party boss Black Jack Foley insists every candidate is vetted by George Minchak before an unofficial campaign draws attention. Chuck, who is used to controlling information, resists.",
+   "play": "Minchak starts with the public record, then runs Chuck through a rapid list of scandal areas. She presses on his separation from Wendy and says it must be settled before any announcement, because a campaign cannot sell a process. She tells him he cannot micromanage her and demands the secret he is afraid to say out loud. Chuck first claims he took part in a hazing at boarding school; at a second session he admits he was the victim, and two years later swung a bat into the ringleader's face. Minchak says she can present that as a strong stand against bullying.",
+   "why_it_works": "Finding the worst material first lets the campaign choose when and how it becomes public, and with what frame. A secret that surfaces on your schedule is a story; the same fact surfacing a week before the vote is a scandal.",
+   "outcome": "Chuck's worst memory becomes an asset held in reserve. The same discipline pushes him to deal with other exposures before an opponent can find them.",
+   "counter": "The only answer to a well-vetted candidate is to find something he did not disclose, which is exactly the thread Axe vows to hunt for at the end of the season.",
+   "principle": "Do your opposition research on yourself, and release the bad news on your own schedule.",
+   "in_practice": "Before a major pitch, tender or fundraise, list every weakness a skeptical buyer could find (a failed project, a thin reference, a key-person risk) and prepare the honest framing for each. Volunteer the biggest one early.",
+   "quote": {
+    "text": "My goal is to do oppo before they do oppo, so if there is a potential October surprise, we drop it in February during the fucking Super Bowl.",
+    "speaker": "George Minchak",
+    "ep": "S02E10"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "bil-0108"
+   ]
+  },
+  {
+   "title": "Tell It Whole",
+   "show": "suits",
+   "category": "REP",
+   "secondary": [
+    "PSY",
+    "LEAD"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S07E02",
+    "S06E12",
+    "S07E03"
+   ],
+   "strategist": "Mike Ross, advised by Harvey Specter",
+   "target": "The legal clinic's staff, opposing counsel and the public",
+   "context": "Mike Ross practiced law for years without a law degree, went to prison for it, and is now trying to rebuild as a legitimate lawyer. His past follows him: at a legal aid clinic, a student he supervises dismisses him as a corporate lawyer who could not cut it; later, back at his old firm, opposing counsel shows a judge his fake Harvard diploma and his own client starts to doubt him.",
+   "play": "At the clinic, Mike gathers the whole staff, hands out the newspaper stories about his fraud, says every word is true, and explains that he always wanted to be a lawyer to help people like the clinic's clients. His boss had kept it quiet to protect him, but Mike says he would rather have their respect. At the firm, Mike wants to give the case to someone else; Harvey Specter, his mentor, refuses and tells him to find a reporter and take control of the narrative, casting himself as a man fighting for redemption. Mike wins the case, gets the opposing lawyer to admit to a reporter that he never wants to face Mike again, and gives the interview from the bullpen where he started.",
+   "why_it_works": "A half-known secret feeds whatever story people invent; told in full, with the evidence, it is replaced by the teller's motives. An exposed weakness stays a weapon only while you are trying to hide it, and telling it as redemption turns a secret into public record that opponents can no longer spring on you.",
+   "outcome": "The clinic student apologizes and starts working with him. The newspaper story runs and brings Mike his next pro bono client, and opponents lose the surprise they had been counting on.",
+   "counter": "Anyone relying on a secret against you should expect it to go public and plan a second line of attack. For Mike, disclosure worked because he paired it with what he offers now.",
+   "principle": "A weakness stays a weapon only while you are hiding it.",
+   "in_practice": "If your firm has a known failure (a lost client, a project that went badly), raise it with a prospect yourself, in your own words, along with what changed. Clients trust the supplier who discloses more than the one who is found out.",
+   "quote": {
+    "text": "It means you go out, you find a reporter, and you take control of the narrative. Instead of a lying fraud, you're a hero fighting for redemption.",
+    "speaker": "Harvey Specter",
+    "ep": "S07E02"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "sui-1474",
+    "sui-1508"
+   ]
+  },
+  {
+   "title": "Pay Cut Before the Verdict",
+   "show": "suits",
+   "category": "REP",
+   "secondary": [
+    "RISK",
+    "PSY"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S05E09"
+   ],
+   "strategist": "Harvey Specter",
+   "target": "The voting partners of Pearson Specter Litt",
+   "context": "Harvey Specter, the firm's star closer, punched his fellow name partner Louis Litt, and the partners are about to vote on suspending him. The managing partner, Jessica Pearson, has told him to be humble and show no division. The outcome is uncertain.",
+   "play": "Before the secret ballot, Harvey admits outright that he hit Louis and apologizes to the whole partnership, not only to Louis. He explains that his pay mattered to him because of what it said about his place in the firm, and then reframes the firm as a partnership whose members matter more than money. He cuts his own compensation to the median and gives the rest to all the partners to share, and says he is doing it however they vote.",
+   "why_it_works": "An apology that costs something real is believable, and handing the money to every partner changes how the whole room relates to him. Making it unconditional makes it hard to call a bribe and gives undecided partners a respectable reason to vote no.",
+   "outcome": "The vote ties eight to eight and the suspension fails. Jack Soloff, a rival partner, immediately calls the gesture a bribe and persuades enough people that Harvey's win is narrow.",
+   "counter": "Soloff's counter is the obvious one: frame the concession as a transaction. Harvey could have made that harder by announcing the pay cut before the vote was even scheduled.",
+   "principle": "An apology backed by a real, unconditional cost is hard to vote against.",
+   "in_practice": "If you have damaged trust with partners, a client or your team, pair the apology with a concrete concession that does not depend on being forgiven: a waived fee, a perk given up, credit handed over.",
+   "quote": {
+    "text": "So, starting today, I'm reducing my compensation to the median amount, with the rest going to all my partners to share. And I'm doing this regardless of how you vote today.",
+    "speaker": "Harvey Specter",
+    "ep": "S05E09"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "sui-1375"
+   ]
+  },
+  {
+   "title": "The Live Confession",
+   "show": "house-of-cards",
+   "category": "REP",
+   "secondary": [
+    "DEF",
+    "RISK",
+    "PSY"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S02E04",
+    "S02E05"
+   ],
+   "strategist": "Claire Underwood",
+   "target": "The national audience, the interviewer and General Dalton McGinnis",
+   "context": "Claire Underwood, wife of the newly appointed Vice President Frank Underwood, gives a prime-time interview meant to introduce the couple gently. Frank is stuck in quarantine, so she does it alone. The interviewer presses her on why she has no children and raises an old claim that she was pregnant during Frank's campaign.",
+   "play": "Claire gives her rehearsed answer about public service, and the interviewer points out she has used it word for word before. Under pressure she admits, live, that she had an abortion. In the break she tells her press aide she has had three, the latest at sixteen weeks during the campaign. When the interview resumes she says the pregnancy came from a rape at college and names the man: General Dalton McGinnis, whom Frank has just promoted. When a young servicewoman calls in with her own story, Claire persuades her on air to give her name. In the next episode Claire makes sure there are no medical records and learns the doctor is dead.",
+   "why_it_works": "The rape is real, so attaching it to the abortion turns a scandal into a story about courage, and a question she had been avoiding becomes a platform. Naming McGinnis shifts the audience's anger onto him, and recruiting another victim live gives her corroboration and a cause to lead.",
+   "outcome": "The interview is a sensation, Claire becomes a leading voice on sexual assault in the military and a bill follows. But the lie about timing becomes a lasting vulnerability: the Underwoods' press secretary Seth Grayson later finds the real date in the dead doctor's journal.",
+   "counter": "A careful interviewer would have asked for timelines and records. The story depended on nobody checking the date of the pregnancy against the date of the assault, which is exactly what Seth does.",
+   "principle": "Reveal the secret before it is found and you get to name what it means.",
+   "in_practice": "If a failure is going to come out (a missed deadline, a product flaw), announce it first with honest context and a plan. Claire's version is the warning: taking control of the story protects you only if the story will survive someone checking the dates.",
+   "quote": {
+    "text": "But I won't be ashamed. Yes, I was pregnant. And, yes, I had an abortion.",
+    "speaker": "Claire Underwood",
+    "ep": "S02E04"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "hou-0790"
+   ]
+  },
+  {
+   "title": "Make the Story Messy",
+   "show": "house-of-cards",
+   "category": "REP",
+   "secondary": [
+    "DEC",
+    "DEF"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S02E09"
+   ],
+   "strategist": "Claire Underwood",
+   "target": "The press and the public",
+   "context": "A Washington paper prints a photograph of Claire in the bed of Adam Galloway, a photographer she once had an affair with. Frank, now Vice President, tells the President it is her wound to stitch and lets her lead.",
+   "play": "Claire has Adam publicly deny both the affair and taking the picture, and has him email her a copy before destroying it. Then, at her own press conference, she and Frank tell a different story: Adam did take it, as a birthday portrait Frank commissioned, and it hangs in Frank's office. She suggests Adam denied it because the media frightened him. Afterwards she tells a furious Adam that identical stories would have looked coordinated, and asks him to confirm her version and say he lied out of fear.",
+   "why_it_works": "Perfectly matching denials look rehearsed. A small, human inconsistency, with the blame placed on the weaker party's nerves, reads as authentic, and the press turns its attention to his credibility instead of her fidelity.",
+   "outcome": "The story shifts to Adam. He is angry and refuses at first to go along, which forces Claire into a harsher move against him that follows.",
+   "counter": "Reporters could have asked why the Vice President's side waited a day and then contradicted a friend. Adam should have demanded to hear the whole plan before agreeing to any part of it.",
+   "principle": "A story that is too clean looks rehearsed; a little disorder reads as truth.",
+   "in_practice": "When correcting a public mistake, a plain, slightly imperfect explanation from the person responsible lands better than a polished joint statement. That is the honest lesson; using it to cover a lie, as Claire does, destroys trust once it is found out.",
+   "quote": {
+    "text": "If we had the same story, the media would assume we were coordinating. It needed to look messier.",
+    "speaker": "Claire Underwood",
+    "ep": "S02E09"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "hou-0807"
+   ]
+  },
+  {
+   "title": "Burying Francis",
+   "show": "house-of-cards",
+   "category": "REP",
+   "secondary": [
+    "DEF",
+    "RISK"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S06E07",
+    "S06E08"
+   ],
+   "strategist": "Claire Underwood",
+   "target": "Doug Stamper, the Shepherd family and the public",
+   "context": "Claire is now President and Frank is dead. Doug Stamper is leaking lines from Frank's audio diaries, and every story ties Claire to her husband's crimes. The Shepherds, a wealthy donor family trying to control her, are using the same material against her.",
+   "play": "Claire offers a journalist the story of Frank's career from her side. On television she says the country never knew the real Francis, because like all con men he was impossible to know. Then she announces that the Justice Department is investigating Frank for inflating election-day dangers, with a posthumous indictment on the table, and declares that no one is above the law.",
+   "why_it_works": "If your association with someone is the threat, becoming his loudest accuser turns every new revelation into support for your version. Leading the prosecution also makes Doug's leaks look like a grieving man's revenge.",
+   "outcome": "Claire moves from Frank's widow to his judge, and Doug's attacks lose force. It also removes Doug's last reason to protect her, and he comes for her directly.",
+   "counter": "Doug needed corroboration before going public. His leaks came in fragments, which let Claire frame them as the work of a disturbed man.",
+   "principle": "When a partner's past threatens you, become his loudest accuser.",
+   "in_practice": "If a former partner, supplier or product failure is damaging your reputation, name the problem publicly yourself and lead the fix, instead of spending your credibility defending the association.",
+   "quote": {
+    "text": "He was impossible to know, like all con men. He played us all.",
+    "speaker": "Claire Underwood",
+    "ep": "S06E07"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "hou-1017"
+   ]
+  },
+  {
+   "title": "The Troubled Mind",
+   "show": "house-of-cards",
+   "category": "REP",
+   "secondary": [
+    "DEF",
+    "PSY"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S04E05",
+    "S06E06",
+    "S06E08"
+   ],
+   "strategist": "Claire Underwood (with Doug Stamper and Seth Grayson in S04)",
+   "target": "The press, and the witnesses who could expose the Underwoods",
+   "context": "Twice, a document or a witness threatens to connect the Underwoods to murder. In season four, the FBI has logged the notes of Lucas Goodwin, the man who shot Frank, which accuse Frank of killing Congressman Peter Russo and the reporter Zoe Barnes; they cannot be destroyed and will come out. In season six, Doug Stamper, Frank's former chief of staff and the only living witness to his crimes, is talking to journalists.",
+   "play": "In the first case, Claire gives the briefing on Frank's transplant herself, breaks off once as if overcome, then raises Goodwin's notes before anyone else can, quotes their worst words and calls them a sad glimpse into a troubled mind. She asks the press to spare Goodwin's grieving parents by not sensationalizing the words of a sick young man. In the second, she goes to the veteran editor Tom Hammerschmidt's home to tell him Doug is certifiable and newly out of a psychiatric facility, tells the press she pardoned Doug out of compassion because he has had a difficult time, and refuses to depose him because that would give him the forum he wants.",
+   "why_it_works": "Sympathy for the accuser's state of mind makes his claims sound like symptoms, and makes anyone who repeats them look cruel. Releasing the material herself turns a revelation into old news, and refusing a formal forum keeps the witness's account out of any setting where it would carry weight.",
+   "outcome": "In season four the coverage moves on, and even Hammerschmidt advises a younger reporter to let Goodwin's claims go. In season six pundits start calling Doug a troubled man and his leaks lose force, though Hammerschmidt himself keeps pressing for answers.",
+   "counter": "A journalist who separates the source's instability from the claims that can be checked can still investigate. A witness in Doug's position needs independent evidence before going public.",
+   "principle": "Answer an accuser with sympathy for his state of mind, and his facts start to sound like symptoms.",
+   "in_practice": "The useful lesson runs the other way: when a critic, a whistleblower or an unhappy client is dismissed as emotional or difficult, check the facts before you accept the framing.",
+   "quote": {
+    "text": "while they have no basis in reality, they do give us a sad glimpse into a very troubled mind.",
+    "speaker": "Claire Underwood",
+    "ep": "S04E05"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "hou-0903",
+    "hou-1020"
+   ]
+  },
+  {
+   "title": "Innocent Man Freed",
+   "show": "suits",
+   "category": "REP",
+   "secondary": [
+    "LEAD",
+    "DEF"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S06E05",
+    "S06E07",
+    "S06E08"
+   ],
+   "strategist": "Jessica Pearson, prompted by Rachel Zane",
+   "target": "The market's view of Pearson Specter Litt",
+   "context": "The firm has been exposed for employing Mike Ross, a fraud, and clients and recruits are staying away. The Innocence Project drops the case of Leonard Bailey, a man on death row, for lack of new DNA evidence. Rachel Zane, a law student at the firm, keeps it alive by promising the firm's resources, but Jessica first refuses because she has no time.",
+   "play": "After a day of prospective clients asking about the fraud scandal, Jessica changes her mind and takes the case pro bono. She explains that when people search for the firm, she would rather they find an innocent man freed by Pearson Specter than a Manhattan law firm that hired a fraud. Later she tells an old acquaintance that if helping a man get justice also makes her firm look good, so much the better.",
+   "why_it_works": "The surest way to bury a bad story is with a better one that is just as true. A death row exoneration is news, and it speaks directly to the doubt clients have, which is about the firm's ethics.",
+   "outcome": "Jessica becomes lead counsel and wins Leonard more time, but her business-first motive later costs her his trust when he sees himself treated as a PR project.",
+   "counter": "The risk is internal: a client who senses he is a campaign will stop trusting the lawyer, which is what Leonard and the victim's father accuse her of.",
+   "principle": "Answer a reputational wound with a true story that proves the opposite quality.",
+   "in_practice": "After a public mistake, invest in visible work that demonstrates the quality you were accused of lacking, and do it properly for its own sake; a token gesture will be seen through, first by the people it was meant to help.",
+   "quote": {
+    "text": "So from now on, when people Google our name, I'd rather they see, \"innocent man freed by Pearson Specter\" than \"Manhattan law firm hires a fraud.\"",
+    "speaker": "Jessica Pearson",
+    "ep": "S06E05"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1441"
+   ]
+  },
+  {
+   "title": "The Borrowed Voice",
+   "show": "house-of-cards",
+   "category": "REP",
+   "secondary": [
+    "PSY",
+    "LEAD"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S02E11",
+    "S02E08",
+    "S02E12",
+    "S02E13"
+   ],
+   "strategist": "Claire Underwood",
+   "target": "Congress and the public, using Megan Hennessy",
+   "context": "Claire's bill on sexual assault in the military needs a public face, and after the abortion interview and the photograph scandal she is too damaged to be it. Megan Hennessy, the young Marine who accused General McGinnis, is fragile and in treatment, and has already pulled out of testifying before Congress in a panic attack.",
+   "play": "Claire invites Megan to the Underwood home and tells her the voice cannot be Claire's, because she is the baby killer and the cheater; it has to be Megan's. Claire reshapes a New York Times profile to center on Megan, and Megan uses it to call Congresswoman Jackie Sharp's opposition a betrayal, in words Jackie recognizes as Claire's talking points. When the politics shift, Claire drops the bill to win Jackie over and tells Megan it is about political realities.",
+   "why_it_works": "A sympathetic victim carries moral authority no politician has, and forces the other side into the position of attacking her. It lasts only as long as the messenger is protected and the cause is carried through.",
+   "outcome": "Jackie turns it back against Claire and the bill is dropped. Megan calls Claire a coward, and is later found after an apparent suicide attempt, telling Claire that you do not use somebody you care about.",
+   "counter": "Megan's family and doctors could have kept her from being put forward before she was ready. For Claire, the cost to her reputation and her conscience was entirely predictable.",
+   "principle": "A borrowed voice carries moral weight only as long as you protect the person it belongs to.",
+   "in_practice": "Customer stories and advocates are powerful because they are real people with their own stakes. Get genuine consent, look after them, and never drop them quietly when your priorities change; they will tell that story too.",
+   "quote": {
+    "text": "And it can't be my voice, because I'm the baby killer, the cheater. It needs to be your voice.",
+    "speaker": "Claire Underwood",
+    "ep": "S02E11"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "hou-0826"
+   ]
+  },
+  {
+   "title": "The Astroturf Victims",
+   "show": "billions",
+   "category": "REP",
+   "secondary": [
+    "PSY",
+    "RISK"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S02E07",
+    "S02E08",
+    "S02E09"
+   ],
+   "strategist": "Bobby Axelrod, his war room and his wife Lara",
+   "target": "The public, the press and the town of Sandicot",
+   "context": "Axe has bought the municipal bonds of Sandicot, his hometown, and a failed casino deal means the town will default, costing him close to $500 million. The only way to be paid in full is austerity: enforcing terms that put him ahead of teachers' salaries, pensions and the police.",
+   "play": "The war room models every option and finds that selling or restructuring means a nine-figure loss. A PR team prepares an Astroturf campaign, including ads featuring a retired teacher whose pension is at risk, casting the bondholders as victims and the town as the side refusing to negotiate. Lara frames the choice as them or us and suggests returning later with charter schools and outreach worth about $30 million, and taking the tax write-off. Axe orders every asset seized, down to Town Hall and its original Remington bronze.",
+   "why_it_works": "The ad campaign tries to claim the victim role before the town can, and the promised philanthropy is meant to recast a raid as a rebuilding story. His legal right to be paid first makes the pressure irresistible.",
+   "outcome": "Axe is made whole and puts the Remington in his office, but it becomes the most public thing he has ever done. Boyd warns him that if people hate you enough they will find legal grounds to come after you, and Chuck Rhoades turns Sandicot into the platform for his run for governor.",
+   "counter": "The town's leaders could have gone public early with specific human costs, claiming the victim story before Axe's ads ran.",
+   "principle": "Legal is not the same as survivable; the move that makes you the villain hands your enemy a cause.",
+   "in_practice": "Before enforcing a contract to the letter against a struggling client, ask how the story will read to every other client, prospect and regulator who hears it, and whether the money is worth handing a competitor that story.",
+   "quote": {
+    "text": "A spot like this will kick off our Astroturf campaign to make it look like the area's getting a bailout and not a death sentence.",
+    "speaker": "Axe Capital PR adviser",
+    "ep": "S02E07"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "bil-0091"
+   ]
+  },
+  {
+   "title": "Fierce From a Sinking Ship",
+   "show": "suits",
+   "category": "REP",
+   "secondary": [
+    "WAR",
+    "POW"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S05E13"
+   ],
+   "strategist": "Jessica Pearson",
+   "target": "Rival firms, recruits and the legal market",
+   "context": "A damaging op-ed has rival firms circling Pearson Specter Litt's clients, and Harvard is sending it weak applicants. Jack Soloff, a partner, proposes a series of pro bono cases for clients' charities to rebuild the firm's image.",
+   "play": "Jessica rejects the charm offensive: if rivals come after their clients, they will go after the rivals'. She sends Soloff to poach a whole real estate department from another firm at double pay, even though two classes of partner is what destroyed a famous firm before them. At the same time she drops the firm's Harvard-only hiring rule and approaches the top twenty law schools.",
+   "why_it_works": "It fails. A show of aggression reassures the market only if people believe you will survive, and nobody wants to join a ship that is taking on water.",
+   "outcome": "The department laughs at the offer and offers Soloff a job instead. All twenty schools decline, and Louis tells Jessica it is because the firm's leadership is seen as weak.",
+   "counter": "Before projecting strength, fix the thing that makes people doubt you will survive; here that is the pending fraud trial hanging over the firm.",
+   "principle": "A show of strength reassures no one who doubts you will survive.",
+   "in_practice": "In a reputational crisis, bold hiring or loud marketing sounds hollow until the underlying question about your viability is answered. Answer that first, with facts people can check, and the confident moves start to work.",
+   "quote": {
+    "text": "I'm going to kick some ass, and remind them that I'm fierce.",
+    "speaker": "Jessica Pearson",
+    "ep": "S05E13"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1396"
+   ]
+  },
+  {
+   "title": "The False Lagertha",
+   "show": "vikings",
+   "category": "REP",
+   "secondary": [
+    "PSY",
+    "POW"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S05E14",
+    "S05E13"
+   ],
+   "strategist": "Ivar the Boneless",
+   "target": "The people of Kattegat",
+   "context": "Ivar, Ragnar's youngest son, now rules Kattegat and has sworn to kill his stepmother Lagertha, the former queen, who has escaped to England. He has just declared himself a god and wants a sacrifice everyone has heard of to prove it.",
+   "play": "Ivar has a captive woman dressed and presented as Lagertha, with a story to match: a Danish king handed her over after she tried to recruit him against Kattegat, so she is a traitor hungry for power. He sacrifices her in the name of Odin and his fellow gods and makes his brother Hvitserk drink to Lagertha's death.",
+   "why_it_works": "It does not work. A symbolic victory depends on the audience believing the symbol, and many people in Kattegat know Lagertha's face.",
+   "outcome": "The crowd shouts that it is not Lagertha and chants her name and Ragnar's until guards drag people away. The fraud advertises the very weakness it was meant to hide, and Hvitserk tells Ivar to his face that she is alive and he is no god.",
+   "counter": "Ivar's advisers should have told him the crowd knew her. A more modest ritual would have served his claim better than a fake that anyone could check.",
+   "principle": "Never fake a proof in front of people who can check it.",
+   "in_practice": "Never claim a flagship client, a result or a credential that someone in the room can verify is untrue. Being caught once undoes more trust than the claim could ever have built.",
+   "quote": {
+    "text": "You know very well that wasn't Lagertha.",
+    "speaker": "Hvitserk",
+    "ep": "S05E14"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "vik-0652"
+   ]
+  }
+ ]
+}

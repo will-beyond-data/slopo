@@ -1,0 +1,1733 @@
+{
+ "id": "POW",
+ "name": "Seizing & Consolidating Power",
+ "intro_html": "<p>Power in these five shows is rarely taken in one stroke. It changes hands when the people who confer it (a board, a partners' meeting, a royal council, a state senate, a crowd at the assembly in Kattegat) decide who holds it, and most successful seizures are arithmetic done in advance. Kalf takes Hedeby in <i>Vikings</i> without drawing a sword because he has already turned the one faction that wanted Lagertha gone (<b>The Indispensable Steward</b>). Mike Prince in <i>Billions</i> finds a forgotten removal procedure and refuses to pull it until two thirds of the Senate are counted (<b>The Trapdoor Under the AG</b>). Donna in <i>Suits</i> walks into a shouting match with the vote already tallied (<b>The Partner Meeting Coup</b>). The move itself is quick; the work happened before anyone was watching.</p><p>The plays work because incumbents are protected by habit, loyalty and the cost of change, and a patient challenger wears down each of those separately. Tommy Shelby's climb in <i>Peaky Blinders</i> (<b>The Staircase to Kimber's Throne</b>) is a run of small trades, each too modest to alarm Billy Kimber, until the final blow comes from an ally Kimber still thinks is his enemy. Ragnar in <b>Sailing West Against the Earl</b> hands over his plunder so that Earl Haraldson has no pretext to crush him, then fights only when the whole town is watching. Frank Underwood in <i>House of Cards</i> (<b>The Only Beacon</b>) removes every other adviser around President Walker until he is the last trusted voice, and lets Walker choose his own resignation. People defend hard against a visible grab. They rarely defend against a sequence of steps that each look reasonable.</p><p>Taking the chair and keeping it are different skills, and this chapter has as many failures as triumphs. Ivar rules Kattegat through fear and invented enemies, and the woman he wronged opens the gate (<b>The God-King of Kattegat</b>). Michael Gray tries to take Tommy's company with Tommy's own playbook and is read line by line by its author (<b>The Heir Who Wanted the Chair</b>). King Olaf designs an election for his candidate and loses it to the prisoner he freed (<b>The Election Olaf Designed</b>), while Frank, who owns the convention chair and its calendar, gets exactly the result he wanted (<b>Let the Party Choose</b>). Across <i>Suits</i>, Louis Litt and Daniel Hardman keep winning titles with leverage and keep losing them, because status that is extracted is always contested (<b>Louis Litt's Ladder</b>, <b>Hardman's Three Comebacks</b>). And Tommy's refusal to let the Changrettas keep face costs him his wife (<b>No Bricks From the Wall</b>).</p><p>Each show lights a different side of the subject. <i>Vikings</i> is about legitimacy and succession: Jarl Borg's decree that Ragnar is dead, Lagertha's palisades that turn a killing into a civic project, and Wessex converting its raiders into subjects in <b>Making Alfred King</b>. <i>House of Cards</i> treats power as proximity, and the Underwoods reach the Oval Office twice without winning an election (<b>One Chair, Two Underwoods</b>). <i>Suits</i> stages it inside a partnership, where bylaws, compensation formulas and snap votes are the weapons. <i>Billions</i> shows power flowing through patrons and procedure, from Jack Foley's ledger of favors to Chuck Rhoades promoting a blocker out of his way. <i>Peaky Blinders</i> shows an outsider converting muscle into legal standing.</p><p>For anyone running a business, most power contests are about who decides: which buyer, which board seat, which partner signs. The plays that last are the ones where the people who grant power keep choosing you. Louis finally becomes managing partner because Donna makes him the choice everyone can accept, and Ragnar's first act as Earl is to give his dead rival a chieftain's funeral. Count the votes, move while the defenders are distracted, and then spend as much care on keeping the seat as you spent on taking it.</p>",
+ "principles": [
+  "Power changes hands when the people who confer it decide, so count them before you move.",
+  "Climb in steps that each look reasonable, and make the last one depend on something your rival cannot see.",
+  "Whoever owns the process and the calendar owns the outcome; designing the contest without the voters is half a plan.",
+  "The last trusted voice beside a leader holds more power than any title, which is why no leader should have only one.",
+  "Strike when the protector is absent, and make sure your own house has more than one guard.",
+  "After a takeover, give people a story, a shared project and a reason to stay, or the old order will outlive you.",
+  "Fear buys quiet in the square and traitors in the household.",
+  "Status seized with leverage is always contested; status granted as trust is kept.",
+  "Leave a beaten rival a way to keep face, or he will wait for his turn."
+ ],
+ "plays": [
+  {
+   "title": "The Staircase to Kimber's Throne",
+   "show": "peaky-blinders",
+   "secondary": [
+    "LEV",
+    "ALLY",
+    "TIME"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S01E06",
+    "S01E01",
+    "S01E02",
+    "S01E03",
+    "S01E04",
+    "S01E05"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "Billy Kimber (with Inspector Campbell and the Lee family as pieces on the board)",
+   "context": "In 1919 Tommy Shelby's family gang, the Peaky Blinders, runs illegal street betting in Small Heath, Birmingham. Billy Kimber controls the racecourses of the Midlands with far more men, and Inspector Campbell, sent by Churchill, has arrived to crush the gangs and recover a shipment of stolen machine guns. Tommy wants the racetracks and a legal business, and his only bargaining chip is a crate of guns he was never meant to steal.",
+   "play": "Tommy climbs one step at a time, and each step pays for the next. He keeps the guns because the size of the manhunt tells him what they are worth, then trades their eventual return to Campbell for police protection and a clear run at the tracks. He picks a fight with the Lees, a rival Romani family, so that he can offer Kimber a shared enemy, then wins Kimber's trust at Cheltenham by chasing the Lees off Kimber's bookmakers and handing back every penny before pitching a security contract for a cut and legal pitches of his own. Inside Kimber's operation he learns how it works, while quietly ending the Lee war by marrying his brother John to Esme Lee. On 'black star day', the date he marked in his diary weeks before, the Lees take Kimber's Worcester pitches while Tommy fights Kimber's men at the Garrison pub and shoots Kimber himself.",
+   "why_it_works": "No single move is big enough to alarm Kimber, so he never sees the whole design. Each asset (the guns, the Lee feud, the security contract, the marriage) is converted into the access the next step needs, and the ally who delivers the final blow is one Kimber still counts as his enemy.",
+   "outcome": "Kimber is dead and Shelby Brothers Limited becomes the third largest legal racetrack operation in the country. The cost is high: Campbell recovers the guns through Grace, the undercover agent Tommy has fallen for, the date leaks through her, and the battle ends only because Tommy's sister Ada walks into the middle of it.",
+   "counter": "Kimber could have asked why a small gang kept making itself useful to him, and noticed that the Lees stopped being a problem the week John married one. Treating a new partner's enemies as permanent is how he missed the flip.",
+   "principle": "Climb by turning each small asset into the access the next step needs, and make the final move depend on an ally your rival still thinks is his enemy.",
+   "in_practice": "A small firm can win a dominant player's territory by sequence: solve a problem for them, learn how their operation really works, and build the relationships they overlook, all before making the big ask. Keep each step a fair trade and the climb holds when the other side finally sees it.",
+   "quote": {
+    "text": "Shelby Brothers Limited are now the third largest legal race track operation in the country.",
+    "speaker": "Tommy Shelby",
+    "ep": "S01E06"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "pea-A0474"
+   ],
+   "steps": [
+    {
+     "ep": "S01E01",
+     "move": "Tommy hides the stolen guns instead of dumping them, reasoning that the scale of the search shows how much they are worth, and runs a race fix that later draws Kimber's attention."
+    },
+    {
+     "ep": "S01E02",
+     "move": "He tells Campbell he holds the guns, with a dead man's switch to ship them to the IRA if he is arrested, and buys police protection and a clear run at the tracks."
+    },
+    {
+     "ep": "S01E02",
+     "move": "He provokes the Lees at the horse fair, and when Kimber comes to punish him over the fixed race he offers an alliance against the Lees instead."
+    },
+    {
+     "ep": "S01E03",
+     "move": "At Cheltenham the Peaky Blinders chase the Lees off Kimber's bookies, return every penny, and Tommy pitches a security contract for 5% and legal pitches."
+    },
+    {
+     "ep": "S01E04",
+     "move": "Kimber grants the first legal pitch, and Tommy ends the Lee war by marrying John to Esme Lee, quietly turning Kimber's enemy into Shelby kin."
+    },
+    {
+     "ep": "S01E05",
+     "move": "Tommy marks black star day in his diary and tells only Grace; Campbell recovers the guns through Grace, so Tommy's leverage over the police is gone."
+    },
+    {
+     "ep": "S01E06",
+     "move": "Kimber's men attack Small Heath on a leaked tip, the Lees take the Worcester pitches unopposed, and Tommy shoots Kimber at the Garrison."
+    }
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "The Only Beacon",
+   "show": "house-of-cards",
+   "secondary": [
+    "PSY",
+    "DEC",
+    "ALLY"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S02E13",
+    "S02E02",
+    "S02E07",
+    "S02E08",
+    "S02E10",
+    "S02E11",
+    "S02E12"
+   ],
+   "strategist": "Frank and Claire Underwood",
+   "target": "President Garrett Walker",
+   "context": "Frank Underwood has just become Vice President, one step from the presidency with no election in sight for years. President Garrett Walker is weak and indecisive, and he is protected by the people around him: his chief of staff Linda Vasquez, the billionaire adviser Raymond Tusk, and his marriage to Tricia.",
+   "play": "Frank makes himself Walker's confidant by agreeing in meetings and raising doubts at the door, then by absorbing the President's anger and sending him a punching bag as a joke gift. He removes the people around Walker one by one: he talks Walker into accepting Linda's resignation, turns him against Tusk, and has Claire steer Tricia toward a marriage counselor. When a scandal over Chinese money breaks, he argues against a special prosecutor so persuasively that Walker appoints one, then persuades him to hand over his travel logs, which record the counseling visits. Claire's quiet reminder that she knows about Tricia's medication pushes the Walkers to waive privilege, and the coaching of the counselor becomes grounds for impeachment. Frank defends Walker in public while his ally Jackie Sharp whips impeachment votes, writes a false confession to win back Walker's trust just long enough to kill Tusk's pardon, and then gently guides the isolated President to resign.",
+   "why_it_works": "Frank never appears to push. Walker makes every fatal decision himself, on the advice of the one man who seems loyal, and each isolating step looks like Walker's own choice or someone else's betrayal. By the end no honest adviser is left to warn him.",
+   "outcome": "Walker resigns with his approval at eight percent, praises Frank as a friend, and Frank is sworn in as the 46th President without an election. Walker later admits he always suspected, and his testimony in Season 5 helps bring Frank down.",
+   "counter": "Walker's defense was to keep Linda and to judge advice by results: every recommendation Frank made left Walker more exposed. He saw the pattern ('I see calculation') only after the logs were gone. A leader should be most wary of the adviser who has become the only voice left in the room, especially one who would inherit the chair.",
+   "principle": "Isolate the decision-maker, become the last trusted voice, and let them choose their own fall.",
+   "in_practice": "Watch for anyone who steadily becomes the only channel to a leader, and for advice that always arrives framed as 'your decision'. If you lead, keep several independent advisers; if you advise, earn the trusted-voice position by being useful, and never by driving the other voices out.",
+   "quote": {
+    "text": "He's in the darkness now. And I'm the only beacon of light. Now we gently guide him toward the rocks.",
+    "speaker": "Frank Underwood",
+    "ep": "S02E13"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "hou-A1028",
+    "hou-0833"
+   ],
+   "steps": [
+    {
+     "ep": "S02E02",
+     "move": "Frank backs Tusk on the call, then tells Walker privately that the people elected him and never elected Tusk, and Walker takes Durant's hard line."
+    },
+    {
+     "ep": "S02E07",
+     "move": "Frank takes the President's blame, sends a punching bag, and becomes the friend Walker confides in at night."
+    },
+    {
+     "ep": "S02E08",
+     "move": "Frank persuades Walker that refusing Linda's resignation would show he can be leveraged, and Linda leaves; Claire points Tricia to Dr. Larkin."
+    },
+    {
+     "ep": "S02E10",
+     "move": "Frank argues against a special prosecutor so persuasively that Walker appoints one, choosing Heather Dunbar."
+    },
+    {
+     "ep": "S02E11",
+     "move": "Frank owns a small sin before Dunbar and talks Walker into handing over his own travel logs, which include the counseling visits."
+    },
+    {
+     "ep": "S02E12",
+     "move": "Claire reminds Tricia she knows about the medication, the Walkers waive privilege, and the coaching of Larkin becomes grounds for impeachment; Walker cuts Frank off."
+    },
+    {
+     "ep": "S02E12",
+     "move": "Frank defends the President to the press while he and Claire recruit Jackie to whip impeachment votes."
+    },
+    {
+     "ep": "S02E13",
+     "move": "Frank's typewriter letter with a signed false confession makes Walker cancel Tusk's pardon, and Tusk testifies against him."
+    },
+    {
+     "ep": "S02E13",
+     "move": "Frank dangles Treasury in front of Kern, Walker falls to eight percent, and Frank steers him to resign with dignity."
+    }
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "Sailing West Against the Earl",
+   "show": "vikings",
+   "secondary": [
+    "TIME",
+    "RISK",
+    "REP"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S01E06",
+    "S01E01",
+    "S01E02",
+    "S01E03",
+    "S01E04",
+    "S01E05"
+   ],
+   "strategist": "Ragnar Lothbrok",
+   "target": "Earl Haraldson and his monopoly on ships and raiding",
+   "context": "Ragnar Lothbrok is a farmer and raider in Kattegat with an idea his ruler refuses: sail west across the open sea instead of east. Earl Haraldson owns the ships and controls the law at the assembly, and warns Ragnar privately that farms are easy to take from men who embarrass him. Ragnar has no title, no fleet and no legal standing.",
+   "play": "Ragnar builds the capability first and in secret: a sun board and sunstone for navigation, and a new ship from the boatbuilder Floki, paid for with his last silver. He recruits a crew of idle young men with a dare, sails without leave, and comes back rich from the monastery at Lindisfarne. When the Earl confiscates the haul he gives it all up, keeping only the captured monk Athelstan, and then uses Athelstan's knowledge to sell the Earl a second, sanctioned raid in which Ragnar is 'expendable' and the Earl keeps the plunder. When the Earl turns to a rigged murder trial and then open violence, Ragnar survives, hides, and answers with a public challenge to single combat that Haraldson cannot refuse without shame. Once he wins, he consolidates at once: oaths of loyalty, a public vote on an old warrior's request to go raiding, and a chieftain's funeral for his enemy.",
+   "why_it_works": "Ragnar never fights the incumbent on the incumbent's ground until he has something the incumbent cannot take away: proven results, a loyal crew and a reputation. Each concession costs him money but denies Haraldson a pretext, while the capability and the following keep growing. The final move turns a legal and military contest he would lose into an honor contest the whole town is watching.",
+   "outcome": "Ragnar kills Haraldson, is hailed Earl on the spot, and the transfer of power is peaceful. The night before the duel Haraldson admits to his wife Siggy that Ragnar was right about the west all along, and that he could never back him because his own followers would have deserted to Ragnar. The one discordant note is Ragnar's brother Rollo, whose oath holds only 'as long as your good fortune holds'.",
+   "counter": "Haraldson's mistake was suppressing the idea when he could have owned it. Had he sponsored the first voyage, Ragnar would have been his employee; once Ragnar had public success, every attempt to crush him made the Earl look like the obstacle.",
+   "principle": "Build the edge quietly, give up the spoils to deny your rival a pretext, and fight the incumbent only in a contest the crowd will judge.",
+   "in_practice": "When a manager or client blocks a new idea, prove it cheaply on the side, share the credit and proceeds generously, and let results build your constituency before you ask for authority. If you are the incumbent, adopt the better idea early and give its author a role; suppressing it only delays their departure.",
+   "quote": {
+    "text": "Because the moment that I reached out to Ragnar Lothbrok, was the moment that all my friends, all my supporters would have deserted me and joined him.",
+    "speaker": "Earl Haraldson",
+    "ep": "S01E06"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "vik-A0711",
+    "vik-0506"
+   ],
+   "steps": [
+    {
+     "ep": "S01E01",
+     "move": "Ragnar secretly acquires the sun board and sunstone and pays Floki to build a new ship after Haraldson publicly refuses the westward raid."
+    },
+    {
+     "ep": "S01E02",
+     "move": "Ragnar and Rollo recruit a crew at a secret meeting, hold them together through storm and near mutiny, sack Lindisfarne and spare Athelstan."
+    },
+    {
+     "ep": "S01E03",
+     "move": "Ragnar surrenders the haul without protest, chooses Athelstan as his one item, and then sells Haraldson a sanctioned second raid, accepting Knut as the Earl's minder."
+    },
+    {
+     "ep": "S01E04",
+     "move": "Ragnar takes Hexham during Mass; Knut's death gives Haraldson a murder charge, but Lagertha's claim and Rollo's testimony force an acquittal."
+    },
+    {
+     "ep": "S01E05",
+     "move": "Wounded and hiding at Floki's, Ragnar sees that Rollo's torture is bait and answers with a public challenge to single combat, delivered by Floki."
+    },
+    {
+     "ep": "S01E06",
+     "move": "Ragnar kills Haraldson, takes oaths, lets the crowd vote on Tostig's request and gives his enemy a great funeral, making the takeover look lawful and generous."
+    }
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "The Indispensable Steward",
+   "show": "vikings",
+   "secondary": [
+    "DEC",
+    "ALLY",
+    "TIME"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S03E02",
+    "S03E01",
+    "S03E04",
+    "S03E05",
+    "S03E06"
+   ],
+   "strategist": "Kalf",
+   "target": "Lagertha",
+   "context": "Lagertha, the shieldmaiden and former wife of Ragnar Lothbrok, now rules the earldom of Hedeby, and is about to sail to Wessex for a long campaign. Kalf, her trusted right hand, quietly wants the earldom for himself. Her enemy Einar, a nephew of the earl she replaced, is still stirring his family against her.",
+   "play": "Kalf refuses Lagertha's offer to sail with her, saying someone must look after her lands, and turns down her hint of marriage on the grounds that people would think him ambitious. He reports Einar's plotting to her, which makes him look loyal, then confronts Einar privately and turns him: support me as Earl and together we remove the woman who took your uncle's seat. While Lagertha is away he tells the people she only goes raiding with Ragnar, talks to them about farming, and has himself acclaimed Earl, describing it as a peaceful and legal removal of an absent ruler. In Wessex, Lagertha is still telling Ragnar she has left a good man in charge.",
+   "why_it_works": "Kalf builds trust by refusing every reward that would reveal ambition, so his principal leaves him alone with her power base. He then turns her absence into the argument against her, and co-opts the one faction that already wanted her gone, so the coup needs no violence.",
+   "outcome": "Kalf takes Hedeby without a fight, and Lagertha learns of it only when she returns. Ragnar refuses to start a civil war to restore her, and Kalf keeps the earldom and joins the raid on Paris.",
+   "counter": "Lagertha should have left competing lieutenants in place of one man holding all the keys, and treated a subordinate who refuses every reward as a signal worth probing.",
+   "principle": "Whoever guards your house while you are away owns it by the time you come back, unless someone guards the guard.",
+   "in_practice": "When you step away from a client, a team or the business for a long stretch, split control across more than one trusted person and keep direct contact with the people underneath them. The deputy who says he wants nothing deserves the closest look.",
+   "quote": {
+    "text": "Peacefully, legally, we have removed the earl that was never here,",
+    "speaker": "Kalf",
+    "ep": "S03E02"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "vik-0550"
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "Ecbert's Imperial Ladder",
+   "show": "vikings",
+   "secondary": [
+    "ALLY",
+    "DEC",
+    "TIME"
+   ],
+   "scope": "series",
+   "episodes": [
+    "S03E05",
+    "S02E03",
+    "S02E04",
+    "S02E07",
+    "S02E09",
+    "S03E07",
+    "S04E08",
+    "S04E09",
+    "S04E15",
+    "S04E20"
+   ],
+   "strategist": "King Ecbert of Wessex",
+   "target": "The Northmen, King Aelle of Northumbria, the Mercian royals and his own nobles",
+   "context": "King Ecbert of Wessex is one of four English kings, educated in Rome and modeled on Caesar. The Northmen arrive as raiders, but Ecbert sees a force he can use. His goal, as he tells his son Aethelwulf, is to leave his heir the kingdom of England.",
+   "play": "Ecbert lets a minster fall to learn where the raiders will strike, insists on high-value hostages, and meets Ragnar alone in a Roman bath to learn that the Northmen want land. He strikes the camp of Ragnar's ally King Horik the moment the allies split, allies with King Aelle of Northumbria against leaderless Mercia and seals it by marrying Aethelwulf to Aelle's daughter Judith, beats the Northmen with Caesar's trick of hidden cavalry, and then offers generous terms: land, payments and mercenary fees. He uses Ragnar's warriors to put Princess Kwenthrith on the Mercian throne, then lets Aethelwulf destroy the Viking settlement while publicly arresting the nobles who opposed it. He forces Mercia into vassalage, takes its crown with sealed abdication papers, and tells Aelle their alliance of equals is over. When Ragnar returns, Ecbert hands him to Aelle so that Aelle does the killing, and when Ragnar's sons arrive with the Great Army he abdicates to Aethelwulf and grants them land he no longer has the right to give.",
+   "why_it_works": "Ecbert treats every party as an instrument with a use-by date and always keeps a legal or moral cover story (a treaty violation, a rescue, a signed abdication) for moves that are really about power. He wins by making others do the fighting and carry the blame.",
+   "outcome": "Ecbert is crowned King of Wessex and Mercia (S04E09), and Northumbria falls when the Great Army kills Aelle. Then the instrument turns on him: Ragnar designs his own death to aim his sons at Ecbert, the Great Army defeats Wessex, and Ecbert chooses his own death (S04E20). His last abdication keeps the crown in his family and voids the land he gave away.",
+   "counter": "Ragnar saw through him early ('you will rule Mercia through your puppets') but still left the settlement resting on Ecbert's word. Partners of a ruler who admits he has no friends should price every agreement as temporary.",
+   "principle": "Use a dangerous partner as an instrument only while you control the endgame; once he designs it, the instrument becomes the threat.",
+   "in_practice": "Borrowing a partner's capability to win a market is fair, provided you honor the deal. A partner you discard will remember it, so build a position that survives their return and never rely on paperwork to cover a broken promise.",
+   "quote": {
+    "text": "I don't have any friends.",
+    "speaker": "King Ecbert",
+    "ep": "S03E07"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "vik-A0713",
+    "vik-0540",
+    "vik-0565",
+    "vik-0578"
+   ],
+   "steps": [
+    {
+     "ep": "S02E03",
+     "move": "Ecbert leaves Winchester unprotected to discover where the pagans will strike, and sends an envoy to learn their price."
+    },
+    {
+     "ep": "S02E04",
+     "move": "He exchanges his heir as a hostage, meets Ragnar alone in the bath, and learns the Northmen want land; when four ships leave he attacks Horik's camp."
+    },
+    {
+     "ep": "S02E07",
+     "move": "He allies with Aelle against the Northmen and leaderless Mercia, sealing it by marrying Aethelwulf to Aelle's daughter Judith."
+    },
+    {
+     "ep": "S02E09",
+     "move": "He beats the Northmen with hidden cavalry, then offers land, payments and mercenary fees to fight for Kwenthrith in Mercia."
+    },
+    {
+     "ep": "S03E01",
+     "move": "He honors the land grant but adds a new condition: Northmen must fight his Mercian war, while Lagertha and Athelstan stay in Wessex."
+    },
+    {
+     "ep": "S03E05",
+     "move": "He sends Aethelwulf to 'settle disputes', the settlement is massacred, and he publicly arrests the nobles who questioned his rule while privately thanking his son."
+    },
+    {
+     "ep": "S03E07",
+     "move": "He forces the rebellious Kwenthrith to sign Mercia into vassalage and tells Aethelwulf he intends to overthrow Aelle."
+    },
+    {
+     "ep": "S04E08",
+     "move": "After a war framed as a rescue, he shows Kwenthrith sealed documents transferring her throne to him, and keeps Ragnar's reputed son Magnus as future leverage."
+    },
+    {
+     "ep": "S04E09",
+     "move": "He is crowned King of Wessex and Mercia and tells Aelle their alliance of equals is over."
+    },
+    {
+     "ep": "S04E15",
+     "move": "He accepts Ragnar's bargain and hands him to Aelle, like Pontius Pilate, so that Aelle does the killing and takes the blame."
+    },
+    {
+     "ep": "S04E20",
+     "move": "Facing the Great Army, he abdicates to Aethelwulf, sends his family away, and gives the sons of Ragnar a grant of East Anglia he no longer has the right to make."
+    }
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "One Chair, Two Underwoods",
+   "show": "house-of-cards",
+   "secondary": [
+    "ALLY",
+    "TIME",
+    "LEV"
+   ],
+   "scope": "series",
+   "episodes": [
+    "S04E03",
+    "S01E09",
+    "S02E04",
+    "S03E02",
+    "S03E13",
+    "S04E04",
+    "S04E06",
+    "S04E10",
+    "S05E05",
+    "S05E13"
+   ],
+   "strategist": "Claire Underwood",
+   "target": "Frank Underwood and the offices he controls, from the House to the Oval Office",
+   "context": "Claire Underwood begins the series running a clean-water charity and married to Frank Underwood, the House Majority Whip. She is his equal partner in private and his accessory in public. Every office she wants is one that Frank controls or occupies, and he treats her ambitions as secondary to his own.",
+   "play": "Claire first shows she will act on her own agenda, quietly releasing two votes on Frank's watershed bill in return for her charity's water filters. She builds a public voice of her own with a live television confession about an abortion and a rape. In Season 3 she makes Frank give her the UN ambassadorship by recess appointment, and runs her own diplomacy until Frank sacrifices her to the Russian president. She leaves him, tries for her own House seat, and when he blocks it she wrecks his home-state primary and demands to be his running mate. After Frank is shot she governs through the anxious acting president, Donald Blythe: she hands him Frank's own maxim to justify a bold choice, sits in on his calls, and closes the Russia deal herself, telling Frank's chief of staff Doug Stamper it is 'the acting president's plan'. She returns only as an equal, wins the vice presidential nomination at the convention, is chosen Vice President by the Senate, and when Frank resigns to make her President in return for a pardon, she clears out his people, sends him away, and leaves the pardon unsigned.",
+   "why_it_works": "Claire repeatedly proves her value at the moment Frank is weakest (his lost primary, his surgery, his impeachment), so each concession she extracts looks to him like a necessity. She has also watched his methods for decades and uses them on him.",
+   "outcome": "Claire becomes Vice President and then President, and ends Season 5 with Frank outside the White House waiting on a pardon she never gives. She tells the audience it is her turn.",
+   "counter": "Frank believed the office had one chair and that it was his. Each time he sacrificed Claire's position (the UN post, her House seat), he taught her to build power that did not depend on him, and in the end he gave up his office before he held the pardon.",
+   "principle": "Prove your value when your partner is weakest, and ask for the seat then.",
+   "in_practice": "In a partnership, the best time to renegotiate your role is when your contribution is most visible and hardest to replace, and the ask should be stated openly. If you are the senior partner, share credit and authority before your junior partner has to take them.",
+   "quote": {
+    "text": "It's part of the acting president's plan.",
+    "speaker": "Claire Underwood",
+    "ep": "S04E04"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "hou-A1031",
+    "hou-0901",
+    "hou-0992"
+   ],
+   "steps": [
+    {
+     "ep": "S01E09",
+     "move": "Claire quietly tells two congressmen they may vote no on Frank's watershed bill in return for Remy freeing her water filters."
+    },
+    {
+     "ep": "S02E01",
+     "move": "She crushes Gillian's lawsuit, hands her the CWI and cancels her own fertility plans to become Second Lady."
+    },
+    {
+     "ep": "S02E04",
+     "move": "On live television she admits an abortion and names General McGinnis as her rapist, gaining a national voice of her own."
+    },
+    {
+     "ep": "S03E02",
+     "move": "Rejected by the Senate for UN ambassador, she makes Frank give her a recess appointment."
+    },
+    {
+     "ep": "S03E10",
+     "move": "Frank accepts Petrov's demand that she resign, and she concludes their partnership only makes him stronger."
+    },
+    {
+     "ep": "S03E13",
+     "move": "Told the office has one chair, she tells Frank she is leaving him."
+    },
+    {
+     "ep": "S04E03",
+     "move": "After Frank kills her House race on live television, she wrecks his South Carolina primary with the billboard and demands the vice presidency."
+    },
+    {
+     "ep": "S04E06",
+     "move": "With Frank in surgery she runs policy through acting president Blythe, closes the Petrov deal, and says she will return only as an equal."
+    },
+    {
+     "ep": "S04E10",
+     "move": "An engineered convention draft and her speech after her mother's death win her the vice presidential nomination."
+    },
+    {
+     "ep": "S05E05",
+     "move": "With the House deadlocked, she wins the Senate's vote for vice president by hinting she is separate from Frank, and becomes acting president."
+    },
+    {
+     "ep": "S05E13",
+     "move": "Frank resigns to make her president on condition of a pardon; she sends him away and leaves the pardon out."
+    },
+    {
+     "ep": "S06E05",
+     "move": "Governing alone, she fires her entire Cabinet when it moves to remove her and installs an all-female Cabinet of her own."
+    }
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "Unseating the Kingmaker",
+   "show": "house-of-cards",
+   "secondary": [
+    "WAR",
+    "LEV",
+    "DEC"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S02E06",
+    "S01E13",
+    "S02E02",
+    "S02E05",
+    "S02E08",
+    "S02E10",
+    "S02E12",
+    "S02E13"
+   ],
+   "strategist": "Frank Underwood",
+   "target": "Raymond Tusk, billionaire and President Walker's private adviser",
+   "context": "Frank Underwood owes his vice presidency partly to the recommendation of Raymond Tusk, a nuclear-energy billionaire and President Walker's most trusted private adviser for decades. As long as Tusk has Walker's ear, Frank cannot steer the President. Tusk also has far more money and patience than Frank.",
+   "play": "Frank never attacks Tusk in front of Walker. He agrees with Tusk in meetings and then quietly stiffens the President against him, first over Chinese cyber attacks. He sabotages Tusk's back channel to the Chinese businessman Xander Feng, and Walker hangs up on Tusk for the first time in twenty years. When a Chinese export ban sends energy prices soaring and Tusk tries to force his way back into the trade talks, Frank climbs a ladder of threats that cost him little: a subsidy that halves Tusk's margin, an antitrust amendment he never needs to pass, a price-fixing review that would open Tusk's books, and finally the seizure of his power plants. When Tusk hits back by routing Chinese money into Republican super PACs, Frank buys Feng away with a bridge contract, kills the Tusk-Feng refinery, and leaks the money scheme to a reporter so the scandal lands on Walker and Tusk. At the end he outbids Walker's offer of a pardon, and Tusk testifies against the President.",
+   "why_it_works": "Tusk's power was private access and money. Frank fought with public office (regulation, the press, prosecutors), where authority beats wealth, and kept every blow deniable, so Walker saw Tusk as the problem and Frank as the loyal adviser.",
+   "outcome": "Tusk loses Walker, his lobbyist Remy Danton, Feng and the refinery, and ends by testifying that the President knew about the money, which completes Walker's impeachment. His retaliation costs Frank dearly along the way, and the pardon later gives Claire a lever over Tusk.",
+   "counter": "Tusk trusted that Walker's loyalty was personal and permanent. A kingmaker who works only in private should keep a public position of his own, and should have treated Frank as a rival the day Frank refused his blank check.",
+   "principle": "Against someone with more money, fight on ground where authority beats wealth, and never let the principal see you swing.",
+   "in_practice": "If a bigger competitor has your client's ear, do not criticize them to the client. Out-serve them, let their own demands expose their self-interest, and compete on standards, commitments and trust that money cannot buy.",
+   "quote": {
+    "text": "You may have all the money, Raymond, but I have all the men with guns.",
+    "speaker": "Frank Underwood",
+    "ep": "S02E06"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "hou-A1027",
+    "hou-0794"
+   ],
+   "steps": [
+    {
+     "ep": "S01E13",
+     "move": "Frank refuses Tusk's blank check and accepts the vice presidency on terms of mutual loyalty, leaving the debt undefined."
+    },
+    {
+     "ep": "S02E02",
+     "move": "He sides with Tusk in the room, then nudges Durant to force the cyber issue on China and stiffens Walker, who defies Tusk in public."
+    },
+    {
+     "ep": "S02E05",
+     "move": "He starves the Feng back channel, meets Feng in secret, and turns Walker's anger on Tusk, who is hung up on for the first time in twenty years."
+    },
+    {
+     "ep": "S02E06",
+     "move": "He climbs an escalation ladder of samarium subsidies, antitrust and FERC threats and a threatened plant seizure: 'all the men with guns'."
+    },
+    {
+     "ep": "S02E07",
+     "move": "Tusk counterattacks with Chinese money through Lanagin's casino; Frank traces it and keeps it from the President while Lanagin rejects his offer."
+    },
+    {
+     "ep": "S02E08",
+     "move": "Frank buys Feng away with the Port Jefferson bridge, and Feng kills his refinery venture with Tusk."
+    },
+    {
+     "ep": "S02E09",
+     "move": "Tusk retaliates with the Galloway photo and Freddy's criminal record, and Frank vows to make him suffer."
+    },
+    {
+     "ep": "S02E10",
+     "move": "Frank leaks the casino money through Ayla Sayyad so the scandal lands on Walker and Tusk rather than on him."
+    },
+    {
+     "ep": "S02E12",
+     "move": "Seth reports Remy's church meeting with Frank, and Tusk throws out his best operative."
+    },
+    {
+     "ep": "S02E13",
+     "move": "Frank outbids Walker's pardon offer at the opera; once Walker withdraws the pardon, Tusk testifies against the President."
+    }
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "The Kingmaker's Ledger",
+   "show": "billions",
+   "secondary": [
+    "LEV",
+    "ALLY",
+    "DEF"
+   ],
+   "scope": "series",
+   "episodes": [
+    "S03E08",
+    "S02E06",
+    "S02E07",
+    "S02E08",
+    "S02E09",
+    "S02E12",
+    "S03E01",
+    "S03E04",
+    "S04E04"
+   ],
+   "strategist": "Black Jack Foley, answered in the end by Chuck Rhoades",
+   "target": "Chuck Rhoades and Charles Rhoades Sr. (with Bobby Axelrod as collateral damage)",
+   "context": "Jack Foley is the Albany power broker whose money has elected three of the last four governors of New York. Charles Rhoades Sr. wants his son Chuck, the US Attorney, in the governor's mansion, and wants a quiet blow struck against the hedge fund billionaire Bobby 'Axe' Axelrod. Foley wants a candidate he owns, and every favor he grants the Rhoades family goes into a ledger he expects to collect.",
+   "play": "Foley's first entry is a favor to Chuck Sr.: he moves a casino license away from the town of Sandicot, leaving Axe holding the town's debt. He sets Chuck an entry fee, a clerkship for his granddaughter; when the judge refuses to hire her, Foley backs a rival, Bob Sweeney, until Chuck destroys Sweeney with opposition research and asks in Foley's library, 'Will you make me governor?' From then on Foley collects: total disclosure to his vetter, a shut-down of Chuck's own office's bribery case, proof that Chuck Sr. misused his son's trust, and pressure on the old man's land deal when Chuck needs his father's statement. In S03E08 Foley overplays it, barging into a private session to order Chuck to resign and run under his management. Chuck answers with leverage of his own: he reconciles with Sweeney, learns of Foley's substandard steel scheme, has the supplier arrested in front of Foley, sets new terms, and endorses Sweeney himself.",
+   "why_it_works": "Foley gives first and names the price only once the recipient is committed. Each favor leaves a trace he can use, and a candidate who owes everything cannot refuse instructions. The system breaks when he turns private ownership into public humiliation, because a man shown that he is owned starts looking for leverage of his own.",
+   "outcome": "For a season and a half Foley shapes Chuck's choices. After the steel bust he submits and vows revenge; dying, he prepares to expose Chuck's private sex life before the Attorney General election in S04E04, and Chuck defuses it by confessing publicly first, and wins.",
+   "counter": "Chuck could have refused the first debt, or at least asked what Foley had already done for his father. The defense he finds late is the right one: hold something on your patron before your patron needs to prove he owns you.",
+   "principle": "A patron who gives first owns you until he humiliates you; after that, your only question is where his own ledger is weakest.",
+   "in_practice": "Be wary of sponsors, investors or partners who do favors you never asked for; ask what each one will cost later and keep your independence visible. If you are the patron, never make the people who depend on you feel owned in front of others.",
+   "quote": {
+    "text": "Yes, I torpedoed Axelrod at your behest, and while Chuck may not know that, he does know that I was planning to help him in Albany.",
+    "speaker": "Black Jack Foley",
+    "ep": "S02E08"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "bil-A0310",
+    "bil-0094",
+    "bil-0099"
+   ],
+   "steps": [
+    {
+     "ep": "S02E06",
+     "move": "Chuck Sr. has investigators trail Axe's lieutenants to Sandicot and asks Foley whether the casino has to go there; the license goes elsewhere and Axe is left exposed."
+    },
+    {
+     "ep": "S02E07",
+     "move": "Senior tells Chuck he must first be anointed by Foley, and that the entry fee is a clerkship for Foley's granddaughter; the judge refuses to hire her."
+    },
+    {
+     "ep": "S02E08",
+     "move": "Foley backs Sweeney instead; Chuck forces Sweeney out with Ira's oppo research, Foley anoints him, and Foley reminds Senior that Sandicot was a favor Chuck can never know about."
+    },
+    {
+     "ep": "S02E09",
+     "move": "Connerty's Sandicot bribery case runs into Thayer's 'umbrella', Senior explains that Sandicot is a circle, and Chuck shuts his own office's investigation down."
+    },
+    {
+     "ep": "S02E10",
+     "move": "Foley's vetter Minchak extracts Chuck's darkest secret and stores it as an anti-bullying story for later."
+    },
+    {
+     "ep": "S02E12",
+     "move": "Minchak demands total disclosure, so Chuck has his father sign an affidavit taking the blame for the blind trust."
+    },
+    {
+     "ep": "S03E01",
+     "move": "When Senior tries to pull his backing, Foley shows him proof that he used Chuck's money without consent, binding father and son to Foley together."
+    },
+    {
+     "ep": "S03E04",
+     "move": "At Chuck's request Foley has state senator Scolari threaten Senior's Kingsford land, and Senior gives Connerty a statement that clears Chuck."
+    },
+    {
+     "ep": "S03E08",
+     "move": "Foley's 'object lesson' orders Chuck to resign and run on Foley's terms; Chuck gets Foley's steel scheme from Sweeney, busts the supplier in front of him, takes command, then endorses Sweeney."
+    },
+    {
+     "ep": "S04E04",
+     "move": "The dying Foley prepares to expose Chuck's BDSM life before the election; Chuck abandons his script, confesses it himself and wins."
+    }
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "Making Alfred King",
+   "show": "vikings",
+   "secondary": [
+    "ALLY",
+    "TIME",
+    "LEAD"
+   ],
+   "scope": "series",
+   "episodes": [
+    "S05E09",
+    "S03E06",
+    "S04E17",
+    "S05E12",
+    "S05E13",
+    "S05E15",
+    "S05E16",
+    "S05E19",
+    "S06E20"
+   ],
+   "strategist": "King Ecbert, then Queen Judith and King Alfred",
+   "target": "Rival heirs and conspirators in Wessex, and the Northmen",
+   "context": "Alfred is Judith's son by the monk Athelstan: sickly, bookish and no warrior, with an older half-brother, Aethelred, who fits the Saxon idea of a king. His grandfather Ecbert marks him as the future from birth. After King Aethelwulf's sudden death, Judith and Alfred must put the boy on the throne and hold it against the Church, the nobles and the Northmen.",
+   "play": "Ecbert saves Judith and the baby by recasting her adultery as divine choice, sends Alfred to Rome where the Pope singles him out, and teaches him never to let anyone steer his thinking, including Ecbert. When the throne falls empty, Judith has Aethelred refuse the crown and buys the doubtful Lord Cuthred with the bishopric of Sherborne, so the witan (the royal council) acclaims Alfred. Alfred then turns enemies into subjects: he gives Lagertha's band of exiles refuge only in return for proven service in battle, persuades Ragnar's son Ubbe to be baptized, and keeps his promise of land in East Anglia after they win. In a single council meeting he restores a popular bishop, announces his own marriage and presents Ubbe's baptism, pairing what his opponents want with what they will resist. He lets a conspiracy around Aethelred reveal itself before arresting it at a public ceremony; Judith tortures the ringleader for names and poisons her own son. Against Ivar's last invasion Alfred abandons his villa to keep his army intact and wins the war.",
+   "why_it_works": "Wessex cannot out-fight the Northmen, so it converts them: land in return for service, and baptism as the price of belonging. Inside the court, Judith and Alfred let opponents commit to open action before striking, so every purge looks like a response to treason.",
+   "outcome": "Alfred takes the throne (S05E09), survives two conspiracies, gains a Christianized Viking buffer in East Anglia, and wins the final war (S06E20). The price includes Aethelred's murder by his own mother and Ubbe's private return to the old gods.",
+   "counter": "Aethelred's faction needed to move before Alfred's alliances were in place; their plan hung on a signal from Aethelred, the man least willing to give it, and waiting lost them everything.",
+   "principle": "If you cannot beat the newcomers, give them a stake in your order, and make them earn it first.",
+   "in_practice": "When an aggressive competitor keeps raiding your market or your team, consider bringing them inside on conditions (a partnership, a role with clear obligations), then deliver your side of the bargain so the loyalty holds.",
+   "quote": {
+    "text": "But first you must demonstrate your worth and your loyalty to our cause, in battle.",
+    "speaker": "King Alfred",
+    "ep": "S05E12"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "vik-A0722",
+    "vik-0642",
+    "vik-0649",
+    "vik-0656",
+    "vik-0657"
+   ],
+   "steps": [
+    {
+     "ep": "S03E06",
+     "move": "Ecbert halts Judith's punishment, calls the child divinely chosen and names him Alfred."
+    },
+    {
+     "ep": "S04E06",
+     "move": "Ecbert sends Alfred on pilgrimage to Rome with Aethelwulf as escort; the Pope later singles the boy out."
+    },
+    {
+     "ep": "S04E17",
+     "move": "Ecbert drinks water while Alfred drinks wine, teaching him never to let others, even Ecbert, steer his thoughts."
+    },
+    {
+     "ep": "S05E08",
+     "move": "Alfred argues for a navy to stop the raiders at sea and for teaching in English."
+    },
+    {
+     "ep": "S05E09",
+     "move": "After Aethelwulf's death, Judith has Aethelred refuse the crown and buys Cuthred with Sherborne, and the witan acclaims Alfred."
+    },
+    {
+     "ep": "S05E12",
+     "move": "Alfred shelters Lagertha's party on condition of proven service in battle and asks Ubbe privately to be baptized."
+    },
+    {
+     "ep": "S05E13",
+     "move": "In one Witan he restores Heahmund, announces his marriage to Elsewith and presents Ubbe and Torvi's baptism."
+    },
+    {
+     "ep": "S05E15",
+     "move": "He arrests Cyneheard as the army marches, Judith tortures him for names, and Wessex beats Harald with the Vikings' help."
+    },
+    {
+     "ep": "S05E16",
+     "move": "Alfred seals the East Anglia grant and arrests the conspirators at the same ceremony; Judith poisons Aethelred."
+    },
+    {
+     "ep": "S05E19",
+     "move": "Ubbe wins over the Danish kings and three thousand Danes join the East Anglia settlement under Alfred's blessing."
+    },
+    {
+     "ep": "S06E17",
+     "move": "Facing Ivar and Harald, Alfred abandons the royal villa as only property and keeps his army intact."
+    },
+    {
+     "ep": "S06E20",
+     "move": "Alfred refuses Ivar's insincere parley, wins the final battle, and baptizes Hvitserk as Athelstan."
+    }
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "Hardman's Three Comebacks",
+   "show": "suits",
+   "secondary": [
+    "ALLY",
+    "RULE",
+    "LEV"
+   ],
+   "scope": "series",
+   "episodes": [
+    "S02E10",
+    "S02E01",
+    "S02E04",
+    "S02E07",
+    "S02E08",
+    "S02E09",
+    "S02E15",
+    "S05E06",
+    "S05E09",
+    "S05E10",
+    "S08E16"
+   ],
+   "strategist": "Daniel Hardman (countered by Jessica Pearson and Harvey Specter)",
+   "target": "Jessica Pearson and control of the firm he co-founded",
+   "context": "Daniel Hardman co-founded the New York law firm with Jessica Pearson. Five years before the series, her star lawyer Harvey Specter forced him out over an affair and money taken from client escrow accounts. His wife's death removes Harvey's leverage, and Hardman spends the rest of the series trying to get his power and his name back.",
+   "play": "Each return uses a different lever. In Season 2 he removes Harvey's threat by confessing the embezzlement to the whole firm while hiding the affair. He builds a base with perks and flattery aimed at the associates and at Louis Litt, the partner Harvey treats with contempt. Through Louis's stray recording he catches Jessica and Harvey hiding a lawsuit and forces his way into the defense, settles it with dirt from the opposing lawyer's files at a cost of $100,000 per partner, and immediately calls a vote on Jessica's leadership. He wins it by moving one of her loyalists into a Justice Department job and quietly naming Louis senior partner days before the vote. Voted out, he returns in Season 5 through a proxy, the ambitious partner Jack Soloff, then offers a billion-dollar client in return for readmission and, when refused, turns that client into a raider of the firm's own. In Season 8 he takes a disgruntled client's lawsuit for free and uses it to force an ethics hearing against Harvey.",
+   "why_it_works": "Hardman fights a stronger incumbent through the institution's own machinery (votes, bylaws, confidentiality agreements, clients) and through people with a grievance. His opening confession is his best idea: a threat you disclose yourself can no longer be used against you.",
+   "outcome": "Every comeback fails the same way, because his opponents find the hidden thing that powers it. Harvey exposes a planted memo and the partners vote Hardman out (S02E10), Harvey traces his money to a disgraced financier in prison (S05E10), and a colleague takes the blame so the ethics hearing has no target (S08E16).",
+   "counter": "Jessica and Harvey's rule against him was to find the concealed piece (the affair, the planted memo, the funder) and put it in front of the people voting. Each of Hardman's plans depended on a secret he could not afford to have revealed.",
+   "principle": "A sin you disclose cannot be used against you, but a backer you hide can; find what powers a comeback and cut it off.",
+   "in_practice": "When a former partner or competitor keeps returning with new leverage, look past each offer to who is funding or enabling it; removing the enabler ends the campaign faster than answering every attack. And if you have a weakness someone could use, disclose it on your own terms first.",
+   "quote": {
+    "text": "But don't kid yourself that this is the last page of the story.",
+    "speaker": "Daniel Hardman",
+    "ep": "S02E10"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "sui-A1692",
+    "sui-1115",
+    "sui-1126",
+    "sui-1138",
+    "sui-1144",
+    "sui-1145",
+    "sui-1364"
+   ],
+   "steps": [
+    {
+     "ep": "S02E01",
+     "move": "With his wife dead, Hardman defuses Harvey's threat by confessing the embezzlement to the whole firm and returns as number two."
+    },
+    {
+     "ep": "S02E04",
+     "move": "Tipped off through Louis's recording, he catches Jessica and Harvey hiding Tanner's suit and forces a joint defense."
+    },
+    {
+     "ep": "S02E07",
+     "move": "He settles the Tanner suit with dirt from Tanner's files, charges each partner $100,000, and immediately calls a vote on Jessica's leadership."
+    },
+    {
+     "ep": "S02E08",
+     "move": "Jessica and Harvey leak his affair with Monica Eton through Mike while Jessica publicly disowns the move."
+    },
+    {
+     "ep": "S02E09",
+     "move": "He erases Jessica's one-vote lead by placing her ally Hanson at the Justice Department and quietly making Louis senior partner, and wins the vote."
+    },
+    {
+     "ep": "S02E10",
+     "move": "Harvey locks him into a flat denial about the Coastal Motors memo and produces an affidavit; the partners vote him out and he signs Jessica's confidentiality deal."
+    },
+    {
+     "ep": "S02E14",
+     "move": "He turns that agreement into a gag in Monica Eton's wrongful termination suit against the firm."
+    },
+    {
+     "ep": "S02E15",
+     "move": "Jessica shows Edward Darby the firm's books so Darby finds the embezzlement and can warn Hardman's client."
+    },
+    {
+     "ep": "S05E06",
+     "move": "Now advising Jack Soloff, he supplies the Fletcher Engines idea that forces Jessica to choose between revenue and Harvey's first client."
+    },
+    {
+     "ep": "S05E09",
+     "move": "Refused readmission, he launches bids on the firm's clients and threatens Esther Litt's company to swing a no-confidence vote."
+    },
+    {
+     "ep": "S05E10",
+     "move": "Harvey traces the money to Forstman in prison and arrives at the vote with the letter firing Hardman; Jessica survives with only Soloff against her."
+    },
+    {
+     "ep": "S08E16",
+     "move": "His lawsuit for Simon Lowe is settled out from under him, so he forces an ethics hearing; Robert Zane takes the blame and retires."
+    }
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "The Cripple Who Took the Army",
+   "show": "vikings",
+   "secondary": [
+    "WAR",
+    "PSY",
+    "LEAD"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S05E03",
+    "S04E19",
+    "S04E20",
+    "S05E01",
+    "S05E05",
+    "S05E06",
+    "S05E08",
+    "S05E10"
+   ],
+   "strategist": "Ivar the Boneless",
+   "target": "His brothers, the Saxons, and Lagertha's Kattegat",
+   "context": "Ivar the Boneless is Ragnar Lothbrok's youngest son, born with brittle legs and underestimated by everyone; Ragnar's last lesson to him was to make them pay for it. Inside the Great Army that Ragnar's sons raise to avenge him, Bjorn commands and Ubbe negotiates. Ivar has only his claim to have been chosen by his father and a gift for tactics.",
+   "play": "Ivar claims to be Ragnar's chosen son and backs the claim with results: the plan that beats the Saxon army. He speaks over his brothers' heads to the warriors ('Who wants to be a farmer now?'). He calls the move to York 'only tactical', builds a personal bodyguard, and lets the Saxons in through unguarded Roman walls into a prepared defense. After Ubbe's peace mission fails, he demands command in front of the army and the warriors stay with him. He fakes a dying town, hides his men in Roman tunnels and ambushes the Saxons at Mass. He allies with King Harald on a succession promise he privately calls 'just words', and after losing the first battle for Kattegat he returns with new allies and takes the town.",
+   "why_it_works": "Ivar converts each tactical win into a claim on leadership, and each of his brothers' setbacks into proof that caution is weakness. Enemies who expect a frontal Viking attack keep walking into traps built on doing the unexpected.",
+   "outcome": "Ivar becomes sole leader of the Great Army (S05E03), wins twice at York, and takes Kattegat as king (S05E10). The cost is his family: his brother Sigurd dead by his hand, Ubbe driven to Lagertha's side, Bjorn his enemy. His one defeat (S05E08) comes from the same cleverness, when he holds back a third of his army too long.",
+   "counter": "Bjorn's counter works: choose ground Ivar has not scouted and threaten his ships, so that his need to out-think the enemy makes him hesitate. Opponents who assumed his body limited his mind lost every time.",
+   "principle": "Let each result argue for your authority, and make your rivals' caution look like weakness.",
+   "in_practice": "If you are underrated inside an organization, arguing for a bigger role rarely works; deliver visible wins and then ask for the role in front of the people who saw them. Take care that the win does not cost you the colleagues you will need next year.",
+   "quote": {
+    "text": "They will expect us to fight in a certain way. Why should we do that?",
+    "speaker": "Ivar",
+    "ep": "S04E19"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "vik-A0718",
+    "vik-0614",
+    "vik-0618",
+    "vik-0623"
+   ],
+   "steps": [
+    {
+     "ep": "S04E19",
+     "move": "Ivar claims Ragnar chose him and designs the stretched-battlefield plan that beats the Saxons."
+    },
+    {
+     "ep": "S04E20",
+     "move": "He calls on the warriors over his brothers' heads to raid instead of farm, and kills Sigurd when mocked."
+    },
+    {
+     "ep": "S05E01",
+     "move": "He wins Hvitserk's vote to move north, calling it only tactical, and the brothers take York on a feast day."
+    },
+    {
+     "ep": "S05E03",
+     "move": "The Saxons enter through the Roman walls into his prepared defense; after Ubbe's failed peace mission Ivar demands command and the warriors stay with him."
+    },
+    {
+     "ep": "S05E05",
+     "move": "Having faked a dying town and hidden in the tunnels, his men ambush the Saxons at Mass and capture Heahmund."
+    },
+    {
+     "ep": "S05E06",
+     "move": "He allies with Harald on a succession promise he privately calls just words, and turns Heahmund into a fighter for him."
+    },
+    {
+     "ep": "S05E08",
+     "move": "After his 'joke' parley, he holds back a third of his army to guard the ships, commits it too late, and loses the first battle."
+    },
+    {
+     "ep": "S05E09",
+     "move": "Hvitserk secures a Frankish army from Rollo, and Ivar reads Bjorn's second parley as fear of defeat."
+    },
+    {
+     "ep": "S05E10",
+     "move": "Ivar and Harald overwhelm Lagertha's side and take Kattegat."
+    }
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "The God-King of Kattegat",
+   "show": "vikings",
+   "secondary": [
+    "PSY",
+    "REP",
+    "LEAD"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S05E17",
+    "S05E11",
+    "S05E13",
+    "S05E14",
+    "S05E18",
+    "S05E20"
+   ],
+   "strategist": "Ivar the Boneless (with Freydis)",
+   "target": "The people of Kattegat and anyone who might oppose him",
+   "context": "Ivar has taken Kattegat but feels hollow while Lagertha lives, and fears assassination every day. Freydis, a freed slave, tells him the gods have marked him out. He rules a town that remembers Ragnar and Lagertha with affection.",
+   "play": "Ivar adopts Freydis's story and declares himself a god, so that dissent becomes blasphemy. He stages the sacrifice of a woman presented as Lagertha, hangs accused rebels, kills the Seer after an unflattering prophecy, and then publicly vows to find the killer. He ends free votes and tells the crowd that enemies hide among them, even a neighbor or a son. He holds his brother Hvitserk's lover Thora hostage to control him, then burns her anyway. When his campaign in England collapses, he recasts staying home as strengthening the town's defenses.",
+   "why_it_works": "In the short term fear and spectacle work: the crowd chants his name and open opposition disappears. Declaring an enemy within turns every citizen into a potential informer and keeps attention on internal threats instead of on the ruler.",
+   "outcome": "It collapses from inside. The crowd sees through the false Lagertha, Hvitserk defects and brings an enemy army, and Freydis, whose deformed child Ivar abandoned, opens Ivar's own secret escape passage to his brother Bjorn. Kattegat falls (S05E20) and Ivar flees.",
+   "counter": "The attackers only had to find the one insider Ivar had betrayed; a regime that punishes loyalty and kills messengers produces such people. The ruler's defense would have been to keep even a few people who could safely tell him the truth.",
+   "principle": "Rule by fear buys quiet in the square and traitors in the household.",
+   "in_practice": "A leader who punishes bad news and treats critics as enemies gets agreement in meetings, then resignations, leaks and defections when a competitor calls. Protect the people who tell you unwelcome truths.",
+   "quote": {
+    "text": "Maybe it is your neighbor. Perhaps it is someone you know.",
+    "speaker": "Ivar",
+    "ep": "S05E17"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "vik-A0719",
+    "vik-0653"
+   ],
+   "steps": [
+    {
+     "ep": "S05E11",
+     "move": "Ivar, hollow after victory, meets Freydis, who tells him the gods have marked him out."
+    },
+    {
+     "ep": "S05E13",
+     "move": "Coached by Freydis, Ivar announces that he is a god and prepares a great public sacrifice."
+    },
+    {
+     "ep": "S05E14",
+     "move": "He sacrifices a woman presented as Lagertha, hangs accused rebels and kills the Seer; the crowd chants for Lagertha and Ragnar."
+    },
+    {
+     "ep": "S05E15",
+     "move": "He publicly vows to find whoever killed the Seer."
+    },
+    {
+     "ep": "S05E17",
+     "move": "He ends free votes, gives the 'enemy within' speech, and sends Hvitserk to Olaf by threatening to burn Thora."
+    },
+    {
+     "ep": "S05E18",
+     "move": "He burns Thora anyway and abandons his deformed son Baldur; Olaf agrees to join Hvitserk against him."
+    },
+    {
+     "ep": "S05E19",
+     "move": "With York lost and Olaf not coming, he recasts the cancelled campaign as strengthening Kattegat's defences."
+    },
+    {
+     "ep": "S05E20",
+     "move": "Freydis opens his secret passage for Bjorn, Kattegat falls, and Ivar kills her and flees."
+    }
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "The Heir Who Wanted the Chair",
+   "show": "peaky-blinders",
+   "secondary": [
+    "ALLY",
+    "DEC",
+    "NEG"
+   ],
+   "scope": "series",
+   "episodes": [
+    "S05E06",
+    "S02E04",
+    "S04E06",
+    "S05E03",
+    "S05E04",
+    "S06E01",
+    "S06E05",
+    "S06E06"
+   ],
+   "strategist": "Michael Gray, with Gina Gray",
+   "target": "Tommy Shelby and control of the Shelby Company",
+   "context": "Michael Gray is the son of Tommy Shelby's aunt Polly, found and brought into the family business in Season 2. He grows ambitious, fails Tommy's loyalty test during the Changretta vendetta, loses the company's American money in the 1929 crash, and marries Gina, whose uncle Jack Nelson is a Boston power broker. He comes to believe the future belongs to him.",
+   "play": "Michael's campaign moves from boardroom to bomb. After Tommy exiles him to New York and then quarantines him over the crash losses, Michael tells Tommy that by the time his baby is born they will be done and he will be king. He accepts the opium business through Polly's vote and plans quietly with Gina for the day Tommy is gone. At a family meeting in S05E06, before Tommy can speak, he proposes a restructure: an American narcotics expansion worth '20 million per annum', Michael as managing director, and Tommy as non-executive chairman under the name of a dead man, 'Mr Jones'. He appeals to each relative's private wish, but when Tommy laughs, Gina says the Americans will not deal with a backstreet razor gang and Michael lists Tommy's failures. Thrown out, he promises a 'second option'. After Polly's death he swears revenge, accepts release from an American prison on condition he kills Tommy, and plays the loyal partner while his men plant a bomb.",
+   "why_it_works": "Michael had learned Tommy's own methods (the figurehead chairman, the patient cover story, the alliance with a stronger outside power) and he had real grievances that others shared, which is why Tommy's brother Arthur briefly wavers toward him. The boardroom pitch fails because it is made in open meeting without a single vote secured, and because Gina's contempt turns an offer into an insult.",
+   "outcome": "It fails at every stage. The restructure is rejected outright, and the murder plot is known to Tommy through Gina and an informant; the bomb is switched, and Tommy kills Michael on the island of Miquelon (S06E06).",
+   "counter": "Tommy kept Michael close (quarantine, debt, the opium job) and watched the people Michael depended on. Michael's weakness was that his outside backers were themselves open to Tommy's leverage.",
+   "principle": "A successor who tries to take the chair with the incumbent's own playbook will be read by the one person who wrote it.",
+   "in_practice": "If you want more responsibility, build it with results the founder can see, and talk to each stakeholder privately before proposing any restructure; a surprise in front of the team forces a founder to refuse to save face. Founders, for their part, should give ambitious people a real path before they build their own.",
+   "quote": {
+    "text": "And I swear to God, Tom, by the time that baby draws its first breath, you and I will be done. And you will be king.",
+    "speaker": "Michael Gray",
+    "ep": "S05E03"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "pea-A0484",
+    "pea-0443"
+   ],
+   "steps": [
+    {
+     "ep": "S02E02",
+     "move": "Tommy finds Michael in the parish records and leaves Polly's address with him, so the boy comes to the family on his own."
+    },
+    {
+     "ep": "S02E04",
+     "move": "Tommy invents a rival candidate so Polly will want Michael hired, and Michael joins the legal side of the company."
+    },
+    {
+     "ep": "S04E06",
+     "move": "Michael knew of Polly's deal with Luca and did not warn Tommy; Tommy sends him to run the gin business in New York."
+    },
+    {
+     "ep": "S05E02",
+     "move": "After losing the American money and being taken off his ship by the IRA, Michael is quarantined and bound to the company by debt."
+    },
+    {
+     "ep": "S05E03",
+     "move": "Michael tells Tommy that by the time his child is born they will be done and he will be king."
+    },
+    {
+     "ep": "S05E04",
+     "move": "Tommy ends the quarantine to win Polly's vote for the opium deal; Michael and Gina plan for the day Tommy is gone."
+    },
+    {
+     "ep": "S05E06",
+     "move": "Michael proposes the 'Mr Jones' restructure, is thrown out, and promises a second option."
+    },
+    {
+     "ep": "S06E01",
+     "move": "After Polly's death Michael swears revenge on Tommy, whatever lies it takes."
+    },
+    {
+     "ep": "S06E05",
+     "move": "In a Boston prison Michael accepts Nelson's condition for release: he will kill Tommy."
+    },
+    {
+     "ep": "S06E06",
+     "move": "On Miquelon the bomb is switched, Michael believes Tommy is dead, and Tommy kills him."
+    }
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "Louis Litt's Ladder",
+   "show": "suits",
+   "secondary": [
+    "LEV",
+    "LEAD",
+    "ALLY"
+   ],
+   "scope": "series",
+   "episodes": [
+    "S04E11",
+    "S01E12",
+    "S02E09",
+    "S04E06",
+    "S04E10",
+    "S05E02",
+    "S06E11",
+    "S08E10"
+   ],
+   "strategist": "Louis Litt",
+   "target": "Jessica Pearson and Harvey Specter",
+   "context": "Louis Litt is the firm's best forensic lawyer, author of its bylaws, and its most dangerous insider whenever he feels slighted. He loses the senior partner race to Harvey Specter in the pilot and spends the series wanting the recognition he believes his work has earned from Jessica Pearson, the managing partner.",
+   "play": "Louis keeps trying to take status with leverage. In S01E12 he names his price for a favor Harvey urgently needs, senior partner now, and Jessica answers, 'I do not respond to threats. I make them.' He accepts the promotion from Hardman instead and votes against Jessica (S02E09). He extorts name partnership with his knowledge that Mike Ross, Harvey's associate, never went to law school (S04E10 to S04E11). When slighted he damages the firm: he unwinds a deal without approval, leaks Harvey's pay to swing a compensation vote, and, briefly acting as managing partner, attacks the biggest client of Robert Zane, a rival who was in fact trying to help. His genuine wins come from skill and grievance aimed outward: bonding with a hostile financier over a shared hatred of Harvey to close a takeover, and poaching a client through his own bylaws.",
+   "why_it_works": "Leverage gets Louis the title each time, but because it is extracted it is always undone: Jessica crushes the first demand, Hardman is voted out, and the name partnership is neutralized when she makes him sign as a co-conspirator in the Mike secret. What finally puts him in charge is being chosen: in S08E10 Donna engineers his managing partnership as the one choice everyone can accept.",
+   "outcome": "Louis becomes name partner (S04E11) and managing partner (S08E10), loses the title over an ethics breach (S09E02), and holds the firm at the end of the series. His self-appointed stint in S06E11 ends with his own admission: 'I'm not ready to be managing partner.'",
+   "counter": "Jessica's counter never changes: refuse the threat, then give Louis respect when he has not demanded it, which buys more loyalty than any title.",
+   "principle": "Status seized with leverage is always contested; status given as trust is kept.",
+   "in_practice": "A capable colleague who feels unrecognized is both your best asset and your biggest internal risk. Recognize the work early and specifically, and never let a threat be the only route to recognition; if you are the one wanting the promotion, help visibly in the crisis and make your case once things are calm.",
+   "quote": {
+    "text": "It was the only bullet in your chamber, and I am taking your gun away.",
+    "speaker": "Jessica Pearson",
+    "ep": "S04E11"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-A1695",
+    "sui-1104",
+    "sui-1308",
+    "sui-1470"
+   ],
+   "steps": [
+    {
+     "ep": "S01E06",
+     "move": "Jessica courts Louis with King Lear tickets as a counterweight to Harvey."
+    },
+    {
+     "ep": "S01E12",
+     "move": "Louis demands senior partner in exchange for a DNA test; Jessica refuses and he makes the call for nothing."
+    },
+    {
+     "ep": "S02E09",
+     "move": "Hardman quietly makes him senior partner and Louis votes Hardman in, costing Jessica the firm for a week."
+    },
+    {
+     "ep": "S03E09",
+     "move": "Jessica teaches Harvey the Kopelman lesson and Harvey tells Louis he respects him, which buys Louis's silence on Mike in S03E12."
+    },
+    {
+     "ep": "S04E06",
+     "move": "Louis unwinds the Wexler deal on his own, then wins Forstman over with his diary of hatred for Harvey; the price is an offshore fee that makes him complicit."
+    },
+    {
+     "ep": "S04E09",
+     "move": "He confesses the Forstman money and resigns before Jessica can fire him."
+    },
+    {
+     "ep": "S04E10",
+     "move": "In exile he poaches VersaLife through his own notice bylaw, then realizes from the Order of the Coif key that Mike never went to Harvard."
+    },
+    {
+     "ep": "S04E11",
+     "move": "He extorts name partnership; Jessica makes him sign as a co-conspirator before the unveiling."
+    },
+    {
+     "ep": "S05E02",
+     "move": "Suddenly owing Donna's salary top-up, he leaks Harvey's income statements to swing the compensation vote."
+    },
+    {
+     "ep": "S06E11",
+     "move": "He acts as managing partner, overreaches against Zane's biggest client and admits he is not ready."
+    },
+    {
+     "ep": "S08E10",
+     "move": "Donna installs him as managing partner as the one choice both Harvey and Robert Zane can accept."
+    },
+    {
+     "ep": "S09E02",
+     "move": "Faye strips his title after he tells Benjamin he does not care what it takes; he runs the firm again once Faye leaves in S09E10."
+    }
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "From Slave to Queen",
+   "show": "vikings",
+   "secondary": [
+    "TIME",
+    "ALLY"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S06E12",
+    "S06E13",
+    "S06E15",
+    "S06E17",
+    "S06E19",
+    "S06E20"
+   ],
+   "strategist": "Ingrid",
+   "target": "Gunnhild, King Harald, Erik and Kattegat",
+   "context": "Ingrid begins the final season as a former slave and the second wife of Bjorn Ironside, King of Kattegat, with no army and no title of her own. When Bjorn dies, his first wife Gunnhild, a respected shieldmaiden, is the obvious successor.",
+   "play": "Ingrid attaches herself to whoever holds power, one step at a time. She announces that she is carrying Bjorn's child, which turns her from a junior widow into the mother of his heir, and repeats the claim at the election for Kattegat's ruler; when Gunnhild asks whether the child is really King Harald's, since Harald raped her, Ingrid says she knew she was pregnant before. When Harald seizes the town and offers to marry both widows, Gunnhild refuses and Ingrid accepts. Left as co-ruler with Erik, a man she hates, she blinds him with witchcraft and survives his plot against her, and he is killed by one of his own slaves. When news comes that Harald and Ivar are dead, she alone remains, and Kattegat hails her as queen.",
+   "why_it_works": "Ingrid never fights a stronger opponent head on. In a hereditary culture she borrows the dead king's legitimacy, then bends to each new power, gets inside it, and waits for the strong men around her to destroy each other, quietly removing whoever is left.",
+   "outcome": "She becomes the last ruler of Kattegat in the series, outlasting Bjorn, Gunnhild, Harald, Erik and Ivar.",
+   "counter": "Her rivals consistently underestimated her because of where she came from. Gunnhild attacked the paternity claim but had no proof and no coalition, and Harald should never have left her in Kattegat beside a man she hated with the throne in reach.",
+   "principle": "If you lack standing of your own, attach yourself to the strongest legitimacy in the room, then outlast the people who hold it.",
+   "in_practice": "A new or small firm can borrow credibility through a named client, a respected partner or a founder's track record, provided the link is real and survives scrutiny. Inside an organization, deliver within the current leader's agenda and be ready when the structure changes; people who are underestimated are rarely watched.",
+   "source": "knowledge",
+   "strength": 3,
+   "pool_ids": [
+    "vik-0707",
+    "vik-0692"
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "The Coup That Never Was",
+   "show": "house-of-cards",
+   "secondary": [
+    "DEC",
+    "ALLY",
+    "LEV"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S01E04"
+   ],
+   "strategist": "Frank Underwood",
+   "target": "Speaker Bob Birch and Majority Leader David Rasmussen",
+   "context": "Frank Underwood, the House Majority Whip, has promised the new President that he will get an education bill to the floor unchanged. Speaker of the House Bob Birch refuses to schedule it, and Frank cannot beat the Speaker head on.",
+   "play": "Frank tells David Rasmussen, the Majority Leader, that he will never be Speaker unless he replaces Birch with a bloc of 13 Democrats plus the Republicans. Rasmussen refuses and threatens to tell Birch if it comes up again. Frank goes ahead anyway. He tells Terry Womack, head of the Black Caucus, that the plan is Rasmussen's ('It was his idea') and offers him the Majority Leader's job plus a saved air force base, paid for by closing a shipyard. When members start congratulating Rasmussen, Frank tells him any denial is useless, because nobody knows he refused. Then Frank goes to Birch, reports that Rasmussen is making a play, and offers the only way out: make Womack Majority Leader and move the bill.",
+   "why_it_works": "Frank builds a real voting bloc around a leader who never agreed to lead it, so the threat is credible and the blame lands elsewhere. By warning Birch himself he looks loyal while naming his price. Rasmussen's discretion traps him, because he left no record of his refusal.",
+   "outcome": "Birch schedules the bill, demotes Rasmussen and threatens to fund his primary challenger. Womack becomes Majority Leader and owes Frank, and Frank stays whip with a new ally. The cost falls on Congressman Peter Russo, whose district loses the shipyard.",
+   "counter": "Rasmussen should have gone to Birch the moment Frank first raised the coup, creating a record. Keeping a dangerous proposal secret made him the obvious suspect.",
+   "principle": "Build a threat in someone else's name, then sell your protection against it.",
+   "in_practice": "The honest version: when a gatekeeper blocks you, show them that a coalition of their own stakeholders wants the change, and offer them a way to lead it. If someone approaches you with a scheme you reject, put your refusal on record straight away.",
+   "quote": {
+    "text": "This was David's plan executed by me.",
+    "speaker": "Frank Underwood",
+    "ep": "S01E04"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "hou-0737"
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "Remove the Blocker, Seat Your Own",
+   "show": "billions",
+   "secondary": [
+    "NEG",
+    "LEV",
+    "TIME"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S01E11",
+    "S01E10"
+   ],
+   "strategist": "Chuck Rhoades",
+   "target": "Adam DeGiulio and the Attorney General's office",
+   "context": "Chuck Rhoades, the US Attorney in Manhattan, has lost control of his case against Bobby Axelrod to Adam DeGiulio, the Attorney General's deputy in Washington. A federal judgeship has just opened up, and DeGiulio once dreamed of the bench. Chuck needs a friendly ear in Washington to get back into the case.",
+   "play": "Chuck visits DeGiulio at home and congratulates him on his nomination to the judgeship. Then he names his price: when DeGiulio leaves the Attorney General's office, Chuck picks his replacement, and DeGiulio paves the way on his way out. DeGiulio points out that his name is already in. Chuck reminds him that nominations can stall for months or years in a polarized Senate committee, and says he can have Senator Vandeveer pull him through to the bench.",
+   "why_it_works": "Chuck removes an opponent from the chain of command by promoting him, which feels like a gift. The leverage comes from the one step DeGiulio cannot control, Senate confirmation, and the real prize is the appointment that follows his exit.",
+   "outcome": "DeGiulio agrees. Chuck then has to go to his father to deliver the senator, and the friendly replacement reopens his path back to Axe.",
+   "counter": "DeGiulio could have lined up his own Senate support before the nomination went public, leaving Chuck with nothing to sell.",
+   "principle": "The cheapest way past a blocker is often to promote him, and to take the empty chair as your price.",
+   "in_practice": "If a stakeholder keeps blocking you, help them toward a bigger role they genuinely want and ask for a say in who replaces them. The successor you help choose often shapes your next few years more than the original fight.",
+   "quote": {
+    "text": "When it comes to picking your replacement, I need someone who'll look out for me in DC.",
+    "speaker": "Chuck Rhoades",
+    "ep": "S01E11"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "bil-0047"
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "The Trapdoor Under the AG",
+   "show": "billions",
+   "secondary": [
+    "RULE",
+    "LEV"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S06E09"
+   ],
+   "strategist": "Mike Prince, advised by Kate Sacker",
+   "target": "Chuck Rhoades, through Governor Sweeney and the state Senate",
+   "context": "Mike Prince, the billionaire who has taken over Axe's old firm, wants Chuck Rhoades, now New York's Attorney General, out of office. Waiting two years for an election is too slow. Kate Sacker, a former prosecutor from Chuck's own office now advising Prince, knows a rarely used route: the governor can send the state Senate a letter of charges, and a two-thirds vote removes the Attorney General.",
+   "play": "Prince confronts Governor Sweeney with a leak that Prince is shopping for a new governor, a telegenic pundit whose primary campaign he will fund. He demands a letter to the Senate requesting a special session to remove Chuck. Sweeney agrees on one condition, proof of two-thirds support, because he wants Chuck 'dead, not wounded and angry'. Once Prince has the votes, Sweeney serves the charges, the Senate calls a special session the same night, and Chuck has no time to organize a defense.",
+   "why_it_works": "Prince uses the governor's own survival as the lever, and the procedure itself, a same-day special session, denies Chuck the time in which his network could fight back. Sweeney's demand for guaranteed votes forces Prince to finish the count before striking.",
+   "outcome": "Chuck is removed as Attorney General and Dave Mahar, one of his own deputies, is named acting AG.",
+   "counter": "Chuck should have been tracking the governor's political vulnerabilities and his own exposure to the removal statute, especially after making a personal enemy of the richest man in the state.",
+   "principle": "Find the rarely used procedure that ends the fight before your opponent can mobilize, and count the votes before you pull it.",
+   "in_practice": "Know the termination and governance clauses in your contracts and partnerships as well as the headline terms; the fastest exits and the biggest risks usually sit in the procedural sections.",
+   "quote": {
+    "text": "We need Chuck dead, not wounded and angry.",
+    "speaker": "Governor Sweeney",
+    "ep": "S06E09"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "bil-0268"
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "Let the Party Choose",
+   "show": "house-of-cards",
+   "secondary": [
+    "RULE",
+    "DEC",
+    "REP"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S04E08",
+    "S04E09",
+    "S04E10"
+   ],
+   "strategist": "Frank Underwood",
+   "target": "The party leadership, the convention, and Secretary of State Cathy Durant",
+   "context": "President Frank Underwood is running for election and needs a running mate. After an assassination attempt and a liver transplant, whoever gets the job may well become President, and Frank secretly wants it to be his wife Claire, whom the leadership would never pick. His Republican opponent, Will Conway, is about to dominate the news with a war-hero running mate.",
+   "play": "Frank tells the party leadership that, because of his health, the party itself should choose his running mate at an open convention, while privately assuring them they will make sure Cathy Durant, the Secretary of State, wins. He sells it as show business that will bury the Conway story. He installs a loyal ally, Patricia Whittaker, as convention chair. When Durant starts winning in her own right, he takes her with him to Washington to handle a hostage crisis, and has Whittaker postpone the votes because key contenders are not on the floor. Meanwhile Claire's speech and a staged 'draft Claire' movement do the rest.",
+   "why_it_works": "An open process gives a controlled outcome the legitimacy of a free choice, and the drama becomes the story in place of Conway. Owning the chair and the calendar lets Frank stop the clock whenever the vote is going the wrong way.",
+   "outcome": "Durant withdraws and Frank and Claire are nominated by acclamation, with the leadership boxed in by a process they agreed to. Commentators note how close it came to slipping out of his control.",
+   "counter": "The leadership could have insisted on rules that bound the delegates, and Durant could have forced a vote before Frank found a reason to take her out of the convention city.",
+   "principle": "If you want a result to look chosen, own the process and the calendar, then open the floor.",
+   "in_practice": "An open process can build real buy-in for a team or board decision, but decide who chairs it and how the agenda runs. Be honest about your own preference, or the process becomes a sham people will remember.",
+   "quote": {
+    "text": "No, no. We make it so that Cathy wins. We'll just make it look like the party chose her.",
+    "speaker": "Frank Underwood",
+    "ep": "S04E08"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "hou-0917"
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "The Election Olaf Designed",
+   "show": "vikings",
+   "secondary": [
+    "ALLY",
+    "RULE"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S06E06",
+    "S06E04",
+    "S06E05"
+   ],
+   "strategist": "King Olaf",
+   "target": "Bjorn, King Harald and the kings and jarls of Norway",
+   "context": "King Olaf holds both Bjorn Ironside, King of Kattegat, and King Harald Finehair as prisoners. He could kill them, but he wants to end the endless wars among Norway's petty kings and shape the outcome himself.",
+   "play": "Olaf offers his prisoners freedom in exchange for an alliance: the kings and jarls will elect a single King of all Norway, and Olaf proposes Bjorn. He presents the idea as a revelation from the gods, frees both men, and hosts the vote at Tamdrup, confident that his candidate will win and that he will stand behind the throne as kingmaker.",
+   "why_it_works": "Creating a new institution and naming its first holder is a classic way to rule without holding the title. Olaf would gain a king who owed him his crown and his freedom, and the election would give that king a legitimacy no conquest could.",
+   "outcome": "It fails. Olaf designed the process but did not control the electorate. Harald, whom Olaf had freed, canvasses the voters privately with promises while casting his own vote for Bjorn, and wins. Olaf crowns Harald and is then imprisoned by him.",
+   "counter": "A kingmaker needs to secure the votes before announcing the contest, and should never free a rival with his own ambitions for the prize before the vote is counted.",
+   "principle": "Designing the game is not the same as controlling the players.",
+   "in_practice": "If you set up a selection process (a panel, a tender, a partner vote) hoping for a particular outcome, work out who else can reach the voters before you commit. An open process rewards whoever works hardest behind the scenes.",
+   "source": "knowledge",
+   "strength": 3,
+   "pool_ids": [
+    "vik-0677"
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "One Seat for Two Allies",
+   "show": "suits",
+   "secondary": [
+    "ALLY",
+    "NEG"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S04E13"
+   ],
+   "strategist": "Daniel Hardman",
+   "target": "Harvey Specter and Louis Litt",
+   "context": "In a flashback to their early years, fifth-year associates Harvey Specter and Louis Litt go to Daniel Hardman, then running the firm, with a joint proposal: make them both junior partners instead of promoting one senior partner. They have agreed to come as a package.",
+   "play": "Hardman refuses the package and offers to advance one of them, whoever proves himself. Harvey wins over McKernon Motors as a client, and Hardman orders him to drop them for Fletcher Engines, a bigger company that came in only because it heard the firm was about to sign McKernon. When Harvey refuses, the opposing side somehow knows his whole game plan in court. Hardman makes Louis partner, saying the test was who would do whatever it takes. Harvey later learns Louis leaked the plan.",
+   "why_it_works": "A counteroffer that only one person can accept breaks a coalition in a sentence. Hardman also uses Harvey's pursuit of a smaller client as bait for a larger one, and rewards whoever puts the firm, and Hardman, first.",
+   "outcome": "Hardman gets the bigger client, promotes Louis and breaks the alliance, planting the Harvey and Louis rivalry that runs through the series. Jessica Pearson declines to back Harvey, judging that the setback will teach him to think about others.",
+   "counter": "Harvey and Louis needed to agree in advance what they would do if offered a split, and to walk out together. Harvey also needed to see that he was being used as a stalking horse.",
+   "principle": "Offer two allies one prize and see who breaks first.",
+   "in_practice": "When bidding as a consortium or a joint team, agree before the meeting what you will do if the client offers the work to only one of you. Otherwise the client can split you with one sentence.",
+   "quote": {
+    "text": "You came in with a proposal. I'm giving you a counter, and it's take it or leave it.",
+    "speaker": "Daniel Hardman",
+    "ep": "S04E13"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "sui-1320"
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "The Partner Meeting Coup",
+   "show": "suits",
+   "secondary": [
+    "ALLY",
+    "NEG",
+    "LEAD"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S08E10"
+   ],
+   "strategist": "Donna Paulsen (with Louis Litt)",
+   "target": "Harvey Specter and Robert Zane",
+   "context": "Harvey Specter and Robert Zane, the two most powerful partners, are deadlocked over who should become the next name partner, and each threatens to throw the other out. The firm is about to split. Donna Paulsen, the firm's chief operating officer and newest partner, sees a way through.",
+   "play": "Donna first asks Louis Litt to step up as managing partner, arguing that his offer to step aside for the firm's sake is itself leadership, and tells him to leave the votes to her. She walks into the shouting match, declares it a formal partner meeting, and lays out the math: she votes for Louis, Louis votes for himself, and neither Harvey nor Robert will vote for the other, so they might as well make it unanimous. Louis announces his first act, promoting both candidates to name partner, and orders Harvey and Robert to sell it. Afterwards Donna reveals that she scripted Louis's lines.",
+   "why_it_works": "When two powers deadlock, a third candidate who threatens neither can win if someone frames the choice as a united front against open war. Promoting both rivals' candidates removes the zero-sum prize that caused the fight.",
+   "outcome": "Louis becomes managing partner, both candidates go on the wall, and the firm holds together.",
+   "counter": "Harvey and Robert could have walked out or refused to treat it as a formal meeting, but their distrust of each other is exactly what made the vote unwinnable for either.",
+   "principle": "When two giants deadlock, the kingmaker is whoever frames the vote.",
+   "in_practice": "When two senior people are locked in a dispute, propose a third option that removes the prize they are fighting over, and ask them to back it publicly as a united front. Line up the numbers before you walk into the room.",
+   "quote": {
+    "text": "So, what's it gonna be? Me and Louis and a split decision? Or are we gonna make this thing unanimous?",
+    "speaker": "Louis Litt",
+    "ep": "S08E10"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "sui-1611"
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "The YumTime Brushback",
+   "show": "billions",
+   "secondary": [
+    "ALLY",
+    "PSY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S01E03",
+    "S01E04"
+   ],
+   "strategist": "Bobby Axelrod",
+   "target": "YumTime's board and CEO Hutch Bailey III; indirectly Charles Rhoades Sr.",
+   "context": "Bobby 'Axe' Axelrod, the hedge fund billionaire, has built a 4.9% stake in YumTime, a snack company whose profits have fallen eight years in a row while executive pay rose 300%. One board member, Evelyn Benson, is the mistress of Charles Rhoades Sr., father of the prosecutor pursuing Axe, and her seat is worth $200,000 a year to them.",
+   "play": "Axe tastes the product himself and finds it worse than he remembers. His lieutenant Wags presents an activist letter to the board informally, and from the reactions they work out that the chairman, Jerome Purkheiser, is the one who matters. Axe takes Purk to the pizzeria of his childhood, where the owner explains he still pays for the best tomatoes, and tells the story of the YumTime snack he bought every day on his paper route, since ruined by a cheaper recipe. He casts the CEO, Hutch Bailey III, as the third generation who 'blows it'. At the board meeting Purk moves to fire Hutch, then to remove Evelyn and give her seat to Axe.",
+   "why_it_works": "Axe finds the one person who actually decides and wins him over privately with a story about the product that matches the chairman's own values, where a spreadsheet would have met resistance. Taking Evelyn's seat sends a message to Chuck Sr. without any direct confrontation.",
+   "outcome": "Hutch and Evelyn are voted out and Axe gets a board seat. Chuck Sr. reads it as a warning and pushes his son to bury Axe.",
+   "counter": "The Bailey camp relied on Purk's personal loyalty and never checked where he stood before the vote. Chuck Sr. could have kept his private life away from positions an enemy could reach.",
+   "principle": "Find the one person who decides, and win them with what they already care about.",
+   "in_practice": "In a complex sale, map the real decision-maker early and reach them with a story that matches their values (quality, legacy, customers) as well as the ROI. Use the product or service yourself before making claims about it.",
+   "quote": {
+    "text": "Bruno never let me down. YumTime let me down.",
+    "speaker": "Bobby Axelrod",
+    "ep": "S01E03"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "bil-0014"
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "Moving the Money",
+   "show": "house-of-cards",
+   "secondary": [
+    "ALLY",
+    "LEV"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S05E12",
+    "S05E13"
+   ],
+   "strategist": "Jane Davis",
+   "target": "The Senate, Frank Underwood, and Mark Usher",
+   "context": "Late in Season 5, President Frank Underwood's survival depends on Democratic senators refusing to turn on him as investigations close in. Jane Davis, a quiet Commerce Department official with connections everywhere, knows that donors in oil, finance and even labor have lost faith in him.",
+   "play": "Senators start wavering; a staffer explains to Mark Usher, a veteran strategist now inside the White House, that nobody tells senators how to vote, they just tell them what happens if they vote the wrong way. Usher tracks Jane down and accuses her of peeling senators off. She does not deny it: the money has left Frank, the country wants change, and it need look no further than his wife, Vice President Claire Underwood. She recruits Usher to back Claire, someone they can work with.",
+   "why_it_works": "Votes follow money and consequences more reliably than speeches. By moving donors quietly, Jane changes each senator's incentives without anyone giving an order, and she offers a replacement leader so the switch feels safe.",
+   "outcome": "Frank's Senate support erodes, which is part of why he resigns. Usher, who wants to stay in the White House, aligns with Claire.",
+   "counter": "Frank could have seen that his donor base, more than the whip count, was his weak point, and courted the money directly.",
+   "principle": "To move a vote, move the money behind it and offer a safe alternative.",
+   "in_practice": "A buying committee often follows whoever controls budget and risk. Understand what the economic buyer fears and give them a safe option before you work on the individual voters.",
+   "quote": {
+    "text": "The money's not with him, Mark.",
+    "speaker": "Jane Davis",
+    "ep": "S05E12"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "hou-0982"
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "Beat the Biggest Prisoner",
+   "show": "suits",
+   "secondary": [
+    "RULE",
+    "REP"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S03E13",
+    "S03E14"
+   ],
+   "strategist": "Dana 'Scottie' Scott",
+   "target": "Louis Litt",
+   "context": "Scottie joins the firm as a senior partner and risks being seen only as Harvey Specter's girlfriend. Louis Litt is the firm's most feared partner and the author of its bylaws.",
+   "play": "When Louis arrives more than ten minutes late to a partners' meeting, Scottie takes the lead on his client's acquisition, quoting his own punctuality bylaw word for word. When Louis invents a new bylaw requiring the existing attorney at all client meetings, she sends the client a proposal and copies him. When he sinks it by tipping off regulators about her chosen buyer, she finds that his new bylaw was passed without a quorum, which under another bylaw means removal from the bylaw committee, and forces him off the case. Louis later discovers she had marked six traps in the bylaws.",
+   "why_it_works": "Beating the toughest person in the building establishes a reputation faster than any number of quiet wins. Using the opponent's own rules makes the attack hard to reverse, because objecting means rejecting his own work.",
+   "outcome": "She wins the fight, but Louis calls in a favor with Harvey, who orders her to give the case back. The win damages her relationship with Harvey and shows her that her position depends on him.",
+   "counter": "Louis could have accepted the loss gracefully, as Jessica Pearson advised; that would have denied Scottie the fight she wanted and made him an ally.",
+   "principle": "To establish yourself fast, beat the strongest person in the room with their own rules, and pick a win your sponsor will not have to overturn.",
+   "in_practice": "A newcomer needs an early visible win, but choose one that does not force your sponsor to take sides, or it can be reversed over your head.",
+   "quote": {
+    "text": "I win this, I'm the partner that beat Louis Litt, not the partner sleeping with Harvey Specter.",
+    "speaker": "Dana Scott",
+    "ep": "S03E13"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1247"
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "Timing the Empty Chair",
+   "show": "suits",
+   "secondary": [
+    "RULE",
+    "ALLY",
+    "TIME"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S05E02",
+    "S05E03"
+   ],
+   "strategist": "Jack Soloff",
+   "target": "Harvey Specter (and Jessica Pearson's authority)",
+   "context": "Jack Soloff, an ambitious partner, has just become head of the compensation committee and wants to make his name. Harvey Specter earns heavily from contingency fees, and his protector is Jessica Pearson, the managing partner.",
+   "play": "Jack drafts a 'neutral' change in the pay formula toward billable hours that hits Harvey hardest, and frames it as fairness for the firm's grinders against its rainmakers. He pitches it to Louis Litt first, and schedules it for a partners' meeting Jessica will miss. Louis lets it come to the floor, planning to knock it down and prove his loyalty to Harvey, but Harvey rebuffs Louis's help and storms out. Jack counts his votes, 45%, and waits for the rest.",
+   "why_it_works": "A general rule that happens to hurt one person is harder to oppose than a direct attack, and 'grinders versus rainmakers' builds a coalition of the many against the few. Choosing a meeting without the protector removes the one person able to kill the proposal.",
+   "outcome": "The vote passes and Harvey's pay is cut, helped along when Louis, caught short, leaks Harvey's income statements. Louis's plan to invite the attack so he could defend Harvey fails, because Harvey reads the defense as condescension.",
+   "counter": "Jessica could have required major policy changes to wait for a full meeting, and Harvey could have accepted Louis's public support in place of alienating his only ally in the room.",
+   "principle": "Attack a person through a principle many people benefit from, and pick the moment their protector is away.",
+   "in_practice": "Proposals framed as fairness for the majority gain momentum fast. If you are the outlier, engage early, bring allies, and never let governance changes land in a meeting you cannot attend.",
+   "quote": {
+    "text": "On top of that, Jessica's not gonna be at the meeting tomorrow. Timing couldn't be better.",
+    "speaker": "Jack Soloff",
+    "ep": "S05E02"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1340"
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "The Snap Vote",
+   "show": "suits",
+   "secondary": [
+    "LEAD",
+    "RULE"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S07E01"
+   ],
+   "strategist": "Harvey Specter",
+   "target": "Louis Litt",
+   "context": "Jessica Pearson has left the firm, and Harvey Specter has been avoiding telling Louis Litt that he is taking over as managing partner. Louis is refusing to give up control of the associates or to accept Donna Paulsen as a partner, and Donna demands a vote on her status.",
+   "play": "Harvey confronts Louis in front of Donna and defends her partnership. Then he says that he, and nobody else, decides when votes happen, and calls one on the spot, declaring himself managing partner. He warns that if it is not unanimous there will be a big problem, and asks Louis directly whether he has a problem with Harvey calling the shots.",
+   "why_it_works": "Calling the vote in a heated moment, with a new ally in the room and no time for Louis to organize, makes dissent costly and isolated. Asking the question personally forces a public commitment Harvey can hold Louis to later.",
+   "outcome": "Louis says yes, and in the next episode Harvey reminds him of that answer when Louis objects to a new hire.",
+   "counter": "Louis could have asked for time to consider, or negotiated terms such as his own title, before agreeing.",
+   "principle": "Settle who is in charge while your support is in the room and your rival is off balance, then hold them to their answer.",
+   "in_practice": "When a leadership change is needed, make it explicit and get clear agreement from the key people at once, before ambiguity sets in, then refer back to that agreement when it is tested.",
+   "quote": {
+    "text": "But the person who's gonna decide when that vote is is me, and I say our first order of business is putting out word that Harvey Specter is the new managing partner.",
+    "speaker": "Harvey Specter",
+    "ep": "S07E01"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1503"
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "Sacrifice the One",
+   "show": "house-of-cards",
+   "secondary": [
+    "LEAD",
+    "REP"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S02E13"
+   ],
+   "strategist": "Frank Underwood",
+   "target": "China, Xander Feng and the Washington establishment",
+   "context": "Frank Underwood has just been sworn in as President. A naval standoff with China, the crisis that helped bring down his predecessor, is still running, and China's president has not returned Walker's calls for two days. Xander Feng, a Chinese billionaire who testified against Walker, is under American protection.",
+   "play": "Frank skips the national security briefing, saying he knows the details, and calls Beijing at once. Within hours both sides withdraw their ships. Then he revokes Feng's asylum, which has not been formally processed, and sends him back to China, where he will likely be executed. When Secretary of State Cathy Durant objects that it damages the State Department's integrity, he asks her which matters more, integrity or peace.",
+   "why_it_works": "A new leader's first act sets how everyone reads him. A quick, visible win on the very crisis that sank his predecessor establishes Frank's authority, and Feng is the price China wants, now that his testimony is no longer useful to Frank.",
+   "outcome": "The standoff ends and Frank's presidency opens with a success. Feng is taken from his hotel despite written guarantees, which shows how little Frank's promise is worth once the person holding it stops being useful.",
+   "counter": "Feng trusted a written guarantee from a government whose leadership was about to change. A promise is only as good as the continued interest of the person who made it.",
+   "principle": "A new leader should win something visible on day one, and must know who will pay for it.",
+   "in_practice": "In a new role, pick a visible problem you can solve quickly to establish credibility. When a partner or client changes leadership, reconfirm every commitment with the new decision-maker.",
+   "quote": {
+    "text": "Sometimes you have to sacrifice the one for the many.",
+    "speaker": "Frank Underwood",
+    "ep": "S02E13"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "hou-0832"
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "Ragnar Lothbrok Is Dead",
+   "show": "vikings",
+   "secondary": [
+    "REP",
+    "PSY"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S02E04"
+   ],
+   "strategist": "Jarl Borg",
+   "target": "The people of Kattegat",
+   "context": "Jarl Borg, a rival Viking lord who feels cheated by Ragnar over a promised land deal, has captured Kattegat by force while Ragnar is raiding in England. Ragnar's family and his brother Rollo are loose in the countryside, and the townspeople owe Borg no loyalty.",
+   "play": "Borg addresses the town. He came only for justice, he says, since Ragnar broke a sacred promise and so forfeited his right to rule. He promises fair rule and a flourishing trading town, then states there will be no law but his. He offers anyone who reveals where Ragnar's wife, children and brother are hiding their own weight in silver and gold, and declares that from now on only criminals will speak of Ragnar Lothbrok.",
+   "why_it_works": "Every usurper needs a legal story, an economic promise, and a way to erase the rival. Borg supplies all three, and the bounty turns the population into informers.",
+   "outcome": "Ragnar's family is forced into hiding and must move carefully. Borg never wins hearts, though: Rollo's raids keep Ragnar's memory alive until Ragnar returns and drives Borg out.",
+   "counter": "Rollo gives the right answer: keep the old leader's name alive through visible acts of resistance, so the new order never feels permanent.",
+   "principle": "After a takeover, supply a legitimate story, a reason to comply, and a new reference point, or the old regime will outlive you.",
+   "in_practice": "After an acquisition or leadership change, people need a clear rationale, a concrete benefit and a new reference point. Borg's version is coercive; the workable version is to explain, deliver early wins, and honor the past, since banning it only makes it a rallying point.",
+   "quote": {
+    "text": "From now on, only criminals will talk of Ragnar Lothbrok. To all intents and purposes, Ragnar Lothbrok is dead.",
+    "speaker": "Jarl Borg",
+    "ep": "S02E04"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "vik-0527"
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "Walls Against an Envious World",
+   "show": "vikings",
+   "secondary": [
+    "LEAD",
+    "REP"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S04E16",
+    "S04E17"
+   ],
+   "strategist": "Lagertha",
+   "target": "The people of Kattegat",
+   "context": "Lagertha has just seized Kattegat, the town she once ruled with Ragnar, by killing its queen, Aslaug. She needs the town to accept her rule while Aslaug's sons are nearby and hostile.",
+   "play": "Lagertha addresses the town directly. She does not justify the killing of Aslaug. She says Kattegat has not been ruled properly for a long time, praises it as the richest trading center in Norway, and warns that others are bound to envy its success. She proposes ditches and palisades and asks everyone to contribute, men, women and children, the fit and the wounded, and calls for an 'Aye'. By the time Aslaug's son Ubbe visits, the works are well underway, and he admits the town is worth defending.",
+   "why_it_works": "A shared outside threat and a common project move the conversation from how she took power to what the town needs, and taking part in the work builds buy-in. The public 'Aye' gives her rule a form of consent it did not have when she took the hall.",
+   "outcome": "The town backs her and the defenses are built, which later hold off a raid (S04E19). Most accept her rule, though Aslaug's son Ivar still wants revenge.",
+   "counter": "Her opponents could have kept attention on Aslaug's killing, as Ivar tries to do, but without allies his demand for justice finds no audience.",
+   "principle": "After taking power, give people a shared threat and a shared project, so the question becomes the future and not how you got there.",
+   "in_practice": "A new leader taking over a team after a messy change should rally people around a concrete common goal, such as a competitive threat to address, and invite everyone to contribute to it.",
+   "quote": {
+    "text": "Which means, that others are bound to be envious of our success.",
+    "speaker": "Lagertha",
+    "ep": "S04E16"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "vik-0608"
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "I Sent Him",
+   "show": "suits",
+   "secondary": [
+    "LEAD",
+    "PSY"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S05E03"
+   ],
+   "strategist": "Jessica Pearson",
+   "target": "Jack Soloff (and Harvey Specter)",
+   "context": "After Harvey Specter retaliates against Jack Soloff for the pay-formula vote, Jack storms into the managing partner's office and demands that Jessica Pearson put her 'dog' Harvey on a leash, suggesting that if she cannot control Harvey she should not control the firm.",
+   "play": "Jessica tells Jack that when he went after Harvey he went after her, and that she is the one who sent Harvey after him. She reminds Jack she has just put more money in every other partner's pocket, warns him that shady tactics only work so many times, and dares him to take her on. Afterwards she tells Harvey that she claimed his attack as her own idea, and that it should have been.",
+   "why_it_works": "Claiming the rogue act as her policy removes the charge that she has lost control and turns Harvey's revenge into a demonstration of her power. It also recasts Jack's move against Harvey as a challenge to the managing partner, which few partners will back.",
+   "outcome": "Jack is put on notice, and Jessica uses the moment to push Harvey to fix his own problems.",
+   "counter": "Jack could have kept Jessica neutral by fighting Harvey only on issues where she had no stake.",
+   "principle": "When a subordinate goes rogue, own it in public and correct it in private.",
+   "in_practice": "If a team member takes an aggressive action that reflects on you, back it to outsiders as your call so your authority holds, then hold the team member accountable behind closed doors.",
+   "quote": {
+    "text": "When you went after Harvey, you went after me, which is why I'm the one that sent him after you in the first place.",
+    "speaker": "Jessica Pearson",
+    "ep": "S05E03"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1348"
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "Light and Dark Succession",
+   "show": "peaky-blinders",
+   "secondary": [
+    "LEAD"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S06E05",
+    "S06E06"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "Duke and Charlie Shelby (and the family)",
+   "context": "Tommy Shelby believes he has 12 to 18 months to live and needs to settle both his legitimate and criminal affairs. His sister-in-law Esme has brought him Duke, a son Tommy never knew he had: an illiterate fairground thief who rejects the Shelby name.",
+   "play": "Tommy introduces Duke to the family but says he must earn his membership. When Duke steals from the betting shop and wants to leave, Tommy tells him the unromantic truth: his mother stole Tommy's watch and invented the story of the noble father she gave him. Then he offers Duke a future: his business has two sides, light and dark, and he needs someone for each, and his son Charlie will take the light. In S06E06 a senior member of the family shows Duke the armory, tests whether he has killed and can keep a secret, and tells him he will be a general one day.",
+   "why_it_works": "Telling a proud young man the truth earns more respect than flattery, and matching heirs to what each is suited for avoids a fight over one crown. Testing Duke through others lets Tommy assess him without seeming to.",
+   "outcome": "Duke stays and plays a key part in the final purge, including the test of his cousin Finn's loyalty, and the succession is in place when Tommy leaves.",
+   "counter": "Finn, passed over and outranked by a newcomer, resents Duke ('You're not family!'); succession by appointment creates losers who need managing.",
+   "principle": "Plan succession by role: give each heir the part they are suited for, and test them before you hand over the keys.",
+   "in_practice": "When planning who takes over parts of your business, split responsibilities by strength and let candidates prove themselves on real work. Tell them hard truths directly, and look after the people who are passed over.",
+   "quote": {
+    "text": "My business has two sides. Light and dark. I'll need someone for each.",
+    "speaker": "Tommy Shelby",
+    "ep": "S06E05"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "pea-0465"
+   ],
+   "category": "POW"
+  },
+  {
+   "title": "No Bricks From the Wall",
+   "show": "peaky-blinders",
+   "secondary": [
+    "PSY",
+    "DEF",
+    "LEAD"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S03E02",
+    "S03E03"
+   ],
+   "strategist": "Tommy Shelby (with Polly and Arthur proposing the alternative)",
+   "target": "Vicente Changretta and his son Angel",
+   "context": "The Shelbys have burned down Angel Changretta's restaurant to stop him courting their cousin Lizzie, and Angel's father Vicente, head of an Italian gang, demands respect. Tommy's brother Arthur wants to apologize, and his aunt Polly arranges a compromise in which Lizzie takes the blame so nobody loses face. Tommy's brother John ignores both and cuts Angel.",
+   "play": "Tommy calls a family meeting and mocks the options of 'Mr Apologise or Mrs Compromise'. While his secret arms deal with the Russians is running he needs peace at home, he argues, and the only way to guarantee it is to make the prospect of war seem hopeless: an apology once becomes an apology forever, like taking bricks out of the wall of your own house. He backs John and orders the family to take two Changretta pubs that night, keep the police away and stay off the telephones.",
+   "why_it_works": "Deterrence works when the other side believes resistance is pointless, and a visible concession can invite more demands. Tommy is thinking about every other rival watching to see whether the Shelbys can be pushed.",
+   "outcome": "It fails badly. At a charity dinner a gunman shouts 'For Angel!' and shoots Tommy's wife Grace dead. In S03E03 Tommy admits that he blames himself for pushing some people too far.",
+   "counter": "Tommy could have paired the show of strength with a way out for the Changrettas. Deterrence without an exit leaves a proud opponent nothing to lose.",
+   "principle": "Deterrence that leaves no exit turns a grievance into a vendetta.",
+   "in_practice": "When a partner or competitor crosses you, be firm and still let them keep face. A counterpart humiliated in a dispute will look for a way to hurt you later, often when you are busiest elsewhere.",
+   "quote": {
+    "text": "And the only way to guarantee peace is by making the prospect of war seem hopeless.",
+    "speaker": "Tommy Shelby",
+    "ep": "S03E02"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "pea-0376"
+   ],
+   "category": "POW"
+  }
+ ]
+}

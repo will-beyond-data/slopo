@@ -1,0 +1,1065 @@
+{
+ "id": "RULE",
+ "name": "Weaponizing Rules & Institutions",
+ "intro_html": "<p>Every institution is a machine for making decisions that nobody has to take personally. Courts, bar associations, Senate rules, licensing boards, a city council, even a Norse assembly at the Law Rock: each one turns a private wish into a public verdict. The strategists in this chapter learn to feed their wishes into that machine. Once a rule does the work, the target has no person to hit back at, the move carries the weight of legitimacy, and the strategist keeps his hands visibly clean.</p><p>The plays fall into a few families. Some find a second rulebook when the first is locked: Chuck Rhoades silences a billionaire's cannons with an endangered turtle in <b>The Bog Turtle Injunction</b> (<i>Billions</i>), and Mike Ross turns a proposed bribe into a lawful settlement in <b>The Legal Payoff</b> (<i>Suits</i>). Some fix the procedure while nobody is watching, as Frank Underwood does in <b>The Fine Print Clause</b> (<i>House of Cards</i>), or use a forgotten rule to strip an opponent of his delaying tactic, as in <b>Arrest the Senate</b>. Some borrow an institution's authority as a disguise: Tommy Shelby's whisky sails unsearched under a minister's export license in <b>Scotch in the Carburetor Crates</b> (<i>Peaky Blinders</i>), and Chuck's father ruins Axe through a licensing board's routine decision in <b>The Invisible Hand in Albany</b>. And the lawyers of <i>Suits</i> show the craft of close reading: what a clause does not forbid (<b>Questions, Not Disclosures</b>), what a claim depends on (<b>Change What You Are</b>), and, in <i>House of Cards</i>, what an earlier document already settled (<b>The Heir Clause</b>).</p><p>It works on people because institutions carry authority that individuals lack. A judge's order, a regulator's letter or a royal seal ends arguments that charm and threats only prolong. Procedure also looks neutral, which is its most dangerous property: in <b>Justice by Technicality</b> (<i>Vikings</i>), Earl Haraldson picks the one reporting rule that condemns the man whose land he wants, and the crowd cheers the law. The same neutrality lets a strategist offer a face-saving exit, because losing to a rule is easier to accept than losing to a rival.</p><p>It backfires in predictable ways. Institutions answer to their own constituencies, and Chuck learns in <b>Drowning the Warden in Paper</b> that public outrage is useless against a boss who reads different newspapers. A disguised payment remains a payment to the investigator who traces it, which is how Mike Prince loses the Olympics in <b>The Scholarship Workaround</b>. A rule you wield can be wielded back: Frank drains a disaster fund to pay for <b>America Works</b>, and Congress uses the next disaster to kill it. And paper is only as good as the signer's authority, as the sons of Ragnar discover in <b>The Worthless Deed</b>.</p><p>Each show brings its own angle. <i>Suits</i> is a manual of close reading, where cases turn on a paragraph nine lines down or on who counts as a client. <i>Billions</i> shows the machinery of the state bent into a private weapon, and what that costs. <i>House of Cards</i> treats parliamentary procedure as terrain to be taken. <i>Peaky Blinders</i> follows a gangster climbing into legitimacy by making institutions depend on him, and <i>Vikings</i> reminds us that even a society of raiders runs on law, seals and deeds. For anyone running a business the lesson is plain: read the rules before you need them, use them only where they genuinely apply, and assume the other side is reading them too.</p>",
+ "principles": [
+  "When the front door is locked, look for a second rule with different enforcers that reaches the same end.",
+  "Agree the procedure early, while nobody is paying attention to it.",
+  "Read a restriction for exactly what it forbids; everything else is open ground.",
+  "An attack delivered as an institution's routine decision is the hardest to answer.",
+  "The strongest answer to a document is an earlier document.",
+  "Give opponents a way to lose to the rules instead of to you, and they will often take it.",
+  "Check who actually holds authority before you rely on a signature or a promise.",
+  "Know which audience an institution answers to before you try to move it.",
+  "Use a rule only where it genuinely applies; a disguised workaround is still the thing it disguises."
+ ],
+ "plays": [
+  {
+   "title": "Removing the Special Master",
+   "show": "suits",
+   "pool_ids": [
+    "sui-A1704",
+    "sui-1645",
+    "sui-1658",
+    "sui-1679",
+    "sui-1681"
+   ],
+   "secondary": [
+    "ALLY",
+    "NEG",
+    "TRAP"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S09E01",
+    "S09E02",
+    "S09E04",
+    "S09E05",
+    "S09E06",
+    "S09E09",
+    "S09E10"
+   ],
+   "strategist": "Harvey Specter, Donna Paulsen, Mike Ross and the partners",
+   "target": "Faye Richardson, the special master appointed by the New York Bar",
+   "context": "After a privilege breach at the firm, the New York Bar invokes a rarely used provision and installs Faye Richardson, a special master, with full control of Pearson Specter Litt. She arrives at Louis Litt's door at night with a court order and a choice: sign tonight, or every partner is suspended from practice for six months tomorrow. Louis signs alone. Faye then removes Robert Zane's name from the wall, strips Louis of managing partner and says she will leave only when convinced the firm can be trusted.",
+   "play": "The partners work through every tool the rules offer. Louis hunts for a loophole in the Bar's bylaws and is demoted for it. Unity works better: Faye has asked Katrina Bennett to write a firm code of conduct and agreed to accept it wholesale, so when Faye tries to strip Donna's vote over her relationship with Harvey, the partners add a waiver clause, each lists their own close ties across the firm, all waive the conflict, and they threaten to resign together. Kompromat fails: Faye once had her ex-husband's investigation quashed to protect her daughter, and she will not trade on it. A lawsuit gets further: Mike and Samantha Wheeler sue Faye for firing Samantha on suspicion alone, and when Faye's lawyers cite the bylaw letting the managing partner fire without cause, Mike points out that nine paragraphs down an unratified managing partner is only acting and cannot. The final con tricks Faye into signing an order to tamper with a witness, and when she still will not fold, Harvey offers her what she wanted from the start: he and Donna leave the firm.",
+   "why_it_works": "Faye is immune to pressure because she is willing to lose everything, so each tactic that relies on fear fails against her. The rules she brought, and the ones she let the partners write, become the only ground where she can be beaten. The eventual settlement works because it meets her real concern, Harvey, on terms that let her leave with her principles intact.",
+   "outcome": "Faye leaves. Samantha and Katrina are rehired, Louis runs the firm, and Harvey and Donna marry and move to Seattle to work with Mike.",
+   "counter": "Faye's weakness was her certainty. Firing Samantha without proof and letting an insider draft the code handed the partners a legitimate lawsuit and a rulebook written in their favor.",
+   "principle": "When an overseer cannot be broken, find what they actually want and give it to them on your terms.",
+   "in_practice": "With an auditor, regulator or investor who has real power and no weak spot, stop hunting for pressure points and ask what outcome would let them sign off; offering it yourself is faster than any fight. If they ask you to draft the policy they will enforce, draft it carefully.",
+   "quote": {
+    "text": "I'm going to give you the thing you wanted since the day you got here, but not the way you wanted it.",
+    "speaker": "Harvey Specter",
+    "ep": "S09E10"
+   },
+   "strength": 5,
+   "steps": [
+    {
+     "ep": "S09E01",
+     "move": "Faye arrives at night with a court order, and Louis signs it alone rather than let every partner be suspended."
+    },
+    {
+     "ep": "S09E02",
+     "move": "She removes Zane's name on day one, then strips Louis of managing partner after his order leads Benjamin to hack the Bar's bylaws."
+    },
+    {
+     "ep": "S09E04",
+     "move": "The partners use a waiver clause in Katrina's code of conduct and a threat of mass resignation to save Donna's vote."
+    },
+    {
+     "ep": "S09E05",
+     "move": "Faye accuses Harvey to flush out the truth and fires Samantha without proof."
+    },
+    {
+     "ep": "S09E06",
+     "move": "Harvey and Louis find Faye's ex-husband and the emails, but she will not trade and Donna talks Harvey out of using them."
+    },
+    {
+     "ep": "S09E09",
+     "move": "Mike and Samantha sue Faye; she hires Harvey and Louis to defend her and binds them to win honestly, then fires Katrina for helping the other side."
+    },
+    {
+     "ep": "S09E10",
+     "move": "The firm stages one last con and Faye signs an order to tamper with a witness; when she still refuses to fold, Harvey offers to leave with Donna, and she goes."
+    }
+   ],
+   "category": "RULE"
+  },
+  {
+   "title": "America Works at Any Cost",
+   "show": "house-of-cards",
+   "pool_ids": [
+    "hou-A1030",
+    "hou-0852"
+   ],
+   "secondary": [
+    "RISK",
+    "REP",
+    "NEG"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S03E01",
+    "S03E02",
+    "S03E05",
+    "S03E07",
+    "S03E08",
+    "S03E09"
+   ],
+   "strategist": "Frank Underwood, President of the United States",
+   "target": "Congress, the Democratic leadership and the voters of 2016",
+   "context": "Six months into a presidency he was never elected to, Frank Underwood has poor approval ratings, a hostile Congress and no mandate. He stakes his legacy on America Works, a 500 billion dollar jobs program paid for by cutting entitlements, which neither party wants.",
+   "play": "Frank fires the adviser who waters the plan down. When the party leadership refuses to back him, he trades away his own 2016 candidacy in return for their introducing the bill. When Congress still will not fund it, his lawyers confirm that the Stafford Act lets the president decide what counts as an emergency, so he declares unemployment one and diverts FEMA disaster money. He starts in Washington, DC, because it has no governor who could refuse, only a mayor who owes him and wants reelection. He forces out the Homeland Security Secretary who objects and puts a registration tent on the Mall so Congress can watch a line of job seekers stretch to the Lincoln Memorial. As Congress moves to ban the diversion, he plans to veto, refuse to enforce and speed up hiring so any fight is about killing jobs.",
+   "why_it_works": "Vague statutory language lets him act first and argue later, and results that exist are harder to undo than plans on paper. Choosing the one jurisdiction with no one who can say no removes the veto points. Each move changes the question so that opposing him means opposing work.",
+   "outcome": "About 25,000 people are hired in DC and a Republican congressman concedes on television that America Works works. Then a hurricane threatens, Congress ties relief money to defunding the program (see The Relief Bill Poison Pill), and Frank signs. The storm turns to sea, he breaks his pledge and runs for 2016 on the program's name.",
+   "counter": "Congress beat him by attaching the one condition he could not veto away to an emergency he had made worse by draining the disaster fund. Raiding reserves leaves you exposed to exactly the crisis the reserves were for.",
+   "principle": "Act where no one can veto you, and create results before the rules can be tested.",
+   "in_practice": "To get a stalled initiative approved, run a small pilot inside your own authority with a willing partner and bring real results to the committee, so critics must argue with outcomes. Stay within the actual policy while you do it, and never fund it from the reserve that protects you in a crisis.",
+   "quote": {
+    "text": "If I can't scrape the money together behind the scenes, I'll rob the bank in broad goddamn daylight.",
+    "speaker": "Frank Underwood",
+    "ep": "S03E05"
+   },
+   "strength": 4,
+   "steps": [
+    {
+     "ep": "S03E01",
+     "move": "Frank fires the economic adviser who softened the plan and persuades Justice Jacobs to delay retiring so no Court fight collides with AmWorks."
+    },
+    {
+     "ep": "S03E02",
+     "move": "He renounces a 2016 run in return for the leadership introducing America Works, then gives the 'entitled to nothing' address."
+    },
+    {
+     "ep": "S03E05",
+     "move": "He declares unemployment an emergency, diverts FEMA money to DC, forces out the objecting Homeland Security Secretary and puts a jobs tent on the Mall."
+    },
+    {
+     "ep": "S03E05",
+     "move": "He reminds congressional leaders that impeaching him means President Blythe, and hires Tom Yates to write the AmWorks book."
+    },
+    {
+     "ep": "S03E07",
+     "move": "As Congress moves to ban the diversion, he plans to veto, refuse to enforce and speed up hiring so any fight is about killing jobs."
+    },
+    {
+     "ep": "S03E08",
+     "move": "Hurricane Faith and Mitchell's relief bill force him to sign away AmWorks; the storm turns to sea and he announces his candidacy on the program."
+    },
+    {
+     "ep": "S03E09",
+     "move": "He campaigns in Iowa on 'A vote for Frank Underwood is a vote for America Works'."
+    }
+   ],
+   "category": "RULE"
+  },
+  {
+   "title": "The Fine Print Clause",
+   "show": "house-of-cards",
+   "pool_ids": [
+    "hou-0784"
+   ],
+   "secondary": [
+    "NEG",
+    "TIME"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S02E03"
+   ],
+   "strategist": "Frank Underwood, Vice President and presiding officer of the Senate",
+   "target": "Curtis Haas, a Tea Party senator",
+   "context": "Frank needs an entitlement amendment and the bill it rides on through the Senate. Curtis Haas controls about 15 Republican votes and can filibuster the main bill even if the amendment passes. Frank needs a way past him before Haas has even declared his position.",
+   "play": "In his first talks with Hector Mendoza, the Republican leader, Frank quietly agrees that passing the substitute amendment will count as passing the main bill 'by previous agreement', and asks to have it in writing. Nobody tells Haas. On the day, once a quorum is restored, Haas threatens to filibuster. Frank informs him of the agreement and orders an immediate call of the roll. When Haas tries to propose an amendment, the chair rules him out of order because the roll call has already begun.",
+   "why_it_works": "The procedural rule was agreed when nobody thought it mattered, so nobody fought it. Getting it in writing early took away Haas's main weapon before he knew he would need it, and moving fast on the day left him no time to find another.",
+   "outcome": "The amendment passes and with it the bill. Haas, outmaneuvered, calls Frank's methods tyranny in the press.",
+   "counter": "Haas should have read and challenged the procedural agreement between the leaders. The rules of a vote matter as much as what is being voted on.",
+   "principle": "Agree the rules of the game early, while nobody is paying attention to them.",
+   "in_practice": "Settle dispute resolution, change control and termination terms at the start of an engagement, when everyone is friendly. Read the procedural clauses in any deal as closely as the price.",
+   "quote": {
+    "text": "Pay attention to the fine print, Curtis. It's far more important than the selling price.",
+    "speaker": "Frank Underwood",
+    "ep": "S02E03"
+   },
+   "strength": 5,
+   "category": "RULE"
+  },
+  {
+   "title": "Arrest the Senate",
+   "show": "house-of-cards",
+   "pool_ids": [
+    "hou-0785"
+   ],
+   "secondary": [
+    "NEG",
+    "WAR"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S02E03"
+   ],
+   "strategist": "Frank Underwood",
+   "target": "Hector Mendoza, the Senate Republican leader, and his caucus",
+   "context": "Haas gets cold feet, Mendoza backs out, and the Republicans plan to vote the amendment down. Frank is presiding over the Senate with less than two days until the recess.",
+   "play": "Frank buys Republican abstentions with local projects (two VA hospitals for one senator, a bovine research center for another) until he is the deciding vote. The Republicans answer by walking out to deny a quorum and run out the clock. Frank takes the chair and has the roll called fast. With no quorum, the minority leader moves to have the sergeant at arms compel absent senators, with arrest warrants if necessary. Mendoza comes to negotiate in person, and Frank hands him a way to save face: the senators cannot come back voluntarily, so Mendoza should pick six to be brought in 'under protest'.",
+   "why_it_works": "An obscure rule, compelled attendance, removes the other side's only delaying tactic. The staged arrests let Mendoza give in while appearing forced, and also let him show Haas who leads the caucus.",
+   "outcome": "Six Republicans are escorted in, the quorum is restored and the bill passes. Frank is hailed as a miracle worker; Haas calls it a police state.",
+   "counter": "Mendoza needed to keep his caucus united and never let Haas go it alone. A split caucus can be worked on from outside.",
+   "principle": "Use the rulebook to take away your opponent's delaying tactic, then give him a way to lose that looks like force.",
+   "in_practice": "When a counterpart is stalling, find the governance or contract mechanism that forces a decision, and pair it with a face-saving story they can tell their own stakeholders.",
+   "quote": {
+    "text": "They can't come back voluntarily. Pick your six best actors.",
+    "speaker": "Frank Underwood",
+    "ep": "S02E03"
+   },
+   "strength": 5,
+   "category": "RULE"
+  },
+  {
+   "title": "The Relief Bill Poison Pill",
+   "show": "house-of-cards",
+   "pool_ids": [
+    "hou-0865"
+   ],
+   "secondary": [
+    "NEG",
+    "LEV"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S03E08"
+   ],
+   "strategist": "Henry Mitchell, Senate Majority Leader, with Bob Birch",
+   "target": "Frank Underwood",
+   "context": "A major hurricane is heading for a dozen states and FEMA needs eight billion dollars that Frank has already spent on America Works. Congress has always hated the program but could never kill it head on. The emergency gives the leadership a vehicle.",
+   "play": "Mitchell offers more than Frank asks for, ten billion against eight, with one rider: no FEMA or other agency money may be used for the jobs program. He lays out the procedural trap: they have the votes to override a veto, and the bill becomes law in ten days without a signature anyway. He refuses Frank's appeal to the old way of negotiating and rejects any compromise. Seven East Coast governors then go public demanding that Frank sign.",
+   "why_it_works": "Attaching the real goal to a must-pass bill during a crisis makes any resistance look like gambling with lives. Because the outcome is procedurally guaranteed, the only thing left for Frank to decide is whether he also takes the blame.",
+   "outcome": "Frank stalls for days, then signs, and America Works is defunded. The storm turns out to sea, so he gave up his signature program for a disaster that never came.",
+   "counter": "Frank created the opening by raiding the disaster fund. He could have lined up enough public supporters in Congress before the crisis to deny the leadership its override votes.",
+   "principle": "Tie what you want to something the other side cannot refuse, and make the outcome inevitable so refusing only adds blame.",
+   "in_practice": "The terms attached to something a client urgently needs are where concessions get won, so be ready to name them fairly when the moment comes. On your own side, never leave a key project funded in a way the next crisis can unwind.",
+   "quote": {
+    "text": "The only question is whether you're gonna sign it before that hurricane hits, or watch it become law after thousands have died.",
+    "speaker": "Henry Mitchell",
+    "ep": "S03E08"
+   },
+   "strength": 4,
+   "category": "RULE"
+  },
+  {
+   "title": "The Heir Clause",
+   "show": "house-of-cards",
+   "pool_ids": [
+    "hou-1014"
+   ],
+   "secondary": [
+    "DEF",
+    "RISK"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S06E06",
+    "S06E07"
+   ],
+   "strategist": "Claire Underwood, President",
+   "target": "Doug Stamper, Frank's former chief of staff",
+   "context": "Frank is dead. Doug holds Frank's handwritten will leaving him everything, including the audio diaries that could destroy Claire. She has failed to intimidate him or get the will back.",
+   "play": "Claire tells Doug it is just the two of them now, and that she no longer worries about him because he would never hurt Francis. Then she explains her prenuptial agreement: if they had descendants and one spouse died first, the survivor waived rights so that all of Francis's assets would pass to his heir. She tells Doug that she and Francis 'have been blessed'. She is pregnant.",
+   "why_it_works": "Instead of contesting the will, Claire uses an earlier contract to make it irrelevant. She also turns Doug's loyalty against him, since attacking Francis's heir would betray Francis.",
+   "outcome": "Doug loses any legal claim to the diaries and turns to the press and the Shepherds instead, implying publicly that she got pregnant to block him.",
+   "counter": "Doug might have published the recordings at once instead of holding them as leverage while the other side searched for a legal answer.",
+   "principle": "The strongest answer to a document is an earlier document.",
+   "in_practice": "Before arguing about rights to IP, data or a client relationship, go back to the founding agreements. A clause signed years ago often settles what no argument can.",
+   "quote": {
+    "text": "all of Francis's assets are entitled to his heir. If he should have one.",
+    "speaker": "Claire Underwood",
+    "ep": "S06E06"
+   },
+   "strength": 4,
+   "category": "RULE"
+  },
+  {
+   "title": "The Recusal",
+   "show": "house-of-cards",
+   "pool_ids": [
+    "hou-1016"
+   ],
+   "secondary": [
+    "LEV",
+    "ALLY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S06E07"
+   ],
+   "strategist": "Claire Underwood",
+   "target": "Justice Vincent Abruzzo, Speaker Brett Cole and the Shepherds",
+   "context": "The Supreme Court is about to uphold a law stripping Claire of her nuclear authority. Bill and Annette Shepherd, industrialists working against her, helped write the majority opinion, and Justice Abruzzo is the swing vote.",
+   "play": "Claire's counsel finds that Abruzzo took an interest-free loan from a Shepherd-owned entity for a lake house while ruling on a Shepherd case. Claire summons Speaker Brett Cole, the Shepherds' own man, lets him know she knows about his affair but says she will not use it, and tells him his line: he came to her to report a quid pro quo, and impeachment must follow. She then meets Abruzzo with Cole beside her, lets the Speaker explain the options, and asks Cole to pass her regards to the Shepherds.",
+   "why_it_works": "A conflict-of-interest rule gives her a legitimate reason for the judge to step aside. Using the opponents' own ally as the messenger makes the threat credible to the judge and humiliating for the Shepherds, and recusal is offered as a quiet exit from a fight that would end in impeachment.",
+   "outcome": "Abruzzo recuses himself, the Shepherds' majority collapses, and Bill and Annette are left scrambling for another vote.",
+   "counter": "The Shepherds' own patronage was the weakness. A judge they had favored financially became a liability the moment anyone looked, and they never checked.",
+   "principle": "Turn your opponent's own ally into your messenger, and give the target a quiet exit.",
+   "in_practice": "When one person blocks a decision and has a genuine conflict of interest, raise it through the proper channel and make stepping aside easier for them than staying. Let someone they trust deliver the message.",
+   "quote": {
+    "text": "The good Justice Abruzzo wouldn't want to be the first then, would he?",
+    "speaker": "Claire Underwood",
+    "ep": "S06E07"
+   },
+   "strength": 4,
+   "category": "RULE"
+  },
+  {
+   "title": "Where One Is Weak",
+   "show": "billions",
+   "pool_ids": [
+    "bil-0058",
+    "bil-0074"
+   ],
+   "secondary": [
+    "LEV",
+    "REP"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S02E01",
+    "S02E02",
+    "S02E04",
+    "S02E06"
+   ],
+   "strategist": "Bobby 'Axe' Axelrod, hedge fund billionaire",
+   "target": "Chuck Rhoades, the US Attorney",
+   "context": "Axe wants Chuck out of office for good, but a single suit from him would be 'a pea shooter against a Panzer tank' and would only put Axe's own name back in the papers. Most people Chuck has crossed cannot even find a lawyer, because the downside is steep and the upside hard to see.",
+   "play": "Prompted by a cop's story about beating a biker gang with superior numbers, Axe has his team find everyone Chuck prosecuted or harassed who left aggrieved and had real grounds, then funds their claims. The suits are filed together so they land at once, 127 of them, including Axe's own claim for malicious prosecution. Former prosecutors come forward saying Chuck expected intimidation to force settlements, and a judge denies Chuck's motion to dismiss. In the depositions Chuck's lawyer, Ira Schirmer, fights back with a fork of his own: if Axe will not open his books to show real damages, is he claiming Chuck hurt him mentally or emotionally?",
+   "why_it_works": "One grievance looks like sour grapes; a hundred filed together look like a pattern of misconduct, which is what judges and the press take seriously. Funding other people's claims turns many weak positions into one strong one and moves the story from Axe to Chuck.",
+   "outcome": "Chuck faces personal ruin: his lawyer warns that liability on even part of the cases could bankrupt him, and he sells his Churchill books and hides the damage from his wife Wendy. The suits become the chip Axe later trades for Wendy's return to Axe Capital.",
+   "counter": "Chuck could have moved early to split the claimants, settling the strongest quietly so the aggregate looked weaker, or exposed who was financing them.",
+   "principle": "Aggregate weak claims until the pattern becomes the story.",
+   "in_practice": "A single client complaint or partner grievance is easy to dismiss; documented and presented together, many small issues become a case leadership has to act on. Use this to build fair cases for change, and watch for it being done to you.",
+   "quote": {
+    "text": "Where one is weak, many are strong.",
+    "speaker": "Bobby Axelrod",
+    "ep": "S02E01"
+   },
+   "strength": 5,
+   "category": "RULE"
+  },
+  {
+   "title": "The Bog Turtle Injunction",
+   "show": "billions",
+   "pool_ids": [
+    "bil-0251"
+   ],
+   "secondary": [
+    "ALLY",
+    "INT"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S06E01"
+   ],
+   "strategist": "Chuck Rhoades, now New York Attorney General",
+   "target": "Melville Revere, a billionaire neighbor",
+   "context": "Chuck is working from his upstate farm, and his neighbor Melville Revere fires antique cannons every morning and evening. Revere has a state license and a federal firearms waiver, and has bought the town's silence by paying for its fire truck, police gear and Little League. As Attorney General, Chuck finds the law gives him nothing.",
+   "play": "Chuck tries a neighborly request and is rebuffed. He learns from the mayor exactly why nobody will stand up to Revere, then acts as a private citizen. He brings in a naturalist to survey Revere's marsh, where shell fragments turn up in ideal habitat for the endangered bog turtle. He gathers the town behind a petition, and when Revere's investment manager cuts him loose, Revere is isolated. The State Department of Environmental Conservation arrives with a temporary restraining order that silences the cannons.",
+   "why_it_works": "When the obvious legal route is blocked, a different body of law with different enforcers can reach the same result: endangered species protection outranks a firearms waiver. Once someone else holds the paper, the townspeople have cover to say what they already felt.",
+   "outcome": "The cannons go quiet and the town sides openly with Chuck. He learns that he can beat billionaires more easily as a citizen with the public behind him than with the weak laws of his office, the insight that drives his season-long campaign.",
+   "counter": "Revere relied on donations instead of genuine goodwill, and never audited his own land for environmental exposure after a hostile lawyer moved in next door.",
+   "principle": "If the front gate is locked, find the regulation someone else enforces.",
+   "in_practice": "When a contract gives you no remedy against a difficult partner, check whether another rule genuinely applies to them (data protection, safety, procurement policy) and which stakeholders already resent the behavior. The rule must really apply; the point is finding it, never inventing it.",
+   "quote": {
+    "text": "Endangered bog turtles have been discovered nesting in your marshland.",
+    "speaker": "State conservation officer",
+    "ep": "S06E01"
+   },
+   "strength": 4,
+   "category": "RULE"
+  },
+  {
+   "title": "The Invisible Hand in Albany",
+   "show": "billions",
+   "pool_ids": [
+    "bil-0095"
+   ],
+   "secondary": [
+    "WAR",
+    "LEV"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S02E08",
+    "S02E09",
+    "S02E11"
+   ],
+   "strategist": "Charles Rhoades Sr., Chuck's father, and Jack Foley, a political kingmaker",
+   "target": "Bobby Axelrod",
+   "context": "Axe has bought the debt of Sandicot, a struggling upstate town, on the certainty that it will be chosen for a new casino. Chuck's father wants to hurt Axe and profit at the same time, without leaving any trace that points to his son.",
+   "play": "Chuck Sr. asks Foley for a favor, and Foley has the state's casino Location Board, through the Governor's office, move the license from Sandicot to the town of Kingsford at the last minute. Chuck Sr. has quietly bought up half of Kingsford's land and uses a developer as his front. Axe's investigators find no bribes, and every official gives the same boilerplate reason for the decision.",
+   "why_it_works": "An attack delivered as an institution's routine decision looks like bureaucracy, and there is nobody to sue or confront. The profit sits in a separate land deal, so the harm and the gain never appear side by side.",
+   "outcome": "Axe is forced into austerity and becomes the villain of Sandicot, which helps Chuck politically. The scheme also ties the Rhoades family to Sandicot, so Chuck has to shut down his own office's investigation, and his father's cash ends up locked in Kingsford land.",
+   "counter": "Axe relied on a single informant for the license decision and never priced in political interference. He could have hedged the exposure or tested his certainty with more than one source.",
+   "principle": "The most deniable attack is one delivered as an institution's routine decision.",
+   "in_practice": "In procurement or regulated markets, a deal you believe is locked can be undone by whoever has influence over the committee. Map who influences the decision makers, as well as the decision makers themselves.",
+   "quote": {
+    "text": "Yes, I torpedoed Axelrod at your behest, and while Chuck may not know that, he does know that I was planning to help him in Albany.",
+    "speaker": "Jack Foley",
+    "ep": "S02E08"
+   },
+   "strength": 4,
+   "category": "RULE"
+  },
+  {
+   "title": "Let the Mayor Kill It",
+   "show": "billions",
+   "pool_ids": [
+    "bil-0255"
+   ],
+   "secondary": [
+    "ALLY",
+    "NEG"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S06E03"
+   ],
+   "strategist": "Mike Prince, billionaire and Axe's successor at the fund",
+   "target": "Todd Krakow's rival Olympic bid",
+   "context": "Prince is quietly assembling a New York bid for the Olympics when Todd Krakow, a disgraced former Treasury Secretary, appears with a rival plan: a special purpose vehicle to buy land and build a stadium in Manhattan, the one piece any bid needs.",
+   "play": "Prince meets the new mayor and briefs her on Krakow's stadium. He persuades her to announce that it will go through full community, committee and environmental review, which makes it impossible to finish in time for the Games. In return the mayor backs Prince's bid. With his stadium dead, Krakow accepts defeat and joins Prince.",
+   "why_it_works": "Prince never attacks Krakow directly. He gives a public official a reason, rooted in her own powers, to slow the rival down, and the calendar does the rest. Absorbing the beaten rival then turns an enemy into a partner.",
+   "outcome": "Prince becomes the only serious bidder and gains the mayor's support, and the rival investors behind Krakow are left with nothing.",
+   "counter": "Krakow could have secured the mayor and the permitting path before revealing his plan, or built slack into a project that lived or died on a deadline.",
+   "principle": "Against a deadline-bound rival, you only need to add delay.",
+   "in_practice": "When competing for a tender with a fixed deadline, being the bidder who has already satisfied every review and compliance step can decide it. Afterward, consider bringing the loser in as a partner.",
+   "source": "knowledge",
+   "strength": 3,
+   "category": "RULE"
+  },
+  {
+   "title": "Trying the Case in Voir Dire",
+   "show": "billions",
+   "pool_ids": [
+    "bil-0088"
+   ],
+   "secondary": [
+    "PSY"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S02E06"
+   ],
+   "strategist": "Bryan Connerty, a federal prosecutor",
+   "target": "Lawrence Boyd, a bank executive on trial for bid-rigging, through the jury pool",
+   "context": "The case against Boyd rests on a recording and a witness who can be painted as a man with a grudge. Chuck has refused any plea without jail time and told Connerty to keep a jury interested in Treasury bid-rigging.",
+   "play": "During jury selection Connerty uses his supplemental questions to show what ordinary New Yorkers think of banker pay. He asks one juror how much wealth the top 20 percent controls, then asks a tunnel worker who has never had a bonus whether he could be fair knowing the average bonus at Boyd's bank was over $366,000, and whether it would matter that Boyd's was more than 50 times that. The defense burns through its challenges.",
+   "why_it_works": "Jury selection is formally about screening for bias, but the questions themselves shape how the whole panel sees the case. Boyd, watching the jurors react, gets a preview of his verdict.",
+   "outcome": "With his lawyers out of challenges and ten years in prison at stake, Boyd tells his lawyer he cannot tolerate the risk and pleads guilty, with a $60 million fine and probation.",
+   "counter": "The defense could have objected early that the hypotheticals were arguing the case, or settled before jury selection showed Boyd his jury.",
+   "principle": "The way you ask a question can make the argument for you.",
+   "in_practice": "In discovery calls, a question that makes the buyer quantify the problem ('what does a week of bad data cost you?') persuades more than any claim you make. Use it honestly.",
+   "quote": {
+    "text": "Do you think you'd be able to decide this case in a fair and impartial manner if you knew that the average Spartan-Ives bonus last year was over 366,000 dollars?",
+    "speaker": "Bryan Connerty",
+    "ep": "S02E06"
+   },
+   "strength": 4,
+   "category": "RULE"
+  },
+  {
+   "title": "Forcing the Evidence Out",
+   "show": "billions",
+   "pool_ids": [
+    "bil-0145"
+   ],
+   "secondary": [
+    "INT",
+    "TIME"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S03E06"
+   ],
+   "strategist": "Orrin Bach, Axe's lawyer, and Axe",
+   "target": "Bryan Connerty, now prosecuting Axe in the Eastern District",
+   "context": "Axe fears the prosecutors have a key piece of evidence, a slide, hidden under a code name. Hacking the FBI or bribing staff to find out would be far too risky.",
+   "play": "Bach files a motion to dismiss, which forces the prosecution either to show its evidence or admit it has none. Axe attends the hearing only to 'look in their faces'. Connerty admits witnesses have been tampered with and that he has only a lead on an unnamed operative, and Bach gets the judge to note that this is evidence against someone else. The judge gives Connerty one week to produce convincing evidence or the case will be dismissed.",
+   "why_it_works": "The motion makes the other side show its hand in open court, so a routine procedural step does the work of spying without breaking any law.",
+   "outcome": "Axe learns the prosecution does not yet have the slide. The one-week deadline also makes his opponents desperate: Chuck speeds up a plan to plant the evidence, and Connerty goes after a trade by Chuck's wife Wendy.",
+   "counter": "Connerty could have kept his hints about the operative to himself, but with nothing to show he had to reveal how little he had. Anyone setting a deadline should plan for how a desperate opponent will behave once the clock is running.",
+   "principle": "Use a formal process to make the other side show what it has, and expect an opponent on a deadline to take bigger risks.",
+   "in_practice": "In a dispute, a formal document request or a demand letter with a deadline shows whether the other side has a real case. Expect them to push harder once the clock is running.",
+   "quote": {
+    "text": "If Eastern has the slide, the motion forces them to reveal the evidence to prove they have a case.",
+    "speaker": "Orrin Bach",
+    "ep": "S03E06"
+   },
+   "strength": 3,
+   "category": "RULE"
+  },
+  {
+   "title": "Drowning the Warden in Paper",
+   "show": "billions",
+   "pool_ids": [
+    "bil-0134"
+   ],
+   "secondary": [
+    "REP",
+    "LEV"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S03E03"
+   ],
+   "strategist": "Chuck Rhoades",
+   "target": "The warden of a federal jail, and through him Attorney General Jock Jeffcoat",
+   "context": "Jock Jeffcoat, the US Attorney General and Chuck's boss, orders Chuck to prosecute José Lugo, an inmate who killed a prison guard. Connerty has found 25 prisoner statements showing the guard tortured Lugo, and Chuck does not want to charge a man he believes was defending himself.",
+   "play": "Chuck notes that his office defends the warden in about 400 inmate lawsuits. He does not threaten to lose them; he suggests he might just slow down and 'let 'em build up.' The warden gives in, and Chuck sends him to a young financial journalist who will protect his name. The story runs with a sympathetic photo of Lugo, and Chuck assumes the public anger will kill the case.",
+   "why_it_works": "Chuck's pressure is a threat to do less, which is hard to call misconduct. The leak is meant to turn the facts into public pressure the Attorney General would normally find hard to ignore.",
+   "outcome": "It fails. Jeffcoat reads different media, sees outrage over a dead guard, fires the warden, orders the prosecution and warns Chuck about leaks. Chuck has to bring the case after all.",
+   "counter": "Chuck assumed his boss answered to the same public he did. Before using public pressure, work out which audience the decision maker actually listens to.",
+   "principle": "Public pressure only works on someone who cares about that particular public.",
+   "in_practice": "Before using customer feedback or press attention to push a decision inside a client, find out which audience the decision maker answers to. The wrong kind of noise can harden their position.",
+   "quote": {
+    "text": "Normally, I would knock these nuisances away like a windshield wiper during a light rain.",
+    "speaker": "Chuck Rhoades",
+    "ep": "S03E03"
+   },
+   "strength": 3,
+   "category": "RULE"
+  },
+  {
+   "title": "The Scholarship Workaround",
+   "show": "billions",
+   "pool_ids": [
+    "bil-0263"
+   ],
+   "secondary": [
+    "DEC",
+    "RISK"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S06E07",
+    "S06E08"
+   ],
+   "strategist": "Mike Prince",
+   "target": "The members of the international committee choosing the Olympic host",
+   "context": "Prince needs committee votes for New York, and bid processes run on favors. He refuses to pay outright bribes, which would destroy the clean reputation he is building for a political future.",
+   "play": "Prince funds a set of scholarships at his old university and allocates them among committee members, who can award them to deserving candidates of their choosing. The arrangement runs through a middleman, Colin Drache, who deals between the committee and every bidder.",
+   "why_it_works": "Each member gets patronage to hand out, which is what a bribe buys, while no money goes to them directly, which gives Prince deniability.",
+   "outcome": "New York wins the Games. But Chuck's team recognizes the pattern as sophisticated bribery and focuses on Drache, and the resulting scandal strips New York of the Games.",
+   "counter": "A disguised payment is still a payment if an investigator can follow it. Prince needed to keep his giving entirely separate from the people deciding his bid.",
+   "principle": "A bribe with good manners is still a bribe to the investigator who finds it.",
+   "in_practice": "Gifts, sponsorships or donations steered toward the people deciding on your bid are an inducement in substance. Keep community spending fully separate from procurement decisions.",
+   "source": "knowledge",
+   "strength": 3,
+   "category": "RULE"
+  },
+  {
+   "title": "Standing Men Up",
+   "show": "peaky-blinders",
+   "pool_ids": [
+    "pea-0352"
+   ],
+   "secondary": [
+    "NEG",
+    "LEV"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S02E03"
+   ],
+   "strategist": "Tommy Shelby, head of the Shelby family's Birmingham gang",
+   "target": "The police and the Home Secretary's gambling crackdown",
+   "context": "The new Home Secretary is demanding convictions for illegal gambling. The Shelbys' bookmaking business depends on friendly police officers, who now need arrests to show.",
+   "play": "Tommy and his brother Arthur interview young men with no criminal record and pay them five pounds each to be 'stood up': arrested as illegal bookmakers for a first-offense week inside. The police meet their quota and the real business carries on. One recruit, Harold Hancox, is coached to give his trade as 'umbrella mender' when arrested.",
+   "why_it_works": "It gives the institution exactly what it measures, conviction numbers, while protecting the substance of the business, and it makes the police more dependent on the Shelbys.",
+   "outcome": "The police get their numbers, but the rival London boss Darby Sabini learns of it and has Hancox killed in prison to show that Shelby men are not safe inside. Tommy has to send men in to take control of the prison.",
+   "counter": "The scheme relied on the stood-up men trusting the Shelbys to protect them. Protection inside should have been arranged before the first man went in.",
+   "principle": "When an institution is judged by a number, supplying the number buys its goodwill.",
+   "in_practice": "Learn the metrics a regulator, partner or buyer is measured on and help them hit those metrics honestly. Anyone you put at risk to make the arrangement work becomes your responsibility.",
+   "quote": {
+    "text": "So we help our coppers make their quota of convictions by having men stood up to be arrested.",
+    "speaker": "Tommy Shelby",
+    "ep": "S02E03"
+   },
+   "strength": 4,
+   "category": "RULE"
+  },
+  {
+   "title": "Scotch in the Carburetor Crates",
+   "show": "peaky-blinders",
+   "pool_ids": [
+    "pea-0359"
+   ],
+   "secondary": [
+    "DEC"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S02E04",
+    "S02E06"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "Customs officers and the Prohibition authorities",
+   "context": "Tommy has obtained an Empire export license through Winston Churchill's office, a secure warehouse in Camden and passage through the Poplar Docks. Canada and the United States are under Prohibition, and rich buyers there still pay for real Scotch.",
+   "play": "The first Shelby consignment is a thousand car carburetors bound for Halifax, Nova Scotia, with 500 bottles of single malt hidden in the packing. The whisky is packed at the docks so his cousin Michael can keep the company's books clean. Because the license comes from the Minister of the Empire, the crates are not searched. Tommy lets the boatman skim a bottle as 'tax' and warns him not to go further.",
+   "why_it_works": "The state's own stamp is the best disguise, because inspectors defer to it. Keeping the legal and illegal flows physically separate protects the legitimate side of the company.",
+   "outcome": "The export business runs until a police raid impounds the vans and warehouse. Later Tommy uses the same license to buy back the loyalty of the rum smuggler Alfie Solomons, who can now ship unsearched.",
+   "counter": "The license depends on Churchill's goodwill and the tolerance of Inspector Campbell, Tommy's government handler. A single political shift exposes everything built on it.",
+   "principle": "An official permission is worth more than any hiding place.",
+   "in_practice": "Licenses, certifications and approved-vendor status are real competitive assets. A business built entirely on one approval is exposed the day its sponsor's position changes, so diversify.",
+   "quote": {
+    "text": "And we, Shelby's, have a licence granted by the Minister Of The Empire himself, which means our crates won't be searched.",
+    "speaker": "Tommy Shelby",
+    "ep": "S02E04"
+   },
+   "strength": 3,
+   "category": "RULE"
+  },
+  {
+   "title": "Four Minutes and a Council Order",
+   "show": "peaky-blinders",
+   "pool_ids": [
+    "pea-0463"
+   ],
+   "secondary": [
+    "PSY",
+    "POW"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S06E05"
+   ],
+   "strategist": "Tommy Shelby, now a Member of Parliament",
+   "target": "A Chinatown opium seller and the traders of Montague Street",
+   "context": "The seller who supplied Tommy's brother Arthur with opium has a business built over ten years. Tommy wants opium out of his constituency, even while he ships it to Boston.",
+   "play": "Tommy sits down in the shop, orders green tea and sets four minutes on the clock. Speaking as the local MP about the harm opium does to children and workers, he orders the shop to sell only cigarettes, cake and tea, and tells the seller to inform his suppliers and customers that there will be no more opium in the district. Outside, his men tell the pubs and cafes of Montague Street that any further trade in powder means the whole street will be demolished and replaced by apartments by order of the council.",
+   "why_it_works": "The clock turns reluctance into a decision. Moving the threat from gang violence to council demolition makes it official, harder to resist and deniable, and the traders become messengers to their own suppliers.",
+   "outcome": "The seller agrees to stop and Montague Street is cleared the same day. Tommy's gang power and his public office now work together.",
+   "counter": "The traders could have looked for allies on the council or in the press, but Tommy's grip on local institutions left them little room.",
+   "principle": "A threat backed by an institution is harder to resist than one backed by force, and a deadline turns reluctance into a decision.",
+   "in_practice": "When you need a decision, set a short, clear deadline and rest your position on rules or contract terms that already apply. Ask the other party to pass the new terms to their own network so you do not have to repeat them.",
+   "quote": {
+    "text": "You tell the pub and cafe owners in Montague Street... ...if there is any further trade in powder, there will be no more Montague Street.",
+    "speaker": "Tommy Shelby",
+    "ep": "S06E05"
+   },
+   "strength": 3,
+   "category": "RULE"
+  },
+  {
+   "title": "Justice by Technicality",
+   "show": "vikings",
+   "pool_ids": [
+    "vik-0488"
+   ],
+   "secondary": [
+    "POW"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S01E01"
+   ],
+   "strategist": "Earl Haraldson, ruler of Kattegat",
+   "target": "Eric Trygvasson, accused of murder",
+   "context": "At the thing, the local assembly, Eric Trygvasson is accused of killing Sigvald Strut over disputed land. Trygvasson says it was self-defense. Rollo later reveals that the Earl wanted the land himself and knew Trygvasson had the best claim but would not sell.",
+   "play": "Haraldson sets aside the question of who drew the knife and rules on procedure: the law obliges a killer to declare the killing at the first house he passes, and lets him pass two houses, never a third. Because Trygvasson passed several, the killing becomes secret murder, which cannot be settled by compensation. Haraldson puts the question to a crowd already baying for blood, and the vote is unanimous. When Trygvasson blurts out that the Earl knew about his claim, Haraldson shuts him down.",
+   "why_it_works": "A procedural rule looks neutral, so using it for a self-interested result hides the motive behind the authority of the law. By choosing the frame before any facts are argued, the judge decides the case.",
+   "outcome": "Trygvasson is executed and the land is cleared for Haraldson. Ragnar and Rollo see exactly how the Earl operates, which feeds their distrust.",
+   "counter": "Trygvasson needed to raise the conflict of interest openly and early, before the procedural frame was set, and to have witnesses to the attack on him.",
+   "principle": "Whoever chooses which rule applies usually decides the verdict.",
+   "in_practice": "In contract disputes and procurement reviews, watch for the other side steering the discussion onto a technical clause where you are weak. Insist on the substance, and name any conflict of interest on the record.",
+   "quote": {
+    "text": "The law allows you to pass two houses, in such circumstances, but never a third.",
+    "speaker": "Earl Haraldson",
+    "ep": "S01E01"
+   },
+   "strength": 3,
+   "category": "RULE"
+  },
+  {
+   "title": "Let the Law Judge",
+   "show": "vikings",
+   "pool_ids": [
+    "vik-0519"
+   ],
+   "secondary": [
+    "LEAD",
+    "REP"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S02E01"
+   ],
+   "strategist": "Ragnar Lothbrok, Earl of Kattegat",
+   "target": "The people of Kattegat, the warrior Torstein and Rollo",
+   "context": "Ragnar's brother Rollo fought against his own people and killed their comrade Arne. The town wants him dead, and as Earl, Ragnar could order it. Executing his brother would scar him; sparing him on his own authority would look like favoritism.",
+   "play": "Ragnar declares that he cannot judge his own brother and sends Rollo to the Law Rock, where the Law-Giver will decide. The Law-Giver rules that Rollo deserves death, but that the gods spared him in battle and he threw himself on his brother's mercy, so he goes free. When Torstein urges Ragnar to kill Rollo anyway, Ragnar refuses: they must obey the law, and the Law-Giver is no ordinary man when he stands on the sacred stone.",
+   "why_it_works": "Handing a conflicted decision to a recognized institution removes the charge of personal bias and gives the outcome a legitimacy Ragnar could not give it alone. Honoring the verdict also strengthens an institution he may need later.",
+   "outcome": "Rollo lives and the crowd's anger falls on the verdict instead of on Ragnar. Rollo remains an outcast, but the door to his redemption stays open.",
+   "counter": "Those who wanted Rollo dead could have argued their case before the Law-Giver or objected to the forum at the start, instead of shouting at the result afterward.",
+   "principle": "When you are conflicted, route the decision through a process everyone already accepts.",
+   "in_practice": "If a decision involves a friend, relative or favorite client, step back and let an agreed process or a neutral colleague decide. Then abide by the result, even when it goes the way you privately wanted.",
+   "quote": {
+    "text": "I cannot judge my own brother.",
+    "speaker": "Ragnar",
+    "ep": "S02E01"
+   },
+   "strength": 3,
+   "category": "RULE"
+  },
+  {
+   "title": "The Sealed Abdication",
+   "show": "vikings",
+   "pool_ids": [
+    "vik-0580"
+   ],
+   "secondary": [
+    "REP",
+    "POW"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S04E08",
+    "S04E09"
+   ],
+   "strategist": "King Ecbert of Wessex",
+   "target": "Queen Kwenthrith of Mercia",
+   "context": "After Ecbert's victory in Mercia, Kwenthrith comes to be restored to her throne, announcing that she is carrying the child of Ecbert's son Aethelwulf. With the Mercian council dead and her rival Wigstan gone, she assumes the crown is hers again.",
+   "play": "Ecbert tells her she is no longer queen, because he is king. His bishop shows her documents that the council members and her own family sealed before their executions, in which Wigstan, before witnesses from the laity and clergy, accepted her abdication and Ecbert's accession. Ecbert notes that the seals are legal and the documents binding in the eyes of men and of God, then has her confined under guard.",
+   "why_it_works": "Force wins the war; paperwork makes the result legitimate. By collecting seals before the signatories died, Ecbert turns a conquest into a lawful succession that the church can bless and Kwenthrith cannot contest.",
+   "outcome": "Ecbert is crowned King of Wessex and Mercia with the church's anointing. Kwenthrith has no legal claim left, and her attempts to escape and then to kill him end in her death.",
+   "counter": "Kwenthrith should have secured her own formal recognition before the campaign, instead of relying on Ecbert's public promise.",
+   "principle": "Win on the ground, then lock it in on paper before anyone contests it.",
+   "in_practice": "After agreeing a deal verbally, get it signed while the goodwill lasts. Before joining a venture, check who will hold the documents that define ownership at the end.",
+   "quote": {
+    "text": "As you see, the devices are legal, the documents, binding. Both in the eyes of men and of God.",
+    "speaker": "Ecbert",
+    "ep": "S04E08"
+   },
+   "strength": 3,
+   "category": "RULE"
+  },
+  {
+   "title": "The Worthless Deed",
+   "show": "vikings",
+   "pool_ids": [
+    "vik-0619"
+   ],
+   "secondary": [
+    "DEC",
+    "TIME"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S05E01",
+    "S05E03",
+    "S05E04"
+   ],
+   "strategist": "King Ecbert (set up before his death), used by King Aethelwulf and Bishop Heahmund",
+   "target": "The sons of Ragnar",
+   "context": "Facing death at the hands of the Great Heathen Army, Ecbert granted the sons of Ragnar the lands of East Anglia in a formal treaty. The Northmen treat the grant as a real title and the basis for a permanent settlement.",
+   "play": "Before the army arrived, Ecbert had already renounced his crown in favor of his son Aethelwulf, so the land was never his to give. The monk who wrote out the treaty survives and tells Bishop Heahmund, who concludes that the grant is worthless. When Ubbe and Hvitserk later come to negotiate on the basis of the grant, Aethelwulf answers that his father had no right to grant them anything because he was no longer king. The Saxons send the envoys away and prepare for a siege.",
+   "why_it_works": "A promise is only as good as the authority of the person making it. Ecbert gave away something he no longer owned, so the Saxons can repudiate it without breaking their own word.",
+   "outcome": "The sons of Ragnar lose their legal basis for settling in England, Ubbe's peace mission fails, and the failure hands his brother Ivar the argument that negotiation is weakness.",
+   "counter": "Confirm who actually holds authority before accepting a concession, and get the successor's signature, or some other security, before relying on it.",
+   "principle": "Check that the person signing actually owns what they are giving you.",
+   "in_practice": "Before relying on a contract, discount or partnership promise, confirm the person has authority to commit their organization. A sign-off from someone who has just handed over the role is worth nothing.",
+   "quote": {
+    "text": "It wasn't his to sell.",
+    "speaker": "The monk who witnessed the treaty",
+    "ep": "S05E01"
+   },
+   "strength": 3,
+   "category": "RULE"
+  },
+  {
+   "title": "The Legal Payoff",
+   "show": "suits",
+   "pool_ids": [
+    "sui-1201"
+   ],
+   "secondary": [
+    "NEG",
+    "DEF"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S03E03",
+    "S03E08"
+   ],
+   "strategist": "Mike Ross, associate, with Harvey Specter, senior partner",
+   "target": "Cameron Dennis's five foreign witnesses",
+   "context": "Cameron Dennis, Harvey's old mentor from the District Attorney's office, is prosecuting Ava Hessington, CEO of Harvey's client Hessington Oil, and produces five foreign witnesses who place a colonel her company allegedly bribed at the scene of killings. Ava wants to bribe the witnesses. Harvey refuses and is fired, but keeps working, because he suspects Cameron is waiting for exactly that bribe.",
+   "play": "Mike's idea is to have the witnesses sue Hessington Oil under the Alien Tort Statute, which lets foreign nationals bring civil claims in US courts, and then settle. The claim has to be real: they witnessed multiple murders, which is traumatic enough to cause PTSD, which in turn could stop them flying in to testify. As foreign nationals they are beyond Cameron's subpoena. To make the deal look arm's length, Mike brings in a lawyer he once helped place at a firm known for never cooperating with Harvey's.",
+   "why_it_works": "The outcome a bribe would buy, money paid and witnesses absent, becomes lawful when it runs through a genuine claim, independent counsel and a signed settlement. They find the route only because they looked for a legal channel before an illegal one.",
+   "outcome": "Ava drops the bribe and rehires Harvey, the settlement is executed, and Cameron's witnesses never take the stand. Mike has used up a favor with the outside lawyer, which comes back to hurt him later in the season.",
+   "counter": "Secure foreign witnesses early, by deposition or under protection, and scrutinize any civil settlement that appears suddenly just before trial.",
+   "principle": "Before doing something questionable, look for the lawful channel to the same end.",
+   "in_practice": "If you need to compensate a departing partner or settle with an unhappy client, do it through a documented agreement with independent advice, never a side payment. The lawful version usually exists if you look for it first.",
+   "quote": {
+    "text": "We don't need to bribe the witnesses. We need them to sue us, right?",
+    "speaker": "Mike Ross",
+    "ep": "S03E03"
+   },
+   "strength": 5,
+   "category": "RULE"
+  },
+  {
+   "title": "Hand Over Everything",
+   "show": "suits",
+   "pool_ids": [
+    "sui-1299",
+    "sui-1302"
+   ],
+   "secondary": [
+    "DEF",
+    "TRAP"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S04E08",
+    "S04E09"
+   ],
+   "strategist": "Harvey Specter, now a name partner, with Jessica Pearson, managing partner",
+   "target": "Sean Cahill of the SEC and his colleague Eric Woodall",
+   "context": "Sean Cahill, an SEC investigator, keeps coming back to the firm over a takeover battle, suspecting collusion. Jessica warns that a cop who follows a car long enough will find or create a broken taillight. Harvey has already stalled Cahill once by offering thirty years of unsorted files.",
+   "play": "Harvey reverses course. In court he offers every file on the takeover, on condition that the court catalogs every page so Cahill cannot 'find' anything that was never there. At the same time he files a malicious prosecution claim and tells the judge that when the search comes up empty, it will be exhibit A. When Cahill protests that it is a ploy, the judge points out he is getting exactly what he asked for. Harvey then uses the malicious prosecution claim to depose Woodall and confronts him with an email written two years before an old case: 'I don't care what we get Arthur Cohen on.'",
+   "why_it_works": "Turning the investigator's demand into an obligation, under the court's supervision, converts pressure on the firm into risk for him. The catalog prevents tampering, and the parallel claim means an empty result becomes proof of bias.",
+   "outcome": "Cahill takes the files and Woodall is rattled into admissions on the record. But the files contain an offshore payment made by Louis Litt that Harvey did not know about, which sets up the next crisis.",
+   "counter": "Cahill could have refused the offer and asked for narrow, targeted production, which would have avoided the malicious prosecution trap.",
+   "principle": "Give your accuser everything they ask for, under supervision, and make an empty result count against them.",
+   "in_practice": "If an auditor or complainant keeps making vague claims, offer full, documented transparency on agreed terms. Know everything in your own files before you open them.",
+   "quote": {
+    "text": "We changed our minds because we have nothing to hide.",
+    "speaker": "Harvey Specter",
+    "ep": "S04E08"
+   },
+   "strength": 4,
+   "category": "RULE"
+  },
+  {
+   "title": "Trade the Charge You Can't Win",
+   "show": "suits",
+   "pool_ids": [
+    "sui-1366"
+   ],
+   "secondary": [
+    "TRAP",
+    "TIME"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S05E07"
+   ],
+   "strategist": "Jack Soloff, a partner at the firm",
+   "target": "Straussbank",
+   "context": "The New York teachers' pension fund lost 30 percent of its income on derivatives Straussbank created and sold. Mike wants to hold criminal charges over the bank to get its emails, and the bank's lawyer is stalling discovery.",
+   "play": "In court, Jack offers not to pursue criminal charges if the bank hands over the emails within the week, and the bank's lawyer offers them the next day. Mike accuses Jack of giving away the firm's leverage. Jack explains that nobody goes to jail for selling bad securities, but people do go to jail for destroying evidence. He expects the bank to hold emails back, and the waiver covers the fraud and says nothing about obstruction.",
+   "why_it_works": "The waiver gives up a weak threat, since securities fraud is hard to prove to a jury, and buys speed in return, while inviting the bank to commit a new, simpler offense that the waiver does not cover.",
+   "outcome": "The emails arrive with gaps, setting up the next move against the bank. Mike apologizes to Jack for assuming the worst.",
+   "counter": "Once it accepted the deal, the bank needed to produce everything, since a partial production creates a fresh offense.",
+   "principle": "Give up the charge you cannot prove to invite the one you can.",
+   "in_practice": "In a dispute, conceding a claim that is hard to prove in exchange for fast, complete disclosure can expose a clearer breach. Read exactly what any waiver covers, whichever side of it you are on.",
+   "quote": {
+    "text": "Your idea of threatening prison was right, but nobody ever went to jail for selling shitty securities. They go to jail for destroying evidence.",
+    "speaker": "Jack Soloff",
+    "ep": "S05E07"
+   },
+   "strength": 4,
+   "category": "RULE"
+  },
+  {
+   "title": "Heads I Win, Tails You Lose",
+   "show": "suits",
+   "pool_ids": [
+    "sui-1553"
+   ],
+   "secondary": [
+    "NEG",
+    "LEAD"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S07E12"
+   ],
+   "strategist": "Mike Ross, with Rachel Zane",
+   "target": "Oliver Grady, Mike's former protégé, now running a legal clinic",
+   "context": "Oliver asked Mike to quietly persuade Hudson Mills, a firm client, to go back to selling protein packs to Oliver's food bank at cost. Oliver then turns on him: he rejects a 70 percent deal and produces a trade-show commercial proving that Hudson Mills got something in return, so there was a contract.",
+   "play": "Rachel helps Mike dig overnight, and they find a bill of sale showing the food bank resold the packs to a co-op, which the original arrangement did not allow. With the client present, Mike puts it to Oliver: either there was a contract and the food bank broke it, or there was no contract. Either way Hudson Mills is free to do as it likes. He withdraws his earlier offers and insists on the original price.",
+   "why_it_works": "Oliver's whole case rested on there being a contract. Mike accepts the premise and turns it into a breach, so whichever answer Oliver gives, he loses.",
+   "outcome": "Oliver loses, and later thanks Mike for not going easy on him. Mike also admits Harvey was right to warn him about keeping the friendship undisclosed to his client.",
+   "counter": "Before building a case on a contract, check your own side's compliance with it. Oliver should also have taken the generous offer while he held the upper hand.",
+   "principle": "If your opponent's argument forces a choice, make sure both answers go your way.",
+   "in_practice": "When a counterparty claims an informal arrangement is binding, check whether they have kept it themselves. Whoever claims the benefits of a deal carries its obligations too.",
+   "quote": {
+    "text": "You can't have it both ways, Oliver. Either you have a contract that you broke, or you have no contract at all.",
+    "speaker": "Mike Ross",
+    "ep": "S07E12"
+   },
+   "strength": 4,
+   "category": "RULE"
+  },
+  {
+   "title": "Questions, Not Disclosures",
+   "show": "suits",
+   "pool_ids": [
+    "sui-1173",
+    "sui-1170"
+   ],
+   "secondary": [
+    "INT",
+    "TRAP"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S02E14"
+   ],
+   "strategist": "Mike Ross, Harvey Specter and Jessica Pearson",
+   "target": "Daniel Hardman, the firm's ousted former managing partner",
+   "context": "Hardman is suing the firm on behalf of Monica Eton, his former lover, whom Jessica fired. The confidentiality agreement Jessica had him sign when he left bars the firm from disclosing 'all knowledge of any activity of Daniel Hardman', so it cannot say that Monica slept with him while he embezzled. Hardman is using Jessica's own agreement as his shield.",
+   "play": "Mike rereads the agreement and sees that it prohibits only disclosures, so they can ask anything a lawyer who never signed it could ask. The three meet Hardman off the record in his old office. They stay away from the embezzlement and ask only whether he had an affair with Monica, having found six hotel staff, from room service to housekeeping, willing to testify. Hardman admits it.",
+   "why_it_works": "A careful reading of the clause finds room the drafter never closed, and independent witnesses make lying pointless.",
+   "outcome": "Hardman admits the affair, but shrugs that a jury will still focus on Jessica firing Monica within 24 hours. He then tells Mike that Jessica was behind the plan to turn Monica against him, which changes how Mike sees the case.",
+   "counter": "Hardman could have refused to meet off the record. He came because he was confident the admission would not hurt him.",
+   "principle": "Read the exact words of a restriction; what it does not forbid is yours to use.",
+   "in_practice": "When a contract seems to block you, read what it actually prohibits. There is often a legitimate route, such as asking, requesting or using independent sources, that the drafter did not close. Read your own agreements the same way, because a hostile party will.",
+   "quote": {
+    "text": "Actually, it only prohibits disclosures.",
+    "speaker": "Mike Ross",
+    "ep": "S02E14"
+   },
+   "strength": 3,
+   "category": "RULE"
+  },
+  {
+   "title": "Change What You Are",
+   "show": "suits",
+   "pool_ids": [
+    "sui-1259",
+    "sui-1437"
+   ],
+   "secondary": [
+    "DEF",
+    "TIME"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S03E15",
+    "S06E05"
+   ],
+   "strategist": "Louis Litt, the firm's financial partner, with Jessica Pearson and Harvey Specter",
+   "target": "Charles Van Dyke, an ousted partner (S03E15); Sean Cahill's trading suspension (S06E05)",
+   "context": "Twice Louis faces a claim that cannot be beaten on its own terms. In season three, Charles Van Dyke, a partner Jessica pushed out years ago, demands a 30 percent dividend increase and an audit, and the bylaws define the firm as any partnership with Jessica as name partner. In season six, Sean Cahill of the SEC suspends the trading license of Harvey's client William Sutter for up to 90 days, a discretionary power no court will overturn.",
+   "play": "Against Van Dyke, Louis realizes the claim disappears if the firm stops being a partnership. He and his trained associates convert it into an LLC, rewriting every contract overnight, while Jessica stalls in court. Against Cahill, Louis stops trying to lift the suspension and makes Sutter's firm the subsidiary of a separate holding company with its own trading license. Harvey persuades Stu Buzzini, a trader and firm client, to execute the trades for a fee, and reveals the new structure in court.",
+   "why_it_works": "Claims and sanctions attach to a particular legal form or entity. Change the form and the claim or sanction remains in place with nothing to bite on.",
+   "outcome": "Van Dyke's claim is gone when Louis walks in with the LLC papers. Sutter keeps trading, and Cahill's attempt to suspend the holding company too gives Harvey grounds to argue bias.",
+   "counter": "Van Dyke's agreement should have covered any successor entity, whatever its form. Cahill could have targeted Sutter personally instead of the entity.",
+   "principle": "If a claim depends on what you are, change what you are.",
+   "in_practice": "Read contracts for how they define the parties, and define successor entities and assignments in any deal you sign. When a rule blocks one vehicle, a different lawful structure (a partner entity, another contract vehicle) may reach the same goal.",
+   "quote": {
+    "text": "Van Dyke's claim is gone if the partnership is gone.",
+    "speaker": "Louis Litt",
+    "ep": "S03E15"
+   },
+   "strength": 3,
+   "category": "RULE"
+  },
+  {
+   "title": "Sign the Client, Taint the Evidence",
+   "show": "suits",
+   "pool_ids": [
+    "sui-1532"
+   ],
+   "secondary": [
+    "DEF",
+    "POW"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S07E07",
+    "S07E08"
+   ],
+   "strategist": "Harvey Specter, now managing partner",
+   "target": "Mike Ross and US Attorney Anita Gibbs",
+   "context": "Mike, barred from a civil case against a prison contractor, tries to take the scheme to US Attorney Anita Gibbs as a criminal case, which his agreement does not forbid. Gibbs will use only evidence from the other company involved, Reform Corp, because anything from the firm's own client would break privilege. Mike has a colleague pull evidence from Reform Corp's server.",
+   "play": "Harvey, who knows what Mike is doing, signs Reform Corp as a firm client. When Mike brings Gibbs proof that Reform Corp and the contractor are defrauding the state with inmate labor, she refuses it: the firm now represents Reform Corp too, so anything from Mike is tainted. Harvey tells Mike he has found a way to make him drop the case and threatens to fire him if he touches it again.",
+   "why_it_works": "Privilege and conflict rules bind the firm's lawyers. By changing who the firm represents, Harvey turns Mike's own professional obligations into the barrier that stops him.",
+   "outcome": "Gibbs walks away and Mike is furious. The new client relationship also gives Harvey direct access to Reform Corp's CEO, which he uses in the next episode.",
+   "counter": "Mike could have delivered the evidence before the client was signed, or through a lawyer with no connection to the firm.",
+   "principle": "Change the relationships, and the rules change around them.",
+   "in_practice": "Know which confidentiality and conflict rules bind the people on your team. Taking on a client or partner can legitimately change who is allowed to act, so run conflict checks before accepting work.",
+   "quote": {
+    "text": "Which means anything I get from you is tainted because you broke privilege.",
+    "speaker": "Anita Gibbs",
+    "ep": "S07E07"
+   },
+   "strength": 3,
+   "category": "RULE"
+  },
+  {
+   "title": "Flip the Fixers",
+   "show": "suits",
+   "pool_ids": [
+    "sui-1678"
+   ],
+   "secondary": [
+    "ALLY",
+    "LEV"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S09E08"
+   ],
+   "strategist": "Katrina Bennett and Samantha Wheeler, partners",
+   "target": "Paul Richmond's company lawyers, then Paul Richmond",
+   "context": "Louis Litt's sister Esther tells him that Paul Richmond, her former mentor, assaulted her fifteen years ago, and Richmond's company is now trying to merge with hers. Katrina and Samantha find six women Richmond paid off over ten years, but nondisclosure agreements keep them silent and Esther will not come forward. Without a plaintiff they can only bluff.",
+   "play": "Katrina realizes that the lawyers who arranged the NDAs work for the company rather than for Richmond personally, so covering up his conduct is unprotected by privilege and exposes them personally. She and Samantha meet the lawyers, name the women and the oversized bonus checks, and point out the privilege problem. With several lawyers involved, they set them against each other, and the lawyers hand over every NDA and deal. Katrina then persuades Esther to come forward, and Esther confronts Paul with her story and a civil suit still open to her.",
+   "why_it_works": "The people who carried out a cover-up are more exposed, and more easily frightened, than the person they protected. Giving several of them the same offer turns a shared secret into a race to talk first.",
+   "outcome": "Richmond signs his resignation and Esther keeps control of her company, though he is never prosecuted.",
+   "counter": "Paul should have used lawyers who worked for him personally, so that their loyalty and their privilege belonged to him.",
+   "principle": "When the principal is protected, go after the agents who did the work for him.",
+   "in_practice": "In a dispute with a powerful counterparty, look at the people who executed their decisions. They often have separate duties and interests, and may cooperate to protect themselves.",
+   "quote": {
+    "text": "So the question is, who's going to talk first?",
+    "speaker": "Samantha Wheeler",
+    "ep": "S09E08"
+   },
+   "strength": 4,
+   "category": "RULE"
+  },
+  {
+   "title": "The Venue They Cannot Oppose",
+   "show": "suits",
+   "pool_ids": [
+    "sui-1587"
+   ],
+   "secondary": [
+    "WAR",
+    "INT"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S08E04"
+   ],
+   "strategist": "Louis Litt, now managing partner, with Samantha Wheeler",
+   "target": "The plaintiffs suing McKinley Outfitters, and the competitor behind them",
+   "context": "McKinley Outfitters, a client, faces a class action over a data breach. Louis suspects the suit was orchestrated by McKinley's biggest competitor.",
+   "play": "Louis plans to file for a change of venue to Omaha alongside a motion to dismiss. The law there is harsher, which looks bad for McKinley, but the competitor used to be headquartered in Omaha and abandoned it, leaving a ghost town full of jurors who resent them. Because the move appears to hurt his own client, the other side has no grounds to oppose it. In court he calls the lead plaintiff to expose the tell: the plaintiff's lawyer approached him and charged 10 percent when the normal fee is about 30, which suggests someone was subsidizing the suit.",
+   "why_it_works": "The move exploits the gap between what the law says and how a jury feels. A request that looks self-defeating attracts no resistance, and the fee anomaly is a concrete fact pointing to hidden funding.",
+   "outcome": "The plan fails in execution. Louis, still shaken by a recent mugging he has told no one about, has a flashback while cross-examining and cannot continue, and both motions are denied. The strategy was sound; the unaddressed stress wrecked good preparation.",
+   "counter": "Opposing counsel could have asked why a defendant wanted a jurisdiction with harsher law and researched local sentiment. Louis's own defense was to tell a colleague what had happened and hand off the court appearance.",
+   "principle": "A move that seems to hurt you draws no opposition; pick the battlefield where the audience is on your side.",
+   "in_practice": "Accepting apparently worse terms, such as a tougher clause or a different review panel, can win you a decision maker who favors you. And if you are not fit to perform, hand the meeting to someone who is.",
+   "quote": {
+    "text": "And they'll have no grounds to fight the change of venue, because on the face of it, it's against our interests.",
+    "speaker": "Samantha Wheeler",
+    "ep": "S08E04"
+   },
+   "strength": 3,
+   "category": "RULE"
+  }
+ ]
+}

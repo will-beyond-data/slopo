@@ -1,0 +1,684 @@
+{
+ "id": "WAR",
+ "name": "Asymmetric Warfare & Surprise",
+ "intro_html": "<p>Asymmetric warfare is the art of winning a fight you should lose on paper. The stronger side has more men, more money, more lawyers or more credit, and it expects the contest to be decided by those things. The weaker side's whole job is to change the terms: to pick the hour, the ground, the target and the shape of the battle so that the other side's strength stops counting. Almost every play in this chapter is a variation on one of four moves. Strike when they are not ready. Strike where they cannot bring their weight to bear. Strike at what their strength depends on. Or make them divide themselves before you strike at all.</p><p>It works on people because large organizations run on routine and assumption. Ragnar takes Hexham in <i>Vikings</i> by waiting a day, until the whole town is unarmed in church (<b>Attack at Mass</b>). He gets past Rollo's forts on the Seine by carrying his fleet over a mountain nobody thought to guard (<b>Over the Mountain</b>). Rollo, with twenty farmers, cannot storm Kattegat, so he burns the grain that lets Jarl Borg sit behind its walls (<b>Burn the Grain</b>). In each case the defender prepared well for the fight he expected, and the attacker declined to give him that fight. The best of these plays go further and use the opponent's intelligence against him: Bjorn wins in <b>Take Away the Scouting</b> by threatening Ivar's ships, knowing that clever Ivar will hold back a third of his army to guard them.</p><p>The other shows translate the same logic into markets and streets. In <i>Peaky Blinders</i>, Tommy Shelby takes London from a stronger gang by drawing its police protection away at three o'clock and burning its racing licenses instead of stealing the cash (<b>Taking London From Sabini</b>). In <i>Suits</i>, Harvey Specter borrows Eisenhower's reasoning to pour a starving firm's last resources into one decisive case (<b>Normandy at Parkville</b>), and James Palmer ends a lawsuit without arguing it by squeezing the clients of the firm that was funding it (<b>Cut the Supply Line</b>). <i>Billions</i> supplies the corporate version at full scale: Bobby Axelrod attacking every input Taylor Mason's new fund needs, from credit to capital to family (<b>Total Business Destruction</b>). <i>House of Cards</i> adds the darkest variant, the surprise that is arranged in advance so that the target walks into it believing it was his own idea (<b>The Red Line Sold in Advance</b>).</p><p>Surprise is also the most perishable advantage there is, and the failures here are as useful as the wins. A surprise that your obligations make predictable is no surprise: Bjorn's night swim to rescue Harald lands in burning oil because King Olaf knew he would have to come (<b>The Burning Water</b>). A clever feint can be undone by a public record, as Hardman proves by reading a private jet's flight plan. A first strike launched from a weak foundation collapses, as Harvey learns when his padlocks meet a contract signed by a sixteen-year-old (<b>Padlocks on a Void Contract</b>). And an opponent who looks too easy to beat is often showing you exactly what he wants you to see, which is how King Ecbert destroys King Horik from behind a ridge (<b>Caesar on the Ridge</b>).</p><p>For a small business the translation is direct. You are almost always the smaller force: against the incumbent supplier, the big consultancy, the client's internal team. You will rarely win a head-on fight about breadth, price or headcount. You can choose the niche, the timing, the stakeholder and the problem where size is no advantage, and you can find the one dependency your larger rival cannot do without. The ethical line is the same one the best of these characters draw for themselves: attack the terms of the contest, and leave the bystanders standing.</p>",
+ "principles": [
+  "Choose the time, the ground and the target; the stronger side wins every contest it is allowed to define.",
+  "Strike when the opponent's own routine has gathered and disarmed them.",
+  "Attack what keeps the defender in place (supply, credit, license, sponsor) before you attack the walls.",
+  "Never fight the whole enemy when you can arrange to fight half of it.",
+  "When resources are short, concentrate everything on the one contest that decides the rest.",
+  "When the front door is fortified, change the terrain of the contest.",
+  "Predict what a clever opponent will do when frustrated, and be waiting there.",
+  "A surprise your obligations make predictable is an ambush waiting for you.",
+  "Before you strike first, check your own foundation and every public trace of your plan.",
+  "An enemy who looks too easy to beat is usually showing you what he wants you to see."
+ ],
+ "plays": [
+  {
+   "category": "WAR",
+   "title": "Taking London From Sabini",
+   "show": "peaky-blinders",
+   "secondary": [
+    "ALLY",
+    "TIME",
+    "DEC"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S02E06",
+    "S02E01",
+    "S02E02",
+    "S02E03",
+    "S02E04",
+    "S02E05"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "Darby Sabini and his racecourse empire",
+   "context": "Two years after beating Billy Kimber, Tommy Shelby, leader of Birmingham's Peaky Blinders, moves on London. Darby Sabini, the Italian gang boss, controls the southern racecourses with police protection, and Alfie Solomons, a Jewish gangster, runs Camden. Sabini is stronger on his own ground, Tommy's family resists the move, and Major Campbell of Special Branch is forcing Tommy to carry out an assassination.",
+   "play": "Tommy opens by wrecking Sabini's club on Newmarket day, when the bosses are away, and leaves a message aimed at London's underdogs, which draws a telegram from Alfie. He wins Alfie by reciting Alfie's own business back to him and offering a hundred armed men. He then builds a London machine: Birmingham men enrolled as bakers in Alfie's bakery, Billy Kitchen's Black Country brigade to open the canals, men volunteered for arrest to keep police quotas happy, a racehorse bought so he can sit in the owners' enclosure at Epsom, and May Carleton, who has influence on the racing board. When Alfie defects to Sabini and the seder trap collapses the operation, Tommy bluffs Alfie back with a grenade under a rum barrel and chooses Epsom on Derby Day as the venue for Campbell's assassination. At three o'clock the shooting pulls every policeman on the course to guard the King, and his men take Sabini's pitches and burn his licenses while Tommy sits Sabini down in the enclosure.",
+   "why_it_works": "Tommy lines up three separate agendas (Campbell's killing, Alfie's grievance, May's access to the racing board) so each supplies something his own force lacks. The killing he was forced into doubles as the diversion that removes Sabini's real defense, his police. Burning the licenses attacks Sabini's legal right to operate, which no amount of muscle can restore.",
+   "outcome": "Tommy takes Epsom without firing a shot at Sabini's men, and May promises to steer the re-issued pitches to his bookmakers. The price along the way is Billy Kitchen's death, Arthur framed for murder, Michael jailed and an alliance with Alfie that proves shallow, and Tommy is nearly executed by Campbell's men the same afternoon.",
+   "counter": "As Tommy tells him, Sabini's mistakes were relying on the police for security and breaking his Epsom promise to Alfie, which handed Tommy his ally back. An incumbent should keep faith with junior partners, because a challenger is always looking for them.",
+   "principle": "To beat a stronger incumbent on his ground, borrow force from everyone he has wronged and strike at his license to operate.",
+   "in_practice": "Entering a market held by a dominant player, look for the partners and suppliers the incumbent has neglected, and aim at the structural asset (the contract, the accreditation, the channel) instead of trying to win head to head on price.",
+   "quote": {
+    "text": "And remember, the licences are more important than the takings.",
+    "speaker": "Tommy Shelby",
+    "ep": "S02E06"
+   },
+   "strength": 5,
+   "steps": [
+    {
+     "ep": "S02E01",
+     "move": "Tommy, Arthur and John wreck Sabini's club on Newmarket day and leave a message for London's underdogs; Sabini's men beat Tommy nearly to death in reply."
+    },
+    {
+     "ep": "S02E02",
+     "move": "Tommy recites Alfie's business back to him and offers 100 armed men against Sabini, and Alfie asks for his plan."
+    },
+    {
+     "ep": "S02E03",
+     "move": "He enrols Birmingham men as bakers in Camden, hires Billy Kitchen's brigade, stands men up for arrest, and buys a filly at Doncaster to reach the owners' enclosure."
+    },
+    {
+     "ep": "S02E04",
+     "move": "The Peaky Blinders take the Eden Club and start whisky exports, while Sabini secretly makes peace with Alfie against the Gypsies."
+    },
+    {
+     "ep": "S02E05",
+     "move": "Alfie's seder trap kills Billy Kitchen and frames Arthur; Tommy firebombs the Field Marshal's house and names Epsom on Derby Day as the venue."
+    },
+    {
+     "ep": "S02E06",
+     "move": "Tommy bluffs Alfie back with the shoelace grenade, then uses the three o'clock shooting to clear the police while his men burn Sabini's licences."
+    }
+   ],
+   "pool_ids": [
+    "pea-A0477",
+    "pea-0367"
+   ]
+  },
+  {
+   "category": "WAR",
+   "title": "Total Business Destruction",
+   "show": "billions",
+   "secondary": [
+    "PSY",
+    "LEV",
+    "TRAP"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S04E12",
+    "S03E12",
+    "S04E01",
+    "S04E02",
+    "S04E03",
+    "S04E04",
+    "S04E06",
+    "S04E07",
+    "S04E11"
+   ],
+   "strategist": "Bobby Axelrod (with Wendy Rhoades, Hall and, for a time, Chuck Rhoades)",
+   "target": "Taylor Mason and Taylor Mason Capital",
+   "context": "Taylor Mason, the analyst Bobby 'Axe' Axelrod made into his protege, walks out of Axe Capital with $3.5 billion of his raise and the backing of Russian oligarch Grigor Andolov. Axe decides that if the industry sees he can be groomed and robbed he will be exploited forever, so Taylor's firm must be destroyed. He turns down Grigor's offer to have Taylor killed: his goal needs Taylor alive.",
+   "play": "Axe opens with volume: lawsuits to split Taylor's attention, a loyalty purge, a warning to a Gulf sovereign fund, and sweetheart deals so struggling banks cut off Taylor's credit. Hall, his fixer, hacks Taylor's positions and Wendy Rhoades, the firm's in-house coach, turns the data into front-running. When Grigor shields Taylor, Axe removes him through a new ally, Chuck Rhoades, now Attorney General, who freezes Grigor's assets and gives him twelve hours to leave the country, taking his billions out of Taylor's fund. Wendy maps Taylor's weak point from their old sessions, and Axe has Taylor's father's invention seized on national security grounds. Finally, when Taylor ties the fund to the retailer Saler's, Axe pours his own billions into the chain, partners with its biggest debt holder to shift its toxic debt into Kling Appliances, wrecking Taylor's fund, and has Chuck detain Taylor without charge until they agree to come back and run his quant unit.",
+   "why_it_works": "A young fund needs credit, capital, information, clients and a steady head, and Axe attacks every one of them, borrowing the powers he lacks (a prosecutor, a hacker, a therapist's knowledge) from allies. Defining the goal as recapture instead of ruin keeps him away from the one move, Grigor's offer, that would have made him someone else's property.",
+   "outcome": "Taylor ends the season back at Axe Capital, but only after hitting back hard, including a medical board complaint that costs Wendy her license. Axe betrays his partner Rebecca Cantu to win, and Chuck, tired of being used, secretly makes Taylor his informant, so the prize comes home wearing a wire.",
+   "counter": "Taylor's best counters used Axe's own force: accepting Grigor's Kozlov money while Axe's pressure on the bank made sure it never arrived, and baiting Axe into lobbying for fracking that paid Taylor's water utility. A rival who wants you back can be turned into a channel for someone else.",
+   "principle": "Attack every input a rival depends on, but decide early whether you want the business dead or the talent back.",
+   "in_practice": "When a key person leaves to compete, define the objective (protect clients, win them back, or simply outperform) before acting, because a revenge campaign without a clear goal burns allies and reputation. The legitimate levers are relationships, service and track record; the hacking and seizures here are warnings.",
+   "quote": {
+    "text": "Total destruction. Not out of anger.",
+    "speaker": "Bobby Axelrod",
+    "ep": "S03E12"
+   },
+   "strength": 4,
+   "source": "knowledge",
+   "steps": [
+    {
+     "ep": "S03E12",
+     "move": "Axe declines Grigor's offer to kill Taylor, names total destruction as his goal, sues, purges doubtful traders and turns Ben Kim against Taylor."
+    },
+    {
+     "ep": "S04E01",
+     "move": "He tells a Gulf sovereign fund not to back former Axe Cap people; Taylor wins it anyway, and Grigor holds Wags at an embassy to make Axe back off."
+    },
+    {
+     "ep": "S04E02",
+     "move": "Axe starves Taylor of bank credit; Taylor accepts Grigor's Kozlov money while using Axe's own pressure on Patriot-Trust to make sure it never arrives."
+    },
+    {
+     "ep": "S04E03",
+     "move": "Hall hacks Taylor's trading data and Wendy turns it into front-running until Taylor's team notices."
+    },
+    {
+     "ep": "S04E04",
+     "move": "Chuck, now Attorney General, freezes Grigor's assets and gives him twelve hours to leave; Grigor's billions leave Taylor's fund."
+    },
+    {
+     "ep": "S04E05",
+     "move": "Taylor survives by winning the firefighters' pension fund with a pitch built on complete separation from Axe."
+    },
+    {
+     "ep": "S04E06",
+     "move": "Axe finds the clause Taylor left behind tying Victor Mateo's conduct to him, while Wendy mines Taylor's therapy file for their father's invention."
+    },
+    {
+     "ep": "S04E07",
+     "move": "A paid-off official seizes Douglas Mason's technology, and Taylor keeps the fund at the cost of their father's trust."
+    },
+    {
+     "ep": "S04E08",
+     "move": "Taylor baits Axe into saving fracking, which pays Taylor's water utility, and files the medical board complaint against Wendy."
+    },
+    {
+     "ep": "S04E09",
+     "move": "Taylor buys two Saler's directors' shares, taking the board from under Rebecca Cantu."
+    },
+    {
+     "ep": "S04E11",
+     "move": "Against every adviser, Axe bypasses his own bylaws and pours billions into Saler's."
+    },
+    {
+     "ep": "S04E12",
+     "move": "Axe shifts Saler's toxic debt into Kling, wrecking Taylor's fund, and has Chuck detain Taylor until they agree to return; Chuck makes Taylor his informant."
+    }
+   ],
+   "pool_ids": [
+    "bil-A0315",
+    "bil-0183",
+    "bil-0210"
+   ]
+  },
+  {
+   "category": "WAR",
+   "title": "Attack at Mass",
+   "show": "vikings",
+   "secondary": [
+    "TIME",
+    "INT"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S01E04"
+   ],
+   "strategist": "Ragnar Lothbrok",
+   "target": "The town of Hexham",
+   "context": "On their second raid on England, Ragnar Lothbrok, a Norse farmer and raider, and a small crew reach a large town. His brother Rollo wants to attack at once, arguing that surprise is their biggest advantage and that they have too few men to waste it.",
+   "play": "Ragnar asks his companion Arne what day it is. Told it is Saturday, he says they will attack tomorrow and refuses to explain. At dawn he makes them wait again, listening, until the priest inside the church is in the middle of the Mass. Then they burst in while the townspeople are gathered, unarmed, in one building, and he has the priest tell his people not to be afraid and that nobody will be hurt if they do not resist.",
+   "why_it_works": "Surprise works best when it is timed to the target's own routine. Ragnar has learned enough about Christian practice from his captive monk Athelstan to know the one hour when the whole town is concentrated, unarmed and occupied.",
+   "outcome": "The town is taken with almost no resistance. A Saxon force catches the raiders on the way back to their ship, and they beat it with a shield wall.",
+   "counter": "A town that knew raiders were in the area should have posted armed watchers during services, the one time everyone was predictable.",
+   "principle": "Strike when the opponent's own routine has gathered them and disarmed them.",
+   "in_practice": "Learn your buyer's calendar as well as your own: the week after budget approval and before procurement locks, or the planning offsite where every decision-maker is in one room, is when a proposal lands with least resistance.",
+   "quote": {
+    "text": "Arne, what day is it today? Saturday. Then we attack tomorrow.",
+    "speaker": "Ragnar Lothbrok and Arne",
+    "ep": "S01E04"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "vik-0500"
+   ]
+  },
+  {
+   "category": "WAR",
+   "title": "Black Star Day",
+   "show": "peaky-blinders",
+   "secondary": [
+    "DEF",
+    "LEAD",
+    "TIME"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S01E06",
+    "S01E04",
+    "S01E05"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "Billy Kimber",
+   "context": "Tommy Shelby has spent the season inside the operation of Billy Kimber, who runs the racecourses of the Midlands, working as his security contractor and learning his pitches and his men. He has marked the day he will take Kimber down as a black star in his diary and told almost no one.",
+   "play": "Only on the morning itself does Tommy tell the family: Kimber thinks they are going to Worcester to help him against the Lee family of Gypsies, but the Lees are now kin through a marriage, so the Shelbys and the Lees will take Kimber's pitches while Kimber's attention is elsewhere. When news comes that Kimber's men are driving on Small Heath with police help, Tommy admits the plan has leaked, tells his men that battle plans always change, and turns the Garrison pub into a fort, with men on the flanks. The Lees carry on to Worcester. At the standoff, reinforcements arrive with a machine gun, and Tommy ends the fight by shooting Kimber and declaring it settled between the two of them.",
+   "why_it_works": "Keeping the date secret until the day protects the plan from gossip. Running two operations at once means Kimber cannot defend his pitches and lead his attack at the same time, and when the plan leaks Tommy fights on ground he knows while his partners finish the other half.",
+   "outcome": "Kimber is dead, his men are beaten and the Lees take every pitch at Worcester unopposed. Shelby Brothers Limited becomes one of the largest legal racecourse operations in the country.",
+   "counter": "Kimber could have asked why his contractors were so eager to fight the Lees on his behalf and kept his own sources inside the Lee family. Tommy's own weak point was the one outsider he had confided in.",
+   "principle": "Keep the date to yourself, run two moves at once, and be ready to fight where you stand when the plan breaks.",
+   "in_practice": "For a big competitive move (a launch, a bid, a restructure), share the timing only with those who must act on it, and design two independent tracks so one still lands if the other is exposed. When a plan leaks, say so quickly and re-brief the team.",
+   "quote": {
+    "text": "That pub there is called the Garrison. Well, now it really is one.",
+    "speaker": "Tommy Shelby",
+    "ep": "S01E06"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "pea-0340"
+   ]
+  },
+  {
+   "category": "WAR",
+   "title": "The Red Line Sold in Advance",
+   "show": "house-of-cards",
+   "secondary": [
+    "TIME",
+    "DEC",
+    "POW"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S05E10",
+    "S05E11",
+    "S05E12",
+    "S05E13"
+   ],
+   "strategist": "Jane Davis",
+   "target": "Frank and Claire Underwood (and ultimately the US public)",
+   "context": "Jane Davis, a Commerce Department official with deep ties to Middle East oil and security interests, wants US troops in Syria to protect oil lines and keep Russia out of Damascus. She has been promising President Frank Underwood and his wife Claire the capture of Ahmadi, leader of the ICO terror group.",
+   "play": "Jane tells Frank that a gas attack is coming in Homs and suggests he draw a red line in advance, which would commit about 30,000 troops. She works on Secretary of State Cathy Durant, who is uneasy, and on Claire, showing her images from Homs and urging that Claire be the face of the decision. She brokers a deal with ICO factions that want to become a legitimate oil business and with a Syrian officer who will set off a regime attack, so that troops go in and leave the factions' resources alone. She makes the delivery of Ahmadi part of the same bargain and times it for the moment Claire needs cover to announce a war.",
+   "why_it_works": "Committing a leader publicly to an ultimatum before the triggering event makes intervention feel morally forced when the event arrives. Tying the payoff, Ahmadi, to the moment of decision gives the leader a victory to announce alongside the war.",
+   "outcome": "The sarin attack comes, Special Forces kill Ahmadi, and Claire announces troops in her first address as president. Jane leaves for Dubai and recommends her own contact for Secretary of State.",
+   "counter": "The Underwoods could have asked how an ally knew about an attack before it happened, as Cathy Durant does when she asks why they are not stopping it. Foreknowledge of a crisis is a sign someone is arranging it.",
+   "principle": "Get the decision-maker to commit publicly to a condition before it exists, and control when it is met.",
+   "in_practice": "The ethical version is agreeing decision criteria with a client up front ('if the pilot hits this number, we roll out'), which shapes the decision more than arguing at the end. Be wary of anyone who asks you to commit to criteria they can influence.",
+   "quote": {
+    "text": "There's going to be a gas attack happening in the city of Homs.",
+    "speaker": "Jane Davis",
+    "ep": "S05E10"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "hou-0978"
+   ]
+  },
+  {
+   "category": "WAR",
+   "title": "Burn the Grain",
+   "show": "vikings",
+   "secondary": [
+    "DEC",
+    "RISK",
+    "TIME"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S02E05",
+    "S02E04"
+   ],
+   "strategist": "Rollo (plan), Ragnar and Bjorn (execution)",
+   "target": "Jarl Borg",
+   "context": "While Ragnar is raiding England, Jarl Borg, a rival chieftain, seizes Ragnar's home town of Kattegat. Rollo escapes with Ragnar's family and can raise only twenty or thirty farmers. Even after Ragnar returns and his former wife Lagertha brings warriors, they agree they cannot storm the town: Borg is well dug in and can winter there safely.",
+   "play": "While he waits, Rollo refuses to seek battle and instead raids Borg's outposts, enough to torment, so Borg never feels secure. When the army is ready, Rollo asks what one thing threatens Borg's whole existence in Kattegat, and answers it himself: food. Ragnar and his son Bjorn slip into the town with a few men while others make a diversion at the docks, and set fire to the winter grain stores. Borg, facing a winter with nothing to eat, rides out to hunt the raiders and meets Ragnar's reinforced army in the open, which he did not know existed.",
+   "why_it_works": "A fortified position is only as strong as the supplies that keep people behind it. Destroying the grain turns Borg's safe winter quarters into a trap and forces him to fight on ground Ragnar has chosen, and the hidden reinforcements mean he misjudges the strength he is riding out to meet.",
+   "outcome": "Borg loses the battle, flees Kattegat, and Ragnar takes back his home. The cost is a hungry winter for Ragnar's own people, who had to burn their own grain stores to win.",
+   "counter": "Borg should have guarded the stores as the center of his whole occupation and scouted before riding out. He could also have spent the months of raiding winning over the locals instead of relying on fear.",
+   "principle": "Leave the walls alone and attack what keeps the defender behind them.",
+   "in_practice": "Against a well-entrenched competitor at a client, find what their position depends on (one sponsor, a renewal date, a budget line that is overrunning) and work on that, instead of competing head on against their strengths.",
+   "quote": {
+    "text": "The one thing that would threaten His whole existence there.",
+    "speaker": "Rollo",
+    "ep": "S02E05"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "vik-0532",
+    "vik-0531"
+   ]
+  },
+  {
+   "category": "WAR",
+   "title": "Cut the Supply Line",
+   "show": "suits",
+   "secondary": [
+    "LEV",
+    "ALLY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S06E15"
+   ],
+   "strategist": "James Palmer",
+   "target": "Pearson Specter Litt and Mike Ross",
+   "context": "Mike Ross, working at a legal clinic, is suing James Palmer's mining company on behalf of sick miners, backed by the manpower of Harvey Specter's firm, Pearson Specter Litt. Mike has just withdrawn his bar application, which kills Palmer's attempt to paint the case as a trade. Palmer's real problem is that the firm gives the clinic the resources to fight 150 suits.",
+   "play": "Palmer leaves the lawsuit alone and goes after the firm's revenue. Allen Fields and ten other top clients write that they are putting the firm 'in review' because of its recent affiliations. Louis Litt, a name partner who has just lost a major client, tells Harvey that unless someone can replace $30 million in billings the firm must withdraw. Once it does, Palmer tells Mike the offer is now $10 million, reads from Mike's face that he had promised the miners far more, and makes it take it or leave it.",
+   "why_it_works": "The clinic's strength was borrowed, and the lender had its own exposure: tens of millions in billings from clients Palmer could influence. Attacking the ally's income forces the ally to choose, and breaks the coalition without Palmer winning a single argument about the case.",
+   "outcome": "The firm withdraws and the offer drops from $100 million to $10 million. The squeeze pushes Harvey and his colleague Rachel to use compromising evidence against Palmer, which ends with Palmer paying $200 million.",
+   "counter": "Mike and Harvey could have anticipated that a big-firm ally is exposed through its clients and prepared those clients in advance, or kept the firm's role quieter.",
+   "principle": "Borrowed strength is only as firm as the lender's nerve, so make the loan expensive.",
+   "in_practice": "When a partner's resources are what make your bid credible, check how exposed that partner is to pressure from your counterparty. When a competitor is propped up by a larger partner, the partner's own commercial interests are where that support can be tested.",
+   "quote": {
+    "text": "Because Pearson Specter Litt just withdrew from this case.",
+    "speaker": "James Palmer",
+    "ep": "S06E15"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "sui-1487"
+   ]
+  },
+  {
+   "category": "WAR",
+   "title": "The Coordinated Squeeze",
+   "show": "billions",
+   "secondary": [
+    "TRAP",
+    "INT"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S01E04"
+   ],
+   "strategist": "Charles Rhoades Sr., with Quincy (a prime broker executive)",
+   "target": "Bobby Axelrod",
+   "context": "Charles Rhoades Sr., the wealthy father of US Attorney Chuck Rhoades, wants to hurt hedge fund billionaire Bobby Axelrod himself because his son will not move fast enough. Axe Capital holds a large short position in Cross-Co Trucking.",
+   "play": "Quincy hears from his man on the stock loan desk that Axe is in a precarious short and tells Chuck Sr. over golf. They buy the stock in their own and friends' accounts. The prime broker then recalls the borrowed shares on an order 'from on high', an analyst upgrades Cross-Co to strong buy, and an industry blog floats a takeover. Axe must find shares to borrow by the opening bell or be forced to buy back his whole position at the inflated price.",
+   "why_it_works": "A short seller is most exposed when the lender takes the shares back and the price rises at the same time. Inside knowledge of the position, a recall and a price-raising story attack both at once.",
+   "outcome": "The squeeze fails. Axe works out who is behind it, finds another lender and holds, and the stock collapses. Chuck, alerted by the regulators, forces his father to hold until he breaks even or loses; Chuck Sr. loses $480,000 while Axe still makes at least $15 million.",
+   "counter": "Axe's defense is the lesson: when a squeeze starts, find out who is pushing and secure an alternative source of the thing they are trying to cut off. Better still, never leave a large position dependent on one lender.",
+   "principle": "A strong opponent is most exposed where his position depends on someone else's goodwill.",
+   "in_practice": "Map the single points of dependency in your own business (one supplier, one platform, one credit line, one champion at a key client) and build a backup before a competitor finds it. The attackers here also show the limit: a squeeze fails if the target has a second source.",
+   "quote": {
+    "text": "Guess which hedge-funder's got himself in a precarious short, ripe for a squeeze?",
+    "speaker": "Quincy",
+    "ep": "S01E04"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "bil-0018"
+   ]
+  },
+  {
+   "category": "WAR",
+   "title": "Split by the River",
+   "show": "vikings",
+   "secondary": [
+    "INT"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S03E01",
+    "S03E02"
+   ],
+   "strategist": "Ragnar Lothbrok",
+   "target": "Brihtwulf and Burgred's Mercian armies",
+   "context": "Ragnar has agreed to fight for Princess Kwenthrith, whose uncle Brihtwulf and brother Burgred hold the English kingdom of Mercia. As the Viking ships row upriver, two enemy armies are waiting on opposite banks, together a considerable force.",
+   "play": "Ragnar studies the ground before he counts the enemy. He notes that the force on the right bank is much smaller than the one on the left, and that there is no bridge, so the two armies cannot easily join up. He orders the whole attack onto the right bank. Burgred's men on the far bank can only shoot arrows across the water while Brihtwulf's army is overwhelmed.",
+   "why_it_works": "A combined force only has its full strength if it can act together. By finding the obstacle that separates the enemy, Ragnar fights half of them with all of his own men and turns a numerical disadvantage into local superiority.",
+   "outcome": "Brihtwulf is killed. Burgred, unable to help, withdraws, and the campaign continues against a divided enemy.",
+   "counter": "The Mercians should never have deployed two armies that could not reinforce each other, or should have kept a crossing ready.",
+   "principle": "Never fight the whole enemy when geography lets you fight half of it.",
+   "in_practice": "Against a larger competitor or a consortium, look for the segment where they cannot coordinate (a region, a product line, a client team that falls between their divisions) and concentrate everything there instead of competing across the board.",
+   "quote": {
+    "text": "The forces on the right bank are much smaller than those on the left. And as far as I can see, there is no bridge.",
+    "speaker": "Ragnar Lothbrok",
+    "ep": "S03E01"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "vik-0549"
+   ]
+  },
+  {
+   "category": "WAR",
+   "title": "Normandy at Parkville",
+   "show": "suits",
+   "secondary": [
+    "DEC",
+    "INT",
+    "TIME"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S02E15",
+    "S02E14"
+   ],
+   "strategist": "Harvey Specter and Dana Scott",
+   "target": "Daniel Hardman and Folsom Foods",
+   "context": "Pearson Hardman represents 45 women suing Folsom Foods for discrimination. Daniel Hardman, the ousted partner now fighting his old firm, and opposing counsel Robert Zane file to try seven cases in seven jurisdictions at once, a 'rocket docket' designed to turn the lawsuit into a cash fight. The firm's bank cuts its line of credit, and managing partner Jessica Pearson will fund only one case.",
+   "play": "Harvey Specter, the firm's star closer, takes Eisenhower as his model: 156,000 men spread over eight invasion points is nothing at each, so Eisenhower put everything into one attack. The firm will win one case decisively and let the rest follow. Mike proposes Bakersfield, the division with the worst record, but Harvey picks Parkville, run by a woman and with the best ratio of female executives: the dumbest place to start and the hardest place to win, so a win there makes every other division surrender. With Dana 'Scottie' Scott, a lawyer from their new London partner firm, putting up the money, they book depositions in all seven cities to hide the real target.",
+   "why_it_works": "Concentration beats dispersion when you are short of resources, and winning where the defense is strongest proves the others cannot hold. Bookings everywhere make it hard for the enemy to see where the real attack will fall.",
+   "outcome": "Hardman asks himself what Harvey would do, checks the filed flight plan for Scottie's private jet, and is waiting in Parkville. The deposition goes badly until a damaging personal email from the company's chief executive surfaces.",
+   "counter": "Hardman shows the counter: think like your opponent, then check the one record he cannot fake. Harvey hid his flights, hotels and depositions but forgot the jet's flight plan.",
+   "principle": "When resources are short, put everything into the fight that decides the rest, and hide every trace of where it will be.",
+   "in_practice": "When a small firm faces more fronts than it can staff, pick the account or case that sets the precedent and give it everything. Before launching a surprise move, check the public signals (job ads, registrations, filings) a competitor could read.",
+   "quote": {
+    "text": "Because it's the dumbest place to start and the hardest place to win. And when we win it, all the others will surrender.",
+    "speaker": "Harvey Specter",
+    "ep": "S02E15"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "sui-1176",
+    "sui-1178",
+    "sui-1175"
+   ]
+  },
+  {
+   "category": "WAR",
+   "title": "Over the Mountain",
+   "show": "vikings",
+   "secondary": [
+    "DEC",
+    "LEAD",
+    "INT"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S04E08",
+    "S04E05",
+    "S04E07",
+    "S04E09",
+    "S04E10"
+   ],
+   "strategist": "Ragnar Lothbrok",
+   "target": "Rollo and the Frankish defenses of Paris",
+   "context": "Rollo has defected to the Franks, married the Emperor's daughter and taken charge of defending Paris against his brother Ragnar. Knowing that Northmen treat barriers only as obstacles, he builds two forts on the Seine joined by an iron chain, with boats beyond it in case it breaks. Ragnar's first river assault is routed.",
+   "play": "Ragnar orders the fleet back downriver, which everyone, including the watching Franks and his own allies, reads as a retreat. Then he stops and makes camp and refuses to explain, even to his son Bjorn. Only when pressed does he reveal the plan: lift the boats up the cliff, carry them across the mountains past the forts, and slide them back into the river upstream. He asks the shipbuilder Floki in public whether it can be done, and Floki commits. The fleet is dragged overland while a party disguises the boats left behind.",
+   "why_it_works": "Rollo's defense was built around what an attacker would do on the river, including after the first obstacle failed. Going over land makes the whole investment irrelevant. The visible retreat tells the enemy the threat has passed, and keeping the plan secret until it is under way stops it being leaked or argued down.",
+   "outcome": "The fleet appears upriver of the forts, and Ragnar's ally Harald admits that after everything they had heard, they still underestimated him. Ragnar still loses the battle for Paris because Rollo rallies the Franks, but the maneuver itself works completely.",
+   "counter": "Rollo refused to believe his brother was beaten while he lived and sent boats to check, and that caution helped save the city. What nobody watched was the land route.",
+   "principle": "When the front door is fortified, change the terrain of the contest.",
+   "in_practice": "If a competitor has locked up a buyer's procurement route, find another way in: a different department with the same problem, a partner channel, or a problem the incumbent is not solving. Keep the approach quiet until it is under way.",
+   "quote": {
+    "text": "We are going to lift the boats up the cliff. Then we are going to carry them across the mountains, past the forts, and then simply slide them back into the river. Upstream.",
+    "speaker": "Ragnar Lothbrok",
+    "ep": "S04E08"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "vik-0586",
+    "vik-0585"
+   ]
+  },
+  {
+   "category": "WAR",
+   "title": "Up the River, Up the Cliffs",
+   "show": "vikings",
+   "secondary": [
+    "INT",
+    "DEC"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S06E10"
+   ],
+   "strategist": "Ivar the Boneless",
+   "target": "Bjorn Ironside and the Norwegian defenders",
+   "context": "Ivar, a son of Ragnar exiled in the land of the Rus, has become a commander for Prince Oleg, who invades Norway. The Rus must land an army on a coast defended by Ivar's half-brother Bjorn. Ivar grew up there and knows both the ground and the way his brother thinks.",
+   "play": "Ivar adapts the fleet with shallow barges that can run right up to the shore, so the main landing hits the beach in strength and pins the defenders there. At the same time a second force goes up a river the defenders believe is impassable and climbs the cliffs, then falls on the beach defenders from inland. The frontal assault holds the defenders' attention while the flanking force closes behind them.",
+   "why_it_works": "The expected attack fixes the enemy in place, and the decisive one comes from the direction he has ruled out. Local knowledge turns 'impossible' terrain into a road, and knowing Bjorn's habits tells Ivar where the gap will be.",
+   "outcome": "The Norwegian defense collapses and Ivar stabs Bjorn on the beach. The victory proves Ivar's value to Oleg, which makes him both more useful and more dangerous to the prince.",
+   "counter": "Bjorn should have assumed that a brother who grew up on this coast would use it, and put watchers on the cliffs and the river.",
+   "principle": "Fix the enemy with the attack he expects, and win with the one he has ruled out.",
+   "in_practice": "In a competitive pitch, meet the stated requirements head on (the attack everyone expects), then win with the angle competitors assume is off the table: an overlooked stakeholder, a different commercial model, or a problem the brief never mentioned.",
+   "strength": 3,
+   "source": "knowledge",
+   "pool_ids": [
+    "vik-0687"
+   ]
+  },
+  {
+   "category": "WAR",
+   "title": "Cripple, Don't Kill",
+   "show": "vikings",
+   "secondary": [
+    "PSY",
+    "TRAP"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S06E19",
+    "S06E18"
+   ],
+   "strategist": "Ivar the Boneless",
+   "target": "King Alfred's army",
+   "context": "Late in the series, Ivar invades Wessex against King Alfred, who has raised a larger army. Ivar, whose body is failing, needs a way for a smaller force to beat superior numbers in wooded country.",
+   "play": "Ivar tells his commanders that they will cripple the Saxons instead of killing them. He seeds the woods with bear traps and spikes, digs camouflaged pits where warriors hide under the ground, and posts archers in the trees. His reasoning is that every wounded Saxon takes two more men to carry him off the field, and that a Christian army will not abandon its wounded. When the traps spring and Saxons stop to help the injured, the hidden Vikings burst out of the ground and attack.",
+   "why_it_works": "Ivar turns his enemy's virtue into a cost. A wounded man ties up more resources than a dead one, and an army committed to caring for its own multiplies that drag. Preparation and concealment let the smaller force decide where and how the fighting happens.",
+   "outcome": "The Saxons are cut up and driven back in the first day's fighting. Alfred holds his army together for the decisive battle that follows, and Ivar does not survive the campaign.",
+   "counter": "Alfred could have scouted the woods and refused to fight on ground the enemy had spent days preparing, and set rules for recovering the wounded that did not expose the rescuers.",
+   "principle": "Attack the thing your opponent will always spend resources protecting.",
+   "in_practice": "Know what a competitor is committed to whatever the cost (a service promise, a price guarantee, a flagship client) and compete where honoring that commitment drains their capacity, while keeping your own tactics fair and legal.",
+   "strength": 3,
+   "source": "knowledge",
+   "pool_ids": [
+    "vik-0705"
+   ]
+  },
+  {
+   "category": "WAR",
+   "title": "Stretch the Battlefield",
+   "show": "vikings",
+   "secondary": [
+    "TRAP",
+    "INT"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S04E19",
+    "S04E20"
+   ],
+   "strategist": "Ivar the Boneless",
+   "target": "Prince Aethelwulf and the army of Wessex",
+   "context": "Ragnar's sons have landed the Great Army in England to avenge their father. A large Saxon army under Prince Aethelwulf is less than a day away, and the Viking leaders plan to fight as they always have, in a shield wall at a single spot.",
+   "play": "Ivar, the youngest brother, who cannot walk, argues that the Saxons will expect them to fight in a certain way, so they should not. Both armies are now bigger, so he proposes stretching the battle across many miles and using ditches, hills and woods. Bjorn agrees to scout the ground with him. On the march the Saxons are hit on the flanks again and again and forced to keep turning into a shield wall. Aethelwulf, refusing to be made a fool of any longer, decides to march on Repton and destroy the Viking ships, exactly the move Ivar predicted, and runs into the army waiting for him.",
+   "why_it_works": "Ivar reads the opponent as well as the ground. Harassment makes a disciplined commander hungry for one decisive stroke, and the obvious stroke is the enemy's ships. Predicting the counter-move turns Aethelwulf's own clever idea into the trap.",
+   "outcome": "The Wessex army breaks, and Aethelwulf returns to tell King Ecbert that they are defeated. The victory makes Ivar, dismissed until now, a serious claimant to lead the army.",
+   "counter": "Aethelwulf could have held a defensive position and refused to be provoked, or scouted Repton before committing his whole army to it.",
+   "principle": "Do not fight the way the opponent expects; predict the move he will make when frustrated, and be waiting there.",
+   "in_practice": "When a rival expects a head-to-head fight on price, change the terms (scope, timeline, partnership model), then think about where their frustration will push them next, such as a desperate discount or an over-promise, and be ready for it.",
+   "quote": {
+    "text": "They will expect us to fight in a certain way. Why should we do that?",
+    "speaker": "Ivar the Boneless",
+    "ep": "S04E19"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "vik-0616"
+   ]
+  },
+  {
+   "category": "WAR",
+   "title": "Take Away the Scouting",
+   "show": "vikings",
+   "secondary": [
+    "INT",
+    "TRAP"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S05E07",
+    "S05E08",
+    "S05E09"
+   ],
+   "strategist": "Bjorn Ironside, with Ubbe and Lagertha",
+   "target": "Ivar the Boneless and King Harald",
+   "context": "Ivar, who has broken with his brothers since the war in England, and his ally King Harald are coming with a much larger army to take Kattegat from Lagertha and Bjorn. Lagertha has recruited the Sami, skilled forest fighters. The obvious plan is to defend Kattegat against an attack from the sea.",
+   "play": "Ivar's brother Ubbe warns that Ivar never does what you expect. Bjorn proposes intercepting Ivar on land, on ground they choose, because Ivar always scouts his battlefields and they can take that away from him. The ground must include forest for the Sami. Bjorn adds that if Ivar marches overland, the ships he leaves behind will be vulnerable, so Ivar will have to hold back a large part of his army to protect them. In the battle Ivar does exactly that, then waits too long to commit his reserve.",
+   "why_it_works": "Bjorn uses Ivar's cleverness against him: a threat to the ships makes Ivar divide his army without Bjorn committing a single warrior to carry it out. Fighting on unfamiliar ground strips away Ivar's usual edge, which is preparation.",
+   "outcome": "Harald and Ivar's army is routed. Harald tells Ivar he was too clever for his own good.",
+   "counter": "Ivar could have tested the threat to his ships before pulling back so many men, and committed his reserve as soon as the main line needed it.",
+   "principle": "Make a clever opponent defend against a threat you never have to carry out.",
+   "in_practice": "A credible signal that you could go after a competitor's core accounts can make them spend their effort on defense. And when you are the clever one, do not let the elegance of your plan stop you acting when the moment comes.",
+   "quote": {
+    "text": "the ships he leaves behind will be vulnerable.",
+    "speaker": "Bjorn Ironside",
+    "ep": "S05E07"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "vik-0635"
+   ]
+  },
+  {
+   "category": "WAR",
+   "title": "Caesar on the Ridge",
+   "show": "vikings",
+   "secondary": [
+    "INT",
+    "TRAP"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S02E09"
+   ],
+   "strategist": "King Ecbert of Wessex",
+   "target": "King Horik and the Northmen",
+   "context": "Ecbert, the scholarly king of Wessex, knows from Charlemagne's court that Northmen avoid pitched battles against large armies. He has been reading Caesar with Athelstan, the Viking-raised monk now at his court, and noting how Caesar always used the terrain and kept cavalry where the enemy could not see it.",
+   "play": "Ecbert shows the Northmen a force on the low ground that looks large, but not too large to beat. King Horik, impatient and sure the gods are with him, overrides Ragnar and Rollo's caution and orders a charge down from the high ground. Once the Northmen are committed, Saxon cavalry and the men of King Aelle appear from hidden positions and hit them from the flanks.",
+   "why_it_works": "A visible force that looks beatable invites an impulsive commander to give up his advantage of ground. Ecbert combines knowledge of the enemy's temperament with a tactic lifted from history.",
+   "outcome": "The Northmen are routed with heavy losses, and Rollo is wounded and captured, which gives Ecbert leverage for the talks that follow.",
+   "counter": "Horik should have held the high ground and scouted first. An enemy that looks easier to beat than it should is itself the warning.",
+   "principle": "When the enemy looks easier to beat than he should, look for what you cannot see.",
+   "in_practice": "When a competitor responds weakly to your move, or a negotiation gets suspiciously easy, check what you are not seeing before you commit your best resources.",
+   "quote": {
+    "text": "Yes. He's always thinking, always using the terrain.",
+    "speaker": "King Ecbert",
+    "ep": "S02E09"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "vik-0543"
+   ]
+  },
+  {
+   "category": "WAR",
+   "title": "The Burning Water",
+   "show": "vikings",
+   "secondary": [
+    "TRAP",
+    "INT"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S06E03"
+   ],
+   "strategist": "King Olaf",
+   "target": "Bjorn Ironside",
+   "context": "King Olaf, a Norwegian king, has seized King Harald's kingdom and holds Harald prisoner. Bjorn, now king of Kattegat, owes Harald his life, so a rescue attempt is predictable.",
+   "play": "Olaf anticipates the rescue and prepares the approach. When Bjorn's men swim ashore at night to take the stronghold by surprise, Olaf's men have already spread oil on the water, and they set it alight. As the swimmers try to retreat, archers light a second barrier of fire behind them, trapping them between flames and arrows.",
+   "why_it_works": "A surprise attack depends on the defender not expecting it. Olaf read Bjorn's obligations and knew that he would come and roughly how, so he turned the attacker's chosen approach into a killing ground and closed the line of retreat.",
+   "outcome": "The rescue collapses and Bjorn ends up Olaf's prisoner alongside Harald, which gives Olaf the leverage for his next move.",
+   "counter": "Bjorn could have scouted the shoreline, landed away from the obvious approach, or asked himself why Olaf had let word of Harald's captivity reach Kattegat at all.",
+   "principle": "If your obligations make your move predictable, expect the enemy to be waiting where you plan to land.",
+   "in_practice": "When a competitor knows you must respond (a price match, a counter-offer, a rescue of a key account), assume they have prepared for your response. Vary the method and timing of the moves others can predict.",
+   "strength": 3,
+   "source": "knowledge",
+   "pool_ids": [
+    "vik-0675"
+   ]
+  },
+  {
+   "category": "WAR",
+   "title": "Padlocks on a Void Contract",
+   "show": "suits",
+   "secondary": [
+    "TRAP",
+    "DEF"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S05E05"
+   ],
+   "strategist": "Harvey Specter (countered by Travis Tanner)",
+   "target": "Travis Tanner and his client Alyssa Lang",
+   "context": "Travis Tanner, Harvey's old courtroom enemy, claims to be a changed man and opens with a 15 percent settlement offer for his client Alyssa Lang, whom Harvey's client BetaSoft accuses of leaving with its intellectual property. Harvey assumes the offer is a feint and decides that instead of defending, they need to attack.",
+   "play": "Harvey buys up Lang's outstanding debts, puts a lien on her property and has the sheriff padlock her offices during the settlement meeting. At the hearing, Tanner produces Lang's birth certificate: she signed the IP contract at 16, so it is unenforceable. He has also paid off her debt and gets the padlocks removed. He then hands Harvey a draft sexual harassment complaint against BetaSoft's chief executive, unfiled, with his offer still on the table.",
+   "why_it_works": "As a strike, Harvey's plan is well executed. It fails because Tanner holds a card, the invalid contract, that makes the whole attack pointless, and the unfiled complaint lets Tanner apply pressure that costs him nothing until he uses it.",
+   "outcome": "Harvey loses the hearing, and the feud escalates to criminal charges and a punch. Mike later learns the harassment idea came from Lang herself.",
+   "counter": "Harvey should have checked the enforceability of his own contract before attacking. An opponent who opens with a generous offer may simply know something you do not.",
+   "principle": "Before striking first, make sure your own foundation holds.",
+   "in_practice": "Before escalating a dispute over debt, IP or termination, stress-test your own contracts and position. A surprisingly reasonable opening from the other side can be a sign of their strength.",
+   "quote": {
+    "text": "No, I'm saying we need to attack his.",
+    "speaker": "Harvey Specter",
+    "ep": "S05E05"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1356"
+   ]
+  }
+ ]
+}

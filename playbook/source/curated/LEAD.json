@@ -1,0 +1,1187 @@
+{
+ "id": "LEAD",
+ "name": "Leadership, Loyalty & Managing People",
+ "intro_html": "<p>Leadership in these five shows is the management of other people's reasons for staying. Every boss on screen, from a Viking earl to a hedge fund founder, runs a loyalty economy with its own currencies: status, a stake in the outcome, protection when things go wrong, and the truth about what is happening. The plays in this chapter are about earning those reasons, spending them wisely, and noticing when they have run out.</p><p>The best of them work because people commit to what a role means to them far more than to what it pays. Axe keeps Taylor in <b>The Glass Is a Lens</b> (Billions) only after he stops raising the money and tells Taylor that their outsider's distance is an edge. Claire recruits a consultant who turns down Washington jobs by offering a hard problem and fifteen years in <b>Tell Me Why It Can</b> (House of Cards). Frank buys a bodyguard's lifelong loyalty with a phone call that 'requires very little of me' in <b>The Cheap Rescue</b>. In <b>The Kopelman Lesson</b> (Suits), Jessica teaches Harvey the finer point: praise offered when you need something is a transaction, and praise offered when you need nothing is believed.</p><p>The failures are just as instructive, and they share a root. Leaders get into trouble when they treat people as instruments. Frank's <b>Protege on a Leash</b> and <b>One Chair</b> are the same mistake made twice in one season: a partner told they are subordinate, at the moment they ask for respect, walks out, taking what they know with them. Tommy Shelby's long struggle in <b>Keeping Arthur in the Fight</b> (Peaky Blinders) shows that a volatile lieutenant used purely as a weapon becomes the target his enemies aim at. Ragnar's <b>Paying for Followers</b> (Vikings) shows that money can fill the boats once trust is gone, but it fills them with the wrong crew.</p><p>Each show lights a different corner. Suits is an office drama, so its plays transfer most directly: backing your deputies (<b>Don't Fight Your Deputy's Fights</b>), enforcing orders even at the cost of a win (<b>Bench the Quarterback</b>), taking the blame (<b>Point the Finger at Me</b>) and owning the method you did not specify (<b>I Don't Care What It Takes</b>). Billions is about managing brilliant, restless talent. Peaky Blinders is a family that is also a firm, where Tommy's secrecy in <b>Need to Know</b> and his public accusations in <b>Doing the Odds on Family</b> cost him more than any rival does. Vikings shows leadership by consent in a culture where followers can simply sail away, which is why Ragnar honors the man he killed in <b>A Funeral for the Old Earl</b> and Lagertha lets the unwilling go. House of Cards is the dark mirror, with loyalty bought by favors and dirt, lasting only as long as the patron keeps paying.</p><p>The common thread is that authority is lent by the people who follow you. It has to be backed by standards you enforce, by honesty about what you know and what you did, and by the way you treat people who leave. A leader who remembers that it can be withdrawn tends to keep it.</p>",
+ "principles": [
+  "People commit to what a role means to them more than to what it pays; find the missing piece of status, meaning or future before you raise the offer.",
+  "The best loyalty is bought with favors that cost you little and mean a great deal to the other person, and it is kept by respect.",
+  "Praise believed is praise given when you need nothing in return.",
+  "Demanding unconditional loyalty from people who have options is the fastest way to lose them.",
+  "Take the blame upward and pass the credit downward.",
+  "If you order the result without limiting the method, you own the method.",
+  "Back your deputies in private and let them act in public; enforce your own orders even when it costs you a win.",
+  "Investigate before you accuse, and share the purpose widely even when the details must stay secret.",
+  "Let people who want to leave go cleanly, and say the hard things yourself; everyone who stays is watching how exits are handled.",
+  "Let people lose in rehearsal so they do not lose for real."
+ ],
+ "plays": [
+  {
+   "title": "The Protege on a Leash",
+   "show": "house-of-cards",
+   "category": "LEAD",
+   "secondary": [
+    "ALLY",
+    "LEV",
+    "POW"
+   ],
+   "scope": "series",
+   "episodes": [
+    "S03E11",
+    "S02E01",
+    "S02E02",
+    "S02E04",
+    "S02E10",
+    "S02E12",
+    "S03E02",
+    "S03E05",
+    "S03E08",
+    "S03E12",
+    "S04E12"
+   ],
+   "strategist": "Frank Underwood",
+   "target": "Jackie Sharp, from congresswoman to Majority Whip, staged presidential challenger and would-be running mate",
+   "context": "When Frank Underwood becomes Vice President he loses the whip's office, his main instrument in the House. He needs a successor who owes him everything and will do hard things. He picks Jackie Sharp, a congresswoman with a military background whom he admires for her 'ruthless pragmatism'.",
+   "play": "Frank keeps the whip race officially open while secretly handing Jackie his files on the front-runners, plus one on her, and makes her pay for the job by exposing the secret of her own patron, Havemeyer. He then uses her as his whip on entitlements and on President Walker's impeachment. In Season 3 he recruits her as a staged primary challenger who will later 'see the light' and join his ticket, and she marries for the campaign image. When she flies to Washington to say she is tired of the leash and of taking the hits for him, Frank tells her this is not a partnership of equals and the matter is closed. When her ally Remy Danton objects, Frank asks whom Remy works for and says the only loyalty he accepts is unconditional.",
+   "why_it_works": "Early on the method works because every job Frank gives Jackie is also a step up for her, and the dirt she accumulates binds her to him. It fails once the rewards become promises and the costs become humiliation: a protege who has been taught ruthlessness applies it to her teacher, and dominance only holds people who have nowhere else to go.",
+   "outcome": "Jackie is Frank's most effective ally in Season 2. Within days of the leash speech she drops out and endorses his rival Heather Dunbar, Remy leaves politics without warning Frank, and Dunbar takes the lead in Iowa. A year later Jackie goes on the record for a newspaper investigation into Frank.",
+   "counter": "Frank could have kept Jackie by paying her in status as well as leverage; Dunbar wins her with respect and an offer of nothing. Jackie's own counter to his files is to confess her secrets herself, which ends his hold on her.",
+   "principle": "A protege bound by favors and dirt stays loyal only while the relationship still feels like a partnership.",
+   "in_practice": "As a senior hire grows, give them visible authority and credit, and acknowledge the cost when they do something hard for you. Reminding a capable person of the hierarchy works only until someone else makes them a better offer.",
+   "quote": {
+    "text": "This is not a partnership of equals. Nothing close to it.",
+    "speaker": "Frank Underwood",
+    "ep": "S03E11"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "hou-A1029",
+    "hou-0880"
+   ],
+   "steps": [
+    {
+     "ep": "S02E01",
+     "move": "Frank keeps the whip race open and neutral in public, then hands Jackie files on Webb and Buchwalter and a file on her."
+    },
+    {
+     "ep": "S02E02",
+     "move": "Jackie wins the whip job through proxies and by leaking Havemeyer's secret daughter, a price Frank refuses to spare her."
+    },
+    {
+     "ep": "S02E04",
+     "move": "She delivers the entitlement votes, getting four of Blythe's people with the stacks of names Frank printed."
+    },
+    {
+     "ep": "S02E10",
+     "move": "She refuses to cosponsor Claire's bill; Frank's bullying fails and he tells her Remy works for Tusk."
+    },
+    {
+     "ep": "S02E12",
+     "move": "Claire withdraws the bill and the Underwoods recruit Jackie to whip votes for Walker's impeachment."
+    },
+    {
+     "ep": "S03E02",
+     "move": "Jackie leaks the short leadership meeting to make herself indispensable and pushes for the vice presidency."
+    },
+    {
+     "ep": "S03E05",
+     "move": "Frank recruits her as a staged challenger who will later endorse him, and she marries Alan Cooke for the campaign image."
+    },
+    {
+     "ep": "S03E08",
+     "move": "Dunbar talks her into a joint campaign suspension during the hurricane, without consulting Frank."
+    },
+    {
+     "ep": "S03E11",
+     "move": "Frank sends her out as his debate attack dog, then tells her it is not a partnership of equals; within days she endorses Dunbar."
+    },
+    {
+     "ep": "S04E12",
+     "move": "Jackie confesses the affair to her husband herself and goes on the record with Remy for Hammerschmidt's story."
+    }
+   ]
+  },
+  {
+   "title": "Keeping Arthur in the Fight",
+   "show": "peaky-blinders",
+   "category": "LEAD",
+   "secondary": [
+    "PSY",
+    "RISK"
+   ],
+   "scope": "series",
+   "episodes": [
+    "S06E06",
+    "S01E03",
+    "S01E05",
+    "S02E01",
+    "S02E05",
+    "S04E03",
+    "S04E06",
+    "S05E01",
+    "S06E02",
+    "S06E04"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "Arthur Shelby",
+   "context": "Tommy Shelby runs the Birmingham family business. His older brother Arthur is its most feared fighter and its most fragile member: shell-shocked from the war, prone to drink and cocaine, and hungry for respect Tommy rarely gives him. Across six seasons Tommy has to decide how to use him, protect him and keep him loyal.",
+   "play": "Tommy repairs Arthur's pride when it breaks: a pub of his own after being kept in the dark about stolen guns (S01E03), and a third share of the company after Arthur tries to hang himself (S01E05). In Season 2 he pours away Arthur's sedatives because he needs him 'fast', puts him in charge in London because people fear him, and covers up the death of a young boxer Arthur kills. Later the family works around Arthur in a board vote, and Tommy makes him the chairman who will take the blame if the illegal side is exposed. In Season 6 he reverses course: he owns his share of the blame, promises Arthur a letter to his estranged wife Linda if he stays clean for two weeks, recasts their childhood to give Arthur a reason to stop, and pays Linda's foundation £10,000 to help.",
+   "why_it_works": "When Tommy gives Arthur real standing and a reason tied to the family, Arthur performs. When Tommy uses him only as a weapon or a shield, Arthur's instability becomes the family's weak point.",
+   "outcome": "For most of the series it fails: the dead boxer, a murder frame by rivals, a burned pub that puts Michael in jail and Linda's attempt to shoot Arthur all come from Arthur being used without being cared for. It succeeds in Season 6, when a clean Arthur leads the final ambush and kills Polly's killer.",
+   "counter": "Tommy's enemies read the pattern clearly. Alfie Solomons, Inspector Campbell and Luca Changretta all aimed at Arthur because he was the easiest lever against Tommy.",
+   "principle": "A volatile lieutenant is an asset only while you look after him; use him purely as a tool and he becomes the point your enemies aim at.",
+   "in_practice": "A brilliant but struggling team member needs real standing and support as well as hard assignments. Overusing your most intense performer, or parking your riskiest work on them, turns their strength into your biggest exposure.",
+   "quote": {
+    "text": "I need you fast. Not slow, eh?",
+    "speaker": "Tommy Shelby",
+    "ep": "S02E01"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "pea-A0486",
+    "pea-0331",
+    "pea-0351",
+    "pea-0462"
+   ],
+   "steps": [
+    {
+     "ep": "S01E03",
+     "move": "After hiding the guns from Arthur, Tommy wins him back with a pub of his own."
+    },
+    {
+     "ep": "S01E05",
+     "move": "After their father cons Arthur and he tries to hang himself, Tommy makes him one of three shareholders."
+    },
+    {
+     "ep": "S02E01",
+     "move": "Tommy pours away Arthur's medicine and puts him in charge in London because people are scared of him."
+    },
+    {
+     "ep": "S02E05",
+     "move": "Arthur's instability lets Alfie and Campbell frame him for Billy Kitchen's murder."
+    },
+    {
+     "ep": "S04E03",
+     "move": "Polly and Linda keep Arthur out of a board vote that gives Luca's contract to Aberama Gold, and Arthur kills two hitmen alone out of humiliation."
+    },
+    {
+     "ep": "S04E06",
+     "move": "Tommy tells the world Arthur is dead so that a living Arthur can kill Luca."
+    },
+    {
+     "ep": "S05E01",
+     "move": "Arthur is made chairman, the man who takes the blame or hangs if the illegal business is exposed."
+    },
+    {
+     "ep": "S06E02",
+     "move": "Tommy slaps a black-shirted Arthur and promises another letter to Linda if he stays clean for two weeks."
+    },
+    {
+     "ep": "S06E04",
+     "move": "After Ruby's funeral Tommy recasts their childhood and the Dudley tunnel to give Arthur a reason to stop."
+    },
+    {
+     "ep": "S06E06",
+     "move": "Arthur, clean, leads the Garrison ambush and kills Polly's killer."
+    }
+   ]
+  },
+  {
+   "title": "The Glass Is a Lens",
+   "show": "billions",
+   "category": "LEAD",
+   "secondary": [
+    "NEG"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S02E02",
+    "S02E03"
+   ],
+   "strategist": "Bobby 'Axe' Axelrod",
+   "target": "Taylor Mason",
+   "context": "Taylor Mason is a brilliant intern at Axe Capital, Bobby Axelrod's hedge fund, and is leaving in two weeks for an MBA. Taylor has already turned down a job, money means little to them, and Axe's analyst Mafee admits the usual retention tools (parties, bonuses, perks) will not work.",
+   "play": "Axe first shows Taylor he has noticed their test: Taylor fed an idea through Mafee to see whether Axe could spot who was really behind it. He offers $750,000, then a million, and when neither lands he goes for the real obstacle. Taylor feels like an outsider watching people as if they were another species, and Axe recasts that distance as an edge. He then accepts Taylor's own terms, a week-to-week deal with the million prorated, while claiming all 168 hours of the week. By the next episode he has researched Taylor's online poker record before asking them to trade in the Alpha Cup.",
+   "why_it_works": "Axe works out that the barrier is identity, and changes what staying would mean to Taylor instead of raising the price again. Letting Taylor set a low-commitment structure removes the feeling of being trapped while still securing the work.",
+   "outcome": "Taylor stays, wins the Alpha Cup for Axe in the next episode, and becomes the most important person in the firm after Axe.",
+   "counter": "A recruit who wants to stay independent should notice when a flattering reframe arrives packaged with a claim on all their time.",
+   "principle": "Find the real objection before you raise the offer.",
+   "in_practice": "When a strong candidate or client is unmoved by price, ask what makes them uneasy about joining and speak to that. Flexible, low-commitment terms often close what more money cannot.",
+   "quote": {
+    "text": "But you don't realize, Taylor, that glass, it's not a barrier, it's a lens.",
+    "speaker": "Bobby Axelrod",
+    "ep": "S02E02"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "bil-0064"
+   ]
+  },
+  {
+   "title": "Tell Me Why It Can",
+   "show": "house-of-cards",
+   "category": "LEAD",
+   "secondary": [
+    "ALLY",
+    "PSY"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S04E01",
+    "S04E02"
+   ],
+   "strategist": "Claire Underwood",
+   "target": "LeAnn Harvey",
+   "context": "Claire Underwood has walked out on her husband, President Frank Underwood, and wants to run for Congress in Texas. She needs an operator of her own. LeAnn Harvey is a successful Texas political consultant who takes 15 clients a year and has turned down Washington jobs.",
+   "play": "Claire skips the money and goes to LeAnn's pride: she recalls that Claire's father once told LeAnn's father she was making a mistake starting her own firm, and LeAnn proved him wrong. She presents the long-shot race as a test only someone like LeAnn can pass. When Frank's pressure makes LeAnn waver, Claire asks her directly whether she wants money or to make a real mark, then raises the offer from one campaign to 'the next 15 years' of her life. When the race collapses, Claire squeezes her mother for money so she can keep paying LeAnn.",
+   "why_it_works": "High performers are moved more by a hard problem and a bigger stage than by fees. Casting LeAnn as the person who beats the odds makes the difficulty part of the appeal, and the long horizon turns a contract into a career.",
+   "outcome": "LeAnn joins Claire and stays loyal even when Frank's people offer her his own campaign. She becomes Claire's chief operative for the rest of the series.",
+   "counter": "LeAnn could have asked where the President stood before she signed; she learns he is hostile only when his chief of staff turns up at her office.",
+   "principle": "Recruit the best people with a problem worthy of them, then offer them a future instead of a job.",
+   "in_practice": "When hiring a senior person or bringing in a partner, lead with the hard problem only they can solve and the long-term upside, and come to compensation after that. Then keep paying what you promised when the plan changes.",
+   "quote": {
+    "text": "Now, a dozen consultants can tell me why this won't work, but I think you can tell me why it can.",
+    "speaker": "Claire Underwood",
+    "ep": "S04E01"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "hou-0889"
+   ]
+  },
+  {
+   "title": "You Can't Change What You Want",
+   "show": "peaky-blinders",
+   "category": "LEAD",
+   "secondary": [
+    "ALLY",
+    "INT"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S03E03",
+    "S03E05"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "Ada Thorne",
+   "context": "Tommy's sister Ada is a communist who keeps her distance from the family business. She has contacts on the left who know what the Soviet embassy is learning, and Tommy needs them, but he cannot order her.",
+   "play": "Tommy gives Ada one task and she delivers: through a Communist Party contact she learns the Soviets have an inside source and gives Tommy the name, after asking that no one be killed. Tommy thanks her, then notices she has started wearing lipstick again and offers what he thinks she really wants: a legal job running the Boston office, Paris clothes, 'no revolvers, all legal'. Two episodes later he formally brings her in as Head of Property and Acquisitions.",
+   "why_it_works": "Tommy reads the appetite for a larger life under Ada's politics and designs a role that fits both her self-image (legal, never a gangster) and her ambition. A real title turns an occasional source into a committed insider.",
+   "outcome": "Ada becomes a key operator: she gets Tommy the plans he needs from the British Library, arranges his meeting with the Soviets and joins the company. In later seasons she runs it when Tommy is away.",
+   "counter": "Ada could have asked what her information would be used for before she handed it over.",
+   "principle": "Recruit people by offering what they want, and design the role around it.",
+   "in_practice": "When bringing a specialist or partner on board, find out what they want from their working life (autonomy, a title, a market of their own) and shape the role to fit. People who get what they want from the role do far more than people who are only doing you a favor.",
+   "quote": {
+    "text": "You can change what you do, but you can't change what you want.",
+    "speaker": "Tommy Shelby",
+    "ep": "S03E03"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "pea-0381"
+   ]
+  },
+  {
+   "title": "Rescue, Confide, Bind",
+   "show": "vikings",
+   "category": "LEAD",
+   "secondary": [
+    "LEV",
+    "INT"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S02E06",
+    "S02E04",
+    "S02E05",
+    "S02E09"
+   ],
+   "strategist": "King Ecbert of Wessex",
+   "target": "Athelstan",
+   "context": "Athelstan is an English monk who has lived among the Vikings and been captured by Ecbert's men. He speaks Latin and knows the Northmen intimately, which makes him uniquely valuable to a king who plans to deal with them and who dreams of Rome's legacy.",
+   "play": "Ecbert stops Athelstan's crucifixion in front of a crowd (S02E04). He consults him on pagan law in a court case and publicly credits him (S02E05). He gives him paints and work he loves, shows him hidden Roman frescoes and a secret library, calls him a kindred spirit and makes him guardian of the books, adding that if Athelstan ever tells anyone about them, he will let the crowd crucify him after all (S02E06). Before battle he reads Caesar with him and calls him too dear to risk (S02E09).",
+   "why_it_works": "Ecbert layers a debt (his life), public recognition, meaningful work and a shared secret, then reminds Athelstan that the protection can be withdrawn. Each step deepens the bond and makes Athelstan more useful.",
+   "outcome": "Athelstan becomes Ecbert's interpreter, adviser on the Northmen and the envoy who carries his peace offer. His divided loyalty to Ragnar remains a risk Ecbert cannot control.",
+   "counter": "Athelstan's only protection is to remember whose interests the gifts serve. Ragnar's friendship is a counterweight Ecbert can never fully buy out.",
+   "principle": "Earn loyalty in layers: save them, value them, trust them with something, and make them useful.",
+   "in_practice": "Win a key hire's commitment by backing them publicly, giving them work they care about and trusting them early with something that matters. Leave out the threat: discretion should come from shared stakes.",
+   "quote": {
+    "text": "But if you ever tell anyone about them, I will let them crucify you.",
+    "speaker": "King Ecbert",
+    "ep": "S02E06"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "vik-0533"
+   ]
+  },
+  {
+   "title": "The Cheap Rescue",
+   "show": "house-of-cards",
+   "category": "LEAD",
+   "secondary": [
+    "LEV",
+    "ALLY"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S01E06",
+    "S01E03",
+    "S01E13"
+   ],
+   "strategist": "Frank Underwood",
+   "target": "Edward Meechum, a Capitol Police officer on Frank's security detail",
+   "context": "Frank Underwood, the House Majority Whip, has told his bodyguard Meechum that the only words he wants to hear are 'Yes' and 'Sir'. When Meechum leaves his post at Claire Underwood's invitation and then fires at a man who throws a brick through the window, he is suspended and asks Frank to put in a word. Frank refuses, citing protocol.",
+   "play": "Days later, waiting on another crisis, Frank changes his mind: the call 'requires very little of me and will mean the world to him'. He phones Meechum's captain and gets him reinstated. When Meechum thanks him, Frank sets the terms at the moment of gratitude: from now on Meechum is a rock who absorbs nothing, says nothing and cannot be broken. At the end of the season, as Frank is offered the vice presidency, he moves Meechum onto his new protective detail and tells him the best way to show gratitude is to keep being valuable.",
+   "why_it_works": "Saving someone's career at almost no cost to yourself creates outsized gratitude, and the earlier refusal makes the rescue feel bigger. Setting expectations at the peak of gratitude, and later tying the next reward to continued performance, turns one favor into lasting loyalty.",
+   "outcome": "Meechum becomes the Underwoods' most trusted guard, driving Frank to secret meetings and keeping his confidences for years.",
+   "counter": "Meechum's trouble was partly created by the Underwoods themselves. Gratitude to a patron should come with a clear view of how you got into trouble in the first place.",
+   "principle": "The best loyalty is bought with favors that cost you little and mean everything to the other person.",
+   "in_practice": "Look for cheap, high-meaning ways to back your people when it matters most to them: a reference, a call to the right person, public support after a mistake. When you rise, bring them with you straight away and ask them to keep performing, so the reward is a beginning and never a settled debt.",
+   "quote": {
+    "text": "It requires very little of me and will mean the world to him.",
+    "speaker": "Frank Underwood",
+    "ep": "S01E06"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "hou-0747",
+    "hou-0773"
+   ]
+  },
+  {
+   "title": "The Kopelman Lesson",
+   "show": "suits",
+   "category": "LEAD",
+   "secondary": [
+    "ALLY",
+    "PSY"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S03E09",
+    "S01E08",
+    "S03E03"
+   ],
+   "strategist": "Harvey Specter (taught by Jessica Pearson)",
+   "target": "Louis Litt",
+   "context": "Harvey Specter is the star closer at Jessica Pearson's law firm. Louis Litt is a brilliant, insecure financial lawyer whom Harvey has mocked for years. Harvey keeps needing Louis's expertise, and Louis keeps feeling used.",
+   "play": "In S01E08 Harvey needs Louis to trace hidden money. Louis lists his failures and Harvey reframes each one, twice says he respects him, and, at Louis's insistence, says plainly that he is under the gun and needs his help. In S03E03, after taking back an associate he had promised Louis, Harvey offers no apology and brings Louis a takeover fight in his own specialty, saying Louis is better suited to win it: 'I want you to know I know it.' In S03E09 Jessica, now managing partner, tells Harvey about Kopelman, a partner she once 'ripped up' after a fight. The day she took over, she went to him and told him how much she valued him, and he never voted against her again. Harvey then thanks Louis and tells him he respects him at a moment when he needs nothing from him.",
+   "why_it_works": "Louis's grievance is about respect, and respect is believed only when it is specific and costs the giver something. Praise offered when you need help reads as a transaction; the same praise offered when you need nothing reads as the truth, and that is the step Jessica teaches Harvey.",
+   "outcome": "Each gesture buys Louis's full effort: he narrows sixteen banks to five and finds the money, and he takes the takeover fight. The Kopelman step changes the relationship itself, and Louis starts going out of his way for Harvey.",
+   "counter": "Louis's defense is to accept the work and still ask who calls the shots; gestures made only under pressure never erase years of contempt, and he says so.",
+   "principle": "Tell people what they are worth when you need nothing from them; that is the only time they believe it.",
+   "in_practice": "When you take charge of former peers, or win an argument against a colleague, go to the person you beat and name specifically what they do well. Do it again later when you are not asking for anything, so the next time you do need them, they have reason to believe you.",
+   "quote": {
+    "text": "I went to Kopelman, and I told him how much I valued him.",
+    "speaker": "Jessica Pearson",
+    "ep": "S03E09"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "sui-1233",
+    "sui-1080",
+    "sui-1203"
+   ]
+  },
+  {
+   "title": "Make It Real for Him",
+   "show": "billions",
+   "category": "LEAD",
+   "secondary": [
+    "PSY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S01E05"
+   ],
+   "strategist": "Wendy Rhoades and Mike 'Wags' Wagner",
+   "target": "Bobby Axelrod and the Axe Capital floor",
+   "context": "Axe has frozen the fund and gone missing, talking about walking away. His portfolio managers are restless and plotting to set up on their own, and Wags, his chief operating officer, has been told to inform top investors that the firm is winding down. Wendy Rhoades is the firm's in-house performance coach.",
+   "play": "Wendy tells Wags to stop pushing Axe directly and to make him face his investors himself instead. Wags turns up with papers to sign and a short list of people who 'deserve a sit-down': the first $10 million investor, a university endowment, and the head of the city police pension fund. Meanwhile Wags keeps the traders busy with betting games and an offsite. Wendy visits Axe and, instead of arguing him out of leaving, tells him to make a real decision and tell his people himself. The pension fund manager quizzes Axe on old trades and tells him he is still lit up.",
+   "why_it_works": "Facing the people who trusted him turns an abstract exit into a concrete betrayal, and lets Axe reach the decision on his own. Keeping the floor occupied buys time without lying to anyone.",
+   "outcome": "Axe stays. He nearly boards the boat and does not, the pension money stays, and he tells Wags he loves what they do.",
+   "counter": "If Axe had truly wanted out, he could have delegated the investor meetings and avoided the emotional pull, which is exactly what Wendy made sure he did not do.",
+   "principle": "To bring someone back, make them face the people their decision affects, then let them decide.",
+   "in_practice": "When a key colleague or co-founder is drifting, stop arguing and put them in front of the clients and people who depend on them. Keep the rest of the team busy and honestly informed while the decision is pending.",
+   "quote": {
+    "text": "Have Axe talk to them... himself. Make it real for him.",
+    "speaker": "Wendy Rhoades",
+    "ep": "S01E05"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "bil-0022"
+   ]
+  },
+  {
+   "title": "A Funeral for the Old Earl",
+   "show": "vikings",
+   "category": "LEAD",
+   "secondary": [
+    "REP",
+    "POW"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S01E06"
+   ],
+   "strategist": "Ragnar Lothbrok",
+   "target": "The people of Kattegat and Earl Haraldson's former followers",
+   "context": "Ragnar, a farmer who defied his earl to raid England, has just killed Earl Haraldson in single combat in front of the town and been acclaimed in his place. He needs the loyalty of men who served Haraldson for years, and Haraldson's widow Siggy and daughter fear the usual fate of a fallen earl's family.",
+   "play": "Ragnar takes oaths of fealty and tells his old crew they are still his friends. When Tostig, an old warrior who sailed with Haraldson, asks to be taken raiding so he can die with honor, Ragnar puts it to the crowd ('All in favor?') and grants it. He gives Haraldson a full chieftain's funeral, calling him a great man and a warrior. He leaves Siggy and her daughter unharmed, and announces more ships to sail west, 'for that is our future'.",
+   "why_it_works": "Honoring the defeated leader tells his followers that their past loyalty is no crime. Granting a veteran's request, by public vote, turns the old guard into stakeholders. A new shared goal gives everyone something to look forward to instead of back at.",
+   "outcome": "The transition is peaceful and the town rallies behind Ragnar. The one discordant note is his brother Rollo, whose oath is conditional: 'as long as your good fortune holds'.",
+   "counter": "The danger sits inside Ragnar's own camp. Rollo, who helped him win, now asks how the brothers can ever be equal, and that grievance drives his betrayal the next season.",
+   "principle": "After a takeover, honor the old leader, include the old guard and give everyone a new common goal.",
+   "in_practice": "After you acquire a firm or inherit a team, speak respectfully in public about what your predecessor built, give long-serving people a visible role, and set a forward goal before you change anything else. Then watch the people who helped you win, because they expect the most.",
+   "quote": {
+    "text": "He was also a great man and a warrior. He earned his renown in this life, and now, in death, he deserves such a funeral.",
+    "speaker": "Ragnar Lothbrok",
+    "ep": "S01E06"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "vik-0507"
+   ]
+  },
+  {
+   "title": "You Are Us Now",
+   "show": "billions",
+   "category": "LEAD",
+   "secondary": [
+    "ALLY",
+    "PSY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S03E05",
+    "S03E06"
+   ],
+   "strategist": "Wendy Rhoades and Bobby Axelrod",
+   "target": "Ari Spyros and Dollar Bill Stearn",
+   "context": "Ari Spyros, Axe Capital's new head of compliance and a former regulator, blocks trader Dollar Bill Stearn's short on a pharmaceutical company. Bill disguises the same bet as a hedged long position. Spyros catches it and threatens to quit and report Bill unless Bill is fired.",
+   "play": "Wendy first gives each man 30 seconds to say everything he thinks of the other, cuts it off, makes them state their goals, and warns she has never told Axe to fire someone for being a dick. When that fails, Axe buys out a top restaurant for Spyros and tells him his real job is managing risk by pushing what the firm does right all the way to the edge. Bill loses the trade and must apologize to Spyros in front of the office. Spyros is told never to threaten to report the firm, because he is family now. Privately Axe routes Bill's more creative trades through an outside fund.",
+   "why_it_works": "Axe redefines Spyros's job and gives him status and belonging, turning an outside enforcer into an insider with a stake. Bill's public apology hands Spyros a visible win while Axe keeps Bill's trading alive elsewhere.",
+   "outcome": "Spyros commits to 'protect the family'. In the next episode he overdoes it, leaking a damaging tip about Wendy's own trade to prosecutors on his own initiative to help Axe, which is the cost of making a compliance officer into a loyalist with no stated limits.",
+   "counter": "Axe gave Spyros loyalty but no boundaries, so Spyros decided for himself what protecting the family meant.",
+   "principle": "When you bring a gatekeeper inside, redefine the job around your goals and then spell out its limits.",
+   "in_practice": "When legal, finance or procurement keeps blocking deals, involve them early and frame their role as helping the business take risk safely. Agree just as clearly on what they may and may not do on your behalf, or their new zeal will surprise you.",
+   "quote": {
+    "text": "You are us now.",
+    "speaker": "Bobby Axelrod",
+    "ep": "S03E05"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "bil-0143"
+   ]
+  },
+  {
+   "title": "Bench the Quarterback",
+   "show": "suits",
+   "category": "LEAD",
+   "secondary": [
+    "POW",
+    "TIME"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S07E07"
+   ],
+   "strategist": "Jessica Pearson",
+   "target": "Harvey Specter (in flashback)",
+   "context": "Years earlier, managing partner Daniel Hardman promotes Louis Litt to junior partner over Harvey. Jessica, then a partner, tells Harvey to bend the knee and play the long game, as she did. Louis, first chair on a trial, refuses Harvey's advice.",
+   "play": "Harvey pretends to accept Louis's authority, then has Donna quietly move the trial up to the next day without telling Louis, planning to win it alone. Jessica finds out, walks into court and removes Harvey in front of everyone, taking the case herself even if it costs the firm a loss. Separately she orders Louis to see a therapist or lose his job.",
+   "why_it_works": "Jessica judges that a leader who lets a direct instruction be ignored loses far more than one case. Removing her star publicly shows everyone that her orders stand whatever the short-term result, and dealing with Louis too shows she is not simply picking a side.",
+   "outcome": "Harvey is humiliated and briefly takes an offer from a rival firm. Louis starts therapy. Jessica later goes to Hardman and threatens to leave unless Harvey is next to be promoted, which shows the discipline and the sponsorship were part of one plan.",
+   "counter": "Harvey could have raised his objection with Jessica openly instead of going behind Louis's back.",
+   "principle": "Enforce your orders even when it costs you a win, or your authority is gone.",
+   "in_practice": "When a talented team member works around an agreed decision, address it quickly and visibly, even if their way would have produced a better result this time. Then, separately and sincerely, show them their path to advancement.",
+   "quote": {
+    "text": "But sometimes you have to bench your quarterback to show 'em who's running the team, whether you take a loss or not.",
+    "speaker": "Jessica Pearson",
+    "ep": "S07E07"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "sui-1529"
+   ]
+  },
+  {
+   "title": "Don't Fight Your Deputy's Fights",
+   "show": "suits",
+   "category": "LEAD",
+   "secondary": [
+    "POW"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S07E03"
+   ],
+   "strategist": "Rachel Zane (with Donna Paulsen)",
+   "target": "Stephanie Patel, and each other",
+   "context": "Rachel Zane has just been put in charge of the firm's associates. Fourth-year associate Stephanie Patel has twice handed off an assignment she considers beneath her. Donna Paulsen, the firm's new chief operating officer, urges Rachel to set the tone early.",
+   "play": "Rachel confronts Stephanie, who refuses to do the work. Donna walks in, pulls rank and threatens to show Stephanie the door. Afterwards Rachel tells Donna that all this showed the associates was that Rachel cannot control them unless Donna is in the room. The two reconcile. Rachel then calls Stephanie in, finds the work still undone, and fires her privately under a three-strikes rule, wishing her well.",
+   "why_it_works": "Authority given to a new leader is undercut the moment a superior steps over them in front of their reports. Rachel's quiet, rule-based firing sets the standard herself, without a public show that would breed resentment.",
+   "outcome": "Stephanie leaves, and the associates learn Rachel's rules are real. The firing later returns as a harassment complaint against Louis, and Donna and Rachel both admit they were not fully ready for their new roles.",
+   "counter": "Donna could have offered backup privately beforehand, and the two could have agreed in advance who would handle the confrontation.",
+   "principle": "If you gave someone authority, back them in private and let them use it in public.",
+   "in_practice": "Once you have delegated a team to a manager, do not overrule them in front of their people, however tempting. Coach them one to one and let them deliver the decision.",
+   "quote": {
+    "text": "Okay, and the tone that you just set is that if you're not there, she can walk all over me.",
+    "speaker": "Rachel Zane",
+    "ep": "S07E03"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1513"
+   ]
+  },
+  {
+   "title": "The Mutton Chop Confession",
+   "show": "billions",
+   "category": "LEAD",
+   "secondary": [
+    "INT",
+    "PSY"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S02E07"
+   ],
+   "strategist": "Chuck Rhoades",
+   "target": "Bryan Connerty",
+   "context": "Chuck Rhoades, the US Attorney for the Southern District of New York, suspects that his best prosecutor, Bryan Connerty, secretly reported him to the Justice Department's ethics office, which nearly ended his career. Connerty expects to be made Chief of the Criminal Division after a big conviction.",
+   "play": "Chuck takes Connerty to a steakhouse and says he always planned to bring him there on his promotion, raising his hopes. He talks about euphemisms, mutton for sheep, a rat on the plate whatever you call it. Then he asks whether Connerty has something to tell him and frames it as his only chance to keep the relationship. Connerty confesses. Chuck gives the job to someone else on an acting basis, leaves the chair open, and offers a choice: quit now, or stay, prove his loyalty and earn the chair.",
+   "why_it_works": "The setting and the parable tell Connerty that Chuck already knows, so denial looks pointless and confession looks like the only way to save something. Holding the job open keeps a talented subordinate ambitious and inside the building instead of turning him into an enemy outside it.",
+   "outcome": "Connerty stays under a cloud, on probation. The grievance is only parked, and it resurfaces when Chuck later blocks one of Connerty's cases for his own reasons.",
+   "counter": "Connerty could have treated the dangled promotion as a signal that something was coming, and prepared his answer, or his exit, before he sat down.",
+   "principle": "Let the other person feel you already know; confession is cheaper for them than being caught.",
+   "in_practice": "When you suspect a team member went around you, arrange a private conversation that gives them room to come clean, then set a clear, earned path back to trust instead of firing or forgiving on the spot.",
+   "quote": {
+    "text": "So, you can either quit right now... or you can stay. Prove your loyalty. And when you do, you will truly have earned that chair.",
+    "speaker": "Chuck Rhoades",
+    "ep": "S02E07"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "bil-0092"
+   ]
+  },
+  {
+   "title": "Empty Chambers",
+   "show": "peaky-blinders",
+   "category": "LEAD",
+   "secondary": [
+    "POW",
+    "TRAP"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S06E06"
+   ],
+   "strategist": "Duke Shelby (on Arthur's orders and Charlie Strong's advice)",
+   "target": "Finn Shelby",
+   "context": "In the final episode the Shelbys are purging the informants who betrayed them. Finn, the youngest brother, has been careless with family secrets and is close to Billy Grade, the informant. The family needs to know which side Finn is on. Duke is Tommy's newly returned son, whom Finn resents.",
+   "play": "Duke hands Finn a gun and tells him that Arthur says if he will not do the killing, he can walk away from the family for good. The man Finn is meant to kill is his friend Billy Grade, who urges Finn to turn the gun on the others instead. Finn calls Duke the son of a whore and turns the gun on the family. It clicks: on the advice of Tommy's uncle Charlie Strong, Duke made sure the first two chambers were empty. Finn is expelled from the family 'by order of the Peaky Blinders'.",
+   "why_it_works": "The test forces a real choice under real pressure, while the safeguard means a wrong answer can hurt no one. It reveals character through action, which is more reliable than asking anyone for promises.",
+   "outcome": "Finn exposes himself and is cut off. Duke's standing in the family rises for the way he handled it.",
+   "counter": "Finn's resentment of Duke was obvious; he could have guessed that a test set by his rival would be rigged.",
+   "principle": "Test loyalty with a real choice, and build in a safeguard so that a wrong answer costs you nothing.",
+   "in_practice": "Give a new or doubtful team member real responsibility in a setting where mistakes are contained, such as a pilot client or a reviewed draft. Watch what they do when they believe the stakes are real.",
+   "quote": {
+    "text": "You are no longer a member of this Shelby family. By order of the Peaky fucking Blinders.",
+    "speaker": "Duke Shelby",
+    "ep": "S06E06"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "pea-0469"
+   ]
+  },
+  {
+   "title": "Cutting With a Reason",
+   "show": "billions",
+   "category": "LEAD",
+   "secondary": [
+    "POW"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S02E11"
+   ],
+   "strategist": "Taylor Mason (coached by Bobby Axelrod and Wendy Rhoades)",
+   "target": "The Axe Capital research analysts",
+   "context": "Taylor, newly made head of research, ranks every analyst on a chart and proposes to fire the bottom name straight off it, just before bonus time.",
+   "play": "Axe stops the paper firing and tells Taylor to sit with each analyst, looking for who will outperform their data. Taylor adds an eleventh category, desire, and asks each person why they want to stay. Wendy tells Taylor to rip the band-aid off but warns that it will change them. Taylor keeps the analyst nicknamed Rudy, ranked last but hungry and scrappy, and fires one who comes across as a weasel. Then Taylor tells the survivors they are officially on the team and need not look over their shoulders.",
+   "why_it_works": "Meeting each person produces information the numbers miss and makes the decision look considered rather than mechanical. Telling the survivors they are safe converts fear into loyalty instead of lingering anxiety.",
+   "outcome": "Taylor earns the team's respect, the floor chants for Rudy, and Taylor feels the personal cost of the decision.",
+   "counter": "An analyst with strong numbers and no drive would slip through a pure ranking; Taylor's interviews are the guard against that.",
+   "principle": "Make the cut in person, judge potential as well as numbers, and then tell the survivors they are safe.",
+   "in_practice": "Before letting someone go, talk to each person affected and weigh drive and trajectory alongside the metrics. Afterwards tell the rest of the team plainly where they stand, so the cut ends the uncertainty instead of spreading it.",
+   "quote": {
+    "text": "There's a small group who can do the math. There's an even smaller group who can explain it. But those few who can do both... they become billionaires.",
+    "speaker": "Bobby Axelrod",
+    "ep": "S02E11"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "bil-0112"
+   ]
+  },
+  {
+   "title": "The Glue Player",
+   "show": "suits",
+   "category": "LEAD",
+   "secondary": [
+    "INT"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S08E01",
+    "S08E03"
+   ],
+   "strategist": "Donna Paulsen, then Katrina Bennett",
+   "target": "Katrina Bennett, Brian Altman and Louis Litt",
+   "context": "After a merger, senior lawyer Katrina Bennett builds an algorithm to rank fifty associates, and Brian Altman lands at the bottom. Managing partner Louis Litt orders her to rig the metric to save him; she refuses on principle and fires Brian.",
+   "play": "Donna asks Katrina for the five most efficient associates, then asks where Brian sits. His desk is in the middle of all five. Donna says some players never post great stats but make everyone around them better, hints that Katrina was once that player, and tells her to redo the evaluation and do it better. Separately she tells Brian that Katrina needs his help to get it right. In S08E03 the lesson carries on: when Katrina's migraine makes her miss a client meeting and Brian takes the blame, she preps him, sends him to argue the motion alone so he can redeem himself with the client, and then tells Louis the failure was hers, even though it may cost her a promotion.",
+   "why_it_works": "Donna lets Katrina keep her principle (objective evaluation) while showing her the data was incomplete, which is easier to accept than being overruled. The seating chart makes an invisible contribution visible. Katrina then treats Brian the way a good manager should: credit down, blame up.",
+   "outcome": "Katrina apologizes to Brian and brings him back, he helps her rebuild the list, and the two become close allies. Brian wins in court for her, and Louis tells Katrina she will make one hell of a senior partner.",
+   "counter": "Katrina could have built peer feedback and collaboration into the model from the start, so it captured the people who make others better.",
+   "principle": "Measure what a person makes possible for others, as well as what they produce themselves.",
+   "in_practice": "Before cutting anyone on utilization or billable hours alone, check who relies on them and what slows down without them. When someone you manage takes a hit for your absence, tell your own boss the truth and give them the next chance to shine in front of the same client.",
+   "quote": {
+    "text": "What you have yet to learn is that there are players who never put up great stats, but you keep them around because they make the people around them better.",
+    "speaker": "Donna Paulsen",
+    "ep": "S08E01"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "sui-1574",
+    "sui-1584"
+   ]
+  },
+  {
+   "title": "Justice Before Gold",
+   "show": "vikings",
+   "category": "LEAD",
+   "secondary": [
+    "NEG",
+    "ALLY"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S06E20",
+    "S06E18",
+    "S06E19"
+   ],
+   "strategist": "Ubbe (with Floki)",
+   "target": "The native tribe and his own settlers",
+   "context": "In the final episodes Ubbe, one of Ragnar's sons, has led a small group of settlers across the ocean to a new land. The inhabitants first surround them at arrow point, then lead them to Floki, who has been living among them. The Norse are guests, few in number and dependent on the tribe's goodwill.",
+   "play": "Floki tells Ubbe to let the past go and helps him learn to live alongside the tribe. When one of Ubbe's own settlers, hunting for gold, kills a native child, Ubbe agrees that the man must die and carries out the punishment himself. The tribe then allows the Norse to stay, while making clear that the land is not theirs to own.",
+   "why_it_works": "Ubbe grasps that the settlement survives only on trust, and that trust would be gone if the tribe believed the newcomers would kill for profit and shield their own. Punishing his own man visibly shows the hosts that he holds his people to their rules.",
+   "outcome": "The Norse are allowed to remain in peace on the tribe's terms. The series ends with Ubbe and Floki on the shore and the settlement intact.",
+   "counter": "The failure mode was obvious and tempting: siding with his own man, which would almost certainly have meant war with a far stronger local people.",
+   "principle": "When you are the newcomer, enforce your hosts' rules on your own people first.",
+   "in_practice": "When you embed a team inside a client or enter a new market, deal visibly and personally with any breach of trust by one of your own. Protecting a team member who did real harm will cost you the whole relationship.",
+   "strength": 3,
+   "source": "knowledge",
+   "pool_ids": [
+    "vik-0710"
+   ]
+  },
+  {
+   "title": "Daring Them to Leave",
+   "show": "suits",
+   "category": "LEAD",
+   "secondary": [
+    "PSY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S02E03"
+   ],
+   "strategist": "Louis Litt",
+   "target": "The firm's associates",
+   "context": "Louis runs the firm's associates. An associate survey ranks the firm second to last for quality of life, and Harvard threatens to pull its recruiting privileges. The Harvard assessor tells Louis his associates think he makes them do his work and does not work as hard as they do.",
+   "play": "Louis does every associate's pending assignment himself overnight and drops the finished work in front of them. He tells them he can do their jobs faster and better, and that he gives them the briefs and arguments because that is how they learn. Then he offers to write the best recommendation they have ever seen for anyone who wants to leave for a firm that will not give them that chance. Nobody moves, and he hands out ten new cases, which they rush to claim.",
+   "why_it_works": "Louis answers two complaints at once: the overnight work proves his own effort, and the genuine offer to help them leave calls the bluff on their unhappiness. The hard work is recast as training and a privilege.",
+   "outcome": "The associates re-engage and the firm keeps its Harvard privileges. Louis then asks for the same chance to rise from his own bosses, which shows how much he wants recognition himself.",
+   "counter": "An associate who truly had a better offer could simply have taken the letter. The move works only when the leader knows the team is better off staying.",
+   "principle": "Answer 'you don't work as hard as us' with proof, and 'we're unhappy' with a real offer to help them leave.",
+   "in_practice": "When a team grumbles about workload, show your own commitment, explain how the stretch work builds their careers, and mean it when you offer to help anyone who wants to go. The people who choose to stay after a real offer to leave are committed.",
+   "quote": {
+    "text": "If you don't believe me, I will write you the best recommendation you have ever seen, and you can find out for yourself.",
+    "speaker": "Louis Litt",
+    "ep": "S02E03"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1121"
+   ]
+  },
+  {
+   "title": "Point the Finger at Me",
+   "show": "suits",
+   "category": "LEAD",
+   "secondary": [
+    "RISK"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S03E16"
+   ],
+   "strategist": "Harvey Specter",
+   "target": "Mike Ross",
+   "context": "Mike Ross is Harvey's associate and protege, and he secretly never went to law school. With a federal prosecutor closing in on the secret, Mike insists he will never give up Harvey, whatever it costs him.",
+   "play": "Harvey tells Mike about the time he told his father about his mother's affair, because sometimes it is better to tell. He lists the lines he has crossed since hiring Mike, case by case, and says the whole thing was his idea. Then he gives Mike explicit permission: if it comes to it, point the finger at Harvey.",
+   "why_it_works": "A leader who takes responsibility releases a subordinate from a loyalty that could destroy him. It also tells Mike the unvarnished truth about how exposed they both are.",
+   "outcome": "The key witness holds, so Mike never has to use the permission. Hearing the list, though, convinces Mike that he is a danger to the people he cares about, and he leaves the firm for an investment banking job, asking Harvey for permission to go.",
+   "counter": "There is no opponent here. The side effect is that honesty about risk can prompt good people to leave, and a leader has to accept that.",
+   "principle": "Take the blame before your people have to decide whether to give you up.",
+   "in_practice": "When a decision you made puts your team at risk, say plainly that it was your call and that they are free to say so. People do better work when they are not quietly carrying your liability.",
+   "quote": {
+    "text": "If it comes to it, you point the finger at me, you got that.",
+    "speaker": "Harvey Specter",
+    "ep": "S03E16"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "sui-1264"
+   ]
+  },
+  {
+   "title": "Retreat to Attack",
+   "show": "billions",
+   "category": "LEAD",
+   "secondary": [
+    "TIME",
+    "DEF"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S01E10"
+   ],
+   "strategist": "Chuck Rhoades",
+   "target": "His team at the Southern District",
+   "context": "Chuck's prosecutors have been led into a case that Axe set up to embarrass them, and Chuck's superior from Washington is about to arrive and take the Axe investigation away. The team is shattered, and Connerty is ready to take the blame.",
+   "play": "Chuck gathers the team and tells a story about his own flaw as a teenage chess prodigy: when he decided an opponent was unworthy, rage took over and he forgot to win. He states the defeat plainly, refuses to let Connerty take the fall ('I set the tone'), predicts the press will call him sloppy and unhinged and says they will be right. Then he gives them a direction: play perfect strategy, retreat now so they can attack when it is to their advantage.",
+   "why_it_works": "A leader who owns a loss publicly protects the team and keeps its loyalty. Naming the specific error (rage over strategy) makes the recovery credible, and a clear doctrine gives people something to do besides grieve.",
+   "outcome": "The team holds together, and Chuck turns to indirect moves that rebuild his position within two episodes.",
+   "counter": "For Axe the lesson is that a beaten opponent who stops acting on emotion becomes more dangerous.",
+   "principle": "After a defeat, take the blame, name the mistake and give the team its next move.",
+   "in_practice": "When a pitch or project fails, own it in front of the team, say specifically what went wrong in your approach, and set the next plan in the same meeting. People follow a leader who is exact about losses.",
+   "quote": {
+    "text": "We will retreat so we can attack when it is to our advantage.",
+    "speaker": "Chuck Rhoades",
+    "ep": "S01E10"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "bil-0044"
+   ]
+  },
+  {
+   "title": "Becoming Edward",
+   "show": "suits",
+   "category": "LEAD",
+   "secondary": [
+    "POW"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S03E16",
+    "S03E12"
+   ],
+   "strategist": "Jessica Pearson and Harvey Specter",
+   "target": "Themselves (and Dana Scott)",
+   "context": "Edward Darby, Jessica's former merger partner, covered up a client's crimes by choosing not to know about them. Now Dana 'Scottie' Scott, a partner, accuses Jessica of running the firm the same way and asks to be released from her noncompete. Jessica has twice told Harvey she does not want to know the details of what he did.",
+   "play": "Jessica recognizes the pattern: 'I don't want to know' is exactly what Darby said, and she and Harvey keep doing things and then covering them up. She tells Harvey that Scottie is right, and Harvey agrees they need to get back to being themselves. They release Scottie from her noncompete, cover her buy-in, and Harvey tells her the truth about Mike.",
+   "why_it_works": "Choosing not to know protects a leader for a while, but it teaches the organization that problems are to be hidden. Seeing themselves in a disgraced rival forces a correction that no outsider could have imposed.",
+   "outcome": "Scottie leaves, on honest terms. The firm's leaders commit to changing course, though a federal prosecutor is already watching Harvey.",
+   "counter": "The lesson here is internal: the only defense against willful blindness is to ask the question you would rather not hear answered.",
+   "principle": "'I don't want to know' is how leaders end up responsible for things they never approved.",
+   "in_practice": "If you notice yourself avoiding the details of how your team gets its results, ask. A leader who avoids knowing is building a culture that hides problems until they are too big to fix.",
+   "quote": {
+    "text": "And \"I don't want to know\" is exactly what Edward Darby said.",
+    "speaker": "Jessica Pearson",
+    "ep": "S03E16"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "sui-1265"
+   ]
+  },
+  {
+   "title": "I Don't Care What It Takes",
+   "show": "suits",
+   "category": "LEAD",
+   "secondary": [
+    "RULE",
+    "POW"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S09E02",
+    "S09E03",
+    "S09E05"
+   ],
+   "strategist": "Louis Litt (failed); exploited by Faye Richardson",
+   "target": "Faye Richardson, through Benjamin",
+   "context": "Louis is now managing partner. The Bar has installed Faye Richardson as a special master to police the firm, and Louis wants her gone. He believes the Bar's thousand-page bylaws must contain a technicality to remove her and asks Benjamin, the firm's IT specialist, to build a program to find it quietly.",
+   "play": "Louis dresses the job up as a secret mission and swears Benjamin to secrecy. When the bylaws turn out to be password protected, Louis, stressed by other news, shouts that he does not care what it takes, just get the copy today. Benjamin hacks the Bar. Faye catches him deep in the bylaws, and he admits it. Louis tries to fire Benjamin in front of Harvey and Donna, who overrule him. Faye then strips Louis of his title, citing pressure from the top as the cause of the wrongdoing.",
+   "why_it_works": "It fails because a leader who says the result matters more than the method is responsible for whatever method is used. Blaming the subordinate once caught confirms to everyone, the regulator included, that the leader will not take responsibility.",
+   "outcome": "Louis loses the managing partner title and Benjamin's respect. Two episodes later he apologizes, admits he was wrong, and promotes Benjamin with a raise.",
+   "counter": "Louis should have specified a lawful method and, once it went wrong, stood in front of Benjamin; owning the order might have saved his title.",
+   "principle": "If you order the result without limiting the method, you own the method.",
+   "in_practice": "When you push a team hard for a deadline, say plainly what is off-limits. If someone cuts a corner under your pressure, take responsibility in public before you deal with it in private.",
+   "quote": {
+    "text": "But pressure from the top is hard to withstand.",
+    "speaker": "Faye Richardson",
+    "ep": "S09E02"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "sui-1652"
+   ]
+  },
+  {
+   "title": "Giving the Boss a Sandbox",
+   "show": "billions",
+   "category": "LEAD",
+   "secondary": [
+    "POW",
+    "NEG"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S03E02"
+   ],
+   "strategist": "Taylor Mason",
+   "target": "Bobby Axelrod",
+   "context": "Taylor is now chief investment officer because Axe is barred from directing trades, but Axe cannot let go. He has fenced off two billion dollars Taylor may not touch, and during a market crisis he storms onto the floor with the compliance officer, narrating every move for the record. Taylor's authority depends on looking in control of this first crisis.",
+   "play": "Taylor tells Axe directly that the staff do not know whom to follow: since it cannot be him, it has to be Taylor, and if he cannot live with that, Taylor can be the one who leaves. Axe walks out. Taylor turns down the easy trades, fixes the flaws in a colleague's idea and makes a large private placement that locks in a smaller loss than rivals suffer. When Axe then hands over the two billion, Taylor places it in outside funds, including Axe's favorites, as a passive investor. Axe sees exactly what Taylor has done.",
+   "why_it_works": "The offer to leave forces Axe to choose between control and his firm. Then, instead of fighting over the fenced-off money, Taylor gives Axe a harmless outlet that meets his need to be involved while protecting the main fund.",
+   "outcome": "Taylor keeps authority and earns Axe's trust, 'as much as I can trust anyone'. Axe gets somewhere to play, and he notes that it also hedges the firm against Taylor's mistakes.",
+   "counter": "Axe could have kept the money fenced off, but that would have told Taylor and the whole floor that he did not trust his own CIO.",
+   "principle": "When a boss cannot let go, give them a safe place to stay involved instead of fighting them over the main business.",
+   "in_practice": "When a founder or senior partner keeps interfering in work you lead, give them a distinct piece they can shape, such as a key relationship or a pilot, so their energy goes there and your delivery is protected. Be willing to name the cost of their interference first.",
+   "quote": {
+    "text": "You're giving me a place to play so I stay off your field.",
+    "speaker": "Bobby Axelrod",
+    "ep": "S03E02"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "bil-0130"
+   ]
+  },
+  {
+   "title": "One Chair",
+   "show": "house-of-cards",
+   "category": "LEAD",
+   "secondary": [
+    "ALLY",
+    "POW"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S03E13",
+    "S03E10",
+    "S03E12"
+   ],
+   "strategist": "Frank Underwood",
+   "target": "Claire Underwood",
+   "context": "Claire, Frank's wife and political partner, has been forced out as UN ambassador as part of Frank's deal with the Russian president, pushed onto the campaign trail and fenced off from decisions. She tells Frank they have been lying to each other: the partnership has only ever made him stronger.",
+   "play": "Frank first argues that he has consulted her on every decision. When she says that is the problem, because he makes the decisions, he escalates: without him she is nothing, the office has one chair and she always knew it. Then he 'takes charge' as she said she wanted, ordering her onto the plane to New Hampshire to smile, shake hands and be First Lady. The next morning she tells him she is leaving.",
+   "why_it_works": "It fails. Frank tries to settle a dispute about status by asserting status, which confirms her complaint. Treating an equal as a subordinate at the moment they ask for equality converts a grievance into an exit.",
+   "outcome": "Claire refuses to go to New Hampshire and leaves him, putting the campaign and the partnership that built his presidency at risk. The season ends on the break.",
+   "counter": "Frank needed to give Claire something of her own that did not depend on his approval. The ambassadorship had been exactly that, and he traded it away three episodes earlier.",
+   "principle": "A partner who is told they are subordinate stops being a partner.",
+   "in_practice": "In a business partnership or co-founder relationship, consulting someone on everything is different from sharing authority. Give partners domains they own outright, or expect them to leave when a better arrangement appears.",
+   "quote": {
+    "text": "You're right. This office has one chair.",
+    "speaker": "Frank Underwood",
+    "ep": "S03E13"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "hou-0887"
+   ]
+  },
+  {
+   "title": "The Public Arrest",
+   "show": "vikings",
+   "category": "LEAD",
+   "secondary": [
+    "REP"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S04E01"
+   ],
+   "strategist": "Bjorn (rebuked by Ragnar)",
+   "target": "Floki, and indirectly Ragnar",
+   "context": "King Ragnar is gravely ill after the siege of Paris, and his son Bjorn addresses Kattegat in his place. Floki, Ragnar's oldest friend, murdered Ragnar's beloved companion Athelstan, and Ragnar has known for some time without acting.",
+   "play": "Bjorn works the crowd with call and response ('Who is our king?' 'Ragnar!'), invokes Ragnar's love for Athelstan, and orders Floki's arrest for the murder in front of everyone. When Ragnar wakes, he tells Bjorn that if he had wanted Floki arrested he would have done it long ago. By making the charge public, Bjorn has left him no choice but to punish his oldest friend.",
+   "why_it_works": "The move shows how a public commitment removes a leader's room to maneuver. Once the people have heard the accusation, a king who does nothing looks weak, and Ragnar had kept the matter private precisely to preserve his options.",
+   "outcome": "Ragnar is forced to deal with Floki, who escapes, is recaptured and tortured, and the friendship breaks. Floki's alienation later pushes him toward Ragnar's rivals.",
+   "counter": "Bjorn should have consulted Ragnar, or waited, before acting in his name. Ragnar's own defense was to delay and take control of the punishment himself.",
+   "principle": "Never force your principal's hand in public; a public commitment is a decision taken away from them.",
+   "in_practice": "Do not announce a client's or a senior partner's position in a meeting before they have chosen it. Raise sensitive issues privately first, so the decision-maker keeps the option to handle them quietly.",
+   "quote": {
+    "text": "But now you have made it public and left me with no options.",
+    "speaker": "Ragnar",
+    "ep": "S04E01"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "vik-0574"
+   ]
+  },
+  {
+   "title": "The First Hand Up",
+   "show": "house-of-cards",
+   "category": "LEAD",
+   "secondary": [
+    "TIME"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S03E08"
+   ],
+   "strategist": "Frank Underwood and Claire Underwood",
+   "target": "Frank's cabinet",
+   "context": "President Frank Underwood has diverted disaster relief money to his jobs program and a hurricane is approaching. He needs cover to delay signing a relief bill, hoping the storm turns. His cabinet knows he hates dissent.",
+   "play": "Frank asks the cabinet how many think he should sign, admits he discourages dissent and promises not to hold honesty against them. Only Claire raises her hand. Frank thanks them and turns the moment into a task: every department must draft a proposal within two days for what it can do about the hurricane, and only if that falls short will he sign. Privately Claire admits she did not agree; she raised her hand so that others who wanted to dissent would be less afraid.",
+   "why_it_works": "Frank turns a pressure point into work that legitimately buys him 48 hours and looks like consultation. Claire's move is social proof: the first dissenter carries the risk so the rest do not have to.",
+   "outcome": "The delay works for a while, but nobody follows Claire, which shows how thoroughly Frank has taught his people to stay silent. He ends up signing anyway.",
+   "counter": "A cabinet member who saw the delay for what it was could have briefed the governors on the timeline. In the end Frank's own culture of fear defeats the honesty exercise.",
+   "principle": "If you want honest dissent, someone trusted has to go first, and a leader who punishes dissent cannot switch it back on with a speech.",
+   "in_practice": "In team meetings, ask a senior person to voice the unpopular view first so others have permission to speak. If nobody ever disagrees with you, assume it is fear.",
+   "quote": {
+    "text": "But I knew if I did, the others who wanted to would be less afraid.",
+    "speaker": "Claire Underwood",
+    "ep": "S03E08"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "hou-0866"
+   ]
+  },
+  {
+   "title": "Need to Know",
+   "show": "peaky-blinders",
+   "category": "LEAD",
+   "secondary": [
+    "INT"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S03E03",
+    "S03E04",
+    "S03E06"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "His own family",
+   "context": "Grieving his wife and under surveillance, Tommy is running a dangerous job for a secret government faction. He restricts what each family member knows, sees Polly and Michael only about the legitimate business, gives his brothers orders separately, and tells them to burn his lists and stay off the phones.",
+   "play": "Tommy gives each person only their piece of the plan. Arthur and John get orders (seize a rival and kill his wife) without reasons, and John complains they are being treated as toy soldiers. Tommy offers the thinnest explanation: a little war the losing side will pay to fight, after which legitimate business comes first. He explains the next robbery only outdoors, among the men, because he does not trust the maids.",
+   "why_it_works": "Compartmentalizing limits what any one person can leak and keeps the whole plan in one head, which is sound security when a group is being watched.",
+   "outcome": "It only partly works. Arthur tells his wife, she tells the women, and they confront Tommy about the robbery he is 'not telling the women about'. The brothers disobey the order to kill. When the plan leaks anyway, Tommy's first move is to accuse his family, and the real leak turns out to have come from outside.",
+   "counter": "Explaining the purpose while keeping the operational details secret would have kept the family's loyalty without widening the leak risk.",
+   "principle": "Share the why widely and the how narrowly, or people will fill the silence themselves.",
+   "in_practice": "On a sensitive deal, tell the whole team the goal and the reasons for confidentiality, even if only two people see the numbers. Unexplained secrecy creates the resentment and gossip it was meant to prevent.",
+   "quote": {
+    "text": "We are a couple of fucking toy soldiers.",
+    "speaker": "John Shelby",
+    "ep": "S03E03"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "pea-0383"
+   ]
+  },
+  {
+   "title": "Doing the Odds on Family",
+   "show": "peaky-blinders",
+   "category": "LEAD",
+   "secondary": [
+    "INT"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S03E06"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "His own family",
+   "context": "Tommy's young son Charles has been kidnapped, and the people behind it know every detail of Tommy's secret robbery. Tommy has to find the leak fast.",
+   "play": "Tommy lines up the family and accuses each person in turn: Arthur's wife Linda, Esme and her cocaine money, Ada's sudden return, Polly's new lover, the painter Ruben. He says that as of an hour ago he trusts his tunnel diggers more than he trusts them, and tells Polly he has 'done the odds' and it is evens that Ruben is the source. Only after testing his business partner Alfie Solomons does he find the truth.",
+   "why_it_works": "Under pressure Tommy reasons like the bookmaker he is: list the possibilities and price them. That is a fair way to think, but saying it aloud to the people you depend on treats their loyalty as a bet.",
+   "outcome": "The leak was Alfie, an outsider. Tommy has to open the finale with apologies to Arthur, to Linda (with £3,000 extra) and to Esme, and his words briefly poison Polly's view of Ruben.",
+   "counter": "Tommy could have investigated quietly, starting outside the family, as he eventually does with Alfie, before accusing the people whose loyalty he needs.",
+   "principle": "Investigate before you accuse; loyalty spent in a crisis is expensive to buy back.",
+   "in_practice": "When something goes wrong on a project, check systems, suppliers and outside factors before you question your team. A public accusation that proves wrong costs more trust than the original problem.",
+   "quote": {
+    "text": "I've done the odds on all of you. Evens it's him.",
+    "speaker": "Tommy Shelby",
+    "ep": "S03E06"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "pea-0393"
+   ]
+  },
+  {
+   "title": "Let the Unwilling Go",
+   "show": "vikings",
+   "category": "LEAD",
+   "secondary": [
+    "REP"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S05E06"
+   ],
+   "strategist": "Lagertha",
+   "target": "Floki's followers and the people of Kattegat",
+   "context": "Lagertha, now queen of Kattegat, catches Floki's secret emigrants at the boats after one of them betrays the plan. They include renowned warriors she needs for a coming war, and they have defied her direct order to stay.",
+   "play": "She confronts them one by one, naming their families and their duty to Kattegat, and makes clear she feels betrayed. Then, instead of punishing them, she lets them all go, asking what point is served by keeping people against their will, especially if it is the will of the gods. She tells Floki she only hopes he has found what he says.",
+   "why_it_works": "Warriors kept by force would be unreliable in battle and a standing source of dissent. Releasing them removes the problem and presents her as secure in her rule.",
+   "outcome": "Kattegat loses fighters it will miss in the coming battle. Some of her own people read the mercy as weakness; others read it as patience.",
+   "counter": "Rivals can always frame mercy as weakness, so a leader who lets people go needs to explain the decision to everyone who stays.",
+   "principle": "People held against their will are a liability dressed up as strength.",
+   "in_practice": "When a team member wants to leave, let them go cleanly instead of holding them with pressure or guilt. A reluctant stayer drags the team down, and a graceful exit protects your reputation with everyone watching.",
+   "quote": {
+    "text": "What point is served by keeping you all here against your will?",
+    "speaker": "Lagertha",
+    "ep": "S05E06"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "vik-0630"
+   ]
+  },
+  {
+   "title": "Ribs for the Help",
+   "show": "house-of-cards",
+   "category": "LEAD",
+   "secondary": [
+    "ALLY"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S04E11"
+   ],
+   "strategist": "Frank Underwood (failed)",
+   "target": "Freddy Hayes",
+   "context": "Freddy Hayes once ran the barbecue joint where Frank ate for years and is now working at the White House. He is one of the few people Frank is at ease with, and he knows about meetings Frank held at his old restaurant. He tells Frank he is leaving for a job in Georgetown.",
+   "play": "Frank tries to keep him with a raise or better hours. When Freddy says he has given his word, Frank asks him to cook a rack of ribs before he goes, just like old times. Freddy hears that even his send-off is to serve Frank, and when Frank defends himself, Freddy asks whether Claire is part of his collection too. Frank orders him to address him as Mr. President, and Freddy curses him out.",
+   "why_it_works": "It does not work: Frank treats a relationship as an asset he owns, and the request exposes it. People tolerate being used while they have no choice; once they have an exit, they settle the account.",
+   "outcome": "Freddy leaves bitter. He declines to talk to a reporter digging into Frank only because of his own code, and Frank later admits it was Freddy's leaving that made him angry.",
+   "counter": "Frank needed only to say congratulations and let him go gracefully. The loyalty of people who once served you is kept by respect, and never by one more request.",
+   "principle": "How you treat people on the way out decides what they say about you later.",
+   "in_practice": "When a team member or contractor leaves, congratulate them and help with the handover. Alumni who leave well become referrers; alumni who leave badly become sources for your critics.",
+   "quote": {
+    "text": "I tell you I got something good going, and your first thought ain't, \"Freddy, congratulations.\" It's \"Make me ribs.\"",
+    "speaker": "Freddy Hayes",
+    "ep": "S04E11"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "hou-0929"
+   ]
+  },
+  {
+   "title": "The Outsourced Firing",
+   "show": "suits",
+   "category": "LEAD",
+   "secondary": [
+    "DEC"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S07E13"
+   ],
+   "strategist": "Harvey Specter (failed)",
+   "target": "Donna Paulsen",
+   "context": "Harvey's girlfriend Paula, a therapist, tells him their relationship cannot survive if Donna, his long-time right hand and now the firm's COO, keeps working beside him. Harvey will not fire Donna and does not want to lose Paula.",
+   "play": "Harvey quietly asks a client, Stu Buzzini, to offer Donna a job, hoping she will leave of her own accord. Stu makes a generous offer and tries to sell it by appealing to her pride over something a rival lawyer said about her. Donna sees through it at once, because Stu could only have known that story from Harvey. She confronts him, makes a direct appeal to Paula that fails, and resigns.",
+   "why_it_works": "It fails because the plan depends on Donna not noticing, and Donna reads people for a living. Using a third party makes it worse than a direct firing: she asks why he did not at least have the nerve to fire her himself.",
+   "outcome": "Donna resigns. Harvey realizes he cannot give Paula what she needs, ends the relationship, and brings Donna back.",
+   "counter": "Say the hard thing directly. An engineered exit will be recognized by the person best placed to recognize it.",
+   "principle": "Never outsource a hard conversation; people can tell whose hand is behind it.",
+   "in_practice": "If someone's role has to change or they need to move on, have the conversation yourself. Arranging an exit through third parties damages trust with that person and with everyone who later hears how it was done.",
+   "quote": {
+    "text": "You can skip the part where you pretend you weren't the one who asked him to make that offer in the first place.",
+    "speaker": "Donna Paulsen",
+    "ep": "S07E13"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1557"
+   ]
+  },
+  {
+   "title": "The Wager Trial",
+   "show": "suits",
+   "category": "LEAD",
+   "secondary": [
+    "PSY",
+    "DEC"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S05E14"
+   ],
+   "strategist": "Harvey Specter",
+   "target": "Mike Ross",
+   "context": "Mike, now on trial for fraud for practicing law without a degree, insists on representing himself, arguing that every moment the jury sees him lawyering undercuts the charge. Harvey believes the federal prosecutor, Anita Gibbs, will destroy him, but it is Mike's decision.",
+   "play": "Harvey proposes a mock trial in front of the firm with Jessica presiding, on one condition: if Harvey wins, Harvey represents him. Playing Gibbs, he springs a fabricated affidavit from Mike's supposed classmates, then tells Mike it was fake and that the real Gibbs will set exactly these traps. Mike retaliates with a fake marriage certificate so that his fiancee Rachel cannot be compelled to testify. Harvey then tears into Rachel's story, down to the cake and the witnesses.",
+   "why_it_works": "A rehearsal shows someone their weaknesses more convincingly than any argument, and the wager turns Mike's pride into a commitment to abide by the result.",
+   "outcome": "Mike insists he was not beaten, but the brutality of the exercise changes Rachel's mind, and she persuades him to let Harvey lead.",
+   "counter": "Mike's counter-bluff shows the risk of rehearsals that become personal contests: both sides start fighting to win instead of to prepare.",
+   "principle": "Let people lose in rehearsal so they do not lose for real.",
+   "in_practice": "Before a big pitch or negotiation, run a tough mock session in which a colleague plays the other side at full strength, and agree beforehand what the result will decide.",
+   "quote": {
+    "text": "Then you won't mind agreeing, if I beat you, you let me represent you in court.",
+    "speaker": "Harvey Specter",
+    "ep": "S05E14"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1399"
+   ]
+  },
+  {
+   "title": "Paying for Followers",
+   "show": "vikings",
+   "category": "LEAD",
+   "secondary": [
+    "REP"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S04E12",
+    "S04E11"
+   ],
+   "strategist": "Ragnar (failed)",
+   "target": "The warriors and farmers of Kattegat",
+   "context": "Ragnar returns after years away wanting to raid England again, but his standing is spent: he failed at Paris, and he knew that the Viking farming settlement in England had been destroyed without telling the families. His son Bjorn has already recruited the best men and ships for his own voyage.",
+   "play": "Ragnar first makes a personal apology tour, admitting to his former wife Lagertha that he made many bad choices. In the market he pitches the raid as revenge, and a farmer throws his secrecy back at him, saying the gods have deserted him. With no volunteers, Ragnar digs up the treasure meant for his afterlife and hands it out in the street to anyone who will sail. His sons tell him he is humiliating himself and that he will get only the dregs.",
+   "why_it_works": "Money can replace belief as a reason to show up, so the treasure gets him a crew when his reputation cannot. The episode shows the limit of that trade: people who come only for payment bring no loyalty and no quality, and an apology repairs relationships without restoring followership.",
+   "outcome": "The ships are crewed, with men his sons dismiss as the worst. Most of the fleet is lost in a storm, and the survivors blame Ragnar.",
+   "counter": "Ragnar could have delayed, told the settlers' families the truth much earlier, or joined Bjorn instead of competing with him for crews.",
+   "principle": "Once trust is spent, money can buy attendance and nothing more.",
+   "in_practice": "If a failed project has damaged your standing, paying premium rates to staff the next one attracts the wrong people. Own the failure openly and win back a few credible supporters before you ask anyone to take a risk with you.",
+   "quote": {
+    "text": "I have to bribe people to sail with me.",
+    "speaker": "Ragnar",
+    "ep": "S04E12"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "vik-0598"
+   ]
+  }
+ ]
+}

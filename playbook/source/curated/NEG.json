@@ -1,0 +1,1388 @@
+{
+ "id": "NEG",
+ "name": "Negotiation & Dealmaking",
+ "intro_html": "<p>Negotiation is the part of strategy that happens in the open. Both sides know they are bargaining, either can walk away, and the outcome is whatever each can be brought to accept. That makes this the most transferable chapter in the book: the moves that settle a hostage standoff in <i>House of Cards</i> or a scrap-metal contract in <i>Billions</i> are recognizably the moves that settle a consulting fee or a partnership split. Nearly every play here turns on three things: what happens to each side if there is no deal, what each side actually wants as distinct from what it is demanding, and what each move gives away.</p><p>The first is the strongest predictor of who wins. Axe's check for twenty-five million minus sixteen in <b>Sixteen Dollars</b> works because he knows the Eads family has nowhere else to go; a rural landowner beats the same Axe in <b>The Holdout Who Did His Homework</b> because he knows Axe cannot afford to wait. <i>House of Cards</i> gives the long version in <b>The Long Duel with Petrov</b>: for four seasons the Russian president wins every round in which the Underwoods need to leave with something, and loses only once Claire builds a walk-away of her own. The corollary is that a claimed alternative deserves checking. Catherine Durant kills a bluff with one phone call made in advance in <b>A Man Without a Passport</b>, and Harvey Specter sees through another in <b>Calling the All-In Bluff</b> simply by noticing that the alternative was never used.</p><p>The second is where most of the value is created. The best deals in these shows split what looked indivisible. Ragnar offers two exhausted kings the riches of England in place of a bigger share of one disputed valley in <b>Point Them Outward</b>; Jarl Borg invents a lease-back and shared mineral rights the moment Ragnar stands up to leave in <b>The Envoy Without a Mandate</b>; and in <i>Suits</i>, Mike Ross gets a tycoon to spin off a division once he sees that he can force his star to stay and cannot force him to love the work. Money is often the least important term. Axe gives his former wife the fee cut she is shouting about to win a seven-year lock-up in <b>The Pre-Drawn Deal</b>, and a fixer in <b>Knowing Where to Bang</b> reminds every consultant that the answer is worth more than the hours.</p><p>The third explains why the best negotiators in these shows say so little. Concessions are information. Mike Ross learns twice, from Louis Litt and then from Robert Zane, that bidding against yourself tells the other side exactly how badly you need the deal. Alfie Solomons reads a New York mafioso from the speed of his yes in <b>A Deal Without Negotiation</b>, and Claire Underwood adds a point to a trade deal the moment China shows how much it cares about a sinking ship in <b>The Twenty Percent Rescue</b>. The quietest winner in <i>Peaky Blinders</i> is a Quaker wife: in <b>Linda's Arithmetic</b>, Linda Shelby wins her husband's share using nothing but Tommy's own numbers and a pause.</p><p>Negotiation fails in predictable ways, and the failures here teach as much as the wins. A promise with nothing to enforce it evaporates (<b>Trading Up to a Bigger Fish</b>, <b>Surrender Without a Guarantee</b>). A hidden bargaining chip becomes a betrayal once it is found (<b>The Revised Promise</b>). Money cannot outbid someone's fear of a power they must live under (<b>There's Always a Number</b>). And the winner who asks for one more thing at the close often loses the whole deal (<b>One More Thing</b>). The five shows each see the craft from a different angle: <i>Billions</i> and <i>Suits</i> treat it as professional skill, <i>House of Cards</i> as an instrument of power, <i>Vikings</i> as the alternative to killing, and <i>Peaky Blinders</i> as family business in which every deal carries a personal price. The negotiators who last know their walk-away, ask what the other side really wants, and keep their word once the deal is signed.</p>",
+ "principles": [
+  "Know the other side's walk-away better than they do, and keep your own to yourself.",
+  "Build your alternative before the meeting; the side that must leave with a deal has already given away its leverage.",
+  "Test every claimed alternative, starting with why it has not already been used.",
+  "Concessions are signals: never bid twice in a row, and make each step smaller than the last.",
+  "Find what they want beneath what they demand; it is usually cheaper to give than money.",
+  "Concede the headline number to win the terms you actually care about.",
+  "Price the answer, and agree the price before you reveal it.",
+  "Leave the other side a way to call it a win; face-saving closes more deals than pressure does.",
+  "A promise with nothing to enforce it is worth nothing: tie payment to delivery.",
+  "Once you have agreement, sign it, and then keep your word."
+ ],
+ "plays": [
+  {
+   "title": "The Long Duel with Petrov",
+   "show": "house-of-cards",
+   "category": "NEG",
+   "secondary": [
+    "PSY",
+    "LEV",
+    "RISK"
+   ],
+   "scope": "series",
+   "episodes": [
+    "S03E10",
+    "S03E03",
+    "S03E04",
+    "S03E05",
+    "S03E06",
+    "S04E03",
+    "S04E05",
+    "S04E06",
+    "S05E06",
+    "S06E04",
+    "S06E08"
+   ],
+   "strategist": "Frank and Claire Underwood",
+   "target": "Viktor Petrov, President of Russia",
+   "context": "Frank Underwood, the ruthless Democrat who has maneuvered his way into the presidency, and his wife Claire, later UN ambassador and eventually president herself, need Russian cooperation again and again: a peacekeeping force in the Jordan Valley, an energy deal, Syria. Viktor Petrov, the Russian president, has more time, fewer domestic constraints and a gift for making the other side come to him. The contest runs across four seasons.",
+   "play": "Petrov opens every round the same way: a flat no, no stated price, and a demand that any concession be announced publicly so his people see him win. At the first summit Frank offers a secret, partial scale-back of missile defense, and Petrov walks out because it cannot be announced. Frank then flies to Moscow, and finally to a desert camp in the Jordan Valley, where Petrov takes every substantive point first and then adds a last, personal demand: Claire must resign as UN ambassador. The Underwoods win only when they reverse the flow. When Russia calls Claire's bluff at the UN, she gets an executive order putting 5,000 troops on standby and drags Petrov back to talks. At the G7 she refuses to apologize for an old insult, tells him plainly how weak his position is, and offers a deal that lets him keep his dignity. Years later she lets him watch her own advisers flounder, then privately trades him the Syrian ports for a 20 percent share.",
+   "why_it_works": "Petrov's leverage always comes from time and domestic image: he can walk away and the Americans, facing elections and headlines, cannot. The Underwoods gain ground only when they build walk-away power of their own (a credible threat, a UN vote held in reserve) and then hand him a face-saving way to say yes.",
+   "outcome": "Frank loses the peacekeeping mission, the Moscow deal and Claire's UN post. Claire wins the G7 drilling deal and the Syria ports deal. Petrov keeps finding new leverage, from troops in Antarctica to an American intelligence contractor in his custody, and the duel never really ends.",
+   "counter": "Claire named the defense before the desert trip: if Frank goes, he has to come back with something, and Petrov knows it. Every trip to Petrov's ground cost the Underwoods; every time they made him come to them, they gained.",
+   "principle": "Never be the side that has to leave with something: build your walk-away first, then let them save face.",
+   "in_practice": "With a powerful client or partner, do not fly in to close a deal you need, and do not reveal your price first. Secure alternatives before the meeting, and let the other side present the final terms as their own win.",
+   "quote": {
+    "text": "The main difference now is that we're both standing in the desert, and you can't leave with nothing to show but sand in your shoes.",
+    "speaker": "Viktor Petrov",
+    "ep": "S03E10"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "hou-A1032",
+    "hou-0842",
+    "hou-0856",
+    "hou-0859",
+    "hou-0874",
+    "hou-0908"
+   ],
+   "steps": [
+    {
+     "ep": "S03E03",
+     "move": "Petrov opens with a flat no, flirts with Claire, demands the whole missile shield and walks out when Frank's partial offer must stay secret."
+    },
+    {
+     "ep": "S03E04",
+     "move": "Russia arrests Michael Corrigan as leverage against the UN resolution, and Claire refuses to trade."
+    },
+    {
+     "ep": "S03E05",
+     "move": "Claire's executive order putting 5,000 troops on standby calls Moryakov's bluff and brings Petrov back to talks with Corrigan's release promised."
+    },
+    {
+     "ep": "S03E06",
+     "move": "Frank closes a full deal in Moscow, but Corrigan's suicide and Claire's 'Shame on you' collapse it."
+    },
+    {
+     "ep": "S03E10",
+     "move": "After Moryakov's planted FSB story leads to a failed SEAL raid, Frank flies to a desert camp and gives Petrov everything, including Claire's resignation."
+    },
+    {
+     "ep": "S04E03",
+     "move": "Frank decides to frighten Petrov by making the exiled Milkin look like a real coup threat."
+    },
+    {
+     "ep": "S04E05",
+     "move": "Petrov humiliates acting president Blythe into revealing Frank's condition."
+    },
+    {
+     "ep": "S04E06",
+     "move": "Claire, alone with Petrov at the G7, refuses to apologize and closes joint drilling zones by offering him his dignity."
+    },
+    {
+     "ep": "S05E06",
+     "move": "Petrov lands troops in Antarctica and reveals he holds Aidan Macallan, turning the Underwoods' secret into leverage for oil."
+    },
+    {
+     "ep": "S06E04",
+     "move": "Claire lets Petrov watch Mark and Seth fail, then privately trades him the Syrian ports for 20 percent and the exclusion of Shepherd contractors."
+    },
+    {
+     "ep": "S06E08",
+     "move": "Claire turns an ICO nuclear threat into a public standoff and threatens Petrov with a first strike."
+    }
+   ]
+  },
+  {
+   "title": "Sixteen Dollars",
+   "show": "billions",
+   "category": "NEG",
+   "secondary": [
+    "LEV",
+    "PSY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S01E02"
+   ],
+   "strategist": "Bobby Axelrod",
+   "target": "The Eads family",
+   "context": "Bobby 'Axe' Axelrod, a self-made hedge fund billionaire, wants his name on a concert hall that carries the old-money Eads family name in perpetuity. The hall's director badly wants Axe's $100 million gift but cannot sell a name the Eads family controls.",
+   "play": "Axe researches the family first and learns they are in a financial pinch, with loans they cannot refinance. He has the director offer them $25 million to take their name down, after which he will give his $100 million. At the signing he tells the grandson, Chad, that as a boy he caddied at the family's club for $16 a loop and was fired on the spot for correctly reading the grandfather's putt. He then hands over a check for $25 million minus 16 million: $9 million. When the family threatens to walk out, he tells them he has reviewed their debts and knows this check is all that stands between them and bankruptcy.",
+   "why_it_works": "Axe knows the Eads family's walk-away position better than they do: they have none. Because he did the research before the meeting, he can cut the price at the table knowing they cannot refuse.",
+   "outcome": "The family takes the $9 million and the building becomes Axelrod Hall. Axe also acquires a reputation for settling old scores at the signing table, which his enemies remember.",
+   "counter": "The Eads family should have kept its distress private, found at least one other buyer for the naming rights, and closed the $25 million in writing before any ceremony.",
+   "principle": "Whoever knows the other side's walk-away sets the price.",
+   "in_practice": "Before a significant negotiation, find out what happens to the other party if the deal fails: their cash position, deadlines and alternatives. Use it to set a firm, realistic opening; cutting the price after agreement, as Axe does, wins once and costs you with every counterparty who hears about it.",
+   "quote": {
+    "text": "I know that this check is the only thing standing between your family and bankruptcy.",
+    "speaker": "Bobby Axelrod",
+    "ep": "S01E02"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "bil-0007"
+   ]
+  },
+  {
+   "title": "The Holdout Who Did His Homework",
+   "show": "billions",
+   "category": "NEG",
+   "secondary": [
+    "INT"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S02E06"
+   ],
+   "strategist": "Hank Flagg",
+   "target": "Bobby Axelrod",
+   "context": "Axe has bought the distressed bonds of Sandicot, a small upstate town, betting that a new state casino will be built there. The casino's access road needs 200 acres of scrub owned by Hank Flagg, a local who has backed out of a $1.5 million sale to an anonymous company. The developer plans to seize the land through a government authority and a two-year fight, which Axe, holding the town's bonds, cannot afford.",
+   "play": "Flagg has pieced the buyer together from small signals: his realtor girlfriend saw a spike in interest in Sandicot, a friend spotted men with expensive haircuts and sneakers at the local diner, and public records at Town Hall showed Axe had bought the town's debt cheaply. When Axe arrives, bonds with him over his vintage Indian Four motorcycle and warns him about eminent domain, Flagg tells him he knows exactly what Axe stands to gain and lose. Axe offers two million, Flagg asks for seven, and they settle at five million plus the motorcycle.",
+   "why_it_works": "Flagg's advantage is knowing who is on the clock. Once he can show that a long fight hurts Axe more than it hurts him, the threat of seizure loses its force.",
+   "outcome": "Flagg gets more than three times the original offer. Axe covers some of it by leasing the land on to the casino developer, before the license goes to another region altogether.",
+   "counter": "Axe's team gave the game away by showing up in town looking like money. A buyer who needs secrecy has to control every visible signal as well as the paperwork.",
+   "principle": "Find out who is on the clock, and price accordingly.",
+   "in_practice": "Before negotiating with a larger buyer, read their deadlines, commitments and public filings. If they need the deal faster than you do, that is your leverage, and you can say so calmly.",
+   "quote": {
+    "text": "You can't afford to wait.",
+    "speaker": "Hank Flagg",
+    "ep": "S02E06"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "bil-0085"
+   ]
+  },
+  {
+   "title": "A Man Without a Passport",
+   "show": "house-of-cards",
+   "category": "NEG",
+   "secondary": [
+    "LEV",
+    "ALLY"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S02E12",
+    "S02E13"
+   ],
+   "strategist": "Frank Underwood and Catherine Durant",
+   "target": "Xander Feng",
+   "context": "Xander Feng, a Chinese billionaire tied to a money-laundering scheme with Frank's rival Raymond Tusk, has fled to Dubai to escape corruption charges at home. Frank, then Vice President, needs Feng's testimony to bring down President Walker and Tusk. Secretary of State Catherine Durant must make the offer: asylum in exchange for testimony.",
+   "play": "Frank first talks Durant round. She resists undercutting the President, but after Walker shuts her out of China policy, Frank tells her she is thinking about where they are and should think about where they are going. On the call, Durant refuses to let Feng stall: no asylum without valuable information now. When Feng says Dubai will give him permanent status, she replies that she has just spoken to the Foreign Minister herself, and reminds him that he is a man without a passport whose assets are frozen everywhere. Feng confirms the scheme.",
+   "why_it_works": "Durant checked Feng's alternative before the call, so his bluff collapses the moment he uses it. With his fallback gone, her offer is the only one in the room.",
+   "outcome": "Feng's confirmation puts heavy pressure on Walker and Tusk. Once Frank becomes President, he revokes the asylum and sends Feng back to China.",
+   "counter": "Feng needed a real fallback secured in advance. Durant, for her part, might have noticed that the man urging her on was the one Walker accused of plotting against him.",
+   "principle": "Verify their fallback before they bluff with it.",
+   "in_practice": "The other side's alternative sets your leverage. When a client says a competitor will do it cheaper, or a supplier claims another buyer, check what you can quietly before the meeting; a claim you have already verified cannot be used against you.",
+   "quote": {
+    "text": "Did you hear that directly from the Minister of Foreign Affairs? Because I just spoke to him.",
+    "speaker": "Catherine Durant",
+    "ep": "S02E12"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "hou-0823"
+   ]
+  },
+  {
+   "title": "Calling the All-In Bluff",
+   "show": "suits",
+   "category": "NEG",
+   "secondary": [
+    "INT"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S07E02"
+   ],
+   "strategist": "Harvey Specter",
+   "target": "Alex Williams",
+   "context": "Harvey Specter, the star closer now running his firm, wants to recruit Alex Williams, an old poker rival at another firm, together with Alex's client Pfizer. Alex says he will come only as a name partner, claiming his own firm will put his name on the wall within a year.",
+   "play": "Alex goes all in: name partner, or he stays put. Harvey agrees at first, then faces his partners, who all object. He goes back to Alex and withdraws the name partnership, offering senior partner on a take-it-or-leave-it basis with an answer due in the morning. Alex takes it and admits his firm was never going to make him a name partner. Harvey says he knew: if the promise were real, Alex would have used Harvey's offer to make his firm move the date up.",
+   "why_it_works": "An outside option is only worth something if you use it, and Alex never used his. The silence told Harvey the option was not real, so he could reset the terms with a firm deadline.",
+   "outcome": "Alex joins as senior partner and brings Pfizer with him. Harvey admits he caved at first partly out of guilt.",
+   "counter": "Alex could have made his claim credible by getting a real commitment from his own firm before bluffing with it.",
+   "principle": "Ask why they have not already used the alternative they are threatening you with.",
+   "in_practice": "When a candidate or client says they have a better offer, notice whether they have acted on it. If they have not, hold your terms and set a clear deadline.",
+   "quote": {
+    "text": "Because if they were really gonna do it in a year, you would've leveraged them to move it up the second I left your office.",
+    "speaker": "Harvey Specter",
+    "ep": "S07E02"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "sui-1506"
+   ]
+  },
+  {
+   "title": "Why Are They Offering?",
+   "show": "vikings",
+   "category": "NEG",
+   "secondary": [
+    "INT",
+    "POW"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S03E09"
+   ],
+   "strategist": "Ragnar Lothbrok",
+   "target": "Count Odo and the Franks",
+   "context": "Ragnar Lothbrok, the farmer who became king of the Northmen, is besieging Paris. Two assaults have failed and his army has lost nearly a thousand men. Through an interpreter, the Franks propose talks outside the walls, insisting the Vikings can never breach the city.",
+   "play": "Ragnar's camp asks the question that matters: why would the Franks offer terms if they were sure the walls would hold? The likely answer is that the city is running out of food. Ragnar shuts down the arguing in his own council, reminding them that every idea so far has failed and that as king he has the last word. At the meeting, when the Franks claim reinforcements are on the way, Ragnar replies that he knows no one is coming, declares their offer of 5,760 pounds of gold and silver not enough, and adds a new demand: he wants to be baptized.",
+   "why_it_works": "An offer is information about the person making it. Reading this one as a sign of hunger lets Ragnar call the reinforcement bluff and ask for more, and silencing debate at home lets him negotiate with one voice.",
+   "outcome": "The Franks agree to baptize him on the spot and deliver the tribute. The baptism turns out to be the first step of the ruse Ragnar later uses to get inside the city.",
+   "counter": "The Franks should have hidden their hunger and let the Vikings, facing winter in the open, make the first move.",
+   "principle": "Every offer tells you something about the person making it.",
+   "in_practice": "When a prospect or supplier suddenly proposes a deal, ask why now. The timing often reveals a deadline or a shortfall that strengthens your position.",
+   "quote": {
+    "text": "Tell him I know that no one is coming to save him.",
+    "speaker": "Ragnar",
+    "ep": "S03E09"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "vik-0570"
+   ]
+  },
+  {
+   "title": "Dinner With the King",
+   "show": "vikings",
+   "category": "NEG",
+   "secondary": [
+    "INT",
+    "LEV"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S01E07"
+   ],
+   "strategist": "Ragnar Lothbrok",
+   "target": "King Aelle of Northumbria",
+   "context": "On an early raid in Northumbria, Ragnar's band has taken the brother of King Aelle hostage. Aelle invites the Northmen's leader to his hall to discuss a ransom. Ragnar's brother Rollo wants to attack instead and warns that the king could kill them all at dinner.",
+   "play": "Ragnar accepts because he wants to see how the king lives and what manner of men the Saxons are, trusting the hostage to keep them safe. After the feast he names an enormous price, two thousand pounds of gold and silver, and repeats it calmly when the Saxons react. When Aelle demands his brother back first, Ragnar refuses: the brother goes home when the payment arrives. When the hostage later offers to plead their case if released, Ragnar points out that without him they would have nothing left to bargain with, and waits.",
+   "why_it_works": "Ragnar uses the meeting to gather intelligence, anchors very high, and holds the hostage until value is delivered. The hostage is his entire leverage, and he never spends it early.",
+   "outcome": "Aelle agrees to the price but uses the time to raise an army. When the chests arrive empty, the hostage has no remaining value and is sent back dead.",
+   "counter": "Aelle could have tested Ragnar's walk-away point with a counteroffer instead of agreeing to a figure he never meant to pay. Ragnar, in turn, should have asked why a king agreed so readily.",
+   "principle": "Anchor high, go and read them in person, and never release your leverage before you are paid.",
+   "in_practice": "Visit a client's offices before pricing a large engagement, name your price with confidence, and tie handover of the valuable parts (licenses, source code, the final model) to payment milestones.",
+   "quote": {
+    "text": "Two thousand pounds in weight. That is the price.",
+    "speaker": "Ragnar Lothbrok",
+    "ep": "S01E07"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "vik-0511"
+   ]
+  },
+  {
+   "title": "The Dismissal He Expected to Lose",
+   "show": "suits",
+   "category": "NEG",
+   "secondary": [
+    "RULE",
+    "TIME"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S03E05"
+   ],
+   "strategist": "Harvey Specter",
+   "target": "Judge Atkins and Cameron Dennis",
+   "context": "Harvey is defending Ava Hessington, an oil executive accused of bribery, against Cameron Dennis, a prosecutor and Harvey's former mentor. The judge promised to dismiss the case if Cameron had nothing beyond a bribery tape. Cameron's five witnesses refuse to come forward, so their statements are inadmissible, but the judge will not ignore that they exist.",
+   "play": "Harvey argues hard for a dismissal. The moment the judge refuses, he moves for an expedited trial and frames speed as fairness: public opinion of his client sinks every day, and Cameron might leak evidence to anyone. Cameron protests that it leaves him no time to build a case. The judge sets trial for a week from Monday. Harvey's associate Mike Ross realizes Harvey never expected the dismissal at all.",
+   "why_it_works": "A decision-maker who has just refused a large request is more willing to grant a smaller one, and granting it feels like fairness. The first ask has to be credible, and this one is.",
+   "outcome": "Cameron is left with a weak case and less than two weeks to fix it, which opens the way for Harvey to push him off the case altogether.",
+   "counter": "Argue each request on its own merits and name the sequence out loud when you see it, as Cameron tries to: 'Ten seconds ago, he was moving for a dismissal.'",
+   "principle": "Make the big ask you expect to lose, so the one you want looks like the compromise.",
+   "in_practice": "Present the full-scope proposal first, honestly priced; the phase-one engagement you actually want then looks modest and reasonable. The first ask must be one you would genuinely deliver.",
+   "quote": {
+    "text": "Because she was more likely to grant an expedited trial after saying no to a dismissal.",
+    "speaker": "Mike Ross",
+    "ep": "S03E05"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "sui-1208"
+   ]
+  },
+  {
+   "title": "Make Me an Offer",
+   "show": "house-of-cards",
+   "category": "NEG",
+   "secondary": [
+    "DEC",
+    "ALLY"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S04E09",
+    "S04E10"
+   ],
+   "strategist": "Frank Underwood",
+   "target": "Senator Joseph Baker",
+   "context": "Frank, now President and running for a full term, wants his wife Claire as his running mate, and the convention is open. Senator Joseph Baker holds as many delegates as Claire and despises Secretary of State Catherine Durant, who once had him removed from the Foreign Relations Committee.",
+   "play": "Frank tells Baker he is still Frank's choice and treats Claire's surge as an unwelcome surprise. He raises the idea of Claire taking the lead only as a remote hypothetical, praises her, and says he honestly does not know what he would do. Baker works out for himself that if Claire led, Frank would have to back her, and that his own delegates could put her over. When Baker asks what is in it for him, Frank asks what it would take, and Baker tells him to make an offer. Frank offers him Durant's job as Secretary of State.",
+   "why_it_works": "Frank never proposes the deal, so Baker feels he is the one driving it, and people commit to deals they design. Frank then prices it with the one thing Baker's grudge makes him want.",
+   "outcome": "Baker's delegates move toward Claire. Frank later tells Durant he has no intention of giving Baker her job; the promise was never meant to be kept.",
+   "counter": "Baker should have asked for the offer in a form Frank could not walk back, or tested it quietly with Durant, before moving his delegates.",
+   "principle": "Let the other side design the deal they want, then put a price on it.",
+   "in_practice": "Instead of pitching a partnership outright, lay out the situation and ask what would make it work for them; people commit to terms they proposed. Unlike Frank, promise only what you will deliver.",
+   "quote": {
+    "text": "You're doing the selling. Make me an offer.",
+    "speaker": "Joseph Baker",
+    "ep": "S04E09"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "hou-0919"
+   ]
+  },
+  {
+   "title": "Linda's Arithmetic",
+   "show": "peaky-blinders",
+   "category": "NEG",
+   "secondary": [
+    "LEV"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S03E04"
+   ],
+   "strategist": "Linda Shelby",
+   "target": "Tommy Shelby",
+   "context": "Tommy Shelby, head of the Peaky Blinders gang in 1920s Birmingham, is planning a robbery with his brothers. His elder brother Arthur has told his wife Linda, a devout Quaker, that the haul will be about 150,000. Tommy visits Linda to make sure she will not stop Arthur taking part, and offers Arthur's share as 30,000 (he had earlier told Arthur 25,000).",
+   "play": "Linda asks why Arthur's share is not a third of 150,000. Tommy says his youngest brother Finn is not yet a man, and that there are expenses, which have grown overnight because 'we need to dig a hole'. Linda takes his own figures, 25,000 in expenses out of 150,000, leaving 125,000, and divides by three while he offers her sugar. She keeps saying the choice is Arthur's, then adds that she does not imagine he will accept less than 41, and ties the figure to concrete plans: a store in California, passage through the Panama Canal the day after it is paid. When Tommy asks whether they have agreed on 41, she says she heard nothing to the contrary.",
+   "why_it_works": "Every number Linda uses is Tommy's own, so he cannot dispute the arithmetic without admitting he was shortchanging his brother. Saying the decision is Arthur's makes her figure look fixed, and her concrete plan shows she will take Arthur away if the number is wrong.",
+   "outcome": "Tommy concedes, and at the end of the season pays Linda an extra 3,000 by way of apology.",
+   "counter": "Tommy should never have put a total and an expense figure in Arthur's hands; any share he offered later could be checked against them.",
+   "principle": "Negotiate from the other side's own numbers, then let silence close the deal.",
+   "in_practice": "When a client or partner has shared a budget or revenue estimate, anchor your figure to it and show the working. A number derived from their data is much harder to push back on than one derived from yours.",
+   "quote": {
+    "text": "I've already told you, that'll be Arthur's decision. But I don't imagine he'll accept less than 41.",
+    "speaker": "Linda Shelby",
+    "ep": "S03E04"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "pea-0385"
+   ]
+  },
+  {
+   "title": "The Pre-Drawn Deal",
+   "show": "billions",
+   "category": "NEG",
+   "secondary": [],
+   "scope": "moment",
+   "episodes": [
+    "S03E08"
+   ],
+   "strategist": "Bobby Axelrod",
+   "target": "Lara Axelrod",
+   "context": "In their divorce, Axe's wife Lara received half his fortune, which his fund still manages. She is furious to find herself charged the standard fee of 2 percent of assets and 20 percent of profits, and threatens to pull the money.",
+   "play": "Axe holds firm at first: she can move the money, but this is his price. Later he comes back with a discount, 1.5 and 15, which he calls the best he gives anyone, in exchange for a seven-year lock-up on the money and an agreement that their boys stay in New York until college. Lara counters at 1 and 10. Axe agrees instantly, on condition she signs now, and produces terms already drawn up at that number.",
+   "why_it_works": "Axe lets Lara win the argument she is shouting about, the fee, and takes what he actually wants: stable capital and his sons nearby. Having the paperwork ready at her number shows he predicted the counter, and lets him close before she thinks again.",
+   "outcome": "Lara signs, locking in both the money and the children's home for seven years.",
+   "counter": "Lara could have noticed that Axe cared far more about the lock-up and the boys than about fees, and priced those terms accordingly.",
+   "principle": "Concede the number they are shouting about and win on the terms you care about.",
+   "in_practice": "In pricing negotiations, decide what you most need (term length, exclusivity, payment timing) and be ready to give ground on headline price to get it. Bring the contract so you can close in the room.",
+   "quote": {
+    "text": "I figured where we'd end up.",
+    "speaker": "Bobby Axelrod",
+    "ep": "S03E08"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "bil-0161"
+   ]
+  },
+  {
+   "title": "Negotiating Against Yourself",
+   "show": "suits",
+   "category": "NEG",
+   "secondary": [
+    "INT",
+    "LEV"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S01E11",
+    "S03E09"
+   ],
+   "strategist": "Louis Litt; Robert Zane",
+   "target": "Mike Ross",
+   "context": "Mike Ross is a brilliant college dropout practicing law without a degree under Harvey's protection, and he learns the same lesson twice. First he is dividing a dead magnate's ten companies between two feuding daughters, across the table from Louis Litt, a partner at his own firm who represents the other daughter. Two seasons later he needs Robert Zane, a rival lawyer and the father of Mike's girlfriend Rachel, to get his client, Folsom Foods, to pay the firm's fees a quarter early.",
+   "play": "Mike offers Louis a split giving his client 52.3 percent. Louis says 'No.' Mike tries another split, then one worth 60 percent, and gets a flat no each time with no counteroffer. Every package keeps the tabloid newspaper Mike's own client wants, and Louis tells him his offers have made it infinitely clear what his client is after. Later, on a golf course, Mike offers Zane a 10 percent discount for early payment, hears that it is light, and jumps straight to 20. Zane tells him the jump has just revealed that the firm is desperate for cash.",
+   "why_it_works": "A no without a counter pushes the other side to bid against itself, and each improved offer gives away both value and information. The size and speed of a concession tell the other side how badly you need the deal.",
+   "outcome": "Harvey tells Mike he negotiated against himself, and Louis refuses the tabloid outright. With Zane, Mike gets his early payment only by playing a personal card, asking what Rachel will think if her father spites her boyfriend, and Rachel is hurt to learn she was used as leverage.",
+   "counter": "Never make a second offer until you have heard a counteroffer, concede in shrinking steps, and spread your priorities across packages so none of them gives away the item you care about most.",
+   "principle": "Never bid twice in a row: every unanswered concession tells them how much you need the deal.",
+   "in_practice": "When a buyer says no without countering, ask them to name their terms before you improve yours. When you do concede, make each step smaller than the last and attach it to something you get back.",
+   "quote": {
+    "text": "You just gave that away when you went straight to 20%.",
+    "speaker": "Robert Zane",
+    "ep": "S03E09"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "sui-1101",
+    "sui-1230"
+   ]
+  },
+  {
+   "title": "A Deal Without Negotiation",
+   "show": "peaky-blinders",
+   "category": "NEG",
+   "secondary": [
+    "INT",
+    "ALLY"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S04E05"
+   ],
+   "strategist": "Alfie Solomons",
+   "target": "Luca Changretta",
+   "context": "Luca Changretta, a New York mafioso, has come to England to wipe out the Shelbys in revenge for his father and brother. He visits Alfie Solomons, the volatile London gang boss and on-and-off ally of Tommy, wanting to use a boxing match the whole Shelby family will attend to get his men close to them.",
+   "play": "Alfie keeps Luca waiting through a minute of eyes-closed darkness 'for charity', calls him a failure, and says he already knows what Luca wants. He names a price, 200 barrels of rum a month cleared and distributed by Luca's people, then hands over an itemized bill for an assassination, with a surcharge for each complication, including one for insulting him. When Luca says he needs no one killed, only for his men to go in as Alfie's seconds, Alfie adds that they will have to pass as Jewish. Luca agrees to the 200 barrels on the spot, and Alfie observes that Tommy Shelby was right about him.",
+   "why_it_works": "Alfie opens absurdly high to test how badly Luca needs him. A buyer who accepts the first price without bargaining reveals desperation and inexperience, and Alfie learns everything he needs about Luca's position from the way he says yes.",
+   "outcome": "Luca's men get into the fight as seconds. Alfie, having taken Luca's measure, hedges his bets and leaves London before the fight.",
+   "counter": "Luca should have haggled even though he could afford the price; the quick yes told Alfie how weak his position was.",
+   "principle": "How someone agrees tells you as much as what they agree to.",
+   "in_practice": "If a prospect accepts your first price without a question, you have learned that they needed you more than you thought; price the next engagement accordingly. When you are the buyer, negotiate even when you can afford not to, because a quick yes signals need.",
+   "quote": {
+    "text": "Aye, you've just made a deal without negotiation, didn't you?",
+    "speaker": "Alfie Solomons",
+    "ep": "S04E05"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "pea-0416"
+   ]
+  },
+  {
+   "title": "This Morning's Price",
+   "show": "billions",
+   "category": "NEG",
+   "secondary": [
+    "INT",
+    "LEV"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S02E12"
+   ],
+   "strategist": "Chuck Rhoades",
+   "target": "Oliver Dake",
+   "context": "Chuck Rhoades, the US Attorney for the Southern District of New York, has spent two seasons trying to prosecute Axe. He engineered Oliver Dake's appointment as US Attorney for the neighboring Eastern District to take the case, but Dake cuts him out and plans to arrest Axe at the closing bell without him.",
+   "play": "When Dake cuts him out, Chuck warns him to bring body bags if he goes after Axe alone, and leaves. Then Axe vanishes, and Dake comes back. Chuck says of course he will help, and Dake agrees that nothing will track back to Chuck's father, whose role in the case Chuck wants buried. Chuck then tells him that was the morning's price. With the closing bell approaching, he adds a personnel decision, his protege Bryan Connerty as lead prosecutor, and full transparency from Dake. Once Dake agrees, Chuck tells him to track the phone of Wendy Rhoades, Chuck's own wife and Axe's longtime performance coach, because Axe will reach out to her.",
+   "why_it_works": "Chuck holds the one thing Dake now needs, a read on Axe's behavior, and the deadline raises its value by the hour. Walking out when refused let events make his case for him.",
+   "outcome": "Dake agrees to everything. Axe is arrested, Connerty leads the prosecution, and Chuck's family is kept out of it.",
+   "counter": "Dake should have taken the original deal, or developed his own read on Axe, before staking his first big operation on Chuck.",
+   "principle": "When they come back after refusing you, the price has gone up.",
+   "in_practice": "If a prospect rejects your terms and returns later under deadline pressure, revise the proposal to reflect the urgency and the value you now bring. Say plainly why the terms changed, so the increase reads as pricing and nothing more personal.",
+   "quote": {
+    "text": "Good. I accept. But that was this morning's price. Different kind of urgency as the closing bell approaches.",
+    "speaker": "Chuck Rhoades",
+    "ep": "S02E12"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "bil-0118"
+   ]
+  },
+  {
+   "title": "The Twenty Percent Rescue",
+   "show": "house-of-cards",
+   "category": "NEG",
+   "secondary": [
+    "INT",
+    "LEV"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S05E08"
+   ],
+   "strategist": "Claire Underwood",
+   "target": "Chinese Minister Xu",
+   "context": "Claire Underwood, acting President during a disputed election, is closing a tariff deal with China that could help win Ohio. A Russian research vessel is sinking in Antarctica and Russia refuses American help. Suddenly China claims an American is aboard and makes the tariff deal depend on a rescue.",
+   "play": "Claire reads China's sudden urgency as a sign that something aboard matters to them, and refuses to act on unverified claims about the American. She designs a face-saving solution: Chinese sailors board the US icebreaker, so the rescue looks Chinese-led for Russia's benefit. Having solved their problem, she reopens the number they had already settled, asking for 20 percent instead of the agreed 19. When the minister protests, she describes the freezing water and how many minutes a body lasts in it, and says she will do nothing until he agrees.",
+   "why_it_works": "China has revealed a stake it did not need to reveal, and Claire prices it in. By first solving their real problem, she makes the extra point the only obstacle left, and the minister concedes it rather than lose everything.",
+   "outcome": "China agrees and the crew is rescued. Claire later learns that the 'American' was a geophysicist whose technology China and Russia were secretly sharing.",
+   "counter": "The minister should have hidden China's urgency and never tied a trade deal to a rescue he could not control. Showing how much you care about a side issue hands the other side a lever on price.",
+   "principle": "When they reveal a need they did not have to reveal, reopen the price.",
+   "in_practice": "If a client suddenly pushes hard for a fast start and will not say why, that urgency is information. Solve the underlying problem first, then set terms that reflect what speed is worth to them, before anything is signed.",
+   "quote": {
+    "text": "I know. But suddenly, it just doesn't seem high enough.",
+    "speaker": "Claire Underwood",
+    "ep": "S05E08"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "hou-0967"
+   ]
+  },
+  {
+   "title": "The Prime Broker Bake-Off",
+   "show": "billions",
+   "category": "NEG",
+   "secondary": [
+    "DEC"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S02E08"
+   ],
+   "strategist": "Mike 'Wags' Wagner",
+   "target": "Spartan-Ives, Axe Capital's prime broker",
+   "context": "Axe Capital's prime broker, the bank Spartan-Ives, has been damaged by its CEO going to prison. A rival bank wants the business. Axe's chief operating officer, Mike 'Wags' Wagner, handles it while Axe is distracted by a feud.",
+   "play": "Wags accepts the rival bank's dinner and lets it escalate into a lavish night out, pressing them on how far they will undercut Spartan-Ives (10 percent). Mafee, an Axe Cap analyst who comes along, is spotted in the club by a Spartan-Ives banker, so word reaches the incumbent that Axe Cap is being courted. Spartan-Ives responds by cutting its fees 20 percent for two years. Wags reports it to Axe as loyalty rewarded.",
+   "why_it_works": "A credible alternative that the incumbent can see is worth more than any argument. Axe Cap never has to threaten to leave; being seen with the competitor does the negotiating.",
+   "outcome": "Axe Cap gets a 20 percent fee cut without switching banks.",
+   "counter": "Spartan-Ives could have stayed close to its client and improved terms before a rival made the pitch, instead of reacting after the fact.",
+   "principle": "Let the incumbent see you being courted: a visible alternative negotiates for you.",
+   "in_practice": "Before renewing a major supplier contract, run a genuine competitive process and let the incumbent know it is happening. Their best offer usually appears only once they believe they can lose.",
+   "quote": {
+    "text": "We're loyal to the bottom line.",
+    "speaker": "Mike 'Wags' Wagner",
+    "ep": "S02E08"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "bil-0100"
+   ]
+  },
+  {
+   "title": "Whoever Calls First",
+   "show": "suits",
+   "category": "NEG",
+   "secondary": [
+    "PSY",
+    "TIME"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S05E09"
+   ],
+   "strategist": "Mike Ross and Harvey Specter",
+   "target": "Tony Gianopolous and Jonathan Sidwell",
+   "context": "Harvey and Mike are defending McKernon Motors against a hostile tender offer led by Daniel Hardman, a disgraced former partner of their firm. Taking the company private needs equity investors, and the two obvious backers, the financiers Tony Gianopolous and Jonathan Sidwell, hate each other.",
+   "play": "Mike and Harvey split up and pitch both men at the same moment. Mike tells Gianopolous openly that he is there to play him against Sidwell, and that Harvey is pitching Sidwell right now. One of them will be on CNBC tomorrow announcing the deal and the other will have nothing, and whoever calls first will have it over the other for the rest of his life. If Mike gets a text saying Sidwell has committed, he walks out.",
+   "why_it_works": "Mike is counting on the rivalry: losing to Sidwell would cost Gianopolous more than overpaying. Naming the tactic takes the insult out of it, and the deadline stops him from stalling or shopping around.",
+   "outcome": "Gianopolous calls Mike a son of a bitch, says he likes that, and commits. The offer to take McKernon private comes in ten dollars a share above Hardman's.",
+   "counter": "Gianopolous could have called Sidwell to test the story, or set his own terms, instead of accepting a deadline the other side had invented.",
+   "principle": "Two rivals bidding against each other will pay extra just to beat each other.",
+   "in_practice": "When two competitors both want a partnership or contract, tell each honestly that you are talking to both, and give a real deadline. Rivalry does more work than any argument about value.",
+   "quote": {
+    "text": "But whoever calls first is gonna have it over the other one for the rest of their life.",
+    "speaker": "Mike Ross",
+    "ep": "S05E09"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "sui-1378"
+   ]
+  },
+  {
+   "title": "Outbid Her on Live Television",
+   "show": "house-of-cards",
+   "category": "NEG",
+   "secondary": [
+    "REP",
+    "PSY",
+    "LEV"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S04E02"
+   ],
+   "strategist": "Frank Underwood (against Claire Underwood)",
+   "target": "Doris Jones and Celia Jones",
+   "context": "Frank and Claire Underwood are at war with each other. Claire wants to run for Congress in her home district in Texas, but the seat belongs to Congresswoman Doris Jones, whose daughter Celia expects to inherit it. Frank wants Claire kept out.",
+   "play": "Claire works out what Doris really wants: federal funding for a breast cancer clinic in a veterans' hospital, which Doris has chased for ten years and a Republican Congress will never pass. Claire assembles a package to deliver it, including a sympathetic congresswoman to carry the amendment, and asks only for Doris's blessing for Celia to wait. She tells Frank she is 'still exploring viability'. Frank asks what she has offered Doris, gets a false answer, finds out anyway, and rewrites his State of the Union. On live television, with Doris in the gallery, he praises her by name, promises to get her clinic through himself, and announces that Celia will run for the open seat with his and Claire's support.",
+   "why_it_works": "Claire's deal depended on Doris having no better option, so Frank becomes the better option: Doris gets the clinic without asking her daughter to wait. Announcing it in front of Congress and the nation means no one can back out, and Claire cannot oppose it without humiliating herself.",
+   "outcome": "The seat is closed to Claire. Afterward Frank tells Doris she played it well, and the war between the Underwoods escalates.",
+   "counter": "Claire needed Doris's agreement locked in before Frank heard of it; without exclusivity, a counterparty can carry your offer to a higher bidder. Her lie to Frank also removed any chance of negotiating with him.",
+   "principle": "If a rival's deal depends on the other side having no alternative, become the alternative, and announce it where no one can back out.",
+   "in_practice": "Find the project a decision-maker has failed to land for years and build your offer around it. When a competitor is close to winning a client, offer more of what the client wants and commit in public, in a written proposal or joint announcement, so retreat is costly.",
+   "quote": {
+    "text": "I'm not asking for a full endorsement. I'm just asking for your blessing on Celia delaying her run.",
+    "speaker": "Claire Underwood",
+    "ep": "S04E02"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "hou-0895",
+    "hou-0893"
+   ]
+  },
+  {
+   "title": "What's In It For Her?",
+   "show": "suits",
+   "category": "NEG",
+   "secondary": [
+    "INT",
+    "DEF"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S02E12"
+   ],
+   "strategist": "Harvey Specter (with Mike Ross and Louis Litt)",
+   "target": "Allison Holt and Trent Devon",
+   "context": "Harvey's client Trent Devon, a tech founder, has been offered a deal brought to him by Allison Holt, a lawyer at a rival firm: Flash-Start, a company backed by a hedge fund she represents, will buy Trent's company and let him run both. Harvey cannot beat the offer on price.",
+   "play": "Harvey does not attack the offer. He tells Trent to take it, and to hire the lawyer who brought it to him. Then he asks one question, what is in it for Allison, and asks Trent to trust him once more by letting him review the paperwork on his own time. Mike takes the financials to Louis Litt, the firm's numbers man, who works out that the fund plans to sell Trent's company for parts; Trent's noncompete made him impossible to hire, so the only way to get him was to buy his company. Harvey keeps Trent, has him take the company public, and signs the hedge fund as a new client to underwrite the IPO.",
+   "why_it_works": "Endorsing the rival offer removes the client's defensiveness and puts Harvey on the client's side of the table. Asking what the person who brought the deal gains from it leads straight to the hidden motive.",
+   "outcome": "Trent stays, the IPO goes ahead, and Allison loses her own client to Harvey.",
+   "counter": "Allison should never have let the paperwork out of her control, and should have offered a deal that survived due diligence.",
+   "principle": "Ask what the person bringing the deal gains from it.",
+   "in_practice": "When a client is tempted by a competing offer, do not criticize it. Offer to review it honestly for them; if it is good, they will trust you more, and if it hides something, you will find it.",
+   "quote": {
+    "text": "No, I'm here to tell you to take it. If I were you, I would, and I would hire the lawyer who brought it to me.",
+    "speaker": "Harvey Specter",
+    "ep": "S02E12"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1162"
+   ]
+  },
+  {
+   "title": "Point Them Outward",
+   "show": "vikings",
+   "category": "NEG",
+   "secondary": [
+    "ALLY",
+    "LEAD"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S02E01"
+   ],
+   "strategist": "Ragnar Lothbrok",
+   "target": "King Horik and Jarl Borg",
+   "context": "King Horik and Jarl Borg, two Scandinavian rulers, have fought to exhaustion over disputed land, with Ragnar fighting on Horik's side. Horik offers Borg a third of the land's profits; Borg refuses and says he would rather go back to fighting than accept such scant justice. The talks are about to collapse.",
+   "play": "Ragnar steps outside the dispute altogether. He asks why they keep killing each other over this piece of land or that piece when the wealth lies to the West, and proposes that if they raided England together they would have no need to fight among themselves. He adds a concrete benefit for the young men listening: land they could farm. A warrior in the crowd agrees aloud, Horik endorses the idea at once, and Borg accepts both the raid and the third he had just refused.",
+   "why_it_works": "A fixed-sum quarrel becomes a shared opportunity, so Borg can accept a small share of the old pie without losing face because he is gaining access to a bigger one. Ragnar speaks to the room's shared losses instead of either leader's pride.",
+   "outcome": "Borg accepts and joins the planned raid. The peace rests on promises that are later broken when Horik cuts him out, and Borg takes terrible revenge.",
+   "counter": "Borg should have secured his place in the raid, with hostages or witnesses, before conceding on the land; the bigger pie was only a promise.",
+   "principle": "When both sides are stuck dividing a small pie, bring a bigger one.",
+   "in_practice": "When a dispute with a partner over a single account stalls, propose jointly pursuing a larger opportunity that makes the contested slice matter less. Get the new terms in writing before you give ground on the old ones.",
+   "quote": {
+    "text": "Why are we not looking outwards to the West?",
+    "speaker": "Ragnar",
+    "ep": "S02E01"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "vik-0518"
+   ]
+  },
+  {
+   "title": "Spin Her Against the Yard",
+   "show": "peaky-blinders",
+   "category": "NEG",
+   "secondary": [
+    "PSY",
+    "INT",
+    "ALLY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S04E02",
+    "S04E04"
+   ],
+   "strategist": "Tommy Shelby (with Polly Gray)",
+   "target": "Aberama Gold",
+   "context": "Tommy has hired Aberama Gold, a feared Gypsy fighter, to help defend the family against the Changretta mafia. On his first day Gold tries to add the yard of Tommy's uncle Charlie Strong to the bargain, insisting that everything is for sale, and he keeps pressing for more even at £500 a head.",
+   "play": "Tommy proposes a coin toss for the yard in front of witnesses: heads, Gold takes the yard with Tommy's blessing; tails, Tommy takes Gold's eldest daughter. He tells Gold it is no joke, that the coin is sacred to their people and a bet made before witnesses must be honored. Gold declines to toss, and Tommy tells him never to disrespect his friends or their property again. Later Tommy's aunt Polly, who reads people better than anyone in the family, tells him Gold wants something other than money and that he should simply ask. Tommy does, and Gold shows him his son Bonnie: he wants Tommy to back the boy's boxing career. Tommy tests Bonnie against a former heavyweight on the spot, asks the trainer's questions, and agrees on his own terms: they will train him, promote him and run the book.",
+   "why_it_works": "Gold claims everything has a price; Tommy accepts the principle and names a price Gold will not pay, which exposes the claim as bluster. With the boundary set, the direct question reveals the interest behind the constant pushing, and meeting it costs far less than paying ever higher fees.",
+   "outcome": "Gold drops the yard, and his loyalty becomes tied to his son's future. Bonnie joins the Peaky Blinders, and the boxing venture becomes a stage for the next round of the war.",
+   "counter": "Gold weakened himself by grabbing at an unrelated asset before he had proved his value. By revealing his real want he also handed Tommy leverage, a trade he accepted to get backing only Tommy could give.",
+   "principle": "When someone says everything is for sale, put something of theirs on the table, then ask what they really want.",
+   "in_practice": "When a partner tries to add an unrelated asset to a deal, ask for something of equal weight in return, and the grab usually disappears. If they keep renegotiating after that, ask directly what outcome they need and build the deal around it.",
+   "quote": {
+    "text": "So make her part of the deal and spin her against the yard.",
+    "speaker": "Tommy Shelby",
+    "ep": "S04E02"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "pea-0403",
+    "pea-0404"
+   ]
+  },
+  {
+   "title": "Can't Force Me to Love It",
+   "show": "suits",
+   "category": "NEG",
+   "secondary": [
+    "LEV",
+    "ALLY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S03E14",
+    "S03E15"
+   ],
+   "strategist": "Mike Ross",
+   "target": "Tony Gianopolous (through Jonathan Sidwell)",
+   "context": "Tony Gianopolous, a hard-driving financier and a client of Mike's firm, wants his number two, Jonathan Sidwell, crushed for trying to leave, as a warning to anyone else. Jonathan's noncompete holds and his trading algorithm belongs to Tony. Mike, who knows what it feels like to be trapped, goes to see Jonathan.",
+   "play": "Mike brings what he calls a business solution in which everybody wins: Jonathan should propose that Tony spin off his division, with Jonathan running it and Tony owning it. Tony has already rejected that structure for another executive, so Mike explains why it will work this time. Tony was indifferent to the other man, while Jonathan develops his algorithm every day because he loves it. Tony can force him to stay but cannot force him to love it, and an unengaged Jonathan costs Tony a fortune. Mike asks that the idea not be traced back to him if it fails.",
+   "why_it_works": "Legal control over someone's job does not extend to their effort. Making that visible turns Tony's leverage into a cost, and the spin-off gives him a structure where both sides gain.",
+   "outcome": "Tony agrees. Jonathan, grateful, later offers Mike a job in investment banking, which becomes Mike's way out of the firm.",
+   "counter": "Tony created the problem by keeping talented people down; he could have offered Jonathan more before he reached breaking point.",
+   "principle": "You can hold someone to a contract, but you cannot compel their best work.",
+   "in_practice": "When a key employee or partner wants out, forcing them to stay costs you their engagement. Look for a structure (a spin-off, equity, a new role) in which their motivation works for you.",
+   "quote": {
+    "text": "Well, he can force me to stay, but he can't force me to love it.",
+    "speaker": "Jonathan Sidwell",
+    "ep": "S03E14"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1252"
+   ]
+  },
+  {
+   "title": "The Rundown",
+   "show": "suits",
+   "category": "NEG",
+   "secondary": [
+    "LEV",
+    "INT"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S02E09"
+   ],
+   "strategist": "Harvey Specter (with Mike Ross)",
+   "target": "Roberto Solis and Tony Zielinski",
+   "context": "Harvey represents Tony Zielinski, a sportscaster sued for libel by the star hitter Roberto Solis after Zielinski accused him on air of doping. Zielinski refuses to apologize or name his source, and Solis insists on an on-air retraction.",
+   "play": "Mike finds hot-mic footage of Zielinski with the catcher Ruben Hernandez, a former teammate of Solis, and phone records linking the two: Hernandez is the source. Harvey corners Solis alone. Drop the suit and retire, and Zielinski never mentions him again; refuse, and Hernandez is subpoenaed and the world learns Solis cheated. Then Harvey brings Hernandez into a room with Zielinski, showing his own client that winning in court means burning his source's career and becoming the man who sold him out.",
+   "why_it_works": "Each man is shown that a public fight costs him the thing he values most: Solis his reputation, Zielinski his code about protecting sources. With the courtroom made unattractive to both, a private settlement becomes each side's best option.",
+   "outcome": "Solis drops the suit and retires, and Zielinski agrees never to discuss him on air. The case disappears without any public exposure.",
+   "counter": "Solis should have checked who outside his clubhouse knew his secret before suing. Zielinski should have kept his meetings with sources off camera and off company phones.",
+   "principle": "Make the fight cost each side the thing it cares about most, and the settlement will feel like relief.",
+   "in_practice": "In a dispute, work out what each party is really protecting (reputation, relationships, a secret) and show them how a public fight puts it at risk. A quiet exit is easier to sell than a compromise.",
+   "quote": {
+    "text": "You're in a rundown, Roberto. Drop the suit and announce your retirement from baseball.",
+    "speaker": "Harvey Specter",
+    "ep": "S02E09"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "sui-1148"
+   ]
+  },
+  {
+   "title": "Sledgehammer or Velvet Glove",
+   "show": "suits",
+   "category": "NEG",
+   "secondary": [
+    "RULE",
+    "DEF"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S08E03",
+    "S08E07"
+   ],
+   "strategist": "Donna Paulsen",
+   "target": "David Fox, the firm's landlord (and Harvey)",
+   "context": "Harvey has taken up the overtime claim of Anna Reed, a cleaner in the firm's building who was labeled a 'facilities manager' to avoid paying her overtime. He threatened the landlord, David Fox, who retaliated by breaking the firm's elevators and toilets and firing Anna. The firm's name partners order Harvey to end it before Fox evicts them. Donna Paulsen, Harvey's longtime right hand and now the firm's chief operating officer, steps in.",
+   "play": "Donna delivers Harvey's plan herself, because the moment calls for a negotiator and Harvey is a fighter. She shows Fox a class action filed by the East Side Legal Clinic instead of the firm, so squeezing the firm cannot make it go away, and warns that firing anyone else brings a retaliation suit. Then she offers the compromise: rehire Anna and pay the staff properly, and in return Fox gets a year of free legal work from Harvey himself, which Harvey knows nothing about. She refuses to hear Fox's conditions and asks him to choose: war or win-win.",
+   "why_it_works": "Moving the lawsuit to an independent party removes Fox's leverage over the firm. The sweetener gives Fox a win he can feel, and Donna's reasoning is exact: neither man will compromise unless he believes the other is paying a price.",
+   "outcome": "Fox agrees on the spot. Weeks later he turns up to claim his free lawyer, Harvey is furious, and Donna holds him to it because she had authority to close.",
+   "counter": "Harvey could have avoided the escalation by routing the claim through a clinic from the start. Fox could have negotiated the free-service term down, but Donna framed the offer as take it or leave it.",
+   "principle": "Move the fight out of your opponent's reach, then give him something that lets him feel he won.",
+   "in_practice": "When a dispute with a landlord or supplier puts your own operations at risk, separate the pressure from the relationship and offer a concession they can show off. Get clear authority to close before you walk in.",
+   "quote": {
+    "text": "because neither one of you is gonna compromise unless you know the other one is getting shafted.",
+    "speaker": "Donna Paulsen",
+    "ep": "S08E03"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "sui-1583"
+   ]
+  },
+  {
+   "title": "Take His Name Off the Deal",
+   "show": "suits",
+   "category": "NEG",
+   "secondary": [
+    "PSY",
+    "ALLY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S05E05"
+   ],
+   "strategist": "Mike Ross",
+   "target": "Harvey Specter (and Travis Tanner)",
+   "context": "Harvey is refusing a settlement for his client, apparently only because it comes from Travis Tanner, a lawyer Harvey loathes and recently punched after Tanner mocked Harvey's mother and Donna. Mike believes the deal is good for everyone.",
+   "play": "Mike meets Tanner without Harvey's permission. Tanner admits he has no other move and asks Mike to get Harvey to accept. Mike challenges him to prove he has changed by stepping away from the case. Tanner withdraws, and Mike brings Harvey the identical offer with a different attorney of record, telling him he is no longer settling with Tanner, just doing what is best for everyone.",
+   "why_it_works": "The obstacle is Harvey's pride. Removing the one person Harvey cannot concede to lets him accept the same terms without losing face, and Tanner's willingness to step aside also tests whether his offer was sincere.",
+   "outcome": "Harvey takes the deal without even reading it. His client gets a stake in the other side's company, and the opposing CEO avoids prison.",
+   "counter": "Harvey could have noticed that his refusal was personal and separated the messenger from the offer himself.",
+   "principle": "If they cannot take the deal from you, change the messenger and keep the deal.",
+   "in_practice": "When a negotiation stalls over personalities, bring in a new lead or an intermediary with the same terms. People often accept from a neutral face what they rejected from a rival.",
+   "quote": {
+    "text": "I had Tanner remove himself from the case, so now you're not settling with him. You're just doing what's best for everyone.",
+    "speaker": "Mike Ross",
+    "ep": "S05E05"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1357"
+   ]
+  },
+  {
+   "title": "Access Is the Asset",
+   "show": "billions",
+   "category": "NEG",
+   "secondary": [
+    "POW",
+    "PSY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S03E09"
+   ],
+   "strategist": "Bobby Axelrod",
+   "target": "Grigor Andolov",
+   "context": "Axe, under legal siege, needs an 'icebreaker': a big first investor whose money will signal that his fund is back. Grigor Andolov, a Russian oligarch who is liquid and answers to no one, is shopping Axe's rivals and doubts Axe still has his edge.",
+   "play": "Axe invites Grigor to his home for what Grigor calls a 'save meeting'. When Grigor mocks him as afraid and mentions his children, Axe answers with a direct threat, then tells a pointed story about an oligarch who hunts from a heated cabin while others do the killing, and says he does his own work. Grigor asks for proof of influence. Axe arranges for the Treasury Secretary to appear at Grigor's dinner, paying for the favor with a $100,000 donation that gets the Secretary's son a bar mitzvah visit from the basketball star Kevin Durant. When Grigor asks for the Secretary's number, Axe refuses: direct contact would compromise the Secretary and leave Grigor with nothing, so Grigor goes through Axe or not at all.",
+   "why_it_works": "Grigor respects strength and tests for weakness, so meeting aggression with aggression earns his respect. Showing access while keeping control of it makes Axe the necessary channel, which is worth more than any single introduction.",
+   "outcome": "Grigor signs the next day and becomes Axe Capital's icebreaker, with a warning that Axe had better not lose his money.",
+   "counter": "Grigor could have asked for independent proof of influence that did not depend on Axe staying in the middle.",
+   "principle": "Show them the powerful contact, then remain the only door to it.",
+   "in_practice": "When your value to a client includes your relationships, make introductions in a way that keeps you involved, and protect your contacts from being overused. Respect for both sides is what keeps you in the middle.",
+   "quote": {
+    "text": "So you go through me. Or don't go at all.",
+    "speaker": "Bobby Axelrod",
+    "ep": "S03E09"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "bil-0162"
+   ]
+  },
+  {
+   "title": "Knowing Where to Bang",
+   "show": "suits",
+   "category": "NEG",
+   "secondary": [
+    "INT"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S06E15"
+   ],
+   "strategist": "Jerry, Louis Litt's old fixer",
+   "target": "Louis Litt and Harvey Specter",
+   "context": "Harvey needs to identify a woman who seduced an executive on the other side of a case. Assuming she works at a company called Velocity, he has Louis call Jerry, a shady fixer Louis swore never to use again, to hack Velocity's personnel records.",
+   "play": "Jerry opens by saying it sounds like blackmail and 'a little bit out of my league', which Louis recognizes as the start of a renegotiation. Harvey takes over and tells him the whole story. Jerry recognizes the pattern at once: the woman does not work at Velocity, and he knows who she is. Then he triples his price. When Louis objects that now he does not even have to hack anything, Jerry explains that you do not pay a plumber for banging on the pipes; you pay him for knowing where to bang.",
+   "why_it_works": "Jerry prices on the value of the answer instead of the effort, and he raises the price at the exact moment the buyers learn the answer exists.",
+   "outcome": "Harvey pays. Jerry's lead takes him to the headhunter who arranges these seductions for the other side.",
+   "counter": "Harvey and Louis should have agreed a price for the outcome, the woman's name, before telling the story, instead of pricing a hacking job and then revealing it was not needed.",
+   "principle": "Charge for knowing where to look; the hours of looking are the cheap part.",
+   "in_practice": "If your expertise shortens the path to an answer, price on the outcome and agree the fee before the client sees how quickly you can solve it. For a specialist consultancy this is the whole case for value-based pricing.",
+   "quote": {
+    "text": "You don't pay the plumber for banging on the pipes. You pay him for knowing where to bang.",
+    "speaker": "Jerry",
+    "ep": "S06E15"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "sui-1488"
+   ]
+  },
+  {
+   "title": "White Flag, Black Dress",
+   "show": "peaky-blinders",
+   "category": "NEG",
+   "secondary": [
+    "PSY",
+    "ALLY"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S05E04",
+    "S05E05"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "Jimmy McCavern",
+   "context": "In 1929 Tommy, now a Member of Parliament as well as a gangster, is at war with Jimmy McCavern, a Glasgow gang leader who crucified Tommy's man Bonnie Gold and demanded the racetracks as far south as Nottingham. After a gunfight, both sides agree to meet under a white flag. Tommy has learned that McCavern and the fascist politician Oswald Mosley share interests.",
+   "play": "Tommy proposes turning the truce into business between two men with similar distribution networks. He books McCavern into Birmingham's grandest hotel and hands him an envelope with the proposal and a £500 check for his wife, to buy a black dress, a black horse and a funeral carriage should McCavern break the terms of the white flag. He sells opium in stages, ten sacks to test the market and then boatloads, cash on loading. When McCavern insists on paying by check, Tommy accepts on condition that Mosley guarantees it.",
+   "why_it_works": "A trading relationship gives both sides a reason to keep the peace, and the funeral money makes the price of betrayal personal and specific. Small first lots limit exposure while testing reliability, and the guarantor clause is the part of the deal Tommy actually wants.",
+   "outcome": "The truce holds long enough for the opium deal and produces the Mosley guarantee Tommy was after. The enmity remains, and McCavern makes clear he will kill Tommy's brother Arthur first if the truce breaks.",
+   "counter": "McCavern should have asked why Tommy wanted a politician to guarantee a gangster's check; the condition was the real deal.",
+   "principle": "Turn an enemy into a customer, and make the cost of breaking the deal personal.",
+   "in_practice": "With a competitor you cannot beat outright, look for a commercial arrangement that makes peace profitable for both of you, and start with a small trial order before committing volume.",
+   "quote": {
+    "text": "For your wife. She can use it to buy a black dress, rent a black horse with black feathers, to pull a black carriage with your body in it, should you break the terms of the white flag.",
+    "speaker": "Tommy Shelby",
+    "ep": "S05E04"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "pea-0437"
+   ]
+  },
+  {
+   "title": "The Hostage of Highest Value",
+   "show": "vikings",
+   "category": "NEG",
+   "secondary": [
+    "RISK",
+    "LEAD"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S02E04",
+    "S02E09"
+   ],
+   "strategist": "King Ecbert of Wessex",
+   "target": "Ragnar and the Northmen (and King Aelle)",
+   "context": "King Ecbert of Wessex, the shrewdest ruler in England, wants to talk with the Northmen who have landed in his kingdom. His court calls them savages who cannot be trusted, and his bishop argues they put no value on life.",
+   "play": "Ecbert insists on an exchange of hostages before any talks and offers his own son and heir, Aethelwulf, reasoning that the most valuable hostage is the safest one. He will not hand Aethelwulf over until the Northmen first deliver a hostage of equal value, and he asks for his son's consent, which Aethelwulf gives in public. Later, when talks are needed again, Ecbert declines to risk his son a second time and names his ally King Aelle as the hostage instead, flattering Aelle that the Northmen will value no one more highly.",
+   "why_it_works": "A high-value hostage signals seriousness and makes harming him too costly for the other side. Insisting that the counterpart move first protects Ecbert, and the second time he shifts the risk onto an ally while making it sound like an honor.",
+   "outcome": "Both rounds of talks happen without bloodshed at the table, and the second produces a treaty granting the Northmen farmland in Wessex.",
+   "counter": "Aelle could have declined or demanded a matching hostage from Wessex; he accepts because refusing would look cowardly in front of his ally.",
+   "principle": "Put something you value on the table to prove good faith, and make the other side match it first.",
+   "in_practice": "Offer a meaningful guarantee (a senior person's time, a performance clause, money in escrow) to show commitment, but sequence it so the other side commits something of equal weight at the same time.",
+   "quote": {
+    "text": "A hostage of the highest value is the safest hostage.",
+    "speaker": "King Ecbert",
+    "ep": "S02E04"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "vik-0528"
+   ]
+  },
+  {
+   "title": "The Bullet Train Close",
+   "show": "billions",
+   "category": "NEG",
+   "secondary": [
+    "PSY"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S01E12"
+   ],
+   "strategist": "Bobby Axelrod",
+   "target": "Carter Staley, lead allocator",
+   "context": "After a year of scandal, Axe needs outside money again. Other allocators say yes too easily, and Wags knows they are all waiting for one domino: Carter Staley, a lead allocator who is probing Axe's returns, his overhead and the turmoil around the fund.",
+   "play": "Axe has Wags put the books away and goes in alone. He states his fifteen-year record, then names Staley's real concern before Staley can, the arrests and whether he runs a clean shop, and says he would weigh it too. He recasts the risk as missed opportunity: in a year no one will care about the scandal, but the growth Staley missed will eat him alive. When Staley suggests revisiting in a year, Axe sets a deadline: when he walks out the door they are friends for life or Staley does not exist to him, and in ten seconds the bullet train leaves.",
+   "why_it_works": "Naming the objection first takes away its power. Recasting the decision from downside risk to opportunity cost changes what the buyer fears, and a credible deadline from a seller who looks ready to walk forces a decision the buyer planned to put off.",
+   "outcome": "Staley commits, and Wags knows the other allocators will follow.",
+   "counter": "Staley could have asked for a smaller first allocation with more monitoring, instead of accepting the all-or-nothing frame.",
+   "principle": "Name the buyer's fear before they do, then make delay the costlier option.",
+   "in_practice": "When a reputational or delivery concern hangs over a sales meeting, raise it yourself, answer it plainly, and show the cost of waiting. Use a deadline only if you will honor it.",
+   "quote": {
+    "text": "When I walk out that door today, we are friends for life, or you don't exist to me ever again.",
+    "speaker": "Bobby Axelrod",
+    "ep": "S01E12"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "bil-0053"
+   ]
+  },
+  {
+   "title": "I'm All You've Got",
+   "show": "house-of-cards",
+   "category": "NEG",
+   "secondary": [
+    "PSY",
+    "ALLY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S01E08"
+   ],
+   "strategist": "Peter Russo",
+   "target": "Paul Capra and the laid-off Philadelphia shipbuilders",
+   "context": "Peter Russo, a troubled Philadelphia congressman whom Frank is grooming to run for governor, needs the laid-off shipbuilders' association behind him. They blame him for the shipyard closing. His offer, 5,000 jobs from a watershed bill in a year or two and training at $6 an hour, sounds insulting, and Paul Capra, the man the room respects, has already told him to get lost.",
+   "play": "Russo first goes to Paul privately, apologizes, and asks him to come to the community meeting; Paul refuses. When the meeting turns on him, Russo goes to Paul's house, lets himself in, and refuses to leave even when Paul threatens to fight him. The next day, with Paul in the room, Russo drops the policy talk and tells the hard truth: the shipyard was always going to close, nobody in Washington cares about them, and he is the only option they have. He recasts the small offer as a base to build on, 5,000 jobs becoming 10,000 and then 15,000, and moves straight to logistics and contact details.",
+   "why_it_works": "Honesty about a weak offer persuades better than spin when the audience already knows the facts. Winning the respected informal leader first means the room follows his signal, and moving straight to next steps turns a grudging nod into a commitment.",
+   "outcome": "Paul backs him in front of everyone, the association comes on board, and Russo leaves with a bruised hand and their support.",
+   "counter": "The shipbuilders could have demanded a written timetable before handing over their organizing power; 'I'm all you've got' also meant they had little leverage left.",
+   "principle": "When your offer is weak, say so, show it is the only real option, and win the room's leader first.",
+   "in_practice": "When a client is angry about a failed project, own the failure plainly, show why your plan is still their best path, and win over the person the team trusts before the group meeting. Close on concrete next steps in the same room.",
+   "quote": {
+    "text": "Here's another truth that's gonna be hard to swallow. I'm all you've got.",
+    "speaker": "Peter Russo",
+    "ep": "S01E08"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "hou-0753"
+   ]
+  },
+  {
+   "title": "The Names on the Floor",
+   "show": "house-of-cards",
+   "category": "NEG",
+   "secondary": [
+    "PSY"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S02E04"
+   ],
+   "strategist": "Frank Underwood and Jackie Sharp",
+   "target": "Donald Blythe",
+   "context": "A government shutdown is 45 minutes away and Frank, now Vice President, is four votes short in the House. The votes can come only from the loyal bloc of Donald Blythe, a principled veteran congressman who has refused every offer and will vote no himself. Jackie Sharp, the new majority whip, goes to see him.",
+   "play": "Frank has every ream of paper in the office printed out. Jackie brings Blythe the printouts: the names of every American who would lose home care, welfare benefits, student loans or post-combat counseling in a shutdown. When he talks about the big picture, she says this picture looks pretty big to her. She does not ask him to vote yes. She asks him to let four of his people do it, promises to work with him once the crisis has passed, and tells him she is not Frank Underwood.",
+   "why_it_works": "The printed names turn a principled position into concrete harm to people Blythe cares about. Asking him to release four votes instead of changing his own lets him keep his principles while giving her what she needs, and separating herself from Frank removes the distrust that had blocked every earlier offer.",
+   "outcome": "Blythe releases the four votes just before the deadline. It is also the start of Jackie's own working relationship with him.",
+   "counter": "Blythe could have asked for binding commitments on the programs he cared about in return, instead of a promise of future cooperation.",
+   "principle": "Make the cost of no visible, then ask for the smallest thing that meets your need.",
+   "in_practice": "When a stakeholder objects on principle, show the concrete impact of saying no (customers affected, projects delayed) and ask for a narrow concession they can live with, such as not blocking, instead of a full reversal.",
+   "quote": {
+    "text": "Then don't. Just get four of your people to do it.",
+    "speaker": "Jackie Sharp",
+    "ep": "S02E04"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "hou-0789"
+   ]
+  },
+  {
+   "title": "Loyalty for Loyalty",
+   "show": "house-of-cards",
+   "category": "NEG",
+   "secondary": [
+    "ALLY",
+    "RISK"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S01E13"
+   ],
+   "strategist": "Frank Underwood",
+   "target": "Raymond Tusk",
+   "context": "Frank, then House Majority Whip, wants the vice presidency. Raymond Tusk, a reclusive billionaire and the President's closest adviser, will decide whether he gets it. Hours before seeing the President, Tusk names his price: Frank's future help in Congress on trade with China, on terms to be settled later. He says he never makes an offer more than twice.",
+   "play": "Frank refuses the blank check a second time, saying he has avoided a reputation for indentured servitude. He tells Tusk he is demanding tutelage instead of offering cooperation, then counters: they can work together as equals, and he will take Tusk's views as seriously as the President does, without binding himself in advance. He adds the clock, wishing Tusk luck finding another pragmatic vice president in four days, and names his condition: loyalty cannot be bought, only exchanged. Then he leaves the rest to Tusk.",
+   "why_it_works": "Frank has nothing to offer except his own effectiveness, so he refuses to discount it. Tusk has already said effectiveness is what he wants, and a man who signs blank checks would be less useful to him. The deadline reminds Tusk that he needs a deal too.",
+   "outcome": "Tusk recommends Frank to the President, who offers him the vice presidency that night. The terms between Frank and Tusk stay open, which sets up their war the following season.",
+   "counter": "Tusk could have kept a second candidate in reserve, so that Frank's deadline had no force, or insisted on specific commitments before recommending him.",
+   "principle": "Never sign a blank check: offer partnership as an equal and let your value close the deal.",
+   "in_practice": "When a powerful client or investor asks for open-ended commitments ('we'll work out the scope later'), decline, offer a real partnership with defined terms, and be willing to walk. The people worth working with respect it.",
+   "quote": {
+    "text": "You can't purchase loyalty, Raymond. Not the sort I have in mind. If you want to earn my loyalty, then you have to offer yours in return.",
+    "speaker": "Frank Underwood",
+    "ep": "S01E13"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "hou-0768"
+   ]
+  },
+  {
+   "title": "Walking Away From the Retrade",
+   "show": "billions",
+   "category": "NEG",
+   "secondary": [
+    "RISK"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S03E10"
+   ],
+   "strategist": "Bobby Axelrod",
+   "target": "Frotty Anisman",
+   "context": "Grigor, Axe's icebreaker investor, suddenly pulls $1.5 billion just as Axe's fund-raising gathers pace, and a visible drop in assets could kill the raise. Wags suggests Frotty Anisman, a middleman for dictators' money who craves legitimacy.",
+   "play": "Frotty offers to buy 20 percent of the fund as a passive investor. Axe refuses to put Frotty's name on the firm but agrees to embrace him publicly at his conference, and in return insists on the right to buy Frotty out within a year, accepting a 40 percent premium for that right. At the signing Frotty retrades: he wants full transparency on Axe's trades, because following Axe would make him more money than owning a piece of him. Axe refuses and throws him out, with no other deal in hand.",
+   "why_it_works": "Axe decided beforehand what was for sale (a public embrace, a premium) and what was not (his name, his trades, his independence). The buyback clause shows he already knew the deal was dangerous, and the last-minute retrade reveals what Frotty really wanted.",
+   "outcome": "Axe leaves with no money and the same problem, and soon finds a better solution elsewhere.",
+   "counter": "Frotty overplayed his hand by reopening agreed terms; had he signed, he would have had a stake and time to build access.",
+   "principle": "Decide before the meeting what is not for sale, and treat a retrade at signing as a reason to walk.",
+   "in_practice": "If a client or investor changes terms at signing, treat it as a preview of the relationship. Be willing to leave, even under pressure, before you give away control of your core product.",
+   "quote": {
+    "text": "Frotty, I got billions of dollars, hundreds of employees, and two kids at home who think I can fly. What the fuck do you have?",
+    "speaker": "Bobby Axelrod",
+    "ep": "S03E10"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "bil-0167"
+   ]
+  },
+  {
+   "title": "I Offer You Nothing",
+   "show": "house-of-cards",
+   "category": "NEG",
+   "secondary": [
+    "REP"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S03E11",
+    "S03E12"
+   ],
+   "strategist": "Heather Dunbar",
+   "target": "Jackie Sharp",
+   "context": "Jackie Sharp, now running against Frank in the Democratic primary, is ready to drop out and endorse someone. Hours before a debate she goes to Heather Dunbar, a former Solicitor General also challenging Frank, and offers to attack Frank and endorse her within three days, bringing 14 points in Iowa. She wants to be paid, and suggests Secretary of Defense.",
+   "play": "Dunbar first gets Jackie to reveal what Frank has offered (she guesses a place on the ticket), then declines to bid. She says she will not sell cabinet posts before winning, that appointments will be made on merit, and that she intends to win with or without Jackie. Jackie leaves and says she is sticking with Underwood.",
+   "why_it_works": "Refusing to bid removes Jackie's ability to auction herself and signals strength and integrity. It also leaves Jackie with a sharp contrast: one candidate who treats her as a purchase and one who treats her as an equal able to choose.",
+   "outcome": "Jackie stays with Frank at first. When Frank later tells her their arrangement is no partnership of equals, she endorses Dunbar for nothing, and the endorsement lifts Dunbar with women voters.",
+   "counter": "Frank could have matched Dunbar's respect at no cost; instead he confirmed that he saw Jackie as bought.",
+   "principle": "Refusing to bid can win the prize when the other side wants respect more than price.",
+   "in_practice": "When a prospect tries to start a bidding war, declining to discount while stating your value clearly can win them later, especially if a competitor treats them badly.",
+   "quote": {
+    "text": "I would love your support, Jackie, but I offer you nothing.",
+    "speaker": "Heather Dunbar",
+    "ep": "S03E11"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "hou-0879"
+   ]
+  },
+  {
+   "title": "The Phantom Candidate",
+   "show": "peaky-blinders",
+   "category": "NEG",
+   "secondary": [
+    "PSY",
+    "DEC"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S02E04"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "Polly Gray",
+   "context": "Michael Gray, the son of Tommy's aunt Polly, has recently come back into the family after years apart and wants a job as the company's accounts clerk. Polly forbids it and he threatens to move to London if refused. Tommy wants him in the business but cannot be seen to overrule Polly, who has run the family's affairs for years.",
+   "play": "Tommy agrees with Polly that Michael cannot have the job and says he will give it to the other candidate, better qualified and good with racing. Then he paints the alternative: Michael leaves for an office job in London, writes now and then, meets a girl. Once Polly wants Michael to have the job, Tommy admits there is no other candidate. They haggle over the wage (three bob, three and six, four) and Tommy offers the concession that closes it: Michael stays out of the old business and works only on the new, legal side.",
+   "why_it_works": "A rival candidate and a vivid picture of the loss make Polly argue for the outcome she opposed. Because she reaches the decision herself, she owns it.",
+   "outcome": "Polly agrees and Michael joins the company. The legal-side-only condition holds on paper, though Michael is soon drawn into the family's violence.",
+   "counter": "Polly sees the maneuver too late; asking who the other candidate was before reacting would have exposed the bluff.",
+   "principle": "Make them feel the loss of what they are refusing, and they will ask you for it.",
+   "in_practice": "When a stakeholder is blocking a decision, help them picture concretely what happens if they say no. Honest alternatives work as well as invented ones, and they do not cost you trust when the truth comes out.",
+   "quote": {
+    "text": "Well, I lied, there isn't one.",
+    "speaker": "Tommy Shelby",
+    "ep": "S02E04"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "pea-0357"
+   ]
+  },
+  {
+   "title": "The Envoy Without a Mandate",
+   "show": "vikings",
+   "category": "NEG",
+   "secondary": [
+    "DEC"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S01E09",
+    "S01E08"
+   ],
+   "strategist": "Ragnar Lothbrok, Jarl Borg and King Horik",
+   "target": "Each other",
+   "context": "King Horik, the most powerful ruler in Ragnar's world, sends Ragnar to Gotaland to settle Jarl Borg's claim to land Horik holds. Borg says the land is rich in minerals and priceless. Horik has authorized Ragnar to do one thing only: buy Borg out.",
+   "play": "Borg opens by leaving the envoys wet and cold and telling them they are wasting their time, then warms once he learns he is dealing with the famous Ragnar Lothbrok. On the second day Ragnar offers payment; Borg demands Horik's head. Ragnar says it seems he is done and gets up to leave, and Borg immediately produces options: acknowledge his claim but lease the land back to Horik for life, or defer the question of ownership and share the mineral rights. Ragnar admits he has no authority for either and sends his friend Floki back to Horik. Horik replies that he is not interested in deals.",
+   "why_it_works": "A credible walk-away moves Borg off his extreme position and makes him invent creative options: splitting ownership from use, and sharing the resource. But an envoy with a single approved outcome cannot close, and the real decision sits with a principal who may want the talks to fail.",
+   "outcome": "Horik refuses any compromise, Borg declares war, and Ragnar's mission fails. Borg uses the delay to recruit Ragnar's own brother, Rollo, against him.",
+   "counter": "Ragnar should have agreed a negotiating range with Horik before he traveled, or asked for authority to explore structured options. Borg could have asked much earlier what mandate the envoy actually had.",
+   "principle": "Walk away to unlock options, but never negotiate without knowing your mandate.",
+   "in_practice": "Before a partnership negotiation, agree internally what you are allowed to trade: price, rights, term. On the other side of the table, when a counterpart says they have no authority, find out who does and whether they want a deal at all.",
+   "quote": {
+    "text": "What if my claim was acknowledged but I was willing to lease the land back to the king during his lifetime? Or what if we deferred judgment on ownership, but shared the mineral rights?",
+    "speaker": "Jarl Borg",
+    "ep": "S01E09"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "vik-0515"
+   ]
+  },
+  {
+   "title": "There's Always a Number",
+   "show": "billions",
+   "category": "NEG",
+   "secondary": [
+    "LEV"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S02E08"
+   ],
+   "strategist": "Bobby Axelrod",
+   "target": "The owner of Foley's scrap-metal supplier",
+   "context": "Axe believes 'Black Jack' Foley, a New York power broker whose money has elected three of the last four governors, sabotaged his casino bet. Foley's steel business is private, so Axe goes after its supply chain: the scrap yards that feed it.",
+   "play": "Axe offers to buy the output of all seven of a dealer's scrap yards at a premium. The dealer says he already has a buyer and took the meeting only to say no politely. Axe stops pretending he does not know who the buyer is and doubles the offer, to 370 percent of normal. The dealer still refuses: Foley could jam him up with licenses, unions and taxes in ways he would never see coming, so no number works. Axe floats a billion dollars to prove there is always a number, then admits he would never pay it.",
+   "why_it_works": "It fails, and the failure is the lesson. Money cannot outbid fear of a local power that controls the conditions of someone's whole business, and a supplier who expects to be around long after the deal will side with the one who can punish him for years.",
+   "outcome": "Axe fails to squeeze Foley, learns how deep Foley's reach goes, and changes approach: he asks for a meeting with Foley himself.",
+   "counter": "The dealer's defense is a model: he names his real constraint plainly and refuses to let the conversation become a haggle.",
+   "principle": "You cannot outbid someone's fear of the power they have to live under.",
+   "in_practice": "When a partner refuses an offer that is objectively generous, stop raising the price and find out whom else they depend on. The real negotiation is with that dependency.",
+   "quote": {
+    "text": "You're more afraid of him than you are of me.",
+    "speaker": "Bobby Axelrod",
+    "ep": "S02E08"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "bil-0096"
+   ]
+  },
+  {
+   "title": "Trading Up to a Bigger Fish",
+   "show": "peaky-blinders",
+   "category": "NEG",
+   "secondary": [
+    "LEV",
+    "ALLY"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S01E04",
+    "S01E03"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "Inspector Campbell",
+   "context": "Inspector Chester Campbell, a Belfast policeman sent to clean up Birmingham, demands that Tommy hand over Freddie Thorne, a Communist agitator who has married Tommy's sister Ada, and threatens to charge Ada with sedition if the family shelters him. Tommy has promised Campbell that Freddie will leave, but Freddie and Ada refuse to go.",
+   "play": "Using an address Ada passed along anonymously, Tommy offers Campbell a bigger prize: a senior Communist holding £200 in cash from the Russian government, a catch that could win Campbell proof of a conspiracy and perhaps a medal. Before handing over the address, he asks for Campbell's word that Freddie and Ada can leave the city, and Campbell gives it.",
+   "why_it_works": "Substituting a more valuable prize for the one demanded should let both sides claim a win: Campbell's career gets a boost and Ada is protected.",
+   "outcome": "It fails twice. Campbell breaks his word the moment the man is arrested and has him brutally interrogated for Freddie's whereabouts, and the prize turns out to be worthless, because the comrades do not know each other's addresses. The prisoner dies, Freddie is arrested at his son's birth, and the family blames Tommy.",
+   "counter": "Tommy needed an enforceable guarantee, such as holding back the stolen guns Campbell was desperate to recover until Freddie and Ada were clear, instead of the word of a man who openly despised him. He should also have checked whether the asset he traded could deliver what Campbell wanted.",
+   "principle": "A promise from someone who holds you in contempt is worth nothing unless something enforces it.",
+   "in_practice": "When a counterparty has shown they will not honor informal commitments, put terms in writing with consequences, or make delivery simultaneous. And confirm that what you are trading actually has the value you claim.",
+   "quote": {
+    "text": "My word to who? To a Peaky Blinder?",
+    "speaker": "Inspector Campbell",
+    "ep": "S01E04"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "pea-0332"
+   ]
+  },
+  {
+   "title": "Surrender Without a Guarantee",
+   "show": "vikings",
+   "category": "NEG",
+   "secondary": [
+    "DEF"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S04E14"
+   ],
+   "strategist": "Aslaug",
+   "target": "Lagertha",
+   "context": "Lagertha, Ragnar's first wife and now a formidable warlord, has seized Kattegat while Ragnar is away. Queen Aslaug, Ragnar's second wife, who has ruled in his absence, has no force left to resist.",
+   "play": "Aslaug opens by calling Lagertha a usurper, then plants doubt by claiming she dreamed that Ragnar and her son Ivar drowned. She says she has no wish to fight, since she would never win, claims her place in Ragnar's saga through her sons, and asks only for safe passage. She offers Lagertha her hearth and home with her blessing, and adds a sweetener: her sons will be grateful for the manner of it and will not seek revenge. Lagertha says she understands, and as Aslaug walks away, shoots her with an arrow.",
+   "why_it_works": "Aslaug correctly identifies what Lagertha fears, a revenge war with Ragnar's sons, and tries to trade it away. It fails because she is promising something she cannot enforce on behalf of people who are not in the room, and killing her costs Lagertha almost nothing.",
+   "outcome": "Aslaug dies. Her son Ivar returns demanding vengeance, and the feud she tried to prevent becomes the main threat to Lagertha's rule.",
+   "counter": "Aslaug needed something Lagertha valued that only a living Aslaug could deliver, or a witness who would enforce the deal, before she gave up the hall.",
+   "principle": "A surrender that relies on the other side's goodwill is no deal: bring something they lose by breaking it.",
+   "in_practice": "When you negotiate from weakness, do not hand over your last asset for a verbal promise. Tie their benefit to a later step that only you can complete.",
+   "quote": {
+    "text": "And my sons, when they hear how it was done, will be grateful for the manner of it... And not seek revenge.",
+    "speaker": "Aslaug",
+    "ep": "S04E14"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "vik-0601"
+   ]
+  },
+  {
+   "title": "The Revised Promise",
+   "show": "house-of-cards",
+   "category": "NEG",
+   "secondary": [
+    "DEC"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S01E03",
+    "S01E04",
+    "S01E05",
+    "S01E06"
+   ],
+   "strategist": "Frank Underwood",
+   "target": "Marty Spinella and the teachers' unions",
+   "context": "Frank, then House Majority Whip, must deliver the new President's education bill, with performance standards for teachers, over the opposition of the teachers' unions and their chief lobbyist, Marty Spinella. Called away to his home district, he negotiates by phone and concedes too much, including testing only every five years.",
+   "play": "Frank quietly adds a provision threatening federal funds for school districts with collective bargaining, meaning to trade it away later to win back performance standards. He shows Spinella a version without it. When a colleague calls this lying, Frank says he revised the parameters of his promise. When Spinella finds the clause, Frank tells him it was only there for leverage and asks to reopen performance standards.",
+   "why_it_works": "An extreme demand you are ready to drop can be traded for what you really want, and adding it late gets around earlier concessions. The same move destroys trust once the other side learns it was hidden from them.",
+   "outcome": "It backfires. Spinella calls it a dirty bomb, declares war and leads a nationwide teachers' strike. Frank has to resort to much dirtier tricks, including goading Spinella into hitting him, to win the fight back, and reflects that friends make the worst enemies.",
+   "counter": "Spinella should have insisted on a signed text of the agreed points before his people left the room. Frank's own mistake was leaving the table; as Spinella tells him, he should have been there in person.",
+   "principle": "A bargaining chip hidden from your counterpart becomes a betrayal the moment they find it.",
+   "in_practice": "Anchoring high is legitimate when it is out in the open; slipping new terms into a draft after agreement burns the relationship. Stay at the table in person for the critical rounds.",
+   "quote": {
+    "text": "No. I revised the parameters of my promise.",
+    "speaker": "Frank Underwood",
+    "ep": "S01E04"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "hou-0735"
+   ]
+  },
+  {
+   "title": "One More Thing",
+   "show": "suits",
+   "category": "NEG",
+   "secondary": [
+    "PSY",
+    "RISK"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S04E06",
+    "S06E13"
+   ],
+   "strategist": "Mike Ross",
+   "target": "Logan Sanders; Linda Johnson, a landlord's attorney",
+   "context": "Twice, Mike wins a negotiation and then loses it at the close. In the first, now an investment banker fighting for control of a company, he has Logan Sanders, the rival bidder and Harvey's client, agreeing to buy him out on generous terms. In the second, out of prison and working at a legal clinic, he has pressured a landlord's lawyer into settling a tenant's claim after her child was hurt in an illegal demolition.",
+   "play": "With Logan, after agreeing a generous number paid up front, Mike adds a surprise condition suggested by his girlfriend Rachel, who wants Logan gone for her own reasons: once the deal is done, Harvey goes back to being Mike's lawyer and Logan is out. Logan suggests Harvey choose; Harvey picks Mike, and Logan walks away from the terms he has just agreed. At the clinic, Mike gets the landlord's lawyer, Linda Johnson, to name a number, guesses her authority ('you're authorized to go to 20, so let's say 25') and closes at $25,000. When his client learns her son's treatment costs that much every year, Mike goes back the same night and demands $100,000. Johnson calls it bad faith, says his client is running him, and goes to trial.",
+   "why_it_works": "Both negotiations work until the extra demand. A surprise condition at the close turns a commercial deal into a contest of pride, and reopening a settled number destroys credibility and tells the other side you cannot control your own client.",
+   "outcome": "The settlement dies and Mike loses the company fight to Logan. At trial Johnson exploits the clinic's weak point, that Mike is not a lawyer and the colleague arguing the case freezes, and the case is dismissed with prejudice. The client gets nothing.",
+   "counter": "Harvey's verdict on the first: Mike had leverage and wanted to be sure Logan knew it, when he should have raised the side issue with Harvey privately. For the second, Mike needed to agree his client's walk-away number before he negotiated, so the first yes would hold.",
+   "principle": "Once you have won, sign; one more demand turns a deal into a fight over pride.",
+   "in_practice": "When a negotiation reaches agreement, close it, and handle side issues separately and privately. Before you negotiate for a client or your own firm, agree what yes looks like, because going back for more after a handshake usually loses the deal.",
+   "quote": {
+    "text": "You should have come to me first Instead of looking to rub it in his face.",
+    "speaker": "Harvey Specter",
+    "ep": "S04E06"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1292",
+    "sui-1479"
+   ]
+  }
+ ]
+}

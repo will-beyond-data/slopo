@@ -1,0 +1,1677 @@
+{
+ "id": "ALLY",
+ "name": "Alliances, Coalitions & Betrayal",
+ "intro_html": "<p>An alliance is a bet that two people with different interests will want the same thing for long enough to get it. Every play in this chapter is a way of placing that bet, or of collecting when someone else loses it. Some are about building a coalition from people who would never choose each other; some are about recruiting a single person out of the other camp; and some are about the reverse, finding the seam in an enemy's partnership and working it open.</p><p>The mechanism underneath is almost always the same. People join you when you meet a need their current side is neglecting, and they stay while the exchange stays balanced. Tommy Shelby's <b>Manufacturing a Common Enemy</b> in <i>Peaky Blinders</i> works because Billy Kimber really does have a Lee problem; Jarl Borg's <b>Keep One Behind</b> in <i>Vikings</i> works because he finally asks Rollo what he actually wants. The same logic explains the betrayals. Claire Underwood defects in <b>The Conscience Clause</b> because Frank kept refusing her, and Robert Zane joins his old rival in <b>Recruit the Betrayed Ally</b> because his own partners went behind his back. A grievance left open inside your camp is an invitation to anyone outside it.</p><p>Alliances fail in a few predictable ways. They dissolve the day the shared enemy is gone, as the sons of Ragnar discover in <b>The Great Heathen Army</b>. They break when one partner starts treating the other as staff, which is how <b>Enemies of Convenience</b> ends between Chuck Rhoades and Bobby Axelrod in <i>Billions</i>. They are betrayed by the one member with a score to settle, like Steven Birch in <b>A Coalition of Rivals</b>. And they are paid for in currency that buys nothing, such as the succession promises Harald Finehair accepts twice in <b>The Same Arrangement</b>. The defenses are dull and reliable: agree what happens after the win, keep the exchange balanced, take collateral you could actually use, and tell your partner the awkward news before someone else does.</p><p>Each show sees coalitions from a different angle. <i>Vikings</i> is about kinship and oaths, where marriage is a treaty and a brother is the first person worth buying. <i>Peaky Blinders</i> treats alliance as supply chain: Tommy rents muscle, routes and patrons, and never needs Alfie Solomons to be loyal, only paid. <i>House of Cards</i> is the darkest, with Frank Underwood splitting partners by whispering a different story into each ear. <i>Billions</i> keeps returning to the marriage of convenience between two men who hate each other, and <i>Suits</i> is a long study in favors: who owes whom, when to win before you give, and why a favor owed is never an order.</p><p>For a business owner the translation is direct. Partnerships, referral networks, joint bids and key hires are all alliances, and the questions are the same ones these characters ask: what does this person need that their current side is not giving them, what am I offering that costs me something, and what will hold us together once the first goal is reached.</p>",
+ "principles": [
+  "People join you when you meet a need their own side is neglecting, so the first question is always what the other person actually wants.",
+  "A shared enemy starts an alliance and a shared plan for the day after keeps it alive.",
+  "Keep the exchange balanced: the day one partner becomes the other's errand boy, the alliance starts to rot.",
+  "Never build a plan that depends on someone you have burned.",
+  "Commitment is believed when it costs something: a marriage, a hostage, a stake at risk, an irreversible act.",
+  "Collateral counts only if you could use it without hurting yourself.",
+  "Promises about the distant future are cheap to give and buy very little loyalty.",
+  "To split an alliance, find the member who feels overlooked or the one with the weakest stake, and give them a better offer or an easy exit.",
+  "Tell your partner uncomfortable news yourself, before an opponent tells it for you with a worse explanation.",
+  "A favor banked early can be cashed later, but a favor owed is never a right to command."
+ ],
+ "plays": [
+  {
+   "title": "The Truce That Buried the Case",
+   "show": "billions",
+   "category": "ALLY",
+   "secondary": [
+    "DEF",
+    "TRAP",
+    "DEC"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S03E06",
+    "S03E01",
+    "S03E05",
+    "S03E07"
+   ],
+   "strategist": "Wendy Rhoades as broker, with Chuck Rhoades and Bobby Axelrod",
+   "target": "The Eastern District's Ice Juice case (Oliver Dake and Bryan Connerty) and Dr. Gilbert",
+   "context": "Bobby 'Axe' Axelrod, the hedge fund billionaire, has been indicted for sabotaging Ice Juice, a company whose stock he shorted. The same case threatens Chuck Rhoades, the US Attorney who has spent years hunting Axe and whose family trust funded the bait, and Chuck's wife Wendy, Axe's in-house performance coach, who shorted Ice Juice through Axe Capital. When Wendy's trade is exposed and the judge gives prosecutor Bryan Connerty one week, all three face prison.",
+   "play": "At first each side fights alone. Chuck gets Oliver Dake, the Eastern District prosecutor, to cover Wendy under a 'me and my family' clause and quietly offers Dr. Gilbert, the scientist who supplied the toxin, a way to give up physical evidence instead of testifying, while Axe's lawyer files a motion to dismiss. Once Connerty offers the Rhoadeses a plea, Wendy walks Chuck into Axe's penthouse and sets one goal, survival, and one condition: both men put every weapon on the table. Chuck arrives holding the lab slide that ties Gilbert to the scheme. Together they turn the evidence on Gilbert: the FBI finds the slide taped inside his own fridge, Axe's people build a backdated trading account in his name, Wendy talks Axe's trader Mafee into saying he gave her the tip, and the mole Dake planted in Chuck's office reports straight back to Chuck.",
+   "why_it_works": "Each man held what the other lacked. Chuck had the slide, the FBI and knowledge of Dake's moves; Axe had money, his fixer Hall and the traders. Wendy made the alliance possible by changing the contest from who wins to who survives, which gave two enemies an interest larger than their hatred.",
+   "outcome": "Connerty's case collapses in open court, Attorney General Jock Jeffcoat orders the Eastern District to drop it and fires Dake, Gilbert pleads to five years, and Axe Capital settles with the SEC for $390 million. The price is moral: an accomplice is framed into taking the whole fall, and Connerty becomes a sworn enemy. The episode proves Chuck and Axe can work together, which Wendy builds on at the end of the season.",
+   "counter": "Dake and Connerty needed Gilbert and the slide locked down before anyone else reached them, and should never have trusted a plant inside Chuck's office to stay loyal. A prosecutor whose two targets hate each other should expect that hatred to have a price.",
+   "principle": "When every option ends in disaster, change the question: find the survival interest that makes enemies stronger together than apart.",
+   "in_practice": "Competitors facing the same regulatory or market threat can sometimes cooperate on the narrow issue that endangers both. Name the shared goal out loud, ask each side to disclose what it holds, and keep the scope to what you would defend in public.",
+   "quote": {
+    "text": "As much as you two fucking hate each other, your only objective right now is survival.",
+    "speaker": "Wendy Rhoades",
+    "ep": "S03E06"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "bil-A0312",
+    "bil-0151",
+    "bil-0148",
+    "bil-0155"
+   ],
+   "steps": [
+    {
+     "ep": "S03E01",
+     "move": "Chuck gets Dake to treat Wendy's short as covered by his 'me and my family' deal; Dake banks a favor and cashes it in S03E02 by planting Karl Allerd in Chuck's office."
+    },
+    {
+     "ep": "S03E05",
+     "move": "Axe squeezes Dr. Gilbert and concludes he still has the slide, while Chuck offers Gilbert a way out through physical evidence that 'could speak for you'."
+    },
+    {
+     "ep": "S03E06",
+     "move": "Bach's motion to dismiss wins Connerty a one-week deadline, Chuck's burglar pulls out, Spyros exposes Wendy's short, and Connerty offers Chuck and Wendy a plea; Lara talks Axe out of pleading."
+    },
+    {
+     "ep": "S03E06",
+     "move": "After Foley's koan, Wendy brings Chuck to Axe's penthouse and makes survival the only goal; Chuck arrives with the slide."
+    },
+    {
+     "ep": "S03E07",
+     "move": "The FBI finds the slide in Gilbert's fridge, Axe's side builds a backdated account in his name, and Chuck breaks Gilbert into pleading to five years."
+    },
+    {
+     "ep": "S03E07",
+     "move": "Wendy turns Mafee, Hall fixes the phone records, Karl reports Dake to Chuck, the case collapses in court, and Jeffcoat fires Dake."
+    }
+   ]
+  },
+  {
+   "title": "Enemies of Convenience",
+   "show": "billions",
+   "category": "ALLY",
+   "secondary": [
+    "NEG",
+    "LEV",
+    "TIME"
+   ],
+   "scope": "series",
+   "episodes": [
+    "S03E12",
+    "S04E01",
+    "S04E02",
+    "S04E04",
+    "S04E12",
+    "S05E01",
+    "S07E06",
+    "S07E10"
+   ],
+   "strategist": "Chuck Rhoades and Bobby Axelrod, brokered by Wendy Rhoades",
+   "target": "Their shared enemies: Grigor Andolov, Taylor Mason, Jock Jeffcoat and, later, Mike Prince",
+   "context": "After three seasons trying to destroy each other, Chuck Rhoades and Bobby Axelrod end Season 3 freshly beaten: Chuck has been fired by Jock Jeffcoat, the US Attorney General, and Axe has lost staff and investors to his protege Taylor Mason. Wendy Rhoades sits them down together. Their Ice Juice truce has already shown that the combination works: Chuck brings law enforcement and political access, Axe brings money, favors and fixers.",
+   "play": "The alliance is a trade of capabilities while each man keeps his own war. Axe relocates a charter school to complete Chuck's one-day favor chain for the police commissioner; Chuck, asked to investigate Axe's man at the police pension fund, steers the result so Axe is protected and collects the commissioner's endorsement for his run for New York Attorney General. Once elected, Chuck freezes the assets of Grigor Andolov, the Russian oligarch menacing Axe, and gives him twelve hours to leave, while Axe plays the good cop at the airport. The partnership breaks when Axe asks Chuck to detain Taylor as a personal favor: Chuck does it, but turns Taylor and Axe's trader Mafee into his own informants, and by Season 5 he is raiding Axe's crypto mine. Years later the pattern repeats: Axe asks Chuck for safe passage for Grigor, Chuck delivers, calls the favor in against Mike Prince, and when Prince threatens Wendy the two men go back to work side by side.",
+   "why_it_works": "Enemies make workable allies when each needs something only the other can supply and each keeps his own separate fight. The arrangement holds while the exchange is balanced and collapses the moment one side starts treating the other as a subordinate.",
+   "outcome": "Together they expel Andolov, gut Taylor's fund and win Chuck his election. The Season 4 alliance ends with Chuck's secret informants inside Axe Capital and a new war in Season 5. The Iceland debt and Prince's threat to Wendy produce the Season 7 partnership that brings Prince down.",
+   "counter": "Each man's protection against the other was the same: keep a hidden asset (Chuck's informants, Axe's fixers) and never let the partner see all your positions. Anyone facing the pair could exploit the fault line by making one feel used by the other.",
+   "principle": "An alliance of enemies lasts while each is needed as an equal; the day one becomes the other's errand boy, he becomes a double agent.",
+   "in_practice": "Partnerships with competitors, such as joint bids and referral arrangements, work when each side brings something distinct and the terms are explicit. Keep the exchange balanced, say out loud what each side gets, and never ask a partner for favors that make them look like your employee.",
+   "quote": {
+    "text": "So there's no conflict. And I have nothing against the guy. Not anymore.",
+    "speaker": "Chuck Rhoades",
+    "ep": "S03E12"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "bil-A0316",
+    "bil-0213",
+    "bil-0180",
+    "bil-0212"
+   ],
+   "steps": [
+    {
+     "ep": "S03E12",
+     "move": "Both newly beaten, Chuck and Axe sit down together at Wendy's invitation and start trading plans against Jock and Taylor."
+    },
+    {
+     "ep": "S04E01",
+     "move": "Axe moves a charter school to complete Chuck's favor chain, and Chuck ends the day drinking with the police commissioner."
+    },
+    {
+     "ep": "S04E02",
+     "move": "Chuck finds Axe secretly steering the police pension fund, steers the commissioner away from him, and collects the commissioner's endorsement."
+    },
+    {
+     "ep": "S04E04",
+     "move": "Chuck wins the Attorney General race and expels Andolov with twelve hours' notice while Axe promises Andolov his assets back once he is home."
+    },
+    {
+     "ep": "S04E12",
+     "move": "Axe asks Chuck to detain Taylor; Chuck, tired of being an errand boy, complies but makes Taylor and Mafee his informants, ending the alliance."
+    },
+    {
+     "ep": "S05E01",
+     "move": "Chuck and Sacker go after a crypto mine tied to Axe Capital, and the war resumes."
+    },
+    {
+     "ep": "S07E06",
+     "move": "Axe asks Chuck at a remote Icelandic airstrip for safe passage for Grigor; Chuck handles Krakow and stages Grigor's arrest to suit both men's audiences."
+    },
+    {
+     "ep": "S07E10",
+     "move": "Chuck calls in the favor and Axe hangs up, but Prince's trap on Wendy brings Axe home, and the two men go to work together."
+    }
+   ]
+  },
+  {
+   "title": "The Partner Who Switches Sides",
+   "show": "peaky-blinders",
+   "category": "ALLY",
+   "secondary": [
+    "NEG",
+    "DEC",
+    "INT"
+   ],
+   "scope": "series",
+   "episodes": [
+    "S02E02",
+    "S02E05",
+    "S02E06",
+    "S03E05",
+    "S03E06",
+    "S04E05",
+    "S04E06",
+    "S05E06",
+    "S06E02",
+    "S06E06"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "Alfie Solomons",
+   "context": "Alfie Solomons, the Jewish gang boss and rum distiller who runs Camden Town, is the most useful and least reliable partner Tommy Shelby, leader of Birmingham's Peaky Blinders, ever has. From Season 2 to the end he betrays Tommy at least three times, and Tommy keeps doing business with him anyway.",
+   "play": "Tommy builds every deal on Alfie's interest and none on his loyalty. He wins him in S02E02 by reciting Alfie's own books back to him and naming his problem with Darby Sabini, the Italian boss. After Alfie sides with Sabini and springs a trap at his Passover seder, Tommy buys him back with a bluffed grenade under a rum barrel and the export license that lets Alfie ship rum unsearched. In Season 3 he uses Alfie's expert eye in the Romanov treasury, then catches his next betrayal with a list that leaves out a name. In Season 4 Alfie takes Luca Changretta's money, and Tommy shoots him on the beach at Margate. Alfie survives, and in Season 5 Tommy haggles for his fighters. In Season 6 Tommy writes Alfie a final act: the Boston opium trade as revenge on the Irish, paid for in Camden warehouses instead of credit.",
+   "why_it_works": "Tommy frames every approach around what Alfie wants at that moment (revenge, rum routes, a last act for his own legend), sets terms he can check, and tests Alfie with questions he already knows the answers to. He has stopped expecting loyalty and settles for Alfie being paid.",
+   "outcome": "Over six seasons the relationship yields Epsom, the Romanov jewels, the rally's fighters and, finally, Alfie owning half of Boston while signing half of Camden Town over to Tommy. The costs are Billy Kitchen's death at the seder, a leak to the intelligence services and nearly losing Tommy's son Charles.",
+   "counter": "Alfie repeatedly misjudges Tommy's capacity to find out, and Tommy repeatedly misjudges the timing of Alfie's next defection. Both keep coming back because each is the only partner who can do what the other needs.",
+   "principle": "With an unreliable partner, bind the deal to their interest, verify with tests you can check, and never let your survival depend on their loyalty.",
+   "in_practice": "Some partners are brilliant and self-serving. Work with them on terms that reward delivery, keep independent ways to check what they tell you, and hold real collateral (warehouses, in Tommy's case) instead of promises.",
+   "quote": {
+    "text": "And yet here we are, Alfie, after all this time, just you and me.",
+    "speaker": "Tommy Shelby",
+    "ep": "S06E06"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "pea-A0487",
+    "pea-0360",
+    "pea-0413"
+   ],
+   "steps": [
+    {
+     "ep": "S02E02",
+     "move": "Tommy recites Alfie's business and his Sabini problem, and Alfie moves from refusal to 'Tell us your plan'."
+    },
+    {
+     "ep": "S02E05",
+     "move": "Having made peace with Sabini, Alfie springs the seder trap on Arthur and Billy Kitchen."
+    },
+    {
+     "ep": "S02E06",
+     "move": "Tommy bluffs him with a grenade under a rum barrel and settles at 35 percent, offering the export license."
+    },
+    {
+     "ep": "S03E05",
+     "move": "Tommy brings Alfie as his jeweler into the Romanov treasury."
+    },
+    {
+     "ep": "S03E06",
+     "move": "Alfie's list leaves out the richest buyer, which proves he sold the tunnel to the Odd Fellows and leads Tommy to his son."
+    },
+    {
+     "ep": "S04E05",
+     "move": "Alfie sells Luca a way to put his men into the fight as Alfie's seconds, then leaves for Margate."
+    },
+    {
+     "ep": "S04E06",
+     "move": "Tommy finds Alfie dying of cancer in Margate and shoots him."
+    },
+    {
+     "ep": "S05E06",
+     "move": "Alfie, alive, haggles Tommy up to £25 a man for fighters at Bingley Hall."
+    },
+    {
+     "ep": "S06E02",
+     "move": "Tommy offers him the Boston opium as the final act of his revenge on the Irish, for Camden warehouses instead of credit."
+    },
+    {
+     "ep": "S06E06",
+     "move": "With the Boston Irish dead, Alfie owns half of Boston and signs half of Camden Town over to Tommy."
+    }
+   ]
+  },
+  {
+   "title": "Rollo Changes Sides for Good",
+   "show": "vikings",
+   "category": "ALLY",
+   "secondary": [
+    "RISK",
+    "POW",
+    "NEG"
+   ],
+   "scope": "series",
+   "episodes": [
+    "S03E10",
+    "S04E01",
+    "S04E04",
+    "S04E05",
+    "S04E07",
+    "S04E09",
+    "S04E10",
+    "S04E13",
+    "S05E09",
+    "S05E11"
+   ],
+   "strategist": "Rollo (coached by Princess Gisla)",
+   "target": "Ragnar Lothbrok, and the Frankish court that doubts him",
+   "context": "Rollo has lived in the shadow of his brother Ragnar Lothbrok, the farmer turned king, since Season 1, and every rival has tried to work that grievance. Left to winter outside Paris for a spring attack, he receives an offer from Emperor Charles: marriage to Princess Gisla, land in northern Frankia and a dukedom, in return for defending Paris against Ragnar.",
+   "play": "Rollo accepts, then removes any doubt by leading Frankish soldiers to massacre his own Viking camp. He learns Frankish so he can speak to Gisla and the court without an interpreter, and wins her over. He designs the Seine defenses from inside knowledge of how his people think: forts, a chain across the river, and boats waiting beyond the barrier because Northmen treat barriers as obstacles to go around. With Gisla's coaching he stays close to the Emperor while his rivals at court are removed. He beats Ragnar at Paris, then trades on his position between two worlds: safe passage for Bjorn's expedition only if he can come, an army for Ivar on condition that Bjorn is spared, and a tribute from Ivar and Harald for the whereabouts of fugitives he had already warned.",
+   "why_it_works": "A defector is valued for what he knows and distrusted for where he came from. Rollo answers the distrust with an act that cannot be undone and turns his knowledge into service the Franks cannot get anywhere else. After that, standing between the Franks and the Northmen lets him sell to both.",
+   "outcome": "Rollo becomes Duke of Normandy, husband of the Emperor's daughter and the savior of Paris, hailed as Caesar after beating Ragnar (S04E10). Years later he extracts a large tribute and a defense pact from Ivar and Harald while keeping ties to Bjorn. The cost is permanent: Bjorn warns that he would have to kill him, and his old people reject his offers.",
+   "counter": "Ragnar could have kept Rollo close at Paris instead of leaving an ambitious, resentful brother alone next to the enemy. The Franks' defense was to demand proof, which Rollo supplied in blood.",
+   "principle": "When you change sides, make the move irreversible, then make your inside knowledge the thing your new side cannot do without.",
+   "in_practice": "When you join a competitor or move from agency to client side, commit visibly, respect every confidentiality obligation, and build your value on what you understand about the customer and the market instead of secrets you carried over.",
+   "quote": {
+    "text": "You will defend Paris against your brother.",
+    "speaker": "Frankish envoy",
+    "ep": "S03E10"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "vik-A0715",
+    "vik-0572",
+    "vik-0584"
+   ],
+   "steps": [
+    {
+     "ep": "S03E10",
+     "move": "Emperor Charles offers Rollo Gisla, a dukedom and land in return for defending Paris against his own brother."
+    },
+    {
+     "ep": "S04E01",
+     "move": "Rollo leads Frankish soldiers into his own Viking camp and massacres his warriors, removing any way back."
+    },
+    {
+     "ep": "S04E04",
+     "move": "Having learned Frankish, Rollo answers the abbot in his own language and persuades Gisla to drop the annulment."
+    },
+    {
+     "ep": "S04E05",
+     "move": "He designs forts and a chain across the Seine and extra boats beyond the barrier, because his people treat barriers as obstacles."
+    },
+    {
+     "ep": "S04E07",
+     "move": "His defenses close the river and rout Ragnar's fleet."
+    },
+    {
+     "ep": "S04E09",
+     "move": "Gisla coaches him that closeness to the Emperor is the real power and that Roland must be removed; Rollo holds his position after Odo's fall."
+    },
+    {
+     "ep": "S04E10",
+     "move": "Rollo rallies his men to attack again and again, defeats Ragnar and is hailed as Caesar in Paris."
+    },
+    {
+     "ep": "S04E13",
+     "move": "He detains Bjorn's party, shows his Roman map, and sells safe passage for a place on the voyage."
+    },
+    {
+     "ep": "S05E09",
+     "move": "Answering Hvitserk, he sends a Frankish army to Ivar on the single condition that Bjorn's life is spared."
+    },
+    {
+     "ep": "S05E11",
+     "move": "He offers the fugitives safe passage, then sells their location to Ivar and Harald for a huge tribute after they have gone."
+    }
+   ]
+  },
+  {
+   "title": "The Great Heathen Army",
+   "show": "vikings",
+   "category": "ALLY",
+   "secondary": [
+    "WAR",
+    "LEAD"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S04E17",
+    "S04E16",
+    "S04E18",
+    "S04E19",
+    "S04E20",
+    "S05E01",
+    "S05E03"
+   ],
+   "strategist": "The sons of Ragnar (Ubbe, Bjorn, Ivar, Sigurd and Hvitserk)",
+   "target": "King Aelle of Northumbria and King Ecbert of Wessex",
+   "context": "Ragnar Lothbrok is dead, executed by King Aelle of Northumbria after King Ecbert of Wessex handed him over. Lagertha, Ragnar's first wife, holds Kattegat after killing Aslaug, the mother of his younger sons. The brothers are split by grudges and have no power base of their own; their one shared cause is their father's revenge.",
+   "play": "Ubbe advises them to bide their time under Lagertha instead of moving against her. Then the brothers call in every favor and promise kings and earls they hate whatever it takes, raising an army twice the size of the one that attacked Paris. Bjorn stops Ivar attacking Lagertha by putting the father's revenge first, then takes sole command and refuses to share it with the ambitious Norwegian kings Harald and Halfdan. Aelle, who dismisses their reputation as propaganda, is destroyed. Against Wessex, Ivar's plan stretches the battle across the landscape until Ecbert's son Aethelwulf turns for Repton and walks into the trap. The captured Ecbert then gives them a legal grant of East Anglia.",
+   "why_it_works": "A single, emotionally clear goal lets rivals and old enemies march together, and the Ragnar name is the recruiting pitch. Unified command under Bjorn, combined with Ivar's willingness to abandon the traditional shield wall, gives the coalition an edge over enemies who fight by the book.",
+   "outcome": "The revenge succeeds completely: Aelle and Ecbert are dead and Wessex is beaten. The coalition has no purpose after that. At the victory feast Ivar kills his brother Sigurd, Bjorn leaves for the Mediterranean, and the East Anglia grant proves worthless because Ecbert had already abdicated. When Ubbe tries to negotiate a settlement, the Saxons refuse and Ivar takes the army.",
+   "counter": "Aelle's error was dismissing the enemy's reputation; Aethelwulf's was chasing harassing raiders exactly as predicted. The sons' own weakness was never agreeing what came after the revenge.",
+   "principle": "A coalition built on one grievance wins its war and dissolves the day after; decide the second goal before you achieve the first.",
+   "in_practice": "Industry coalitions and joint bids formed against a common threat need an agreed plan for the win (who owns what, who leads next) before they start, or success will split them.",
+   "quote": {
+    "text": "Whatever we have to promise them, we promise.",
+    "speaker": "Ubbe",
+    "ep": "S04E17"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "vik-A0717",
+    "vik-0611"
+   ],
+   "steps": [
+    {
+     "ep": "S04E16",
+     "move": "Ubbe and Sigurd decide to bide their time under Lagertha rather than give themselves away."
+    },
+    {
+     "ep": "S04E17",
+     "move": "The brothers agree to raise the greatest army ever, calling in favors with kings and earls they hate; Bjorn stops Ivar from attacking Lagertha to keep the revenge first."
+    },
+    {
+     "ep": "S04E18",
+     "move": "Bjorn takes sole command, refusing to share with Harald and Halfdan; Aelle dismisses their reputation, is routed and is blood-eagled."
+    },
+    {
+     "ep": "S04E19",
+     "move": "Ivar persuades Bjorn to stretch the battle across the landscape, and Aethelwulf turns for Repton into the trap."
+    },
+    {
+     "ep": "S04E20",
+     "move": "The captured Ecbert grants them East Anglia; at the feast Ivar kills Sigurd and the army splits."
+    },
+    {
+     "ep": "S05E01",
+     "move": "A Saxon monk reveals Ecbert had already abdicated, voiding the grant, while Ivar leads the army to take York."
+    },
+    {
+     "ep": "S05E03",
+     "move": "Ubbe's peace mission based on the grant is refused, and Ivar uses the failure to take command of the army."
+    }
+   ]
+  },
+  {
+   "title": "The Kept Reporter",
+   "show": "house-of-cards",
+   "category": "ALLY",
+   "secondary": [
+    "LEV",
+    "REP",
+    "DEF"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S01E01",
+    "S01E02",
+    "S01E04",
+    "S01E05",
+    "S01E09",
+    "S01E12",
+    "S01E13",
+    "S02E01",
+    "S02E05",
+    "S02E06"
+   ],
+   "strategist": "Frank Underwood",
+   "target": "Zoe Barnes (and, through her, the Washington press)",
+   "context": "Frank Underwood, the House Majority Whip, has been passed over for Secretary of State and is waging a secret war on the new administration. He needs a channel to the press that cannot be traced back to him. Zoe Barnes, a young metro reporter at the Washington Herald, has more ambition than standing, which makes her both useful and dependent.",
+   "play": "Frank tests her, then feeds her exclusives that make her career (a leaked draft of the education bill, the nomination for Secretary of State) and steers her moves so that she needs him more with each step: defying her editor, turning down the White House beat, jumping to the news site Slugline. The relationship becomes sexual, and he takes private photos and gives her burner phones as insurance. When she starts setting terms, he cuts off her access until she comes back on his. As she makes her own name she stops needing him, and with two fellow reporters she begins tracing the death of Congressman Peter Russo back to him. Frank offers her a clean slate and White House access to drop it; when she says the word murder, he kills her, then has his chief of staff Doug Stamper and the FBI destroy the reporter who will not let it go.",
+   "why_it_works": "A source relationship built on scarcity gives the patron control only while the reporter has no other way up. Frank's early control was real because every exclusive came from him; the same success made Zoe independent.",
+   "outcome": "For a season Zoe is Frank's most effective weapon. The arrangement fails the moment her career outgrows him, and Frank can end it only with murder, which creates the longest-running threat in the series: reporters keep pursuing Zoe's death until it helps end his presidency.",
+   "counter": "Zoe's best defense would have been to diversify her sources and never pursue her patron alone. Frank's would have been to let the relationship end on professional terms before she had reason to investigate him.",
+   "principle": "Dependence you create is temporary: every favor that grows your ally also shrinks your hold on them.",
+   "in_practice": "Relationships with partners, journalists or key staff that rest on your control will break as they succeed. Build them on shared interest that survives their independence, and plan for the day they no longer need you.",
+   "quote": {
+    "text": "Every kitten grows up to be a cat. They seem so harmless at first.",
+    "speaker": "Frank Underwood",
+    "ep": "S02E01"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "hou-A1026",
+    "hou-0730"
+   ],
+   "steps": [
+    {
+     "ep": "S01E01",
+     "move": "Frank tests Zoe, keeps her visit off the log, and gives her the Blythe draft with the warning that they are now in the same boat."
+    },
+    {
+     "ep": "S01E02",
+     "move": "He feeds her the Kern editorial and the Durant nomination, making her a national name who owes him."
+    },
+    {
+     "ep": "S01E04",
+     "move": "He steers her away from the White House beat and she is fired from the Herald; their sexual relationship begins."
+    },
+    {
+     "ep": "S01E05",
+     "move": "At Slugline he gives her burner phones and asks for private photos as security."
+    },
+    {
+     "ep": "S01E09",
+     "move": "When she ends the sexual relationship he freezes her out until she comes back, then hands over the vote count."
+    },
+    {
+     "ep": "S01E12",
+     "move": "As Janine pulls her toward the shipyard story, Frank gives her a half-true tip that points at Womack."
+    },
+    {
+     "ep": "S01E13",
+     "move": "Zoe, Janine and Lucas trace Rachel and deduce that Frank engineered Russo's collapse to reach the vice presidency."
+    },
+    {
+     "ep": "S02E01",
+     "move": "Frank offers a clean slate and access to the Oval Office; when she mentions murder, he pushes her under a train."
+    },
+    {
+     "ep": "S02E05",
+     "move": "Doug has the FBI lure Lucas into hacking a data center, and he is arrested."
+    },
+    {
+     "ep": "S02E06",
+     "move": "Frank faces down Hammerschmidt off the record while the FBI breaks Janine, and Lucas takes a plea."
+    }
+   ]
+  },
+  {
+   "title": "The Patron Above the Handler",
+   "show": "peaky-blinders",
+   "category": "ALLY",
+   "secondary": [
+    "NEG",
+    "POW"
+   ],
+   "scope": "series",
+   "episodes": [
+    "S01E02",
+    "S02E02",
+    "S02E06",
+    "S03E01",
+    "S04E06",
+    "S05E06",
+    "S06E04"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "Winston Churchill (as patron) and the handlers placed between them",
+   "context": "From the first season, Tommy Shelby's enemies inside the state, starting with Inspector Chester Campbell and later Section D and the intelligence services, all answer to someone higher, and the highest is Winston Churchill. Tommy learns early that the way to beat a handler is to reach the person the handler works for, and to be more useful to that person alive than dead.",
+   "play": "Tommy's first lesson comes in S01E02, when a staged bonfire of the King's portraits brings a midnight rebuke from Churchill down on Campbell. In S02E02 he writes to Churchill directly, soldier to soldier, and obtains an Empire export license and a royal appointment over Campbell's objection. Churchill's interest is what stops Campbell's firing squad at the end of Season 2 and brings Tommy the Russian job in Season 3. As a Member of Parliament he keeps offering the establishment more than it asks for: he hands a Soviet agent to Colonel Ben Younger with a proposal for Churchill, wins Churchill's quiet blessing to act against the fascist Oswald Mosley, and types up a fascist meeting held at his house word for word because it is more useful to Churchill that way.",
+   "why_it_works": "A handler's power over you is borrowed from their boss. When the boss has a personal stake in your survival, the handler's threats lose their force, and every favor done directly for the boss raises the price of harming you.",
+   "outcome": "The patronage saves Tommy's life once and brings him licenses, contracts and political cover for years. It never makes him safe: the Home Secretary outranks Churchill in S02E05, and when the plot against Mosley collapses Tommy cannot rule out the intelligence services among his betrayers.",
+   "counter": "Handlers can defend themselves by controlling all access upward, as Campbell tried to. A patron should remember that an asset who goes around one handler will go around the next.",
+   "principle": "When a gatekeeper has power over you, find the person the gatekeeper answers to and give them a reason to want you alive.",
+   "in_practice": "If a procurement officer or middle manager is blocking a deal, a well-framed approach to the executive sponsor, offering something they personally care about, can change the whole relationship. Use it sparingly and keep delivering, because the gatekeeper will not forget.",
+   "quote": {
+    "text": "Mr Churchill will want to speak to you in person, Mr Shelby. He has a job for you.",
+    "speaker": "Churchill's messenger",
+    "ep": "S02E06"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "pea-A0476",
+    "pea-0447"
+   ],
+   "steps": [
+    {
+     "ep": "S01E02",
+     "move": "Tommy stages a burning of the King's portraits for a reporter, and Churchill rings Campbell at midnight to forbid arrests."
+    },
+    {
+     "ep": "S02E02",
+     "move": "He writes to Churchill directly, soldier to soldier, and receives an Empire export license and a temporary royal appointment."
+    },
+    {
+     "ep": "S02E06",
+     "move": "Churchill's men halt Campbell's execution squad because Churchill has a job for Tommy."
+    },
+    {
+     "ep": "S03E01",
+     "move": "The job arrives through Churchill's channel: arms for the White Russians, which Tommy cannot refuse."
+    },
+    {
+     "ep": "S04E06",
+     "move": "Tommy gives Colonel Younger a Soviet agent's name and a proposal for Churchill, offering to rise inside the labor movement for the Crown."
+    },
+    {
+     "ep": "S05E06",
+     "move": "Churchill visits, reveals he knows Tommy is spying on Mosley, and tells him to do what he has to and call if he needs anything."
+    },
+    {
+     "ep": "S06E04",
+     "move": "After hosting the fascist meeting, Tommy types it up word for word for Churchill."
+    }
+   ]
+  },
+  {
+   "title": "Betrayal Sold as Loyalty",
+   "show": "house-of-cards",
+   "category": "ALLY",
+   "secondary": [
+    "INT",
+    "LEV",
+    "NEG"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S03E01",
+    "S03E03",
+    "S03E04",
+    "S03E05",
+    "S03E06",
+    "S03E08",
+    "S03E09",
+    "S03E12"
+   ],
+   "strategist": "Doug Stamper",
+   "target": "Frank Underwood (by way of Heather Dunbar's campaign)",
+   "context": "Doug Stamper, Frank Underwood's fiercely loyal chief of staff, is recovering from being left for dead by Rachel Posner, a witness he was hiding. Frank, now President, keeps him at arm's length with praise, an arranged private-sector job and an aide sent to check on him. Doug wants his old job back and has nothing to bargain with except what he knows.",
+   "play": "Doug refuses the job he suspects Frank arranged and sends word he does not need training wheels. He then offers his whip files and inside knowledge to Frank's rival for the nomination, Heather Dunbar, negotiating hard enough to be credible and producing a page about Claire Underwood's abortion to prove his value. Inside the campaign he works superdelegates, but he tips Frank through the press secretary, Seth Grayson, about Dunbar's secret meeting with Jackie Sharp and insists Frank be told who the tip came from. When a relapse makes exposure likely, he confesses first and frames the whole thing as a test done for Frank. Finally he lets Dunbar's team think they can buy the page, waits for Dunbar to threaten Frank with it, then burns it in front of Frank and asks for chief of staff.",
+   "why_it_works": "Doug turns the rival camp into an audition: working for Dunbar shows Frank that his knowledge has market value, and each credited leak builds a record he can later present as loyalty. Destroying something valuable in front of Frank is the one proof of loyalty that cannot be faked.",
+   "outcome": "Frank makes Doug chief of staff over Claire's objection, Dunbar's threat collapses, and Doug immediately uses the office to hunt down Rachel. The loyalty he proved is tested to destruction later, when the Underwoods ask him to take the blame for Zoe Barnes's death.",
+   "counter": "Frank could have treated any aide who joins a rival as gone for good, whatever the story. Dunbar should have noticed that a recruit who insists on being credited in his leaks is still reporting to his old boss.",
+   "principle": "When you have been sidelined, show your value in the open market and prove your loyalty with a visible sacrifice.",
+   "in_practice": "If you are being eased out, rebuild your standing by showing what your expertise is worth elsewhere, and be open about it with your current employer. Trust is restored by costly, visible commitments, never by words alone.",
+   "quote": {
+    "text": "Because I just lit two million dollars on fire.",
+    "speaker": "Doug Stamper",
+    "ep": "S03E12"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "hou-A1037",
+    "hou-0868"
+   ],
+   "steps": [
+    {
+     "ep": "S03E01",
+     "move": "Frank welcomes Doug warmly but keeps him out of the White House until he is 'truly ready'."
+    },
+    {
+     "ep": "S03E03",
+     "move": "Doug refuses a lucrative job he works out Frank arranged and says he does not need training wheels."
+    },
+    {
+     "ep": "S03E04",
+     "move": "He offers Dunbar ten years of whip files, proving his reach by knowing about her secret meeting."
+    },
+    {
+     "ep": "S03E05",
+     "move": "He negotiates a high fee rather than accepting the first offer, and shows Dunbar the page about Claire's abortion."
+    },
+    {
+     "ep": "S03E06",
+     "move": "He wins Dunbar a superdelegate with the promise of a federal prison in the congressman's district."
+    },
+    {
+     "ep": "S03E08",
+     "move": "He leaks Dunbar and Jackie's joint-suspension meeting to Frank through Seth and insists Frank be told the source."
+    },
+    {
+     "ep": "S03E09",
+     "move": "After relapsing, he confesses his Dunbar work to Frank before anyone can expose it, calling it a test of how close he could get."
+    },
+    {
+     "ep": "S03E12",
+     "move": "Dunbar threatens Frank with the journal; Doug burns the page in front of Frank and is made Chief of Staff."
+    }
+   ]
+  },
+  {
+   "title": "Marry the Money, Keep the House",
+   "show": "suits",
+   "category": "ALLY",
+   "secondary": [
+    "POW",
+    "LEV",
+    "NEG"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S02E15",
+    "S02E13",
+    "S02E16",
+    "S03E01",
+    "S03E04",
+    "S03E05",
+    "S03E07",
+    "S03E08",
+    "S03E09",
+    "S03E10"
+   ],
+   "strategist": "Jessica Pearson",
+   "target": "Daniel Hardman, then Edward Darby",
+   "context": "Jessica Pearson, managing partner of Pearson Hardman, is fighting Daniel Hardman, the co-founder trying to take her firm. By S02E15 the firm has lost its credit line, faces seven fast-tracked product liability trials against Folsom Foods run by Robert Zane and Hardman, and Jessica is gagged by her own confidentiality agreement with Hardman. Edward Darby, head of London's Darby International, has money, dislikes Hardman and wants a merger.",
+   "play": "Jessica uses the merger talks twice before signing anything: Darby's money funds the Folsom fight, and his due diligence lets him find Hardman's embezzlement, so she never has to break the gag. She hides the talks from Harvey Specter, her star partner, and when he sues Darby's clients to stop the merger she makes the young associate Mike Ross bury the file that would have won it. The merger gives Darby 51 percent, and Jessica spends half a season taking back control: she lets Louis Litt persuade a client's board to remove its CEO over Darby's head, brokers a split of ownership and control between rival interests in the same client, and, once Darby's partner Stephen Huntley is exposed as the man who ordered the killings in the Hessington case, designs a plea in which Darby confesses to save his client and, through a clause agreed with the prosecutor in advance, gives up his right to practice in the US. The dissolution then becomes a race to pull revenue into the closing window.",
+   "why_it_works": "Jessica treats the merger partner as a delivery system first and a partner second, letting the deal's mechanics (due diligence, a licensing requirement) do what she cannot do herself. Darby's loyalty to his client is the lever that ends him.",
+   "outcome": "Hardman is beaten and the Folsom case survives, but the price is months without control of her own firm and a near-break with Harvey. She ends the merger on her terms and the firm becomes Pearson Specter; a malpractice suit from the client is the last aftershock.",
+   "counter": "Darby's defense would have been to keep his hands clean of Huntley's work; choosing not to know is what let Jessica hold him responsible. Harvey saw the danger early but fought it with a public war he could not win.",
+   "principle": "An ally with deep pockets can solve today's crisis; decide before you sign how you will get your independence back.",
+   "in_practice": "When a bigger firm offers funding or a merger in a crisis, use what it gives you but keep a documented exit, such as a condition or a control trigger, that you can pull once the crisis passes.",
+   "quote": {
+    "text": "We may be getting a divorce, but I fully intend on keeping ownership of the house.",
+    "speaker": "Jessica Pearson",
+    "ep": "S03E08"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-A1694"
+   ],
+   "steps": [
+    {
+     "ep": "S02E13",
+     "move": "Jessica refuses Robert Zane's 'shotgun' merger and threatens to fight 45 cases in public."
+    },
+    {
+     "ep": "S02E15",
+     "move": "Darby's money funds a joint Folsom action, and Jessica hands him the books so he discovers Hardman's embezzlement."
+    },
+    {
+     "ep": "S02E16",
+     "move": "She hides the merger talks from Harvey, takes Scottie's seat to beat his raid, and forces Mike to bury the file that would have won."
+    },
+    {
+     "ep": "S03E01",
+     "move": "The merger closes with Darby holding 51%, and he overrules her by putting Harvey on Ava Hessington's case."
+    },
+    {
+     "ep": "S03E04",
+     "move": "She lets Louis persuade the Hessington board to remove Ava, keeping a $14 million client and openly defying Darby."
+    },
+    {
+     "ep": "S03E05",
+     "move": "She splits ownership from control between Gianopolous and Ava, which gets the tape thrown out and brings Harvey back to her side."
+    },
+    {
+     "ep": "S03E07",
+     "move": "Donna's copy count and Mike's research expose Stephen Huntley as the man who ordered the killings."
+    },
+    {
+     "ep": "S03E08",
+     "move": "Darby confesses to save Ava, and a clause pre-arranged with Cameron Dennis strips his U.S. license and dissolves the merger."
+    },
+    {
+     "ep": "S03E09",
+     "move": "The dissolution becomes a revenue race: Louis is provoked into locking client lists, and the firm pulls Folsom and Gianopolous money into the window."
+    },
+    {
+     "ep": "S03E10",
+     "move": "Ava's malpractice suit, run by Travis Tanner, ends when Harvey turns her anger toward Darby."
+    }
+   ]
+  },
+  {
+   "title": "Samantha Wheeler's Favor Bank",
+   "show": "suits",
+   "category": "ALLY",
+   "secondary": [
+    "NEG",
+    "POW",
+    "LEV"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S08E10",
+    "S08E01",
+    "S08E03",
+    "S08E05",
+    "S08E08",
+    "S08E09",
+    "S08E11",
+    "S09E05",
+    "S09E06",
+    "S09E09",
+    "S09E10"
+   ],
+   "strategist": "Samantha Wheeler",
+   "target": "Robert Zane, Louis Litt and the partners (and her rival for the name, Alex Williams)",
+   "context": "Samantha Wheeler is Robert Zane's fixer, and she arrives in the Zane Specter Litt merger demanding her name on the wall by the end of the year. Harvey Specter has promised the same spot to Alex Williams. She has little formal power at the new firm and a past she keeps deliberately vague.",
+   "play": "Samantha runs on favors. Years earlier she saved Robert from a money-laundering scandal by stonewalling the FBI, which left him in her debt (shown in a S08E10 flashback). At the new firm she concedes fights on condition that the winner owes her (dropping a client, Delta, for Louis) and turns losses into assets (making a colleague's promotion her price for backing down). When the name-partner contest comes, she cashes the chits in order: Louis must make Alex drop a client, and Robert must choose between his word to Harvey and his debt to her. In Season 9, fired for fabricating evidence, she trades a corrupt client to an FBI agent for dirt on her accuser, sues with Mike Ross's help, and returns on her own terms.",
+   "why_it_works": "A favor banked when it costs little can be cashed when the stakes are high, and people who owe you feel bound even against their own interest. Her fixer's instincts also let her find the move others refuse to make.",
+   "outcome": "Donna Paulsen's partner-meeting coup puts both Samantha's and Alex's names on the wall. Her willingness to manufacture proof gets her fired in Season 9, but she comes back as a name partner, locks the firm's name for five years and adds Katrina Bennett to it, telling Robert it was the long con.",
+   "counter": "Katrina shows the limit: she refuses to treat a favor owed as an order to obey, and pays it back in a different currency. Harvey forces Samantha to hand over a client instead of silencing a witness, a reminder that some debts are owed to principle.",
+   "principle": "Bank favors when they are cheap to give and cash them when the stakes are high; a favor owed still gives you no right to command.",
+   "in_practice": "Small concessions made gracefully to clients and partners build credit you can draw on later. Spend it on the decisions that matter and never treat it as a blank check.",
+   "quote": {
+    "text": "It's called the long con, Robert.",
+    "speaker": "Samantha Wheeler",
+    "ep": "S09E10"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-A1702",
+    "sui-1606"
+   ],
+   "steps": [
+    {
+     "ep": "S08E01",
+     "move": "Samantha outmanoeuvres Alex in the merger's proxy fight and demands Zane make her a name partner before the year is out."
+    },
+    {
+     "ep": "S08E03",
+     "move": "She rescues Alex from Gavin Andrews by seizing his Cayman trust, and drops Delta for Louis on condition that he owes her."
+    },
+    {
+     "ep": "S08E05",
+     "move": "She and Alex discover they were both promised the next name on the wall."
+    },
+    {
+     "ep": "S08E08",
+     "move": "Blackmailed through Betty Palmer, she chooses not to fight and makes Betty's promotion her price."
+    },
+    {
+     "ep": "S08E09",
+     "move": "She cashes Louis's favor to make Alex drop Gavin Andrews; Harvey and Robert agree to settle the contest with one case."
+    },
+    {
+     "ep": "S08E10",
+     "move": "She beats the privilege rule with a public divorce filing and calls in Robert's old debt; Donna's coup makes both her and Alex name partners."
+    },
+    {
+     "ep": "S08E11",
+     "move": "Katrina refuses to be commanded by a debt and pays it in a different currency."
+    },
+    {
+     "ep": "S09E05",
+     "move": "She fabricates evidence against Mike's client, defies Harvey's order, and is fired by Faye."
+    },
+    {
+     "ep": "S09E06",
+     "move": "She trades Gavin Andrews to the FBI for dirt on Faye that never arrives."
+    },
+    {
+     "ep": "S09E09",
+     "move": "She and Mike sue Faye for wrongful termination."
+    },
+    {
+     "ep": "S09E10",
+     "move": "She returns as a name partner, locks the name for five years and adds Katrina Bennett to it."
+    }
+   ]
+  },
+  {
+   "title": "Manufacturing a Common Enemy",
+   "show": "peaky-blinders",
+   "category": "ALLY",
+   "secondary": [
+    "TIME",
+    "NEG"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S01E02",
+    "S01E03"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "Billy Kimber (with the Lee family as the pawn)",
+   "context": "Tommy Shelby runs the Peaky Blinders, a Birmingham street gang with big ambitions. He wants onto the racetracks, which Billy Kimber controls with a large army, and a race Tommy fixed has already put him in Kimber's sights. He needs Kimber to see him as an asset instead of a pest.",
+   "play": "At the horse fair Tommy wins a horse at two-up from relatives of the Lees, a hard Romany family, and picks a fight with them, earning a declaration of war and a bullet with his name scratched on it. When Kimber storms into the Garrison pub threatening to have him shot, Tommy produces the bullet and points out that the Lees are also robbing Kimber's bookies and his men cannot control them. He offers what the Shelbys have (connections and knowledge of how the Lees work) against what Kimber has (muscle), and flatters Kimber as a self-made, legitimate businessman. Before Cheltenham he visits Kimber at his tailor's to warn him that the Lees will be there in numbers.",
+   "why_it_works": "A shared enemy turns a rivalry into a partnership, and Tommy picks the fight precisely so he has credibility as the expert on it. Kimber's accountant sees the value before Kimber does, giving Tommy an ally inside the room.",
+   "outcome": "Kimber lets him live and agrees to meet at Cheltenham, which becomes the security contract that gets the Shelbys onto the tracks. Tommy's brother Arthur realizes afterwards that Tommy picked the fight on purpose.",
+   "counter": "Kimber should have asked why a small gang was suddenly at war with the one family that troubled him. The Lee problem was partly made by the man offering to solve it.",
+   "principle": "If you need a seat at the table, bring the solution to the other side's biggest problem.",
+   "in_practice": "Position your offer around a threat the prospect already feels (a competitor, a compliance risk, a failing supplier) and show you understand it better than they do. Never invent the problem; lead with the real one they cannot solve alone.",
+   "quote": {
+    "text": "Together we can beat them. Divided, maybe not.",
+    "speaker": "Tommy Shelby",
+    "ep": "S01E02"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "pea-0327"
+   ]
+  },
+  {
+   "title": "Ending a War With a Wedding",
+   "show": "peaky-blinders",
+   "category": "ALLY",
+   "secondary": [
+    "NEG",
+    "POW"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S01E04",
+    "S01E06"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "The Lee family",
+   "context": "The feud Tommy started with the Lees has done its job with Kimber, but now it is costing him: the Lees rob his betting shop and leave a grenade trap meant for him. His real plan, taking Kimber's pitches on the day Kimber attacks, needs more fighting men than he has.",
+   "play": "Tommy gets an audience with the head of the Lee family, says the war is cutting everyone up, invokes kinship through his mother's side, and explains he is collecting smart people but needs strong men too, promising certain winners in one race in three. He arranges a marriage between his brother John and a Lee girl, Esme, then drives John to the camp without telling him, because John would have refused. There he lays out the choice in front of both families: back out and start a war worse than the Somme, or marry and unite the families for ever. John marries Esme, with a car as dowry.",
+   "why_it_works": "Marriage turns an enemy into kin, which in the Lees' world is a permanent bond stronger than any contract. Presenting it as war or peace at the altar, with both families watching, makes refusal almost impossible.",
+   "outcome": "The war ends that day. At the climax of the season the Lees are Tommy's hidden partners: while Kimber's men attack Small Heath, the Lees take every one of Kimber's pitches at the Worcester races.",
+   "counter": "Kimber, who has been told the Shelbys are his soldiers against the Lees, never learns that the Lees are now family, a fatal gap in his intelligence.",
+   "principle": "Turn a costly enemy into a permanent partner, and seal it where both sides' people can see.",
+   "in_practice": "When a rival keeps undercutting you, look for a joint venture, referral agreement or merger that gives both sides more than the fight does, and announce it so each team treats it as binding. Unlike Tommy, never commit a colleague to a deal without their consent.",
+   "quote": {
+    "text": "But if you marry her, our family and the Lee family will be united for ever. And this war will be over. It's up to you John.",
+    "speaker": "Tommy Shelby",
+    "ep": "S01E04"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "pea-0335"
+   ]
+  },
+  {
+   "title": "Big Fucks Small",
+   "show": "peaky-blinders",
+   "category": "ALLY",
+   "secondary": [
+    "LEV",
+    "NEG"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S04E06",
+    "S04E04"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "Luca Changretta",
+   "context": "Luca Changretta, a New York Mafia boss, has come to Birmingham to wipe out the Shelbys in a vendetta. He has a monopoly on importing liquor into New York and has absorbed the London gangs. Tommy cannot beat him with Birmingham gunmen alone, and Alfie Solomons has already told him the lesson of the age: big fucks small.",
+   "play": "Tommy finds someone bigger. He contacts two Brooklyn families who want Luca's New York monopoly but cannot move against him at home without starting a war between families, and a Chicago businessman, Alphonse Capone, who wants into New York liquor. If Luca dies in a vendetta with a Birmingham bookmaker, they take his business without a war. Luca's blood relatives are dead, and the men left around him work for money, so they switch to the highest bidder. The price is paid in Tommy's gin: an import license to New York for 300 barrels a month, run by his cousin Michael.",
+   "why_it_works": "Luca's power in New York has created rivals who want him gone but cannot act openly; Tommy gives them a deniable way to do it. Hired men have no loyalty that can outbid money, so Luca's own guards become Tommy's.",
+   "outcome": "Luca's guards turn on him in the final confrontation and Arthur kills him. Tommy sends Luca's men home with a message that nobody messes with the Peaky Blinders, and the deal opens America to the Shelby gin business.",
+   "counter": "Luca's weakness was relying on hired men after his family soldiers died, and underrating how his rivals at home would read his long absence abroad.",
+   "principle": "When you face a stronger opponent, find the bigger players who want him gone and give them a reason to act.",
+   "in_practice": "A small firm outgunned by a large competitor can partner with other large players who compete with it, offering them something concrete (a product line, access, a distribution channel) in exchange.",
+   "quote": {
+    "text": "As a friend of mine once said... ..big fucks small. So I had to find someone bigger than you.",
+    "speaker": "Tommy Shelby",
+    "ep": "S04E06"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "pea-0420"
+   ]
+  },
+  {
+   "title": "A Coalition of Rivals",
+   "show": "billions",
+   "category": "ALLY",
+   "secondary": [
+    "NEG",
+    "RISK",
+    "DEF"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S02E05"
+   ],
+   "strategist": "Bobby Axelrod (and Steven Birch against him)",
+   "target": "Todd Krakow, Malverne and Steven Birch (and the Nigerian central bank)",
+   "context": "A supplier failure at one of its big holdings has Axe Capital facing its first down quarter, with three days left. A currency trader Axe recruits believes Nigeria must devalue the naira and that a big enough short could force the timing. Axe's prime broker will not touch it, and bank financing would leak.",
+   "play": "Axe goes to cash-rich rival fund managers who can operate in the margins: Todd Krakow, Malverne and Steven Birch. At a diner he tells them he will make the devaluation happen and claims he could do it alone. When they call his bluff and point out that he needs this deal, he concedes: the threshold is $5 billion, he takes two, they take one each, and he asks which is the stronger driver, their wish to hurt him or their own self-interest. Birch, prosecuted by Chuck Rhoades a year earlier, has spent that year concluding that Axe used him as a stalking horse. Instead of shorting, he goes long and tips off others, so the banks warn Nigeria and it raises rates to defend its currency. Axe offers to take the others' positions himself, and his conviction keeps Krakow and Malverne in.",
+   "why_it_works": "Rivals will cooperate when the gain is large and each can see the others are committed. Admitting his need made Axe's offer believable, and offering to buy the others out showed more conviction than theirs. The weak point was the one member with a score to settle: a plan that needs everyone to hold is only as strong as its most aggrieved partner.",
+   "outcome": "Birch's defection nearly collapses the play and Axe has to risk half his net worth to save it; he admits he would have done the same in Birch's place. The rest of the coalition holds, the naira moves and the quarter is rescued. Krakow warns that if it was a game, they will hunt him as a pack.",
+   "counter": "Axe should have left out anyone he had wronged. The others could have asked whether any member of the group had a grudge bigger than his self-interest.",
+   "principle": "Rivals will join you for a shared prize, but never build the deal on someone you have burned.",
+   "in_practice": "Competitors can form a consortium for a bid none can win alone: be open about why you need them, split the upside fairly and show your own stake first. Before you invite anyone in, check your history with them, because a partner you once hurt will wait for the moment you depend on him.",
+   "quote": {
+    "text": "So, which is the more powerful driver boning me, or your own self-interest?",
+    "speaker": "Bobby Axelrod",
+    "ep": "S02E05"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "bil-0077",
+    "bil-0078"
+   ]
+  },
+  {
+   "title": "Shared Prize, Married Heirs",
+   "show": "vikings",
+   "category": "ALLY",
+   "secondary": [
+    "NEG",
+    "POW"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S02E07",
+    "S02E08",
+    "S02E09"
+   ],
+   "strategist": "King Ecbert of Wessex",
+   "target": "King Aelle of Northumbria",
+   "context": "King Ecbert of Wessex, the most ambitious of the English kings, and King Aelle of Northumbria have both suffered Viking raids. Mercia, the kingdom between them, is in chaos after its king's death. Ecbert is stronger and hungrier than Aelle, and both men know it.",
+   "play": "Ecbert first proposes mutual defense against Ragnar's Northmen. Then, alone with Aelle, he raises Mercia: its instability suits neither of them, so they should overcome it together and divide it. Aelle asks the question every smaller partner should ask: after Mercia, what stops Ecbert turning on him? Ecbert admits that at the moment very little does, and offers the marriage of his heir Aethelwulf to Aelle's daughter Judith as the guarantee. The alliance is sealed at the wedding.",
+   "why_it_works": "Ecbert stacks three reasons to ally (a shared threat, a shared prize and shared heirs) and answers the weaker partner's real fear with candor and a lasting commitment that costs him something, instead of a promise.",
+   "outcome": "Aelle joins and his warriors fight at Ecbert's side against the Northmen in the next two episodes. The marriage ties Northumbria's future to Wessex, which is exactly where Ecbert wants it.",
+   "counter": "Aelle got an honest answer to his question and should have kept asking: a marriage binds families while leaving policy free, and Ecbert's plans for Mercia remained his own.",
+   "principle": "Answer the smaller partner's fear of betrayal honestly, and back the answer with a commitment that costs you something.",
+   "in_practice": "When partnering with a smaller firm, acknowledge the power imbalance openly and offer structural protection (exclusivity, shared ownership of a joint client, a named senior sponsor) in place of reassurance.",
+   "quote": {
+    "text": "At the moment, King Aelle, very little. That is why I am proposing the formal marriage",
+    "speaker": "King Ecbert",
+    "ep": "S02E07"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "vik-0537"
+   ]
+  },
+  {
+   "title": "Grudges Pay Better Than Money",
+   "show": "suits",
+   "category": "ALLY",
+   "secondary": [
+    "INT",
+    "PSY"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S04E04",
+    "S04E06"
+   ],
+   "strategist": "Louis Litt, then Mike Ross, then Louis again",
+   "target": "Tony Gianopolous and Charles Forstman",
+   "context": "Mike Ross has left the law firm to become an investment banker and is defending Gillis Industries against a hostile takeover by Logan Sanders, whom his former mentor Harvey Specter represents. Mike has a week to find a new investor. Louis Litt, Harvey's partner, blames Mike for wrecking his relationship with Sheila and wants revenge.",
+   "play": "Mike courts the investor Tony Gianopolous with a quarter mile of private beach. Louis gets there first and tells Gianopolous that Mike, while his lawyer, came up with the idea that cost him his number two; Gianopolous takes the beach and throws Mike out. Louis then gloats that to these investors, sticking it to someone who stuck it to them matters more than money. Mike takes the lesson, looks for someone with a grudge against Harvey, and finds Charles Forstman, a billionaire who lost a '63 Aston Martin to him; he pitches Gillis as that car. Two episodes later, with Forstman refusing Harvey, Louis goes to Forstman alone. When Forstman suspects a good cop, bad cop routine, Louis produces his diary of rage, pages recording every humiliation Harvey has inflicted on him, and offers a sweeter revenge: sell to Logan through Louis, and Harvey is beaten by his own colleague.",
+   "why_it_works": "Revenge pays a return money cannot match, so a rival's enemy is the most motivated backer there is. Louis's hatred of Harvey is real and documented, which makes his alliance with Forstman credible where Harvey's approach looked like a performance.",
+   "outcome": "Forstman commits $230 million to Mike and blocks Harvey's attempt to cut off his funding; later he sells to Logan and the takeover is won. Both alliances carry a hook: Forstman makes Mike cut out his own firm, which costs Mike his job, and insists on paying Louis a secret fee routed through Switzerland and the Caymans, which traps Louis in a crime for the rest of the season.",
+   "counter": "Louis should have kept quiet after beating Mike, since explaining the win handed Mike the method. Harvey could have predicted that his own enemies would be the first people his opponents called.",
+   "principle": "A grudge is the one motive money cannot outbid, so look for backers who want your opponent to lose.",
+   "in_practice": "When raising support for a bid or venture, look for backers who have their own reasons to want your outcome, and show them real evidence of the shared interest. Weigh what a backer driven by revenge will ask of you later.",
+   "quote": {
+    "text": "The only thing more satisfying to these guys than money is sticking it to someone who stuck it to them.",
+    "speaker": "Louis Litt",
+    "ep": "S04E04"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "sui-1282",
+    "sui-1293"
+   ]
+  },
+  {
+   "title": "Tylenol, Not Toyota",
+   "show": "suits",
+   "category": "ALLY",
+   "secondary": [
+    "REP",
+    "NEG"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S01E04"
+   ],
+   "strategist": "Harvey Specter and Jessica Pearson",
+   "target": "Collin Church's plaintiffs (and Church)",
+   "context": "Harvey Specter, the firm's star closer, is defending a drug company run by Quentin Sainz against a class action led by the trial lawyer Collin Church. Harvey now knows the company's trial data was falsified. Settling at Church's number would bankrupt the company and pull a drug that helps hundreds of patients.",
+   "play": "Quentin places an ad acknowledging the side effects and asking patients to come forward; Harvey calls it being Tylenol, not Toyota, owning the crisis in public. The ad draws a flood of patients desperate to keep the drug on the market. Harvey then meets Church's plaintiffs directly, admits the company hid things, shows them testimonials from patients the drug has helped, and has Quentin, himself a patient, speak to them as a fellow sufferer. He offers them part ownership of the company in place of cash, arguing that a living company might extend their lives where cash cannot.",
+   "why_it_works": "Church's leverage depended on the plaintiffs seeing the company as the enemy. Harvey recasts them as stakeholders in the same boat and offers a deal that serves their real interest (staying alive) better than their lawyer's (a large fee). Owning the problem early takes away the power of Church's threat to go public.",
+   "outcome": "The plaintiffs take the ownership offer over Church's objection; they like Harvey and Jessica more than they like their own lawyer.",
+   "counter": "Church could have kept his clients insulated from the company or prepared them for an equity offer. A lawyer whose fee depends on cash is exposed the moment his clients' interest diverges from his.",
+   "principle": "When the other side's representative wants something different from the people he represents, speak to the people.",
+   "in_practice": "In a dispute run by an intermediary (a procurement lead, a broker, an agent), look for an outcome the ultimate decision-maker values more than the intermediary does, such as a partnership, equity or continuity, and present it openly.",
+   "quote": {
+    "text": "Business school 101, you have a crisis, you acknowledge the problem. You wanna be Tylenol, not Toyota.",
+    "speaker": "Harvey Specter",
+    "ep": "S01E04"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1060"
+   ]
+  },
+  {
+   "title": "The Useful Enemy",
+   "show": "suits",
+   "category": "ALLY",
+   "secondary": [
+    "PSY",
+    "LEAD"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S07E04"
+   ],
+   "strategist": "Jessica Pearson",
+   "target": "Harvey Specter, Louis Litt and the firm",
+   "context": "Harvey Specter, now running the firm, has angered all his partners, Louis Litt most of all. He flies to Chicago to ask Jessica Pearson, his mentor, who has left the firm and the law, for advice. She tells him to give Louis big new business, and reminds him how she once staged the poaching of a client from Robert Zane to make Harvey forget a grudge.",
+   "play": "When Tommy Bratton, a rival lawyer who has just lost Alex Williams and his clients to Harvey's firm, calls Jessica looking to retaliate, she tells him she did not like how she was treated on her way out and suggests he play Harvey against Louis. Bratton goes after one of Louis's clients and sues one of Harvey's. The partners are forced to swap roles and defend each other's clients. Only at the end does Harvey work out that Jessica gave Bratton the map.",
+   "why_it_works": "A shared outside threat gives quarreling people a common goal and a reason to set grievances aside, and working side by side rebuilds trust faster than any apology. Jessica supplies the idea without joining the attack herself.",
+   "outcome": "Louis and Alex become allies, Louis forgives Harvey, and the partners unite behind him. Harvey warns Jessica never to do it again, and she answers that she will not need to.",
+   "counter": "Harvey could have noticed that the attack was aimed at exactly the fault line he had described to Jessica days earlier.",
+   "principle": "Nothing unites a divided house like an attack from outside.",
+   "in_practice": "A leader can pull a split team together by focusing it on a real competitor or a hard shared target. Do it without manufacturing threats or putting the team's clients at risk, which is where Jessica's version crosses the line.",
+   "quote": {
+    "text": "And whether you like hearing it or not, Harvey, nothing unites a divided house like an attack from the outside.",
+    "speaker": "Jessica Pearson",
+    "ep": "S07E04"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1514"
+   ]
+  },
+  {
+   "title": "Hire the Man Holding the Pen",
+   "show": "house-of-cards",
+   "category": "ALLY",
+   "secondary": [
+    "LEV",
+    "LEAD"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S04E08",
+    "S04E09",
+    "S04E11"
+   ],
+   "strategist": "Claire Underwood, later Frank Underwood",
+   "target": "Tom Yates",
+   "context": "Tom Yates is a novelist the Underwoods once hired to write about Frank's jobs program; instead he wrote a perceptive, damaging book about their marriage, and their opponents have been courting him. Threatening him has already been tried and only produced a novel. Frank is President and Claire is angling for the vice presidency.",
+   "play": "Claire offers Yates the one thing he cannot get elsewhere: he can observe them again, and everything he sees will be his to use later. In return he becomes their speechwriter, which gives the press a reason for his presence and lets them watch what he does. Yates earns his place by writing better than the staff writers and by working out, before anyone tells him, that the convention is meant to deliver Claire. When Yates leaves after his affair with Claire becomes obvious, Frank meets him, stays calm, and tells Claire to bring him back because he gives her things Frank cannot.",
+   "why_it_works": "A critic outside the tent writes the story; the same critic inside the tent writes your speeches and is bound by what he has seen. Frank's later move keeps his partnership with Claire stable by accommodating her needs instead of fighting them.",
+   "outcome": "Yates writes Claire's convention speech and the message that finally moves her numbers, and tells Frank he would never betray Claire with his book. The arrangement also ties the Underwoods to a witness who knows more each week.",
+   "counter": "Yates sees the arrangement for what it is ('You want to keep an eye on me') and accepts it on his own terms; a less self-aware critic could have been neutralized entirely.",
+   "principle": "When you cannot silence a critic, give him a job that makes him part of the work.",
+   "in_practice": "A sharp critic of your firm or product, such as a vocal client or an industry analyst, can often become an adviser or collaborator, which channels their insight into your work. Give them real access and real credit; a title alone will not hold them.",
+   "quote": {
+    "text": "You can observe, like you did before. The difference is everything you see this time will be yours.",
+    "speaker": "Claire Underwood",
+    "ep": "S04E08"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "hou-0915"
+   ]
+  },
+  {
+   "title": "Brigadier Kitchen",
+   "show": "peaky-blinders",
+   "category": "ALLY",
+   "secondary": [
+    "LEAD",
+    "NEG"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S02E03",
+    "S02E05"
+   ],
+   "strategist": "Tommy Shelby",
+   "target": "Billy Kitchen and the Black Country gangs",
+   "context": "Shelby boats heading south to London must pass through the Black Country, where Billy Kitchen's brothers and cousins hold them up and rob them. Tommy also needs a hundred men for his move on London.",
+   "play": "Tommy meets Billy, an old comrade from the trenches, recalls how Black Country and Brummie boys fought on each other's flanks, and offers him command of a hundred men and the title 'Brigadier Kitchen'. He says openly that with a Kitchen on the payroll, Billy's relatives should let the boats through. The men are enrolled as bakers in Alfie Solomons's Camden bakery as cover.",
+   "why_it_works": "Hiring the rival's leader turns a toll-taker into a partner, and the shared war memory and grand title give Billy's switch dignity. One hire solves a manpower problem and a supply-route problem at once.",
+   "outcome": "The route opens: Tommy's boatman complains there is no sport any more because the Black Country men just wave from the bank. Then Billy is killed at Alfie's seder, the police tell the Black Country boys that Arthur did it, and the free passage vanishes overnight.",
+   "counter": "Because the whole truce rested on one man, Tommy needed a second tie, such as a formal deal with the families or more than one Kitchen on the payroll, to survive Billy's loss.",
+   "principle": "Put your rival's leader on your payroll and the road through his territory opens, but only while he lives.",
+   "in_practice": "Hiring or partnering with a key person from a competitor or client can open doors. Build relationships with the wider organization too, so the arrangement survives that person leaving.",
+   "quote": {
+    "text": "Black Country boys and Brummie boys are on the same side again.",
+    "speaker": "Tommy Shelby",
+    "ep": "S02E03"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "pea-0354"
+   ]
+  },
+  {
+   "title": "Win the Tesla, Give the Tesla",
+   "show": "suits",
+   "category": "ALLY",
+   "secondary": [
+    "TIME",
+    "NEG"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S01E03"
+   ],
+   "strategist": "Harvey Specter",
+   "target": "Laurence, a hedge fund manager",
+   "context": "At an exclusive car club, Harvey Specter and Laurence, who runs a $2 billion hedge fund, both want the only Tesla Roadster available that night. Harvey has no business with him yet. Meanwhile a client, McKernon Motors, is drifting toward a sale that would close its factory.",
+   "play": "Harvey challenges Laurence to a quiz on the car's specifications and wins it. Then he hands Laurence the keys anyway. When his associate Mike Ross asks why he competed at all, Harvey explains that if he had not won first, Laurence would not feel he owed him. At the end of the episode, with McKernon about to be sold off for parts, Harvey takes Laurence to see its engines and offers him the company for $250 million.",
+   "why_it_works": "A favor means more when the giver has visibly earned the right to refuse it. Winning first turns a courtesy into a debt, and Harvey banks it with a wealthy man before he knows what he will need.",
+   "outcome": "Laurence becomes the buyer who saves the factory and its founder's legacy, and the firm gets the client back with its billings doubled.",
+   "counter": "Laurence could treat the car as a gift freely given, but social reciprocity makes that hard. People who know how this works decline favors they do not want to owe.",
+   "principle": "Win first, then give it away; a concession from a winner creates a debt.",
+   "in_practice": "In a negotiation, establish your position on a point before conceding it, so the concession is recognized as a gift. Do favors for well-placed people before you need anything from them.",
+   "quote": {
+    "text": "Because if I didn't beat him, he wouldn't feel he owed me one.",
+    "speaker": "Harvey Specter",
+    "ep": "S01E03"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "sui-1052"
+   ]
+  },
+  {
+   "title": "No Hostages",
+   "show": "billions",
+   "category": "ALLY",
+   "secondary": [
+    "REP",
+    "TIME"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S01E09",
+    "S01E12"
+   ],
+   "strategist": "Bobby Axelrod",
+   "target": "Raul Gomez of the New York City police pension fund",
+   "context": "Raul Gomez brought the New York City police pension fund to Axe Capital and has stood by Axe through earlier trouble. After a damaging newspaper story accuses Axe of profiting from the September 11 attacks, in which most of his firm died, Raul calls to say the fund is pulling out.",
+   "play": "Axe does not argue or guilt him. He apologizes, tells Raul he can take longer than the 90-day redemption period or skip it entirely, says 'I don't hold hostages', agrees he would do the same in Raul's position, and leaves the door open for a return. Months later Raul seeks Axe out to warn him that the US Attorney knows about paid-off Greenwich police and an automatic weapon.",
+   "why_it_works": "Letting a partner leave easily while they are under pressure costs little and creates a debt of goodwill. A graceful exit keeps the relationship alive for a later moment when information is worth more than money.",
+   "outcome": "The fund goes, but Raul becomes a source. His tip lets Axe get ahead of the investigation and work out where the leak came from.",
+   "counter": "None needed from Raul's side; this is a play that benefits both parties.",
+   "principle": "Let people leave gracefully; the way you handle an exit decides whether they come back as allies.",
+   "in_practice": "When a client leaves for reasons outside your control, make the offboarding easy and generous. Former clients who were treated well become referrers and early warning systems.",
+   "quote": {
+    "text": "I don't hold hostages.",
+    "speaker": "Bobby Axelrod",
+    "ep": "S01E09"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "bil-0041"
+   ]
+  },
+  {
+   "title": "Handing Over Your Own Kompromat",
+   "show": "billions",
+   "category": "ALLY",
+   "secondary": [
+    "RISK",
+    "LEV"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S07E09"
+   ],
+   "strategist": "Chuck Rhoades",
+   "target": "Wendy Rhoades, Wags and Taylor Mason",
+   "context": "Mike Prince, the billionaire who took over Axe's firm, is running for president. Chuck Rhoades, now out of office, wants to join forces with the insiders at Prince's firm who oppose him: his ex-wife Wendy, Axe's longtime number two Wags, and Taylor Mason. All three have good reason to distrust him, since he has double-crossed nearly everyone at some point.",
+   "play": "Chuck invites them to his brownstone and reveals a drive holding a full confession of every illegal act of his career, from the Ice Juice trust violation to bribery and voter suppression he committed alongside Axe. He hands it over as a guarantee: if he betrays them, they can end him. Then he states the goal plainly: separate Prince from the billions that give him power.",
+   "why_it_works": "It is a credible commitment in the game-theory sense. By giving allies the means to destroy him, Chuck makes his own betrayal irrational and shows he is all in.",
+   "outcome": "The four form the alliance that becomes the core of the coalition against Prince, and the goal Chuck names, stripping Prince's wealth, is exactly how the series finale beats him.",
+   "counter": "There is little to counter; the risk sits with Chuck, whose confession could escape into hostile hands. The allies' one check is to make sure the hostage is something they could actually use (see Collateral for Trust).",
+   "principle": "To earn trust from people with every reason to doubt you, hand them a hostage.",
+   "in_practice": "When a new partner has reason to be wary, offer something that makes your commitment costly to break: exclusivity, a performance guarantee, fees at risk.",
+   "strength": 4,
+   "source": "knowledge",
+   "pool_ids": [
+    "bil-0298"
+   ]
+  },
+  {
+   "title": "Collateral for Trust",
+   "show": "suits",
+   "category": "ALLY",
+   "secondary": [
+    "LEV",
+    "TIME"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S05E13",
+    "S05E16"
+   ],
+   "strategist": "Jack Soloff",
+   "target": "Jessica Pearson",
+   "context": "Jack Soloff is a partner who once plotted with Daniel Hardman against Jessica Pearson, and the firm is now fighting for survival. He is sent to poach a department from another firm, and the department offers him a job instead. He wants to be a name partner at a firm that may not last, and Jessica has no reason to trust him.",
+   "play": "Soloff turns the job down, reasoning that if the ship sinks he can find another job, but if it survives he can be one of the captains. He tells Jessica about the offer and asks whether name partner will ever be on the table. When she asks how she could possibly trust him, he hands her the file Hardman held on him: now she has it too.",
+   "why_it_works": "Handing over your own dirt looks like the strongest possible pledge, and staying with a distressed firm is a cheap bet with a large payoff if it recovers.",
+   "outcome": "The pledge proves hollow. When Soloff later resigns to join Robert Zane, he points out that Jessica cannot use the file: exposing it would announce another crime committed on her watch and drive away the clients she has left.",
+   "counter": "Before accepting kompromat as a guarantee, ask whether you could use it without hurting yourself.",
+   "principle": "Kompromat is collateral only if the holder can afford to use it.",
+   "in_practice": "When someone offers a guarantee, check that you could actually enforce it. A penalty clause that would hurt you as much as them does not bind them at all.",
+   "quote": {
+    "text": "Because if that ship sinks, I'll find myself another job. But if it doesn't, I have the chance to be one of the captains.",
+    "speaker": "Jack Soloff",
+    "ep": "S05E13"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1397"
+   ]
+  },
+  {
+   "title": "Retreat to Recruit",
+   "show": "house-of-cards",
+   "category": "ALLY",
+   "secondary": [
+    "NEG",
+    "TIME",
+    "POW"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S02E12",
+    "S02E10",
+    "S02E13"
+   ],
+   "strategist": "Claire and Frank Underwood",
+   "target": "Jackie Sharp",
+   "context": "Frank Underwood, now Vice President, made Jackie Sharp House Majority Whip. She has refused to back Claire Underwood's sexual assault bill, and when Frank tried to order her into line she refused; she has since called Claire a coward in public. The Underwoods need Jackie for something much bigger than the bill: whipping the votes to impeach President Garrett Walker.",
+   "play": "Claire goes to Jackie, admits Jackie was right (she had offered a middle ground, Claire drew a line in the sand, and the braver thing would have been to sit down), withdraws the bill, and apologizes for Frank's spying on her. Then the Underwoods invite Jackie to their home, promise to support her version of the bill whatever she decides, and ask her to whip the votes for impeachment, arguing that the party will lose fifty seats if it stands by a toxic president. Jackie says it is just shy of treason; Frank answers that just shy is politics.",
+   "why_it_works": "Conceding the smaller fight costs the Underwoods little and hands Jackie a public win, which doubles as a demonstration of what cooperating with them brings. They make the big request only after she has seen that they deliver, and frame it around her own ambition and survival.",
+   "outcome": "Jackie becomes the whip for impeachment, recruits the votes and allies she needs, and helps bring the President down.",
+   "counter": "Jackie sensed the price ('Are you and Frank up to something?') and still accepted the favor. A concession from someone who has just tried to coerce you is usually a down payment on a larger ask.",
+   "principle": "Lose the small fight on purpose to win the ally you need for the big one.",
+   "in_practice": "If a stalled negotiation is with someone you will need later, concede a point gracefully and acknowledge their view; it can turn an opponent into a partner. Save the big request until they have seen that working with you pays.",
+   "quote": {
+    "text": "Just shy. Which is politics.",
+    "speaker": "Frank Underwood",
+    "ep": "S02E12"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "hou-0824"
+   ]
+  },
+  {
+   "title": "The Same Arrangement",
+   "show": "vikings",
+   "category": "ALLY",
+   "secondary": [
+    "NEG",
+    "DEC"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S05E17",
+    "S05E05",
+    "S05E06",
+    "S05E20"
+   ],
+   "strategist": "Ivar the Boneless, then Bjorn Ironside",
+   "target": "King Harald Finehair",
+   "context": "King Harald Finehair wants to be king of all Norway, with Kattegat, the trading town Ragnar Lothbrok built up, as his capital. Twice in one season a son of Ragnar who needs Harald's army tries to buy it with the same currency: the promise of Kattegat after his own death.",
+   "play": "First Ivar the Boneless, who holds Kattegat and fears his brother Ubbe, goes to Harald's court. Harald asks for Ivar to be king in name only; Ivar and his brother Hvitserk offer instead that Harald will rule after Ivar dies, and Ivar points out that he is a cripple and not a healthy man. They swear a sacred agreement, and Ivar tells Hvitserk privately that it is only words that suit everyone for the moment. Later that season Bjorn Ironside, Ivar's elder half-brother, is a fugitive with no army. Knowing from Gunnhild, the widow of Ivar's regent at York, that Harald already plans to overthrow Ivar, Bjorn goes to him. When Harald says he had agreed with Ivar to inherit Kattegat, Bjorn simply offers the same arrangement, swears on his arm ring, and has Gunnhild swear too.",
+   "why_it_works": "A succession promise costs the giver nothing today and meets the other side's need to feel the bargain is fair. Matching the exact terms of Harald's existing deal made switching effortless: he lost nothing by changing partners.",
+   "outcome": "Both alliances form. Ivar gets his fleet, and Bjorn gets the ships that take Kattegat, where he is hailed king. Neither promise buys loyalty: Harald's ambition is untouched, and a season later he outmaneuvers Bjorn for the kingship of all Norway.",
+   "counter": "Harald should have demanded something of value now, such as hostages, land or a share of Kattegat, instead of a promise that depended on a younger man dying first. Ivar could have read Harald's easy acceptance as a sign that his loyalty was for sale to the next son who offered the same.",
+   "principle": "A promise about the distant future is the cheapest currency in any deal, which is why it buys so little loyalty.",
+   "in_practice": "When a counterparty offers 'first right' on the next project, treat it as worth little and ask for something tangible now. When you are the one offering, know that matching a rival's terms wins the switch and no commitment beyond it.",
+   "quote": {
+    "text": "Well, then we will make the same arrangement.",
+    "speaker": "Bjorn",
+    "ep": "S05E17"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "vik-0660",
+    "vik-0631"
+   ]
+  },
+  {
+   "title": "Keep One Behind",
+   "show": "vikings",
+   "category": "ALLY",
+   "secondary": [
+    "PSY",
+    "INT"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S01E09",
+    "S01E04",
+    "S01E05",
+    "S02E02"
+   ],
+   "strategist": "Jarl Borg (after Earl Haraldson's failed attempt)",
+   "target": "Rollo",
+   "context": "Rollo is the brother of Ragnar Lothbrok, the farmer who rises to earl and then king. He is the stronger fighter and agreed to sail west only if the brothers were equals, yet the fame goes to Ragnar. Three times in two seasons a rival tries to turn that grievance into a defection, and the difference between the results is the lesson.",
+   "play": "Earl Haraldson, the ruler Ragnar is challenging, goes first (S01E04): he leads Rollo with questions (does Ragnar treat you equally, does he take the credit), offers treasure and his daughter's hand, and tells him he still walks in Ragnar's shadow. Rollo agrees to testify against his brother, then backs Ragnar at the trial. Jarl Borg, a rival jarl negotiating with Ragnar, does better (S01E09). While messages travel to King Horik, he asks for one of Ragnar's men to stay behind as security and sends Ragnar off on a three-day trip; Ragnar leaves Rollo. Borg feeds him, tells how he blinded and burned his own treacherous brother, stings his pride, notices that Rollo refuses women as a bribe, and asks what he really wants. His final offer names it: fight with Borg against Ragnar and win fame of his own. Rollo agrees. When Borg tries again a season later (S02E02) with nothing but sympathy for Rollo's injustices, Rollo has just been given a way back by Ragnar and refuses.",
+   "why_it_works": "Borg separates the pair with a request that looks like routine diplomacy, then aims his offer at what Rollo actually wants, fame of his own, after testing and discarding cheaper bribes. Haraldson named the right grievance and offered the wrong currency; Borg's second attempt failed because a grievance alone cannot outbid a real path back.",
+   "outcome": "Rollo fights for Borg against his brother, giving Borg a famous warrior and inside knowledge of Ragnar's camp. The seam never fully closes: years later the Frankish emperor works it again and buys Rollo for good.",
+   "counter": "Ragnar should never have left his most resentful lieutenant alone with a rival; a request for a man to stay behind is also a recruiting opportunity for the host. His lasting defense was the one he eventually used: give Rollo a visible route to recognition inside the family.",
+   "principle": "Separate a pair, then offer the overlooked one what he really wants.",
+   "in_practice": "A competitor recruiting from your team will start with whoever feels uncredited, and will get further by offering standing than money. Name and reward the people whose work makes your results possible, and address a disaffected colleague's grievance before they spend weeks embedded with a client or rival who can offer them a bigger role.",
+   "quote": {
+    "text": "I'm sure you are. And yet I've never heard of you.",
+    "speaker": "Jarl Borg",
+    "ep": "S01E09"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "vik-0516",
+    "vik-0501",
+    "vik-0523"
+   ]
+  },
+  {
+   "title": "The Lion's Offer",
+   "show": "billions",
+   "category": "ALLY",
+   "secondary": [
+    "PSY",
+    "INT"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S01E12"
+   ],
+   "strategist": "Bobby Axelrod (with Orrin Bach)",
+   "target": "Bryan Connerty",
+   "context": "Bryan Connerty is the ambitious deputy who has worked the Axe case for Chuck Rhoades, the US Attorney. He suspects Chuck secretly fed a bogus tip into the case and feels shut out. Axe's lawyer, Orrin Bach, sits down with him after hours at a pizzeria.",
+   "play": "Bach first gives Connerty something he can verify: Chuck got the bogus tip by reading his wife Wendy's private notes. Then Bach leaves and Axe appears. Axe flatters Connerty's hunger, says Bach thinks he is as smart as Chuck and more focused, and contrasts Connerty's working-class background with Chuck's lifelong safety net: 'You and me? We never had a fucking net.' He predicts that Connerty's frustration under Chuck will turn to apathy, and offers a seven-figure job at Bach's firm on Axe's account, noting that it would let Connerty's mother stop working. When Connerty says he only stares at lions at the zoo, Axe points out that he stayed and listened.",
+   "why_it_works": "Axe pairs a verifiable truth, which confirms the suspicion Connerty already has, with a flattering story about who Connerty is, so that leaving feels like self-respect. He speaks to real pressures: resentment of Chuck and obligation to family.",
+   "outcome": "Connerty leaves without saying yes, and Axe notes that he did not say no. The wedge between Connerty and Chuck is now visible to Axe, and it widens from here.",
+   "counter": "Connerty should have left the moment Axe appeared; staying signaled that the approach had landed.",
+   "principle": "To recruit from a rival, confirm the suspicion they already hold and give them a story in which leaving is self-respect.",
+   "in_practice": "When hiring or partnering, understand honestly what the person feels is missing in their current role (recognition, growth, family security) and speak to it. Never trade in a rival's confidential information to do it.",
+   "quote": {
+    "text": "You and me? We never had a fucking net.",
+    "speaker": "Bobby Axelrod",
+    "ep": "S01E12"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "bil-0055"
+   ]
+  },
+  {
+   "title": "Thirty Million to Tell the Truth",
+   "show": "billions",
+   "category": "ALLY",
+   "secondary": [
+    "NEG",
+    "LEV"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S03E03",
+    "S03E04"
+   ],
+   "strategist": "Bobby Axelrod",
+   "target": "Ira Schirmer (and, through him, Chuck Rhoades)",
+   "context": "Ira Schirmer was Chuck Rhoades's friend until Chuck used Ira's company, Ice Juice, as bait in his trap for Axe. Ira has lost everything, has had to put off proposing to his fiancée, and is the Eastern District's witness against Axe; he plans to use a guilty verdict to win a civil suit. He also knows what Chuck did.",
+   "play": "Axe has Ira followed and first taunts him at a hot dog stand, suggesting his fiancée may not wait for the civil case. Ira swears he will hound Axe for life. Later Axe offers $30 million for Ira's worthless Ice Juice shares, routed through a third company, if Ira drops the civil suit, refuses to testify against Axe, and gives a statement about how Chuck set everything up. Axe describes it as being paid to tell the truth about a friend who sold him down the river for nothing, and tells Ira to pick out an engagement ring on Axe's tab. His people then deliver Ira's affidavit to the prosecutors.",
+   "why_it_works": "Ira's grudge against Chuck is fresher and more personal than his grudge against Axe, and Axe meets his real needs, money and his relationship. Having Ira accuse Chuck, instead of simply staying quiet, turns a hostile witness into a weapon against the prosecutor who set Axe up.",
+   "outcome": "Ira tells the prosecutors that Chuck induced the scheme and that Chuck's trust money was involved. The lead prosecutor shuts him down, but Bryan Connerty picks up the thread and goes after Chuck's father.",
+   "counter": "The prosecutors should have locked in Ira's testimony early. Chuck should have repaired the friendship with Ira instead of paying him off cheaply and leaving the grievance open for Axe to buy.",
+   "principle": "Win over the other side's witness by giving him a better enemy and a better deal.",
+   "in_practice": "When a disgruntled former client is lining up to criticize you, find out what they actually need (money back, an apology, a way to save face) and whom they blame most. Meeting that need honestly can turn a critic into an advocate.",
+   "quote": {
+    "text": "I'm willing to pay you 30 million to tell the truth.",
+    "speaker": "Bobby Axelrod",
+    "ep": "S03E03"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "bil-0132"
+   ]
+  },
+  {
+   "title": "Recruit the Betrayed Ally",
+   "show": "suits",
+   "category": "ALLY",
+   "secondary": [
+    "POW",
+    "TIME",
+    "DEC"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S07E16"
+   ],
+   "strategist": "Mike Ross, Louis Litt and Robert Zane",
+   "target": "Stanley Gordon, Eric Kaldor and Ellen Rand",
+   "context": "Former partners led by Stanley Gordon are suing the firm. If it rehires them, they will vote to merge it into Rand Kaldor Zane; if it fights, it may lose the suit and go bankrupt. Robert Zane, the rival managing partner who has always refused to join forces with Harvey Specter's firm, has just learned that his own partners of 26 years, Eric Kaldor and Ellen Rand, went behind his back.",
+   "play": "Mike Ross proposes rehiring Gordon's group but also bringing in Zane with about twenty loyal lawyers, so the firm keeps control of the vote. Louis Litt objects that Zane has always said no; Mike points out that they have never asked him right after his own partners cut his legs out. Zane resists and says he will think about it. The next morning, while Louis is signing Gordon's agreement, Zane walks in and announces that Gordon's clients are joining a new merged firm, set up that morning before Gordon could block it. He did not tell Louis in advance in case Louis gave it away, and he insists his name goes first.",
+   "why_it_works": "The betrayal that hurt Zane is what made him available: his own firm was no longer safe for him. Moving before anyone could react left Gordon no time to counter, and keeping it from Louis meant nothing leaked.",
+   "outcome": "The firm becomes Zane Specter Litt, the takeover plot fails and Gordon is beaten. Harvey returns to a firm with a new name partner he did not pick.",
+   "counter": "Rand and Kaldor forgot that betraying Zane gave him a motive to join the other side. Before you betray a powerful partner, ask where he will go.",
+   "principle": "The best time to recruit someone is right after their own side has betrayed them.",
+   "in_practice": "When a senior person at a partner or competitor falls out with their own organization, that is the moment they will consider options they have always rejected. Approach them quickly and respectfully.",
+   "quote": {
+    "text": "Have we ever asked him right after Rand and Kaldor cut his legs out?",
+    "speaker": "Mike Ross",
+    "ep": "S07E16"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "sui-1568"
+   ]
+  },
+  {
+   "title": "Split the Witness From the Company",
+   "show": "suits",
+   "category": "ALLY",
+   "secondary": [
+    "PSY",
+    "LEV"
+   ],
+   "scope": "moment",
+   "episodes": [
+    "S08E12"
+   ],
+   "strategist": "Samantha Wheeler and Rosalie Williams",
+   "target": "Frank DiBiase of Logan Tech",
+   "context": "Rosalie Williams, returning to law, represents graduates of a for-profit college, Logan Tech, who were promised jobs that never came. The college denies making the promises. Samantha Wheeler, a name partner at the firm, books the deposition of the admissions executive Frank DiBiase in her own office to intimidate him.",
+   "play": "They establish that half of DiBiase's pay is tied to loan originations, so it made no difference to him whether students got jobs. Samantha tells him that once they prove he was paid to say whatever it took, they can come after him personally. When Logan Tech's lawyer says the company will indemnify him, Samantha asks whom that lawyer is really looking out for, predicts the company will hang him out to dry, and offers to waive his personal liability now, for this one chance only.",
+   "why_it_works": "A witness and the company paying his lawyer have different interests. Exposing his personal liability, casting doubt on the company's loyalty and offering a one-time escape turns him into an ally.",
+   "outcome": "DiBiase admits he lied about the numbers and that the board told him to. Logan Tech is forced onto the defensive, claiming it will go bankrupt at anything above $15,000 per plaintiff.",
+   "counter": "Logan Tech should have given DiBiase independent counsel, so there was no conflict to exploit.",
+   "principle": "Find the gap between a person's interests and their organization's, and offer them a way out through it.",
+   "in_practice": "In a negotiation with an organization, understand what the individual across the table personally risks and gains. A proposal that protects them often moves faster than one aimed only at the company.",
+   "quote": {
+    "text": "Who do you think she's looking out for, Frank? You or Logan Tech?",
+    "speaker": "Samantha Wheeler",
+    "ep": "S08E12"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "sui-1619"
+   ]
+  },
+  {
+   "title": "Siggy's Hedge",
+   "show": "vikings",
+   "category": "ALLY",
+   "secondary": [
+    "INT",
+    "DEF",
+    "PSY"
+   ],
+   "scope": "season",
+   "episodes": [
+    "S01E05",
+    "S01E06",
+    "S01E07",
+    "S01E08",
+    "S02E02",
+    "S02E06",
+    "S02E07",
+    "S02E10"
+   ],
+   "strategist": "Siggy",
+   "target": "Rollo, Ragnar and Lagertha, then King Horik",
+   "context": "Siggy is the wife of Earl Haraldson, the ruler of Kattegat, and her power depends entirely on him. As his contest with Ragnar Lothbrok grows she faces ruin if the wrong side wins, and after it she is a widow with a daughter and no position.",
+   "play": "While still the Earl's wife she secretly warns Rollo to leave, then sends word to Ragnar that Rollo is being tortured to lure him, putting Ragnar in her debt (S01E05). After Haraldson's death she accepts Rollo's protection and asks Lagertha, Ragnar's wife, to let her serve in her household, while feeding Rollo's resentment of his brother (S01E06 to S01E08). In Season 2 she opens a second line: she offers King Horik, Ragnar's senior ally and rival, the knowledge of Ragnar's weaknesses, becomes his lover and passes him gossip. She tells Rollo that if the allies fall out, he should be able to choose between them. When Horik finally demands the promised weakness she names Ragnar's children, and Horik asks her to kill the boys in return for making her a queen. When his attack comes, she leads them to safety instead (S02E10).",
+   "why_it_works": "Siggy keeps a quiet line to every likely winner before the contest is decided, so she has credit whichever way power moves, and gives each patron just enough to stay engaged. At the decisive moment she chooses the side she is actually bound to, which is what makes a hedge worth having.",
+   "outcome": "She survives her husband's fall, keeps her daughter under Lagertha's protection, becomes Rollo's partner, and wins Horik's trust so fully that he reveals his plan, which lets her save Ragnar's sons.",
+   "counter": "Horik noticed that she never delivered on her promise and should have treated an informant who gives nothing concrete as a possible double agent. Ragnar and Lagertha accepted her service without seeing that she was also working on Rollo.",
+   "principle": "Keep a door open to every power in the room, and know before the crisis which one you will walk through.",
+   "in_practice": "In a client organization facing a leadership change, build real relationships with the likely successors early and be useful across factions. Your value to all of them depends on it being clear where your core loyalty lies when a decision is forced.",
+   "quote": {
+    "text": "Right now they are allies... long may they remain so... but in the event that they should fall out, you should be able to choose between them.",
+    "speaker": "Siggy",
+    "ep": "S02E07"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "vik-0513",
+    "vik-0545"
+   ]
+  },
+  {
+   "title": "Whispering in Both Ears",
+   "show": "house-of-cards",
+   "category": "ALLY",
+   "secondary": [
+    "DEC",
+    "PSY"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S01E11"
+   ],
+   "strategist": "Frank Underwood",
+   "target": "Vice President Jim Matthews and President Garrett Walker",
+   "context": "Frank Underwood, the House Majority Whip, groomed Congressman Peter Russo to run for governor of Pennsylvania and then engineered his collapse. With Russo gone seven weeks before the election, Frank's real aim comes into view: Vice President Jim Matthews, a former Pennsylvania governor, should resign and run, opening the vice presidency for Frank. Neither Matthews nor President Garrett Walker would propose it, since leaving looks like demotion and pushing out a vice president looks like weakness.",
+   "play": "Frank tells Matthews he knows no one with the name recognition to start from scratch, then says there is one person: him. When Matthews says Walker needs him in 2016, Frank reluctantly reports that Walker called him a pain in the ass, and adds that Russo had noticed how much Matthews missed being governor. He asks Matthews to keep the talk to himself and promises not to mention it to Walker. He then tells Walker the idea is entirely his own, relays that Matthews complained Walker lacks leadership, and proposes a face-saving structure: a joint statement that Matthews will resign only if he wins, so neither man looks disloyal.",
+   "why_it_works": "Each man hears that the other already disrespects him, which makes parting look attractive and mutual. The joint statement removes the main objection, the appearance of disloyalty or weakness, and by keeping each conversation secret Frank stops them comparing notes. Attributing observations to the now-silent Russo makes them impossible to check.",
+   "outcome": "Walker agrees and Matthews signs on, praising Frank's bold move. The vice presidency will be vacant as soon as Matthews wins.",
+   "counter": "Walker and Matthews could have spoken directly before deciding; one honest conversation would have exposed that each was hearing the other's grievances from the same man.",
+   "principle": "To part two allies, let each believe it was the other's wish, and give both a face-saving way out.",
+   "in_practice": "The ethical version is designing a win-win exit: when a partnership has run its course, propose a transition both sides can announce as mutual. Defensively, if one person is carrying messages between you and someone else, check with the source directly.",
+   "quote": {
+    "text": "Well, the exact phrase he used was \"Pain in the ass.\"",
+    "speaker": "Frank Underwood",
+    "ep": "S01E11"
+   },
+   "strength": 5,
+   "pool_ids": [
+    "hou-0764"
+   ]
+  },
+  {
+   "title": "Talking Past the Lawyer",
+   "show": "suits",
+   "category": "ALLY",
+   "secondary": [
+    "PSY",
+    "RULE"
+   ],
+   "scope": "episode",
+   "episodes": [
+    "S01E09"
+   ],
+   "strategist": "Travis Tanner",
+   "target": "The 200 Apple Creek plaintiffs and Harvey Specter",
+   "context": "Harvey Specter represents some 200 residents of Apple Creek, New York, in a class action over cancer clusters. A class action is only as strong as its unity: if enough plaintiffs take a quick payout, the case collapses. Travis Tanner, the opposing lawyer and Harvey's old rival, is not allowed to contact represented plaintiffs directly.",
+   "play": "A man claiming to be from Harvey's firm visits one plaintiff, says an offer is coming and warns that the other side has dirt on everyone, naming one plaintiff's arrest for public drunkenness and another's college shoplifting. Tanner has the plaintiffs invited to the Waldorf to hear a settlement offer. When Harvey arrives, Tanner says he cannot talk to the clients, but he can talk to Harvey. He then announces $25,000 a plaintiff loudly enough for the whole room to hear, hands out his number, and apologizes for raising his voice.",
+   "why_it_works": "Fear works on the most vulnerable members of a group, and a concrete, quick payout gives them an easy way out. Using a proxy and 'talking to the lawyer' keeps Tanner technically inside the rules while his message reaches every plaintiff.",
+   "outcome": "Ninety-five plaintiffs call Tanner about the offer and the case is close to collapse. Harvey knows the proxy will never be traced back to Tanner.",
+   "counter": "Tell the members of a coalition in advance what attacks are coming, and give the weakest members a better alternative than the payout, which is what Harvey then does.",
+   "principle": "To break a coalition, frighten its weakest members and hand them an easy exit.",
+   "in_practice": "In a group deal, joint venture or partnership, expect a competitor to pick off the most anxious member with a quick offer. Look after your weakest links before anyone else reaches them.",
+   "quote": {
+    "text": "I know I can't talk to your clients directly. But thank God you're here, Harv. Because what I can do is I can talk to you.",
+    "speaker": "Travis Tanner",
+    "ep": "S01E09"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "sui-1085"
+   ]
+  },
+  {
+   "title": "Burn the Hedger",
+   "show": "house-of-cards",
+   "category": "ALLY",
+   "secondary": [
+    "DEC",
+    "INT",
+    "RISK"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S02E12",
+    "S02E11"
+   ],
+   "strategist": "Frank Underwood (via Seth Grayson), exploiting Remy Danton's hedge",
+   "target": "Raymond Tusk and Remy Danton",
+   "context": "Raymond Tusk, a billionaire and President Walker's closest adviser, is at war with Vice President Frank Underwood. Remy Danton, Tusk's lobbyist and chief operator, has been put on paid leave because of an investigation into Chinese money and sees his career ending.",
+   "play": "Remy meets Frank in a church and offers limited neutrality: he will keep fighting Frank, but only enough to hurt, never enough to finish him, in return for a future after his firm. He says he is backing whoever wins and leaves behind the watch Frank once gave him as a sign of good faith. Frank turns the hedge into a weapon. He sends Seth Grayson, his press secretary, who once spied on Frank for Tusk's side before switching, to see Tusk. Seth doubts Tusk will even talk to him; Frank says that is exactly why he will, since a turncoat who comes back looks like he has something to sell. Seth tells Tusk about the church. Tusk summons Remy to a darkened penthouse with Seth present, makes him admit the meeting, brushes aside his claim that he was feeding Frank false confidence, and throws him out.",
+   "why_it_works": "A hedge is valuable only while it stays secret, and Remy made his with the one man who gained most from exposing it. The information was true, so no denial could hold, and it came from a known turncoat, which made it look like leaked intelligence instead of a plant.",
+   "outcome": "Tusk loses his most capable operator on the eve of his testimony and grows more isolated. Remy, left with nothing, is soon recruited to the impeachment effort by Jackie Sharp.",
+   "counter": "Remy should have told Tusk about the meeting himself before anyone else could. Tusk could have asked why the news was reaching him now, and who gained from the split.",
+   "principle": "Expose a hedger to his master and you remove two enemies at once.",
+   "in_practice": "If you are exploring a new partnership while in an existing one, tell your current partner first, or assume a competitor will. When damaging news about an ally reaches you, ask who benefits from your believing it.",
+   "quote": {
+    "text": "I don't blame you for wanting to keep your options open. But clearly you have bought the wrong insurance policy.",
+    "speaker": "Raymond Tusk",
+    "ep": "S02E12"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "hou-0821",
+    "hou-0820"
+   ]
+  },
+  {
+   "title": "The Conscience Clause",
+   "show": "house-of-cards",
+   "category": "ALLY",
+   "secondary": [
+    "DEC",
+    "NEG"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S01E09",
+    "S01E10"
+   ],
+   "strategist": "Claire Underwood (with Remy Danton setting the price)",
+   "target": "Frank Underwood and his watershed bill",
+   "context": "Claire Underwood, Frank's wife and partner, runs a clean water charity. $200,000 of its water filters are stuck in customs in South Sudan. The State Department cannot help, and Frank refuses to ask Remy Danton, the lobbyist for the gas company Sancorp, whose contacts could free them, because Remy is fighting Frank's watershed bill. Claire has already sacrificed staff and donors for Frank's plans and feels her goals always come second. Remy tells her Sancorp will help, at a price: kill the bill.",
+   "play": "Claire keeps her charity publicly behind the bill but takes Remy's deal. When Frank sends her to shore up two wavering congressmen, she tells them privately that she shares their doubts, that Frank would never fault them for voting their conscience, and that if the bill fails it is not the end of the world. She uses Frank's own principle as her cover. Then she calls Frank and reports both as definite yeses, so the whip counts them until the vote closes.",
+   "why_it_works": "She is the one person Frank trusts completely, so he sends her unsupervised into the decisive meeting. Quoting his own rule makes the permission to defect sound authorized, and the false report blinds him until it is too late to recover.",
+   "outcome": "The bill is defeated on the floor and Claire gets her filters. Frank frightens the two congressmen into saying who told them to vote no, then confronts Claire; the fight exposes how each has been using the other, and she leaves for New York.",
+   "counter": "Frank ignored the warning sign of an unmet need at home: Claire had asked for help and been refused, which made her available to a rival's offer. He also accepted a report of definite votes without confirming them himself.",
+   "principle": "An ally whose needs you keep refusing is an ally your rival can buy.",
+   "in_practice": "Partners and key staff who feel their goals always come second become open to competitors' offers. Ask regularly what your closest people need, and verify critical commitments yourself instead of relying on a secondhand 'it's done'.",
+   "quote": {
+    "text": "if the bill fails, it's not the end of the world. We can always sponsor new legislation.",
+    "speaker": "Claire Underwood",
+    "ep": "S01E09"
+   },
+   "strength": 4,
+   "pool_ids": [
+    "hou-0756"
+   ]
+  },
+  {
+   "title": "The Jealous King",
+   "show": "vikings",
+   "category": "ALLY",
+   "secondary": [
+    "POW",
+    "PSY",
+    "DEF"
+   ],
+   "scope": "arc",
+   "episodes": [
+    "S02E08",
+    "S02E02",
+    "S02E03",
+    "S02E06",
+    "S02E09",
+    "S02E10"
+   ],
+   "strategist": "King Horik",
+   "target": "Ragnar Lothbrok (and Jarl Borg)",
+   "context": "King Horik of Denmark is the senior partner in an alliance with Ragnar Lothbrok, now Earl of Kattegat, but Ragnar is the leader men follow. Horik also nurses old grudges against Jarl Borg, the third partner in their raid on England.",
+   "play": "Horik starts by cutting Borg out of the raid (S02E02). When Ragnar protests that they had an agreement, Horik points out that Ragnar will not take his own brother because he does not trust him, and says it is the same for him with Borg; then he makes Ragnar deliver the news. With the fleet away, the spurned Borg seizes Kattegat (S02E03). Next Horik works on Ragnar's circle: he takes Siggy as lover and informant, tells Lagertha that she and he are at least Ragnar's equal, and tells the boat builder Floki he is worth ten earls (S02E06, S02E08). He rebukes Ragnar in public for sending an envoy to King Ecbert without consulting him. When Ecbert sends envoys under a guarantee of safe passage, Horik's men kill all but Ecbert's son, and Horik forbids Ragnar from talking alone, then leads the charge that loses the battle (S02E09).",
+   "why_it_works": "Each move is locally clever: borrowing Ragnar's own standard makes objection look inconsistent, and courting Ragnar's people with the recognition Ragnar neglects is a sound way to build a bloc. Together they fail, because Horik treats his partners as rivals to be diminished, so every win for his pride costs the alliance a capability.",
+   "outcome": "Borg's revenge costs Ragnar his home, the parley is wrecked, and the allies are beaten in Wessex and forced to negotiate from weakness. The people Horik courted turn out to be loyal to Ragnar when Horik finally moves against him (S02E10).",
+   "counter": "Ragnar's counter is patience: he concedes points of process 'because he is the king', lets Horik's leadership fail on its own, and keeps his people's real loyalty. He should also have agreed with Horik before landing what the allies wanted, land or revenge, since partners with different goals will sabotage each other at the table.",
+   "principle": "An ally who competes with you for rank will spend the alliance's strength to win.",
+   "in_practice": "In a joint venture, agree the goal and who speaks before you meet the client, and settle questions of status in private. Before you drop a partner from a bid, ask what they can do to you while your attention is elsewhere.",
+   "quote": {
+    "text": "Because you don't trust him enough. It is the same for me with Jarl Borg.",
+    "speaker": "King Horik",
+    "ep": "S02E02"
+   },
+   "strength": 3,
+   "pool_ids": [
+    "vik-0541",
+    "vik-0522",
+    "vik-0542"
+   ]
+  }
+ ]
+}
